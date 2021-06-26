@@ -1,96 +1,102 @@
 <!DOCTYPE html>
-<html lang="en-US" class=" js flexbox flexboxlegacy canvas canvastext no-touch hashchange history draganddrop rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio svg inlinesvg svgclippaths js_active  vc_desktop  vc_transform  vc_transform "><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<meta property="og:type" content="article">
-<meta property="og:title" content="Glintz Photography">
-<meta property="og:description" content="Photography">
+<html lang="en-US" class=" js flexbox flexboxlegacy canvas canvastext no-touch hashchange history draganddrop rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio svg inlinesvg svgclippaths js_active  vc_desktop  vc_transform  vc_transform ">
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+	<meta property="og:type" content="article">
+	<meta property="og:title" content="Glintz Photography">
+	<meta property="og:description" content="Photography">
 
-<link rel="profile" href="https://gmpg.org/xfn/11">
-<meta name="viewport" content="width=device-width,initial-scale=1,user-scalable=yes">
-<title>Contact Us – Glintz Photography</title>
+	<link rel="profile" href="https://gmpg.org/xfn/11">
+	<meta name="viewport" content="width=device-width,initial-scale=1,user-scalable=yes">
+	<title>Contact Us – Glintz Photography</title>
 
-<script src="./assets/saved_resource" async="" type="text/javascript"></script>
-<script type="text/javascript" async="" src="./assets/f.txt"></script>
-<script type="text/javascript" async="" src="./assets/analytics.js"></script>
-<script src="./assets/1821624764800433" async=""></script>
-<script async="" src="./assets/fbevents.js"></script>
-<script async="" src="./assets/gtm.js"></script>
-<script data-cfasync="false" data-pagespeed-no-defer="" type="text/javascript">//<![CDATA[
-	var gtm4wp_datalayer_name = "dataLayer";
-	var dataLayer = dataLayer || [];
-//]]>
-</script>
-<link rel="dns-prefetch" href="https://export.qodethemes.com/">
-<link rel="dns-prefetch" href="https://maps.googleapis.com/">
-<link rel="dns-prefetch" href="https://fonts.googleapis.com/">
-<link rel="dns-prefetch" href="https://s.w.org/">
-<link rel="alternate" type="application/rss+xml" title="Glintz » Feed" href="">
-<link rel="alternate" type="application/rss+xml" title="Glintz » Comments Feed" href="">
-<script type="text/javascript">
-			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.3.6"}};
-			!function(e,a,t){var r,n,o,i,p=a.createElement("canvas"),s=p.getContext&&p.getContext("2d");function c(e,t){var a=String.fromCharCode;s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,e),0,0);var r=p.toDataURL();return s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,t),0,0),r===p.toDataURL()}function l(e){if(!s||!s.fillText)return!1;switch(s.textBaseline="top",s.font="600 32px Arial",e){case"flag":return!c([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])&&(!c([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!c([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]));case"emoji":return!c([55357,56424,55356,57342,8205,55358,56605,8205,55357,56424,55356,57340],[55357,56424,55356,57342,8203,55358,56605,8203,55357,56424,55356,57340])}return!1}function d(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(i=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},o=0;o<i.length;o++)t.supports[i[o]]=l(i[o]),t.supports.everything=t.supports.everything&&t.supports[i[o]],"flag"!==i[o]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[i[o]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(r=t.source||{}).concatemoji?d(r.concatemoji):r.wpemoji&&r.twemoji&&(d(r.twemoji),d(r.wpemoji)))}(window,document,window._wpemojiSettings); var _Hasync= _Hasync|| [];_Hasync.push(['Histats.start', '1,4524396,4,0,0,0,00010000']);_Hasync.push(['Histats.fasi', '1']);_Hasync.push(['Histats.track_hits', '']);(function() {var hs = document.createElement('script'); hs.type = 'text/javascript'; hs.async = true;hs.src = ('//s10.histats.com/js15_as.js');(document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(hs);})();
-		</script><script src="./assets/wp-emoji-release.min.js" type="text/javascript" defer=""></script>
-		<script type="text/javascript" async="" src="./assets/js15_as.js"></script>
-<style type="text/css">
-img.wp-smiley,
-img.emoji {
-	display: inline !important;
-	border: none !important;
-	box-shadow: none !important;
-	height: 1em !important;
-	width: 1em !important;
-	margin: 0 .07em !important;
-	vertical-align: -0.1em !important;
-	background: none !important;
-	padding: 0 !important;
-}
-</style>
-<link rel="stylesheet" href="./assets/58f2c.css" media="all">
-<link rel="stylesheet" id="rabbit_css-css" href="./assets/rbt-modules.css" type="text/css" media="all">
-<link rel="stylesheet" href="./assets/edd85.css" media="all">
-<style id="rs-plugin-settings-inline-css" type="text/css">
-#rs-demo-id {}
-</style>
-<style id="woocommerce-inline-inline-css" type="text/css">
-.woocommerce form .form-row .required { visibility: visible; }
-</style>
-<link rel="stylesheet" href="./assets/5384c.css" media="all">
-<style id="solene-elated-woo-inline-css" type="text/css">
-.page-id-1792 .eltdf-content { background-color: #f4f0ed;}.page-id-1792 .eltdf-content .eltdf-content-inner > .eltdf-container > .eltdf-container-inner, .page-id-1792 .eltdf-content .eltdf-content-inner > .eltdf-full-width > .eltdf-full-width-inner { padding: 130px 0 0 0;}@media only screen and (max-width: 1024px) {.page-id-1792 .eltdf-content .eltdf-content-inner > .eltdf-container > .eltdf-container-inner, .page-id-1792 .eltdf-content .eltdf-content-inner > .eltdf-full-width > .eltdf-full-width-inner { padding: 70px 0 0 0;}}.page-id-1792 .eltdf-content .eltdf-content-inner > .eltdf-container > .eltdf-container-inner, .page-id-1792 .eltdf-content .eltdf-content-inner > .eltdf-full-width > .eltdf-full-width-inner { padding: 130px 0 0 0;}@media only screen and (max-width: 1024px) {.page-id-1792 .eltdf-content .eltdf-content-inner > .eltdf-container > .eltdf-container-inner, .page-id-1792 .eltdf-content .eltdf-content-inner > .eltdf-full-width > .eltdf-full-width-inner { padding: 70px 0 0 0;}}.eltdf-st-loader .eltdf-rotate-circles > div, .eltdf-st-loader .pulse, .eltdf-st-loader .double_pulse .double-bounce1, .eltdf-st-loader .double_pulse .double-bounce2, .eltdf-st-loader .cube, .eltdf-st-loader .rotating_cubes .cube1, .eltdf-st-loader .rotating_cubes .cube2, .eltdf-st-loader .stripes > div, .eltdf-st-loader .wave > div, .eltdf-st-loader .two_rotating_circles .dot1, .eltdf-st-loader .two_rotating_circles .dot2, .eltdf-st-loader .five_rotating_circles .container1 > div, .eltdf-st-loader .five_rotating_circles .container2 > div, .eltdf-st-loader .five_rotating_circles .container3 > div, .eltdf-st-loader .atom .ball-1:before, .eltdf-st-loader .atom .ball-2:before, .eltdf-st-loader .atom .ball-3:before, .eltdf-st-loader .atom .ball-4:before, .eltdf-st-loader .clock .ball:before, .eltdf-st-loader .mitosis .ball, .eltdf-st-loader .lines .line1, .eltdf-st-loader .lines .line2, .eltdf-st-loader .lines .line3, .eltdf-st-loader .lines .line4, .eltdf-st-loader .fussion .ball, .eltdf-st-loader .fussion .ball-1, .eltdf-st-loader .fussion .ball-2, .eltdf-st-loader .fussion .ball-3, .eltdf-st-loader .fussion .ball-4, .eltdf-st-loader .wave_circles .ball, .eltdf-st-loader .pulse_circles .ball { background-color: #84847c;}.eltdf-st-loader .eltdf-solene-spinner .eltdf-solene-spinner-text .eltdf-solene-spinner-title { color: #84847c;}.eltdf-st-loader .eltdf-solene-spinner .eltdf-solene-spinner-background { background-image: url(https://solene.qodeinteractive.com/wp-content/uploads/2020/01/landing-background-img.jpg);}.eltdf-st-loader .eltdf-solene-spinner .eltdf-solene-spinner-image-holder { background-image: url(https://solene.qodeinteractive.com/wp-content/uploads/2020/01/loading-spinner-image.png);}
-</style>
-<link rel="stylesheet" href="./assets/a5130.css" media="all">
-<link rel="stylesheet" id="solene-elated-google-fonts-css" href="./assets/css" type="text/css" media="all">
-<link rel="stylesheet" href="./assets/36f66.css" media="all">
-<script src="./assets/2044c.js"></script>
-<script type="text/javascript">
-/* <![CDATA[ */
-var wc_add_to_cart_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/?wc-ajax=%%endpoint%%","i18n_view_cart":"View cart","cart_url":"https:\/\/solene.qodeinteractive.com\/cart\/","is_cart":"","cart_redirect_after_add":"no"};
-/* ]]> */
-</script>
-<script src="./assets/f1253.js"></script>
-<link rel="https://api.w.org/">
-<link rel="EditURI" type="application/rsd+xml" title="RSD" >
-<link rel="wlwmanifest" type="application/wlwmanifest+xml" >
+	<script src="./assets/saved_resource" async="" type="text/javascript"></script>
+	<script type="text/javascript" async="" src="./assets/f.txt"></script>
+	<script type="text/javascript" async="" src="./assets/analytics.js"></script>
+	<script src="./assets/1821624764800433" async=""></script>
+	<script async="" src="./assets/fbevents.js"></script>
+	<script async="" src="./assets/gtm.js"></script>
 
-<script data-cfasync="false" data-pagespeed-no-defer="" type="text/javascript">//<![CDATA[
-	var dataLayer_content = {"pagePostType":"page","pagePostType2":"single-page","pagePostAuthor":"admin"};
-	dataLayer.push( dataLayer_content );//]]>
-</script>
-<script data-cfasync="false">//<![CDATA[
-(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-'//www.googletagmanager.com/gtm.'+'js?id='+i+dl;f.parentNode.insertBefore(j,f);
-})(window,document,'script','dataLayer','GTM-KLJLSX7');//]]>
-</script>
+	<link rel="dns-prefetch" href="https://maps.googleapis.com/">
+	<link rel="dns-prefetch" href="https://fonts.googleapis.com/">
+	<link rel="dns-prefetch" href="https://s.w.org/">
+	<link rel="alternate" type="application/rss+xml" title="Glintz » Feed" href="">
+	<link rel="alternate" type="application/rss+xml" title="Glintz » Comments Feed" href="">
+	<script type="text/javascript">
+		window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.3.6"}};
+		!function(e,a,t){var r,n,o,i,p=a.createElement("canvas"),s=p.getContext&&p.getContext("2d");function c(e,t){var a=String.fromCharCode;s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,e),0,0);var r=p.toDataURL();return s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,t),0,0),r===p.toDataURL()}function l(e){if(!s||!s.fillText)return!1;switch(s.textBaseline="top",s.font="600 32px Arial",e){case"flag":return!c([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])&&(!c([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!c([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]));case"emoji":return!c([55357,56424,55356,57342,8205,55358,56605,8205,55357,56424,55356,57340],[55357,56424,55356,57342,8203,55358,56605,8203,55357,56424,55356,57340])}return!1}function d(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(i=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},o=0;o<i.length;o++)t.supports[i[o]]=l(i[o]),t.supports.everything=t.supports.everything&&t.supports[i[o]],"flag"!==i[o]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[i[o]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(r=t.source||{}).concatemoji?d(r.concatemoji):r.wpemoji&&r.twemoji&&(d(r.twemoji),d(r.wpemoji)))}(window,document,window._wpemojiSettings); var _Hasync= _Hasync|| [];_Hasync.push(['Histats.start', '1,4524396,4,0,0,0,00010000']);_Hasync.push(['Histats.fasi', '1']);_Hasync.push(['Histats.track_hits', '']);(function() {var hs = document.createElement('script'); hs.type = 'text/javascript'; hs.async = true;hs.src = ('//s10.histats.com/js15_as.js');(document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(hs);})();
+	</script>
+	<script src="./assets/wp-emoji-release.min.js" type="text/javascript" defer=""></script>
+	<script type="text/javascript" async="" src="./assets/js15_as.js"></script>
+	<style type="text/css">
+	img.wp-smiley,
+	img.emoji {
+		display: inline !important;
+		border: none !important;
+		box-shadow: none !important;
+		height: 1em !important;
+		width: 1em !important;
+		margin: 0 .07em !important;
+		vertical-align: -0.1em !important;
+		background: none !important;
+		padding: 0 !important;
+	}
+	</style>
 
- <noscript><style>.woocommerce-product-gallery{ opacity: 1 !important; }</style></noscript>
-<meta name="msapplication-TileImage" >
+	<link rel="icon" href="images/glintz-logo-black.png" sizes="32x32">
+	<link rel="icon" href="images/glintz-logo-black.png" sizes="192x192">
+	<link rel="apple-touch-icon-precomposed" href="images/glintz-logo-black.png">
+	<meta name="msapplication-TileImage" content="images/glintz-logo-black.png">
 
-<style type="text/css" id="wp-custom-css">
-			.postid-1329 .eltdf-mobile-header .eltdf-mobile-logo-wrapper a {
-    height: 60px !important;
-}		</style>
-<style type="text/css" data-type="vc_shortcodes-custom-css">.vc_custom_1576251416906{border-top-width: 1px !important;border-right-width: 1px !important;border-bottom-width: 1px !important;border-left-width: 1px !important;background-color: #ffffff !important;border-left-color: #ffffff !important;border-left-style: solid !important;border-right-color: #ffffff !important;border-right-style: solid !important;border-top-color: #ffffff !important;border-top-style: solid !important;border-bottom-color: #ffffff !important;border-bottom-style: solid !important;}.vc_custom_1575466354479{padding-top: 46px !important;padding-bottom: 88px !important;}.vc_custom_1576251554568{padding-top: 5px !important;padding-bottom: 56px !important;}.vc_custom_1576251266910{padding-top: 57px !important;padding-bottom: 56px !important;}.vc_custom_1576250714007{padding-bottom: 97px !important;}</style><noscript><style> .wpb_animate_when_almost_visible { opacity: 1; }</style></noscript><style>.fluidvids {width: 100%; max-width: 100%; position: relative;}.fluidvids-item {position: absolute; top: 0px; left: 0px; width: 100%; height: 100%;}</style><script src="./assets/f(1).txt"></script><script async="" defer="" src="./assets/saved_resource(1)" id="dtspv_52ez"></script><script src="./assets/dataBeacons.min.js"></script><script type="text/javascript" charset="UTF-8" src="./assets/common.js"></script><script type="text/javascript" charset="UTF-8" src="./assets/util.js"></script></head>
+	<link rel="stylesheet" href="./assets/58f2c.css" media="all">
+	<link rel="stylesheet" id="rabbit_css-css" href="./assets/rbt-modules.css" type="text/css" media="all">
+	<link rel="stylesheet" href="./assets/edd85.css" media="all">
+
+
+	<link rel="stylesheet" href="./assets/5384c.css" media="all">
+	<style id="solene-elated-woo-inline-css" type="text/css">
+	.page-id-1792 .eltdf-content { background-color: #f4f0ed;}.page-id-1792 .eltdf-content .eltdf-content-inner > .eltdf-container > .eltdf-container-inner, .page-id-1792 .eltdf-content .eltdf-content-inner > .eltdf-full-width > .eltdf-full-width-inner { padding: 130px 0 0 0;}@media only screen and (max-width: 1024px) {.page-id-1792 .eltdf-content .eltdf-content-inner > .eltdf-container > .eltdf-container-inner, .page-id-1792 .eltdf-content .eltdf-content-inner > .eltdf-full-width > .eltdf-full-width-inner { padding: 70px 0 0 0;}}.page-id-1792 .eltdf-content .eltdf-content-inner > .eltdf-container > .eltdf-container-inner, .page-id-1792 .eltdf-content .eltdf-content-inner > .eltdf-full-width > .eltdf-full-width-inner { padding: 130px 0 0 0;}@media only screen and (max-width: 1024px) {.page-id-1792 .eltdf-content .eltdf-content-inner > .eltdf-container > .eltdf-container-inner, .page-id-1792 .eltdf-content .eltdf-content-inner > .eltdf-full-width > .eltdf-full-width-inner { padding: 70px 0 0 0;}}.eltdf-st-loader .eltdf-rotate-circles > div, .eltdf-st-loader .pulse, .eltdf-st-loader .double_pulse .double-bounce1, .eltdf-st-loader .double_pulse .double-bounce2, .eltdf-st-loader .cube, .eltdf-st-loader .rotating_cubes .cube1, .eltdf-st-loader .rotating_cubes .cube2, .eltdf-st-loader .stripes > div, .eltdf-st-loader .wave > div, .eltdf-st-loader .two_rotating_circles .dot1, .eltdf-st-loader .two_rotating_circles .dot2, .eltdf-st-loader .five_rotating_circles .container1 > div, .eltdf-st-loader .five_rotating_circles .container2 > div, .eltdf-st-loader .five_rotating_circles .container3 > div, .eltdf-st-loader .atom .ball-1:before, .eltdf-st-loader .atom .ball-2:before, .eltdf-st-loader .atom .ball-3:before, .eltdf-st-loader .atom .ball-4:before, .eltdf-st-loader .clock .ball:before, .eltdf-st-loader .mitosis .ball, .eltdf-st-loader .lines .line1, .eltdf-st-loader .lines .line2, .eltdf-st-loader .lines .line3, .eltdf-st-loader .lines .line4, .eltdf-st-loader .fussion .ball, .eltdf-st-loader .fussion .ball-1, .eltdf-st-loader .fussion .ball-2, .eltdf-st-loader .fussion .ball-3, .eltdf-st-loader .fussion .ball-4, .eltdf-st-loader .wave_circles .ball, .eltdf-st-loader .pulse_circles .ball { background-color: #84847c;}.eltdf-st-loader .eltdf-solene-spinner .eltdf-solene-spinner-text .eltdf-solene-spinner-title { color: #84847c;}.eltdf-st-loader .eltdf-solene-spinner .eltdf-solene-spinner-background { background-image: url(https://solene.qodeinteractive.com/wp-content/uploads/2020/01/landing-background-img.jpg);}.eltdf-st-loader .eltdf-solene-spinner .eltdf-solene-spinner-image-holder { background-image: url(https://solene.qodeinteractive.com/wp-content/uploads/2020/01/loading-spinner-image.png);}
+	</style>
+	<link rel="stylesheet" href="./assets/a5130.css" media="all">
+	<link rel="stylesheet" id="solene-elated-google-fonts-css" href="./assets/css" type="text/css" media="all">
+	<link rel="stylesheet" href="./assets/36f66.css" media="all">
+	<script src="./assets/2044c.js"></script>
+	<script src="./assets/f1253.js"></script>
+	<link rel="https://api.w.org/">
+	<link rel="EditURI" type="application/rsd+xml" title="RSD" >
+	<link rel="wlwmanifest" type="application/wlwmanifest+xml" >
+
+	<script data-cfasync="false" data-pagespeed-no-defer="" type="text/javascript">//<![CDATA[
+		var dataLayer_content = {"pagePostType":"page","pagePostType2":"single-page","pagePostAuthor":"admin"};
+		dataLayer.push( dataLayer_content );//]]>
+	</script>
+	<script data-cfasync="false">//<![CDATA[
+	(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+	new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+	j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+	'//www.googletagmanager.com/gtm.'+'js?id='+i+dl;f.parentNode.insertBefore(j,f);
+	})(window,document,'script','dataLayer','GTM-KLJLSX7');//]]>
+	</script>
+
+
+	<style type="text/css" id="wp-custom-css">
+		.postid-1329 .eltdf-mobile-header .eltdf-mobile-logo-wrapper a {
+		    height: 60px !important;
+		}	
+	</style>
+	<style type="text/css" data-type="vc_shortcodes-custom-css">.vc_custom_1576251416906{border-top-width: 1px !important;border-right-width: 1px !important;border-bottom-width: 1px !important;border-left-width: 1px !important;background-color: #ffffff !important;border-left-color: #ffffff !important;border-left-style: solid !important;border-right-color: #ffffff !important;border-right-style: solid !important;border-top-color: #ffffff !important;border-top-style: solid !important;border-bottom-color: #ffffff !important;border-bottom-style: solid !important;}.vc_custom_1575466354479{padding-top: 46px !important;padding-bottom: 88px !important;}.vc_custom_1576251554568{padding-top: 5px !important;padding-bottom: 56px !important;}.vc_custom_1576251266910{padding-top: 57px !important;padding-bottom: 56px !important;}.vc_custom_1576250714007{padding-bottom: 97px !important;}
+	</style>
+	<noscript>
+		<style> .wpb_animate_when_almost_visible { opacity: 1; }</style>
+	</noscript>
+
+	<style>.fluidvids {width: 100%; max-width: 100%; position: relative;}.fluidvids-item {position: absolute; top: 0px; left: 0px; width: 100%; height: 100%;}</style>
+	<script src="./assets/f(1).txt"></script>
+	<script async="" defer="" src="./assets/saved_resource(1)" id="dtspv_52ez"></script>
+	<script src="./assets/dataBeacons.min.js"></script>
+	<script type="text/javascript" charset="UTF-8" src="./assets/common.js"></script>
+	<script type="text/javascript" charset="UTF-8" src="./assets/util.js"></script>
+</head>
 
 
 
@@ -119,16 +125,41 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 								<nav class="eltdf-main-menu eltdf-drop-down eltdf-default-nav">
 									<ul id="menu-main-menu" class="clearfix">
 
-										<li id="nav-menu-item-28" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children  has_sub narrow"><a href="index.html" class=" no_link"><span class="item_outer"><span class="item_text">Home</span><i class="eltdf-menu-arrow fa fa-angle-down"></i></span></a>
+										<li id="nav-menu-item-28" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children  has_sub narrow"><a href="index.php" class=" no_link"><span class="item_outer"><span class="item_text">Home</span><i class="eltdf-menu-arrow fa fa-angle-down"></i></span></a>
 										</li>
 
-										<li id="nav-menu-item-33" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children  has_sub narrow"><a href="about-us.html" class=" no_link"span class="item_outer"><span class="item_text">About Us</span><i class="eltdf-menu-arrow fa fa-angle-down"></i></span></a>
+										<li id="nav-menu-item-33" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children  has_sub narrow"><a href="about-us.php" class=" no_link"><span class="item_outer"><span class="item_text">About Us</span><i class="eltdf-menu-arrow fa fa-angle-down"></i></span></a>
 
-										<li id="nav-menu-item-31" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children  has_sub wide"><a href="portfolio.html" class=" no_link" onclick="JavaScript: return false;"><span class="item_outer"><span class="item_text">Portfolio</span><i class="eltdf-menu-arrow fa fa-angle-down"></i></span></a></li>
+										<li id="nav-menu-item-31" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children  has_sub wide"><a href="#" class=" no_link"><span class="item_outer"><span class="item_text">Portfolio</span></span></a>
+											<div class="second" style="height: 0px;"><div class="inner">
+							                    <ul>
+							                        <li id="nav-menu-item-140" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home ">
+							                            <a href="" class="">
+							                            	<span class="item_outer"><span class="item_text">Portraits</span></span>
+							                            </a>
+							                        </li>
+							                        <li id="nav-menu-item-168" class="menu-item menu-item-type-post_type menu-item-object-page ">
+							                            <a href="#" class="">
+							                                <span class="item_outer"><span class="item_text">Weddings</span></span>
+							                            </a>
+							                        </li>
+							                        <li id="nav-menu-item-2190" class="menu-item menu-item-type-post_type menu-item-object-page ">
+							                            <a href="#" class="">
+							                                <span class="item_outer"><span class="item_text">Events</span></span>
+							                            </a>
+							                        </li>
+							                        <li id="nav-menu-item-372" class="menu-item menu-item-type-post_type menu-item-object-page ">
+							                            <a href="#" class="">
+							                                <span class="item_outer"><span class="item_text">Documentary</span></span>
+							                            </a>
+							                        </li>
+							                    </ul>
+							                </div></div>
+							            </li>
 
-										<li id="nav-menu-item-30" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children  has_sub narrow"><a href="academy.html" class=" no_link" onclick="JavaScript: return false;"><span class="item_outer"><span class="item_text">Academy</span><i class="eltdf-menu-arrow fa fa-angle-down"></i></span></a></li>
+										<li id="nav-menu-item-30" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children  has_sub narrow"><a href="academy.php" class=" no_link"><span class="item_outer"><span class="item_text">Academy</span><i class="eltdf-menu-arrow fa fa-angle-down"></i></span></a></li>
 
-										<li id="nav-menu-item-29" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-ancestor current-menu-parent menu-item-has-children eltdf-active-item has_sub narrow"><a href="contact.html" class=" current  no_link"><span class="item_outer"><span class="item_text">Contact</span><i class="eltdf-menu-arrow fa fa-angle-down"></i></span></a>
+										<li id="nav-menu-item-29" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-ancestor current-menu-parent menu-item-has-children eltdf-active-item has_sub narrow"><a href="contact.php" class=" current  no_link"><span class="item_outer"><span class="item_text">Contact</span><i class="eltdf-menu-arrow fa fa-angle-down"></i></span></a>
 										</li>
 									</ul>
 								</nav>
@@ -151,8 +182,8 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 									<span class="eltdf-sa-label"> Info</span>
 									<span class="eltdf-hm-label">Menu</span>
 									<span class="eltdf-hm-lines">
-										<span class="eltdf-hm-line eltdf-line-1"></span>
-										<span class="eltdf-hm-line eltdf-line-2"></span>
+										<span class="eltdf-hm-line eltdf-line-1" style="background: red"></span>
+										<span class="eltdf-hm-line eltdf-line-2" style="background: red"></span>
 									</span>
 								</span>
 								</a>
@@ -169,7 +200,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 								<div class="eltdf-position-left">
 									<div class="eltdf-position-left-inner">
 										<div class="eltdf-mobile-logo-wrapper">
-											<a itemprop="url" href="index.html" style="height: 40px">
+											<a itemprop="url" href="index.php" style="height: 40px">
 											<img itemprop="image" src="./images/glintz-logo-black.png" width="140" height="81" alt="Mobile Logo">
 											</a>
 										</div>
@@ -192,8 +223,8 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 												<span class="eltdf-mobile-menu-icon">
 													<span class="eltdf-hm-label">Menu</span>
 													<span class="eltdf-hm-lines">
-														<span class="eltdf-hm-line eltdf-line-1"></span>
-														<span class="eltdf-hm-line eltdf-line-2"></span>
+														<span class="eltdf-hm-line eltdf-line-1" style="background: red"></span>
+														<span class="eltdf-hm-line eltdf-line-2" style="background: red"></span>
 													</span>
 												</span>
 											</a>
@@ -206,15 +237,15 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 					<nav class="eltdf-mobile-nav" role="navigation" aria-label="Mobile Menu" style="">
 						<div class="eltdf-grid">
 							<ul id="menu-main-menu-1" class="">
-								<li id="mobile-menu-item-28" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children  has_sub"><a href="index.html"><h6><span>Home</span></h6></a><span class="mobile_arrow"></span></li>
+								<li id="mobile-menu-item-28" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children  has_sub"><a href="index.php"><h6><span>Home</span></h6></a><span class="mobile_arrow"></span></li>
 
-								<li id="mobile-menu-item-29" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-ancestor current-menu-parent menu-item-has-children eltdf-active-item has_sub"><a href="about-us.html"><h6><span>About Us</span></h6></a><span class="mobile_arrow"></span></li>
+								<li id="mobile-menu-item-29" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-ancestor current-menu-parent menu-item-has-children eltdf-active-item has_sub"><a href="about-us.php"><h6><span>About Us</span></h6></a><span class="mobile_arrow"></span></li>
 
 								<li id="mobile-menu-item-31" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children  has_sub"><h6><span>Portfolio</span></h6><span class="mobile_arrow"></span></li>
 
-								<li id="mobile-menu-item-820" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children  has_sub"><h6><span>Academy</span></h6><span class="mobile_arrow"></span></li>
+								<li id="mobile-menu-item-820" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children  has_sub"><a href="academy.php"><h6><span>Academy</span></h6></a><span class="mobile_arrow"></span></li>
 
-								<li id="mobile-menu-item-29" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-ancestor current-menu-parent menu-item-has-children eltdf-active-item has_sub"><a href="contact.html"><h6><span>Contact</span></h6></a><span class="mobile_arrow"></span></li>
+								<li id="mobile-menu-item-29" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-ancestor current-menu-parent menu-item-has-children eltdf-active-item has_sub"><a href="contact.php"><h6><span>Contact</span></h6></a><span class="mobile_arrow"></span></li>
 
 							</ul>
 						</div>
@@ -280,7 +311,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 																		<div class="wpb_wrapper">
 																			<div role="form" class="wpcf7" id="wpcf7-f13-p1792-o1" lang="en-US" dir="ltr">
 																				<div class="screen-reader-response"></div>
-																				<form action="https://solene.qodeinteractive.com/contact-2/#wpcf7-f13-p1792-o1" method="post" class="wpcf7-form" novalidate="novalidate">
+																				<form action="contact_process" method="post" class="wpcf7-form" novalidate="novalidate">
 																				<div style="display: none;">
 																					<input type="hidden" name="_wpcf7" value="13">
 																					<input type="hidden" name="_wpcf7_version" value="5.1.6">
@@ -293,17 +324,17 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 																						<div class="eltdf-outer-space">
 																							<div class="eltdf-item-space">
 																								<span class="wpcf7-form-control-wrap your-name">
-																									<input type="text" name="your-name" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" aria-required="true" aria-invalid="false" placeholder="name">
+																									<input type="text" name="name" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" aria-required="true" aria-invalid="false" placeholder="name">
 																								</span>
 																							</div>
 																							<div class="eltdf-item-space">
 																								<span class="wpcf7-form-control-wrap your-email">
-																									<input type="email" name="your-email" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email" aria-required="true" aria-invalid="false" placeholder="e-mail">
+																									<input type="email" name="email" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email" aria-required="true" aria-invalid="false" placeholder="e-mail">
 																								</span>
 																							</div>
 																							<div class="eltdf-item-space">
 																								<span class="wpcf7-form-control-wrap your-date">
-																									<input type="text" name="your-date" value="" size="80" class="wpcf7-form-control wpcf7-text" aria-invalid="false" placeholder="Subject">
+																									<input type="text" name="subject" value="" size="80" class="wpcf7-form-control wpcf7-text" aria-invalid="false" placeholder="Subject">
 																								</span>
 																							</div>
 																							<!-- <div class="eltdf-item-space">
@@ -315,7 +346,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 																					</div>
 																					<p>
 																						<span class="wpcf7-form-control-wrap your-message">
-																							<textarea name="your-message" cols="40" rows="6" class="wpcf7-form-control wpcf7-textarea" aria-invalid="false" placeholder="tell us more"></textarea>
+																							<textarea name="message" cols="40" rows="6" class="wpcf7-form-control wpcf7-textarea" aria-invalid="false" placeholder="tell us more"></textarea>
 																						</span>
 																					</p>
 																					<p>
@@ -394,7 +425,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 															<div class="eltdf-st-inner">
 																<h3 class="eltdf-st-title" style="color: #4d504a">call me </h3>
 																<p class="eltdf-st-subtitle" style="text-transform: none;color: #72726c">
-																	<span>+(123) 456 - 7890 - 456 - 78 <a class="eltdf-st-subtitle-link" href="tel:123456789045678" target="_self"></a></span>
+																	<span>+234 907 878 6586<a class="eltdf-st-subtitle-link" href="tel:123456789045678" target="_self"></a></span>
 																</p>
 															</div>
 														</div>
@@ -411,7 +442,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 															<div class="eltdf-st-inner">
 																<h3 class="eltdf-st-title" style="color: #4d504a">follow </h3>
 																<p class="eltdf-st-subtitle" style="text-transform: none;color: #72726c">
-																	<span>@ glintz_photography <a class="eltdf-st-subtitle-link" href="https://www.instagram.com/glintzphotography/" target="_blank"></a></span>
+																	<span>@ glintz_photography <a class="eltdf-st-subtitle-link" href="https://www.instagram.com/glintz_photography/" target="_blank"></a></span>
 																</p>
 															</div>
 														</div>
@@ -460,7 +491,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 																			<a class="eltdf-social-icon-widget-holder eltdf-icon-has-hover" style="color: #84847c;;margin: 27px 0 0 0;" href="https://www.facebook.com/glintzphotography/" target="_blank" rel="noopener noreferrer">
 																			<span>FB</span></a>
 																			<a class="eltdf-social-icon-widget-holder eltdf-icon-has-hover" style="color: #84847c;;margin: 27px 0 0 0;" href="https://www.instagram.com/glintzphotography/" target="_blank" rel="noopener noreferrer"><span>IN</span></a>
-																			<a class="eltdf-social-icon-widget-holder eltdf-icon-has-hover" style="color: #84847c;;margin: 27px 0 0 0;" href="https://twitter.com/glintzphotography" target="_blank" rel="noopener noreferrer"><span>TW</span></a>
+																			<a class="eltdf-social-icon-widget-holder eltdf-icon-has-hover" style="color: #84847c;;margin: 27px 0 0 0;" href="https://twitter.com/glintzmedia " target="_blank" rel="noopener noreferrer"><span>TW</span></a>
 																		</div>
 																	</div>
 																</div>
@@ -470,7 +501,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 															<div class="vc_column-inner">
 																<div class="wpb_wrapper">
 																	<h2 class="eltdf-custom-font-holder  eltdf-cf-1075  " style="font-family: Cormorant Garamond,serif;font-size: 20px;line-height: 25px;font-weight: 400;font-style: italic;letter-spacing: 0px;text-transform: capitalize;text-align: right;color: #4d504a" data-item-class="eltdf-cf-1075">
-																	<a class="eltdf-cf-title-link" href="https://instagram.com/oprimeng" target="_blank">Developed by Oprime Technology </a>
+																	Developed by <a class="eltdf-cf-title-link" href="https://instagram.com/oprimeng" target="_blank">Oprime Technology </a>
 																	</h2>
 																</div>
 															</div>
@@ -528,7 +559,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 		<h2 class="eltdf-custom-font-holder  eltdf-cf-1451   " style="font-family: Cormorant Garamond;font-size: 22px;line-height: 24px;font-weight: 300;letter-spacing: .15em;text-transform: uppercase;text-align: center;color: #ffffff;margin: 0 0 0 0" data-item-class="eltdf-cf-1451">Instagram </h2>
 	</div>
 	<div class="widget eltdf-custom-font-widget">
-		<h2 class="eltdf-custom-font-holder  eltdf-cf-9405   " style="font-family: Cormorant Garamond,serif;font-size: 21px;line-height: 1.772727272727273em;font-weight: 400;font-style: italic;letter-spacing: 0px;text-transform: capitalize;text-align: center;color: #afafa5;margin: 0 0 0px 0" data-item-class="eltdf-cf-9405">@ glintz_phptpgraphy </h2>
+		<h2 class="eltdf-custom-font-holder  eltdf-cf-9405   " style="font-family: Cormorant Garamond,serif;font-size: 21px;line-height: 1.772727272727273em;font-weight: 400;font-style: italic;letter-spacing: 0px;text-transform: lowercase;text-align: center;color: #afafa5;margin: 0 0 0px 0" data-item-class="eltdf-cf-9405">@ glintz_photography </h2>
 	</div>
 	<div class="widget eltdf-separator-widget">
 		<div class="eltdf-separator-holder clearfix  eltdf-separator-center eltdf-separator-normal">
@@ -580,7 +611,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 	<div class="widget eltdf-social-icons-group-widget text-align-center">
 		<a class="eltdf-social-icon-widget-holder eltdf-icon-has-hover" data-hover-color="#ffffff" style="font-size: 15px" href="https://www.facebook.com/glintzphotography/" target="_blank"><span class="eltdf-social-icon-widget fab fa-facebook-f"></span> </a>
 		<a class="eltdf-social-icon-widget-holder eltdf-icon-has-hover" data-hover-color="#ffffff" style="font-size: 15px" href="https://www.instagram.com/glintzphotography/" target="_blank"><span class="eltdf-social-icon-widget fab fa-instagram"></span> </a>
-		<a class="eltdf-social-icon-widget-holder eltdf-icon-has-hover" data-hover-color="#ffffff" style="font-size: 15px" href="https://twitter.com/glintzphotography" target="_blank"><span class="eltdf-social-icon-widget fab fa-twitter"></span> </a>
+		<a class="eltdf-social-icon-widget-holder eltdf-icon-has-hover" data-hover-color="#ffffff" style="font-size: 15px" href="https://twitter.com/glintzmedia " target="_blank"><span class="eltdf-social-icon-widget fab fa-twitter"></span> </a>
 		<a class="eltdf-social-icon-widget-holder eltdf-icon-has-hover" data-hover-color="#ffffff" style="font-size: 15px" href="https://www.youtube.com/glintzphotography" target="_blank"><span class="eltdf-social-icon-widget fab fa-youtube"></span> </a>
 	</div>
 	<div class="widget eltdf-separator-widget">
@@ -606,77 +637,52 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 	</div>
 </section>
 <div class="rbt-toolbar" data-theme="Solene" data-featured="" data-button-position="20%" data-button-horizontal="right" data-button-alt="no"></div>
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KLJLSX7"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
-<noscript>
-	<iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KLJLSX7" height="0" width="0" style="display:none;visibility:hidden"></iframe>
-</noscript>
-<script type="text/html" id="wpb-modifications"></script>
-<link href="./Solene – Wedding Photography Theme_files/css(1)" rel="stylesheet" property="stylesheet" media="all" type="text/css">
-<script type="text/javascript">
+<script type="text/html" id="wpb-modifications"></script> <script type="text/javascript">
 		var c = document.body.className;
 		c = c.replace(/woocommerce-no-js/, 'woocommerce-js');
 		document.body.className = c;
 	</script>
 <script type="text/javascript">
-		if(typeof revslider_showDoubleJqueryError === "undefined") {
-			function revslider_showDoubleJqueryError(sliderID) {
-				var err = "<div class='rs_error_message_box'>";
-				err += "<div class='rs_error_message_oops'>Oops...</div>";
-				err += "<div class='rs_error_message_content'>";
-				err += "You have some jquery.js library include that comes after the Slider Revolution files js inclusion.<br>";
-				err += "To fix this, you can:<br>&nbsp;&nbsp;&nbsp; 1. Set 'Module General Options' -> 'Advanced' -> 'jQuery & OutPut Filters' -> 'Put JS to Body' to on";
-				err += "<br>&nbsp;&nbsp;&nbsp; 2. Find the double jQuery.js inclusion and remove it";
-				err += "</div>";
-			err += "</div>";
-				jQuery(sliderID).show().html(err);
-			}
-		}
-		</script>
-<script type="text/javascript">
 /* <![CDATA[ */
-var wpcf7 = {"apiSettings":{"root":"https:\/\/solene.com\/wp-json\/contact-form-7\/v1","namespace":"contact-form-7\/v1"},"cached":"1"};
+var wpcf7 = {"apiSettings":{"root":"https:\/\/solene.qodeinteractive.com\/wp-json\/contact-form-7\/v1","namespace":"contact-form-7\/v1"},"cached":"1"};
 /* ]]> */
 </script>
-<script src="./Solene – Wedding Photography Theme_files/0fef6.js"></script>
-<script type="text/javascript" src="./Solene – Wedding Photography Theme_files/rbt-modules.js"></script>
-<script src="./Solene – Wedding Photography Theme_files/63c68.js"></script>
+<script src="./assets/0fef6.js.download"></script>
+<script type="text/javascript" src="./assets/rbt-modules.js.download"></script>
+<script src="./assets/63c68.js.download"></script>
 <script type="text/javascript">
 /* <![CDATA[ */
 var woocommerce_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/?wc-ajax=%%endpoint%%"};
 /* ]]> */
 </script>
-<script src="./Solene – Wedding Photography Theme_files/63a69.js"></script>
+<script src="./assets/63a69.js.download"></script>
 <script type="text/javascript">
 /* <![CDATA[ */
 var wc_cart_fragments_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/?wc-ajax=%%endpoint%%","cart_hash_key":"wc_cart_hash_f596244724bbf51b050a0d095029c9b4","fragment_name":"wc_fragments_f596244724bbf51b050a0d095029c9b4","request_timeout":"5000"};
 /* ]]> */
 </script>
-<script src="./Solene – Wedding Photography Theme_files/d8b1c.js"></script>
-<script type="text/javascript">
-var mejsL10n = {"language":"en","strings":{"mejs.install-flash":"You are using a browser that does not have Flash player enabled or installed. Please turn on your Flash player plugin or download the latest version from https:\/\/get.adobe.com\/flashplayer\/","mejs.fullscreen-off":"Turn off Fullscreen","mejs.fullscreen-on":"Go Fullscreen","mejs.download-video":"Download Video","mejs.fullscreen":"Fullscreen","mejs.time-jump-forward":["Jump forward 1 second","Jump forward %1 seconds"],"mejs.loop":"Toggle Loop","mejs.play":"Play","mejs.pause":"Pause","mejs.close":"Close","mejs.time-slider":"Time Slider","mejs.time-help-text":"Use Left\/Right Arrow keys to advance one second, Up\/Down arrows to advance ten seconds.","mejs.time-skip-back":["Skip back 1 second","Skip back %1 seconds"],"mejs.captions-subtitles":"Captions\/Subtitles","mejs.captions-chapters":"Chapters","mejs.none":"None","mejs.mute-toggle":"Mute Toggle","mejs.volume-help-text":"Use Up\/Down Arrow keys to increase or decrease volume.","mejs.unmute":"Unmute","mejs.mute":"Mute","mejs.volume-slider":"Volume Slider","mejs.video-player":"Video Player","mejs.audio-player":"Audio Player","mejs.ad-skip":"Skip ad","mejs.ad-skip-info":["Skip in 1 second","Skip in %1 seconds"],"mejs.source-chooser":"Source Chooser","mejs.stop":"Stop","mejs.speed-rate":"Speed Rate","mejs.live-broadcast":"Live Broadcast","mejs.afrikaans":"Afrikaans","mejs.albanian":"Albanian","mejs.arabic":"Arabic","mejs.belarusian":"Belarusian","mejs.bulgarian":"Bulgarian","mejs.catalan":"Catalan","mejs.chinese":"Chinese","mejs.chinese-simplified":"Chinese (Simplified)","mejs.chinese-traditional":"Chinese (Traditional)","mejs.croatian":"Croatian","mejs.czech":"Czech","mejs.danish":"Danish","mejs.dutch":"Dutch","mejs.english":"English","mejs.estonian":"Estonian","mejs.filipino":"Filipino","mejs.finnish":"Finnish","mejs.french":"French","mejs.galician":"Galician","mejs.german":"German","mejs.greek":"Greek","mejs.haitian-creole":"Haitian Creole","mejs.hebrew":"Hebrew","mejs.hindi":"Hindi","mejs.hungarian":"Hungarian","mejs.icelandic":"Icelandic","mejs.indonesian":"Indonesian","mejs.irish":"Irish","mejs.italian":"Italian","mejs.japanese":"Japanese","mejs.korean":"Korean","mejs.latvian":"Latvian","mejs.lithuanian":"Lithuanian","mejs.macedonian":"Macedonian","mejs.malay":"Malay","mejs.maltese":"Maltese","mejs.norwegian":"Norwegian","mejs.persian":"Persian","mejs.polish":"Polish","mejs.portuguese":"Portuguese","mejs.romanian":"Romanian","mejs.russian":"Russian","mejs.serbian":"Serbian","mejs.slovak":"Slovak","mejs.slovenian":"Slovenian","mejs.spanish":"Spanish","mejs.swahili":"Swahili","mejs.swedish":"Swedish","mejs.tagalog":"Tagalog","mejs.thai":"Thai","mejs.turkish":"Turkish","mejs.ukrainian":"Ukrainian","mejs.vietnamese":"Vietnamese","mejs.welsh":"Welsh","mejs.yiddish":"Yiddish"}};
-</script>
-<script src="./Solene – Wedding Photography Theme_files/864c2.js"></script>
+<script src="./assets/d8b1c.js.download"></script>
+
+<script src="./assets/864c2.js.download"></script>
 <script type="text/javascript">
 /* <![CDATA[ */
 var _wpmejsSettings = {"pluginPath":"\/wp-includes\/js\/mediaelement\/","classPrefix":"mejs-","stretching":"responsive"};
 /* ]]> */
 </script>
-<script src="./Solene – Wedding Photography Theme_files/7573f.js"></script>
-<script type="text/javascript" src="./Solene – Wedding Photography Theme_files/js"></script>
+<script src="./assets/7573f.js.download"></script>
+<script type="text/javascript" src="./assets/js"></script>
 <script type="text/javascript">
 /* <![CDATA[ */
-var eltdfGlobalVars = {"vars":{"eltdfAddForAdminBar":0,"eltdfElementAppearAmount":-50,"eltdfAjaxUrl":"https:\/\/solene.qodeinteractive.com\/wp-admin\/admin-ajax.php","sliderNavPrevArrow":"<svg xmlns=\"http:\/\/www.w3.org\/2000\/svg\" xmlns:xlink=\"http:\/\/www.w3.org\/1999\/xlink\" x=\"0px\" y=\"0px\"\n\t\t\t\t\t width=\"45.479px\" height=\"15.292px\" viewBox=\"0 4.375 45.479 15.292\" enable-background=\"new 0 4.375 45.479 15.292\"\n\t\t\t\t\t xml:space=\"preserve\">\n\t\t\t\t<line fill=\"none\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" x1=\"44.639\" y1=\"12\" x2=\"0.639\" y2=\"12\"\/>\n\t\t\t\t<line fill=\"none\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" x1=\"0.639\" y1=\"12\" x2=\"44.639\" y2=\"12\"\/>\n\t\t\t\t<polyline fill=\"none\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" points=\"7.639,19 0.639,12 7.639,5 \"\/>\n\t\t\t\t<\/svg>","sliderNavNextArrow":"<svg xmlns=\"http:\/\/www.w3.org\/2000\/svg\" xmlns:xlink=\"http:\/\/www.w3.org\/1999\/xlink\" x=\"0px\" y=\"0px\"\n\t\t\t\t\t width=\"45.479px\" height=\"15.292px\" viewBox=\"0 4.375 45.479 15.292\" enable-background=\"new 0 4.375 45.479 15.292\"\n\t\t\t\t\t xml:space=\"preserve\">\n\t\t\t\t<line fill=\"none\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" x1=\"0.639\" y1=\"12\" x2=\"44.639\" y2=\"12\"\/>\n\t\t\t\t<line fill=\"none\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" x1=\"0.639\" y1=\"12\" x2=\"44.639\" y2=\"12\"\/>\n\t\t\t\t<polyline fill=\"none\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" points=\"37.639,5 44.639,12 37.639,19 \"\/>\n\t\t\t\t<\/svg>","ppExpand":"Expand the image","ppNext":"Next","ppPrev":"Previous","ppClose":"Close","eltdfStickyHeaderHeight":0,"eltdfStickyHeaderTransparencyHeight":100,"eltdfTopBarHeight":0,"eltdfLogoAreaHeight":0,"eltdfMenuAreaHeight":130,"eltdfMobileHeaderHeight":70}};
+var eltdfGlobalVars = {"vars":{"eltdfAddForAdminBar":0,"eltdfElementAppearAmount":-50,"eltdfAjaxUrl":"https:\/\/solene.qodeinteractive.com\/wp-admin\/admin-ajax.php","sliderNavPrevArrow":"<svg xmlns=\"http:\/\/www.w3.org\/2000\/svg\" xmlns:xlink=\"http:\/\/www.w3.org\/1999\/xlink\" x=\"0px\" y=\"0px\"\n\t\t\t\t\t width=\"45.479px\" height=\"15.292px\" viewBox=\"0 4.375 45.479 15.292\" enable-background=\"new 0 4.375 45.479 15.292\"\n\t\t\t\t\t xml:space=\"preserve\">\n\t\t\t\t<line fill=\"none\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" x1=\"44.639\" y1=\"12\" x2=\"0.639\" y2=\"12\"\/>\n\t\t\t\t<line fill=\"none\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" x1=\"0.639\" y1=\"12\" x2=\"44.639\" y2=\"12\"\/>\n\t\t\t\t<polyline fill=\"none\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" points=\"7.639,19 0.639,12 7.639,5 \"\/>\n\t\t\t\t<\/svg>","sliderNavNextArrow":"<svg xmlns=\"http:\/\/www.w3.org\/2000\/svg\" xmlns:xlink=\"http:\/\/www.w3.org\/1999\/xlink\" x=\"0px\" y=\"0px\"\n\t\t\t\t\t width=\"45.479px\" height=\"15.292px\" viewBox=\"0 4.375 45.479 15.292\" enable-background=\"new 0 4.375 45.479 15.292\"\n\t\t\t\t\t xml:space=\"preserve\">\n\t\t\t\t<line fill=\"none\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" x1=\"0.639\" y1=\"12\" x2=\"44.639\" y2=\"12\"\/>\n\t\t\t\t<line fill=\"none\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" x1=\"0.639\" y1=\"12\" x2=\"44.639\" y2=\"12\"\/>\n\t\t\t\t<polyline fill=\"none\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" points=\"37.639,5 44.639,12 37.639,19 \"\/>\n\t\t\t\t<\/svg>","ppExpand":"Expand the image","ppNext":"Next","ppPrev":"Previous","ppClose":"Close","eltdfStickyHeaderHeight":100,"eltdfStickyHeaderTransparencyHeight":100,"eltdfTopBarHeight":0,"eltdfLogoAreaHeight":0,"eltdfMenuAreaHeight":130,"eltdfMobileHeaderHeight":70}};
 var eltdfPerPageVars = {"vars":{"eltdfMobileHeaderHeight":70,"eltdfStickyScrollAmount":1300,"eltdfHeaderTransparencyHeight":0,"eltdfHeaderVerticalWidth":0}};
 /* ]]> */
 </script>
-<script src="./Solene – Wedding Photography Theme_files/c54c3.js"></script>
-<script async="" type="text/javascript" src="./Solene – Wedding Photography Theme_files/0.php"></script>
-<script type="text/javascript" id="">
-	!function(b,e,f,g,a,c,d){b.fbq||(a=b.fbq=function(){a.callMethod?a.callMethod.apply(a,arguments):a.queue.push(arguments)},b._fbq||(b._fbq=a),a.push=a,a.loaded=!0,a.version="2.0",a.queue=[],c=e.createElement(f),c.async=!0,c.src=g,d=e.getElementsByTagName(f)[0],d.parentNode.insertBefore(c,d))}(window,document,"script","https://connect.facebook.net/en_US/fbevents.js");fbq("init","1821624764800433");
-</script>
-<script type="text/javascript" id="">fbq("track","PageView");</script>
-<script src="./Solene – Wedding Photography Theme_files/tag.min.js" async="" defer=""></script>
-<img src="./Solene – Wedding Photography Theme_files/lj_match">
-<img src="./Solene – Wedding Photography Theme_files/57333">
-</body>
-</html>
+<script src="./assets/b53df.js.download"></script>
+
+
+
+<script type="text/javascript" id="">!function(b,e,f,g,a,c,d){b.fbq||(a=b.fbq=function(){a.callMethod?a.callMethod.apply(a,arguments):a.queue.push(arguments)},b._fbq||(b._fbq=a),a.push=a,a.loaded=!0,a.version="2.0",a.queue=[],c=e.createElement(f),c.async=!0,c.src=g,d=e.getElementsByTagName(f)[0],d.parentNode.insertBefore(c,d))}(window,document,"script","https://connect.facebook.net/en_US/fbevents.js");fbq("init","1821624764800433");</script>
+<script type="text/javascript" id="">fbq("track","PageView");</script></body></html>

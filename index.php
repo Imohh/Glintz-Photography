@@ -3,13 +3,13 @@
 <head>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     <meta property="og:type" content="article">
-    <meta property="og:title" content="Solene">
-    <meta property="og:description" content="Photography Theme">
+    <meta property="og:title" content="Glintz">
+    <meta property="og:description" content="Photography website">
 
     <link rel="profile" href="https://gmpg.org/xfn/11">
     <meta name="viewport" content="width=device-width,initial-scale=1,user-scalable=yes">
     
-    <title>Glintz Photography – Wedding Photography Theme</title>
+    <title>Glintz Photography – Photography | Portrait | Storytelling | Events</title>
 
 <!-- <script src="./Solene – Wedding Photography Theme_files/saved_resource" async="" type="text/javascript"><script src="./Solene – Wedding Photography Theme_files/saved_resource(1)" async=""></script></script><script type="text/javascript" async="" src="./Solene – Wedding Photography Theme_files/f.txt"></script><script type="text/javascript" async="" src="./Solene – Wedding Photography Theme_files/analytics.js.download"></script><script src="./Solene – Wedding Photography Theme_files/1821624764800433" async=""></script><script async="" src="./Solene – Wedding Photography Theme_files/fbevents.js.download"></script><script async="" src="./Solene – Wedding Photography Theme_files/gtm.js.download"></script><script data-cfasync="false" data-pagespeed-no-defer="" type="text/javascript">//<![CDATA[
 	var gtm4wp_datalayer_name = "dataLayer";
@@ -268,13 +268,10 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 })(window,document,'script','dataLayer','GTM-KLJLSX7');//]]>
 </script>
 
- <noscript><style>.woocommerce-product-gallery{ opacity: 1 !important; }</style></noscript>
-<meta name="generator" content="Powered by WPBakery Page Builder - drag and drop page builder for WordPress.">
-<meta name="generator" content="Powered by Slider Revolution 6.1.8 - responsive, Mobile-Friendly Slider Plugin for WordPress with comfortable drag and drop interface.">
-<link rel="icon" href="https://solene.qodeinteractive.com/wp-content/uploads/2020/01/cropped-Favicon-bold-32x32.png" sizes="32x32">
-<link rel="icon" href="https://solene.qodeinteractive.com/wp-content/uploads/2020/01/cropped-Favicon-bold-192x192.png" sizes="192x192">
-<link rel="apple-touch-icon-precomposed" href="https://solene.qodeinteractive.com/wp-content/uploads/2020/01/cropped-Favicon-bold-180x180.png">
-<meta name="msapplication-TileImage" content="https://solene.qodeinteractive.com/wp-content/uploads/2020/01/cropped-Favicon-bold-270x270.png">
+<link rel="icon" href="images/glintz-logo-black.png" sizes="32x32">
+<link rel="icon" href="images/glintz-logo-black.png" sizes="192x192">
+<link rel="apple-touch-icon-precomposed" href="images/glintz-logo-black.png">
+<meta name="msapplication-TileImage" content="images/glintz-logo-black.png">
 <script type="text/javascript">function setREVStartSize(e){			
 			try {								
 				var pw = document.getElementById(e.c).parentNode.offsetWidth,
@@ -379,7 +376,7 @@ rs-fullwidth-wrap .eltdf-social-icon-widget-holder:after {
       <div class="eltdf-position-left">
         <div class="eltdf-position-left-inner">
           <div class="eltdf-logo-wrapper">
-            <a itemprop="url" href="indexx.html" style="height: 81px;">
+            <a itemprop="url" href="index.php" style="height: 81px;">
               <img itemprop="image" class="eltdf-normal-logo" src="./images/glintz-logo-black.png" width="180" height="163" alt="logo">
               <img itemprop="image" class="eltdf-dark-logo" src="./images/glintz-logo-black.png" width="180" height="163" alt="dark logo"> 
               <img itemprop="image" class="eltdf-light-logo" src="./images/glintz-logo-black.png" width="180" height="178" alt="light logo"> 
@@ -392,9 +389,9 @@ rs-fullwidth-wrap .eltdf-social-icon-widget-holder:after {
         <div class="eltdf-position-center-inner">
           <nav class="eltdf-main-menu eltdf-drop-down eltdf-default-nav">
             <ul id="menu-main-menu" class="clearfix">
-              <li id="nav-menu-item-28" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-ancestor current-menu-parent menu-item-has-children eltdf-active-item has_sub narrow"><a href="index.html" class=" current  no_link" onclick="JavaScript: return false;" style="color: #000"><span class="item_outer"><span class="item_text">Home</span><i class="eltdf-menu-arrow fa fa-angle-down"></i></span></a></li>
-              <li id="nav-menu-item-29" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children  has_sub narrow"><a href="about-us.html" class=" no_link" style="color: #000"><span class="item_outer"><span class="item_text">About Us</span><i class="eltdf-menu-arrow fa fa-angle-down"></i></span></a></li>
-              <li id="nav-menu-item-31" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children  has_sub wide"><a href="portfolio.html" class=" no_link" style="color: #000"><span class="item_outer"><span class="item_text">Portfolio</span><i class="eltdf-menu-arrow fa fa-angle-down"></i></span></a>
+              <li id="nav-menu-item-28" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-ancestor current-menu-parent menu-item-has-children eltdf-active-item has_sub narrow"><a href="index.php" class=" current  no_link" onclick="JavaScript: return false;" style="color: #000"><span class="item_outer"><span class="item_text">Home</span><i class="eltdf-menu-arrow fa fa-angle-down"></i></span></a></li>
+              <li id="nav-menu-item-29" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children  has_sub narrow"><a href="about-us.php" class=" no_link" style="color: #000"><span class="item_outer"><span class="item_text">About Us</span><i class="eltdf-menu-arrow fa fa-angle-down"></i></span></a></li>
+              <li id="nav-menu-item-31" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children  has_sub wide"><a href="portfolio.php" class=" no_link" style="color: #000"><span class="item_outer"><span class="item_text">Portfolio</span><i class="eltdf-menu-arrow fa fa-angle-down"></i></span></a>
                 <div class="second" style="height: 0px;"><div class="inner">
                     <ul>
                         <li id="nav-menu-item-140" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home ">
@@ -420,8 +417,8 @@ rs-fullwidth-wrap .eltdf-social-icon-widget-holder:after {
                     </ul>
                 </div></div>
               </li>
-              <li id="nav-menu-item-33" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children  has_sub narrow"><a href="academy.html" class=" no_link" style="color: #000"><span class="item_outer"><span class="item_text">Academy</span><i class="eltdf-menu-arrow fa fa-angle-down"></i></span></a></li>
-              <li id="nav-menu-item-33" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children  has_sub narrow"><a href="contact.html" class=" no_link" style="color: #000"><span class="item_outer"><span class="item_text">Contact</span><i class="eltdf-menu-arrow fa fa-angle-down"></i></span></a></li>
+              <li id="nav-menu-item-33" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children  has_sub narrow"><a href="academy.php" class=" no_link" style="color: #000"><span class="item_outer"><span class="item_text">Academy</span><i class="eltdf-menu-arrow fa fa-angle-down"></i></span></a></li>
+              <li id="nav-menu-item-33" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children  has_sub narrow"><a href="contact.php" class=" no_link" style="color: #000"><span class="item_outer"><span class="item_text">Contact</span><i class="eltdf-menu-arrow fa fa-angle-down"></i></span></a></li>
             </ul>
           </nav>
         </div>
@@ -443,7 +440,12 @@ rs-fullwidth-wrap .eltdf-social-icon-widget-holder:after {
 <a class="eltdf-side-menu-button-opener eltdf-icon-has-hover eltdf-side-menu-button-opener-predefined" href="javascript:void(0)">
 <span class="eltdf-side-menu-icon">
 <span class="eltdf-sa-label" style="color: #000"> Info</span>
-<span class="eltdf-hm-label" style="color: #000">Menu</span><span class="eltdf-hm-lines" style="color: #000"><span class="eltdf-hm-line eltdf-line-1"></span><span class="eltdf-hm-line eltdf-line-2"></span></span> </span>
+<span class="eltdf-hm-label" style="color: #000">Menu</span>
+<span class="eltdf-hm-lines" style="color: #000">
+    <span class="eltdf-hm-line eltdf-line-1" style="background: red"></span>
+    <span class="eltdf-hm-line eltdf-line-2" style="background: red"></span>
+</span> 
+</span>
 </a>
 </div>
 </div>
@@ -468,11 +470,11 @@ rs-fullwidth-wrap .eltdf-social-icon-widget-holder:after {
           <nav class="eltdf-main-menu eltdf-drop-down eltdf-sticky-nav">
             <ul id="menu-main-menu-1" class="clearfix">
 
-              <li id="sticky-nav-menu-item-28" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-ancestor current-menu-parent menu-item-has-children eltdf-active-item has_sub narrow"><a href="index.html" class=" current  no_link"><span class="item_outer"><span class="item_text">Home</span></a></li>
+              <li id="sticky-nav-menu-item-28" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-ancestor current-menu-parent menu-item-has-children eltdf-active-item has_sub narrow"><a href="index.php" class=" current  no_link"><span class="item_outer"><span class="item_text">Home</span></a></li>
 
-              <li id="sticky-nav-menu-item-29" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children  has_sub narrow"><a href="about-us.html" class=" no_link"><span class="item_outer"><span class="item_text">About Us</span><span class="plus"></span><i class="eltdf-menu-arrow fa fa-angle-down"></i></span></a></li>
+              <li id="sticky-nav-menu-item-29" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children  has_sub narrow"><a href="about-us.php" class=" no_link"><span class="item_outer"><span class="item_text">About Us</span><span class="plus"></span><i class="eltdf-menu-arrow fa fa-angle-down"></i></span></a></li>
 
-              <li id="sticky-nav-menu-item-31" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children  has_sub wide"><a href="portfolio.html" class=" no_link"><span class="item_outer"><span class="item_text">Portfolio</span><span class="plus"></span><i class="eltdf-menu-arrow fa fa-angle-down"></i></span></a>
+              <li id="sticky-nav-menu-item-31" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children  has_sub wide"><a href="portfolio.php" class=" no_link"><span class="item_outer"><span class="item_text">Portfolio</span><span class="plus"></span><i class="eltdf-menu-arrow fa fa-angle-down"></i></span></a>
                 <div class="second" style="height: 0px;"><div class="inner">
                     <ul>
                         <li id="nav-menu-item-140" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home ">
@@ -499,9 +501,9 @@ rs-fullwidth-wrap .eltdf-social-icon-widget-holder:after {
                 </div></div>
               </li>
 
-              <li id="sticky-nav-menu-item-31" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children  has_sub wide"><a href="academy.html"><span class="item_outer"><span class="item_text">Academy</span><span class="plus"></span><i class="eltdf-menu-arrow fa fa-angle-down"></i></span></a></li>
+              <li id="sticky-nav-menu-item-31" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children  has_sub wide"><a href="academy.php"><span class="item_outer"><span class="item_text">Academy</span><span class="plus"></span><i class="eltdf-menu-arrow fa fa-angle-down"></i></span></a></li>
 
-              <li id="sticky-nav-menu-item-31" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children  has_sub wide"><a href="contact.html" class=" no_link" ><span class="item_outer"><span class="item_text">Contact</span><span class="plus"></span><i class="eltdf-menu-arrow fa fa-angle-down"></i></span></a></li>
+              <li id="sticky-nav-menu-item-31" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children  has_sub wide"><a href="contact.php" class=" no_link" ><span class="item_outer"><span class="item_text">Contact</span><span class="plus"></span><i class="eltdf-menu-arrow fa fa-angle-down"></i></span></a></li>
             </ul>
           </nav>
         </div>
@@ -526,8 +528,8 @@ rs-fullwidth-wrap .eltdf-social-icon-widget-holder:after {
               <span class="eltdf-sa-label"> Info</span>
               <span class="eltdf-hm-label">Menu</span>
                 <span class="eltdf-hm-lines">
-                  <span class="eltdf-hm-line eltdf-line-1"></span>
-                  <span class="eltdf-hm-line eltdf-line-2"></span>
+                  <span class="eltdf-hm-line eltdf-line-1" style="background: red"></span>
+                  <span class="eltdf-hm-line eltdf-line-2" style="background: red"></span>
                 </span> 
             </span>
           </a>
@@ -548,7 +550,7 @@ rs-fullwidth-wrap .eltdf-social-icon-widget-holder:after {
                     <div class="eltdf-position-left">
                         <div class="eltdf-position-left-inner">
                             <div class="eltdf-mobile-logo-wrapper">
-                                <a itemprop="url" href="index.html" style="height: 40px">
+                                <a itemprop="url" href="index.php" style="height: 40px">
                                     <img itemprop="image" src="./images/glintz-logo-black.png" width="140" height="81" alt="Mobile Logo">
                                 </a>
                             </div>
@@ -568,8 +570,13 @@ rs-fullwidth-wrap .eltdf-social-icon-widget-holder:after {
                             </div>
                             <div class="eltdf-mobile-menu-opener eltdf-mobile-menu-opener-predefined">
                                 <a href="javascript:void(0)">
-                                <span class="eltdf-mobile-menu-icon">
-                                <span class="eltdf-hm-label">Menu</span><span class="eltdf-hm-lines"><span class="eltdf-hm-line eltdf-line-1"></span><span class="eltdf-hm-line eltdf-line-2"></span></span> </span>
+                                    <span class="eltdf-mobile-menu-icon">
+                                        <span class="eltdf-hm-label">Menu</span>
+                                        <span class="eltdf-hm-lines">
+                                            <span class="eltdf-hm-line eltdf-line-1" style="background: red"></span>
+                                            <span class="eltdf-hm-line eltdf-line-2" style="background: red"></span>
+                                        </span>
+                                    </span>
                                 </a>
                             </div>
                         </div>
@@ -580,15 +587,15 @@ rs-fullwidth-wrap .eltdf-social-icon-widget-holder:after {
         <nav class="eltdf-mobile-nav" role="navigation" aria-label="Mobile Menu" style="">
             <div class="eltdf-grid">
                 <ul id="menu-main-menu-2" class="">
-                  <li id="mobile-menu-item-28" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-ancestor current-menu-parent menu-item-has-children eltdf-active-item has_sub"><h6><a href="index.html"><span>Home</span></a></h6><span class="mobile_arrow"><i class="eltdf-sub-arrow ion-ios-arrow-forward"></i></span></li>
+                  <li id="mobile-menu-item-28" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-ancestor current-menu-parent menu-item-has-children eltdf-active-item has_sub"><h6><a href="index.php"><span>Home</span></a></h6><span class="mobile_arrow"><i class="eltdf-sub-arrow ion-ios-arrow-forward"></i></span></li>
 
-                  <li id="mobile-menu-item-29" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children  has_sub"><a href="about-us.html"><h6><span>About Us</span></h6></a></li>
+                  <li id="mobile-menu-item-29" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children  has_sub"><a href="about-us.php"><h6><span>About Us</span></h6></a></li>
 
                   <li id="mobile-menu-item-31" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children  has_sub"><h6><span>Portfolio</span></h6></li>
 
-                  <li id="mobile-menu-item-33" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children  has_sub"><a href="academy.html>"><h6><span>Academy</span></h6></a></li>
+                  <li id="mobile-menu-item-33" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children  has_sub"><a href="academy.php>"><h6><span>Academy</span></h6></a></li>
 
-                  <li id="mobile-menu-item-33" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children  has_sub"><a href="contact.html"><h6><span>Contact</span></h6></a></li>
+                  <li id="mobile-menu-item-33" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children  has_sub"><a href="contact.php"><h6><span>Contact</span></h6></a></li>
                 </ul>
             </li>
         </ul> 
@@ -602,7 +609,15 @@ rs-fullwidth-wrap .eltdf-social-icon-widget-holder:after {
 
 
 
-
+<a id="eltdf-back-to-top" href="#" class="on">
+<span>
+<svg class="eltdf-svg-circle"><circle cx="50%" cy="50%" r="45%"></circle></svg> <svg class="eltdf-svg-circle"><circle cx="50%" cy="50%" r="45%"></circle></svg> <svg class="eltdf-back-to-top-arrow" x="0px" y="0px" width="12.771px" height="19.503px" viewBox="8.563 4.497 12.771 19.503" enable-background="new 8.563 4.497 12.771 19.503" xml:space="preserve">
+<line fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" x1="14.962" y1="23.433" x2="14.962" y2="5.058"></line>
+<line fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" x1="14.962" y1="23.433" x2="14.962" y2="5.058"></line>
+<polyline fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" points="9.155,10.865 14.962,5.058   20.769,10.865 "></polyline>
+</svg>
+</span>
+</a>
 
 
 
@@ -617,49 +632,49 @@ rs-fullwidth-wrap .eltdf-social-icon-widget-holder:after {
                     <div class="owl-stage-outer">
                         <div class="owl-stage" style="transform: translate3d(-4400px, 0px, 0px); transition: all 0.6s ease 0s; width: 12100px;"><div class="owl-item cloned" style="width: 1100px;">
                             <div class="eltdf-ps-image">
-                                <a itemprop="image" title="port-single-img-3" data-rel="prettyPhoto[single_pretty_photo]" href="./contact.html">
+                                <a itemprop="image" title="port-single-img-3" data-rel="prettyPhoto[single_pretty_photo]" href="./contact.php">
                                 <img itemprop="image" src="./images/slider2.jpg" alt="m">
                                 </a>
                             </div>
                         </div>
                         <div class="owl-item cloned" style="width: 1100px;">
                             <div class="eltdf-ps-image">
-                                <a itemprop="image" title="port-single-img-3" data-rel="prettyPhoto[single_pretty_photo]" href="./contact.html">
+                                <a itemprop="image" title="port-single-img-3" data-rel="prettyPhoto[single_pretty_photo]" href="./contact.php">
                                 <img itemprop="image" src="./images/slider3.jpg" alt="m">
                                 </a>
                             </div>
                         </div>
                         <div class="owl-item cloned" style="width: 1100px;">
                             <div class="eltdf-ps-image">
-                                <a itemprop="image" title="port-single-img-3" data-rel="prettyPhoto[single_pretty_photo]" href="./contact.html">
+                                <a itemprop="image" title="port-single-img-3" data-rel="prettyPhoto[single_pretty_photo]" href="./contact.php">
                                 <img itemprop="image" src="./images/slider4.jpg" alt="m">
                                 </a>
                             </div>
                         </div>
                         <div class="owl-item" style="width: 1100px;">
                             <div class="eltdf-ps-image">
-                                <a itemprop="image" title="port-single-img-3" data-rel="prettyPhoto[single_pretty_photo]" href="./contact.html">
+                                <a itemprop="image" title="port-single-img-3" data-rel="prettyPhoto[single_pretty_photo]" href="./contact.php">
                                 <img itemprop="image" src="./images/slider5.jpg" alt="m">
                                 </a>
                             </div>
                         </div>
                         <div class="owl-item active" style="width: 1100px;">
                             <div class="eltdf-ps-image">
-                                <a itemprop="image" title="port-single-img-3" data-rel="prettyPhoto[single_pretty_photo]" href="./contact.html">
+                                <a itemprop="image" title="port-single-img-3" data-rel="prettyPhoto[single_pretty_photo]" href="./contact.php">
                                 <img itemprop="image" src="./images/slider6.jpg" alt="m">
                                 </a>
                             </div>
                         </div>
                         <div class="owl-item" style="width: 1100px;">
                             <div class="eltdf-ps-image">
-                                <a itemprop="image" title="port-single-img-3" data-rel="prettyPhoto[single_pretty_photo]" href="./contact.html">
+                                <a itemprop="image" title="port-single-img-3" data-rel="prettyPhoto[single_pretty_photo]" href="./contact.php">
                                 <img itemprop="image" src="./images/slider7.jpg" alt="m">
                                 </a>
                             </div>
                         </div>
                         <div class="owl-item" style="width: 1100px;">
                             <div class="eltdf-ps-image">
-                                <a itemprop="image" title="port-single-img-3" data-rel="prettyPhoto[single_pretty_photo]" href="./contact.html">
+                                <a itemprop="image" title="port-single-img-3" data-rel="prettyPhoto[single_pretty_photo]" href="./contact.php">
                                 <img itemprop="image" src="./images/slider8.jpg" alt="m">
                                 </a>
                             </div>
@@ -1002,7 +1017,7 @@ Alienum phaedrum torquatos neceu </span>
 <div class="eltdf-team-textual-social-holder">
 <a class="eltdf-team-icon" href="https://www.facebook.com/glintz_photography" target="_blank">FB</a>
 <a class="eltdf-team-icon" href="https://www.instagram.com/glintz_photography" target="_blank">IN</a>
-<a class="eltdf-team-icon" href="https://twitter.com/glintz_photography" target="_blank">TW</a>
+<a class="eltdf-team-icon" href="https://twitter.com/glintzmedia" target="_blank">TW</a>
 </div>
 </div>
 </div>
@@ -1092,7 +1107,7 @@ Alienum phaedrum torquatos neceu </span>
                     <span class="eltdf-ils-item-title">Events</span>
                     </a>
                     <a itemprop="url" class="eltdf-ils-item-link" data-index="3" href="#" target="_self">
-                    <span class="eltdf-ils-item-title">Documentry</span>
+                    <span class="eltdf-ils-item-title">Documentary</span>
                     </a>
                   </div>
                   <div class="eltdf-ils-item-images-holder">
@@ -1162,42 +1177,6 @@ Alienum phaedrum torquatos neceu </span>
                               <a itemprop="url" class="eltdf-cc-link eltdf-block-drag-link" href="#" target="_self">
                               <img itemprop="image" class="eltdf-cc-image" src="./Solene – Wedding Photography Theme_files/h1-client-4.png" alt="d">
                               <img itemprop="image" class="eltdf-cc-hover-image" src="./Solene – Wedding Photography Theme_files/h1-client-4-hover.png" alt="d">
-                              </a>
-                            </div>
-                            <div class="eltdf-cc-item eltdf-item-space eltdf-cci-has-link">
-                              <a itemprop="url" class="eltdf-cc-link eltdf-block-drag-link" href="#" target="_self">
-                              <img itemprop="image" class="eltdf-cc-image" src="./Solene – Wedding Photography Theme_files/h1-client-10.png" alt="d">
-                              <img itemprop="image" class="eltdf-cc-hover-image" src="./Solene – Wedding Photography Theme_files/h1-client-10-hover.png" alt="d">
-                              </a>
-                            </div>
-                            <div class="eltdf-cc-item eltdf-item-space eltdf-cci-has-link">
-                              <a itemprop="url" class="eltdf-cc-link eltdf-block-drag-link" href="#" target="_self">
-                              <img itemprop="image" class="eltdf-cc-image" src="./Solene – Wedding Photography Theme_files/h1-client-6-.png" alt="d">
-                              <img itemprop="image" class="eltdf-cc-hover-image" src="./Solene – Wedding Photography Theme_files/h1-client-6-hover.png" alt="d">
-                              </a>
-                            </div>
-                            <div class="eltdf-cc-item eltdf-item-space eltdf-cci-has-link">
-                              <a itemprop="url" class="eltdf-cc-link eltdf-block-drag-link" href="#" target="_self">
-                              <img itemprop="image" class="eltdf-cc-image" src="./Solene – Wedding Photography Theme_files/h1-client-5.png" alt="d">
-                              <img itemprop="image" class="eltdf-cc-hover-image" src="./Solene – Wedding Photography Theme_files/h1-client-5-hover.png" alt="d">
-                              </a>
-                            </div>
-                            <div class="eltdf-cc-item eltdf-item-space eltdf-cci-has-link">
-                              <a itemprop="url" class="eltdf-cc-link eltdf-block-drag-link" href="#" target="_self">
-                              <img itemprop="image" class="eltdf-cc-image" src="./Solene – Wedding Photography Theme_files/h1-client-7.png" alt="d">
-                              <img itemprop="image" class="eltdf-cc-hover-image" src="./Solene – Wedding Photography Theme_files/h1-client-7.hover_.png" alt="d">
-                              </a>
-                            </div>
-                            <div class="eltdf-cc-item eltdf-item-space eltdf-cci-has-link">
-                              <a itemprop="url" class="eltdf-cc-link eltdf-block-drag-link" href="#" target="_self">
-                              <img itemprop="image" class="eltdf-cc-image" src="./Solene – Wedding Photography Theme_files/h1-client-8.png" alt="d">
-                              <img itemprop="image" class="eltdf-cc-hover-image" src="./Solene – Wedding Photography Theme_files/h1-client-8-hover.png" alt="d">
-                              </a>
-                            </div>
-                            <div class="eltdf-cc-item eltdf-item-space eltdf-cci-has-link">
-                              <a itemprop="url" class="eltdf-cc-link eltdf-block-drag-link" href="#" target="_self">
-                              <img itemprop="image" class="eltdf-cc-image" src="./Solene – Wedding Photography Theme_files/h1-client-9.png" alt="d">
-                              <img itemprop="image" class="eltdf-cc-hover-image" src="./Solene – Wedding Photography Theme_files/h1-client-9-hover.png" alt="d">
                               </a>
                             </div>
                           </div>
@@ -1320,11 +1299,11 @@ Alienum phaedrum torquatos neceu </span>
                           <a href="#" rel="category tag">Photography</a>
                         </div>
                         <div class="eltdf-post-info-author">
-                          <a itemprop="author" class="eltdf-post-info-author-link" href="#">Anna Smith </a>
+                          <a itemprop="author" class="eltdf-post-info-author-link" href="#">Anna Smith</a>
                       </div>
                     </div>
                     <h3 itemprop="name" class="entry-title eltdf-post-title">
-                      <a itemprop="url" href="#">Into the Woods </a>
+                      <a itemprop="url" href="#">Into the Woods</a>
                     </h3>
                     <div class="eltdf-bli-excerpt">
                       <div class="eltdf-post-excerpt-holder">
@@ -1396,123 +1375,7 @@ Alienum phaedrum torquatos neceu </span>
 
 
 <!-- FOUR SECTION -->
-<div class="vc_row wpb_row vc_row-fluid vc_custom_1579249777159 vc_row-has-fill">
-    <div class="wpb_column vc_column_container vc_col-sm-12">
-        <div class="vc_column-inner">
-            <div class="wpb_wrapper">
-                <div class="eltdf-row-grid-section-wrapper ">
-                    <div class="eltdf-row-grid-section">
-                        <div class="vc_row wpb_row vc_inner vc_row-fluid">
-                            <div class="wpb_column vc_column_container vc_col-sm-6 vc_col-lg-3">
-                                <div class="vc_column-inner">
-                                    <div class="wpb_wrapper">
-                                        <div class="eltdf-iwt clearfix  eltdf-iwt-icon-top eltdf-iwt-icon-medium">
-                                            <div class="eltdf-iwt-icon">
-                                                <img width="64" height="71" src="./Solene – Wedding Photography Theme_files/h1-custom-icon-1.png" class="attachment-full size-full" alt="d"> 
-                                            </div>
-                                            <div class="eltdf-iwt-content">
-                                                <h3 class="eltdf-iwt-title" style="color: #ffffff">
-                                                    <span class="eltdf-iwt-title-text">Lorem ipsum</span>
-                                                </h3>
-                                                <span class="eltdf-iwt-subtitle" style="color: #ffffff">Wedding</span>
-                                                <p class="eltdf-iwt-text" style="color: #ffffff">Excepteur sint occaecat cupidatat non proident, sunt in culpa</p>
-                                            </div>
-                                            </div>
-                                            <div class="vc_empty_space" style="height: 52px">
-                                                <span class="vc_empty_space_inner"></span>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="wpb_column vc_column_container vc_col-sm-6 vc_col-lg-3">
-                                    <div class="vc_column-inner">
-                                        <div class="wpb_wrapper">
-                                            <div class="eltdf-iwt clearfix  eltdf-iwt-icon-top eltdf-iwt-icon-medium">
-                                                <div class="eltdf-iwt-icon">
-                                                    <img width="66" height="71" src="./Solene – Wedding Photography Theme_files/h1-custom-icon-2.png" class="attachment-full size-full" alt="d">
-                                                </div>
-                                                <div class="eltdf-iwt-content">
-                                                    <h3 class="eltdf-iwt-title" style="color: #ffffff">
-                                                        <span class="eltdf-iwt-title-text">Lorem ipsum</span>
-                                                    </h3>
-                                                    <span class="eltdf-iwt-subtitle" style="color: #ffffff">Wedding</span>
-                                                    <p class="eltdf-iwt-text" style="color: #ffffff">Excepteur sint occaecat cupidatat non proident, sunt in culpa</p>
-                                                </div>
-                                                </div>
-                                                <div class="vc_empty_space" style="height: 52px">
-                                                    <span class="vc_empty_space_inner"></span>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="wpb_column vc_column_container vc_col-sm-6 vc_col-lg-3">
-                                        <div class="vc_column-inner">
-                                            <div class="wpb_wrapper">
-                                                <div class="eltdf-iwt clearfix  eltdf-iwt-icon-top eltdf-iwt-icon-medium">
-                                                    <div class="eltdf-iwt-icon">
-                                                        <img width="66" height="71" src="./Solene – Wedding Photography Theme_files/h1-custom-icon-3.png" class="attachment-full size-full" alt="d">
-                                                    </div>
-                                                    <div class="eltdf-iwt-content">
-                                                        <h3 class="eltdf-iwt-title" style="color: #ffffff">
-                                                            <span class="eltdf-iwt-title-text">Lorem ipsum</span>
-                                                        </h3>
-                                                        <span class="eltdf-iwt-subtitle" style="color: #ffffff">Wedding</span>
-                                                        <p class="eltdf-iwt-text" style="color: #ffffff">Excepteur sint occaecat cupidatat non proident, sunt in culpa</p>
-                                                    </div>
-                                                    </div>
-                                                    <div class="vc_empty_space" style="height: 52px">
-                                                        <span class="vc_empty_space_inner"></span>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <div class="wpb_column vc_column_container vc_col-sm-6 vc_col-lg-3">
-                                            <div class="vc_column-inner">
-                                                <div class="wpb_wrapper">
-                                                    <div class="eltdf-iwt clearfix  eltdf-iwt-icon-top eltdf-iwt-icon-medium">
-                                                        <div class="eltdf-iwt-icon">
-                                                            <img width="67" height="71" src="./Solene – Wedding Photography Theme_files/h1-custom-icon-4.png" class="attachment-full size-full" alt="d">
-                                                        </div>
-                                                        <div class="eltdf-iwt-content">
-                                                            <h3 class="eltdf-iwt-title" style="color: #ffffff">
-                                                                <span class="eltdf-iwt-title-text">Lorem ipsum</span>
-                                                            </h3>
-                                                            <span class="eltdf-iwt-subtitle" style="color: #ffffff">Wedding</span>
-                                                            <p class="eltdf-iwt-text" style="color: #ffffff">Excepteur sint occaecat cupidatat non proident, sunt in culpa</p>
-                                                        </div>
-                                                    </div>
-                                                    <div class="vc_empty_space" style="height: 52px">
-                                                        <span class="vc_empty_space_inner"></span>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="vc_row wpb_row vc_row-fluid vc_custom_1574263484956 eltdf-content-aligment-center">
-                <div class="wpb_column vc_column_container vc_col-sm-12">
-                    <div class="vc_column-inner vc_custom_1574263574299">
-                        <div class="wpb_wrapper">
-                            <div class="eltdf-section-title-holder   eltdf-section-title-appeared">
-                                <div class="eltdf-st-inner">
-                                    <span class="eltdf-st-separator"></span>
-                                    <!-- <h2 class="eltdf-st-title">
-                                    Testimonials </h2>
-                                    <h3 class="eltdf-st-subtitle" style="text-transform: none;font-style: italic;color: #84847c">
-                                    <span>
-                                    Alienum phaedrum torquatos </span>
-                                    </h3> -->
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
+
 <!-- END OF FOUR SECTIONS -->
 
 
@@ -1837,7 +1700,7 @@ Alienum phaedrum torquatos </span>
                       <div class="eltdf-pli-category-holder">
                         <a itemprop="url" class="eltdf-pli-category" href="#">Memory</a>
                       </div>
-                        <h3 itemprop="name" class="eltdf-pli-title entry-title">Now &amp; Forever	</h3>
+                        <h3 itemprop="name" class="eltdf-pli-title entry-title">Now &amp; Forever</h3>
                     </div>
                   </div>
                 </div>
@@ -1854,7 +1717,7 @@ Alienum phaedrum torquatos </span>
                           <div class="eltdf-pli-category-holder">
                             <a itemprop="url" class="eltdf-pli-category" href="#">Memory</a>
                           </div>
-                          <h3 itemprop="name" class="eltdf-pli-title entry-title">Let’s Celebrate	</h3>
+                          <h3 itemprop="name" class="eltdf-pli-title entry-title">Let’s Celebrate</h3>
                         </div>
                       </div>
                     </div>
@@ -1872,7 +1735,7 @@ Alienum phaedrum torquatos </span>
                           <div class="eltdf-pli-category-holder">
                             <a itemprop="url" class="eltdf-pli-category" href="#">Memory</a>
                           </div>
-                          <h3 itemprop="name" class="eltdf-pli-title entry-title">Velvet Cake	</h3>
+                          <h3 itemprop="name" class="eltdf-pli-title entry-title">Velvet Cake</h3>
                         </div>
                       </div>
                     </div>
@@ -2021,9 +1884,6 @@ Alienum phaedrum torquatos </span>
         </div>
     </div>
 </div>
-</div>
-</div>
-</div>
 <!-- END CONTACT FORM -->
 
 
@@ -2037,10 +1897,10 @@ Alienum phaedrum torquatos </span>
 <div class="eltdf-content-bottom">
     <div class="eltdf-content-bottom-inner eltdf-full-width">
         <div class="widget eltdf-custom-font-widget">
-            <h2 class="eltdf-custom-font-holder  eltdf-cf-5427   " style="font-family: Cormorant Garamond,serif;text-align: center;color: #4d504a;margin: 7px 0 0 0" data-item-class="eltdf-cf-5427">Follow Us on Instagram</h2>
+            <h2 class="eltdf-custom-font-holder  eltdf-cf-5427" style="font-family: Cormorant Garamond,serif;text-align: center;color: #4d504a;margin: 7px 0 0 0" data-item-class="eltdf-cf-5427">Follow Us on Instagram</h2>
         </div>
         <div class="widget eltdf-custom-font-widget">
-            <h3 class="eltdf-custom-font-holder  eltdf-cf-8315   " style="font-style: italic;letter-spacing: 0px;text-transform: capitalize;text-align: center;color: #84847c;margin: 0 0 56px 0" data-item-class="eltdf-cf-8315">@ glintz_photography </h3>
+            <h3 class="eltdf-custom-font-holder  eltdf-cf-8315   " style="font-style: italic;letter-spacing: 0px;text-transform: lowercase;text-align: center;color: #84847c;margin: 0 0 56px 0" data-item-class="eltdf-cf-8315">@ glintz_photography </h3>
         </div>
         <div class="widget widget_eltdf_instagram_widget">
             <ul class="eltdf-instagram-feed clearfix eltdf-col-6 eltdf-instagram-gallery eltdf-large-space">
@@ -2072,8 +1932,6 @@ Alienum phaedrum torquatos </span>
         </div>
     </div>
 </div>
-</div> 
-</div>
 <!-- END FOLLOW ME ON INSTAGRAM -->
 
 
@@ -2083,32 +1941,41 @@ Alienum phaedrum torquatos </span>
 
 
 <footer class="eltdf-page-footer ">
-<div class="eltdf-footer-top-holder">
-  <div class="eltdf-footer-top-inner eltdf-grid">
-    <div class="eltdf-grid-row eltdf-footer-top-alignment-center">
-      <div class="eltdf-column-content eltdf-grid-col-4">
-        <div class="widget eltdf-separator-widget">
-          <div class="eltdf-separator-holder clearfix  eltdf-separator-center eltdf-separator-normal">
-            <div class="eltdf-separator" style="border-color: #ffffff;border-style: solid;width: 1px;border-bottom-width: 1px;margin-top: 19px"></div>
+    
+    <div class="eltdf-footer-top-holder">
+      <div class="eltdf-footer-top-inner eltdf-grid">
+        <div class="eltdf-grid-row eltdf-footer-top-alignment-center">
+          <div class="eltdf-column-content eltdf-grid-col-4">
+            <div class="widget eltdf-separator-widget">
+              <div class="eltdf-separator-holder clearfix  eltdf-separator-center eltdf-separator-normal">
+                <div class="eltdf-separator" style="border-color: #ffffff;border-style: solid;width: 1px;border-bottom-width: 1px;margin-top: 19px"></div>
+              </div>
+            </div>
+            <div id="text-3" class="widget eltdf-footer-column-1 widget_text">
+              <div class="textwidget">
+                <p><span style="font-size: 22px; font-family: Cormorant Garamond; color: #4d504a; font-weight: 400; letter-spacing: .15em;">FOLLOW US</span></p>
+              </div>
+            </div>
+            <div class="widget eltdf-social-icons-group-widget text-align-center">
+                <a class="eltdf-social-icon-widget-holder eltdf-icon-has-hover" data-hover-color="#afafa5" style="color: #84847c;;font-size: 18px;margin: -44px 0 -30px 0;" href="https://www.facebook.com/glintz_photography" target="_blank">
+                    <img src="https://img.icons8.com/officel/16/000000/facebook-new.png"/>
+                </a>
+                <a class="eltdf-social-icon-widget-holder eltdf-icon-has-hover" data-hover-color="#afafa5" style="color: #84847c;;font-size: 18px;margin: -44px 0 -30px 0;" href="https://www.instagram.com/glintz_photography/" target="_blank">
+                    <img src="https://img.icons8.com/android/24/ffffff/facebook-new.png"/>
+                </a>
+                <a class="eltdf-social-icon-widget-holder eltdf-icon-has-hover" data-hover-color="#afafa5" style="color: #84847c;;font-size: 18px;margin: -44px 0 -30px 0;" href="https://twitter.com/glintzmedia" target="_blank">
+                    <img src="https://img.icons8.com/cute-clipart/64/000000/twitter.png" height="20px" width="20px"/>
+                </a>
+                <a class="eltdf-social-icon-widget-holder eltdf-icon-has-hover" data-hover-color="#afafa5" style="color: #84847c;;font-size: 18px;margin: -44px 0 -30px 0;" href="https://www.youtube.com/glintz_photography" target="_blank">
+                    <img src="https://img.icons8.com/cute-clipart/64/000000/youtube.png" height="20px" width="20px"/>
+                </a>
+            </div>
+            <div id="text-4" class="widget eltdf-footer-column-1 widget_text">
+              <div class="textwidget">
+                <p><span style="font-size: 20px; font-family: Cormorant Garamond; color: #84847c; font-style: italic;"><a href="mailto:info@glintzphotography.org;">info@glintzphotography.org</a></span></p>
+              </div>
+            </div>
           </div>
-        </div>
-        <div id="text-3" class="widget eltdf-footer-column-1 widget_text">
-          <div class="textwidget">
-            <p><span style="font-size: 22px; font-family: Cormorant Garamond; color: #4d504a; font-weight: 400; letter-spacing: .15em;">FOLLOW US</span></p>
-          </div>
-        </div>
-        <div class="widget eltdf-social-icons-group-widget text-align-center">
-          <a class="eltdf-social-icon-widget-holder eltdf-icon-has-hover" data-hover-color="#afafa5" style="color: #84847c;;font-size: 18px;margin: -44px 0 -30px 0;" href="https://www.facebook.com/glintz_photography" target="_blank"><img src="https://img.icons8.com/officel/16/000000/facebook-new.png"/> </a>
-          <a class="eltdf-social-icon-widget-holder eltdf-icon-has-hover" data-hover-color="#afafa5" style="color: #84847c;;font-size: 18px;margin: -44px 0 -30px 0;" href="https://www.instagram.com/glintz_photography/" target="_blank"><img src="https://img.icons8.com/cute-clipart/64/000000/instagram-new.png" height="20px" width="20px" /> </a>
-          <a class="eltdf-social-icon-widget-holder eltdf-icon-has-hover" data-hover-color="#afafa5" style="color: #84847c;;font-size: 18px;margin: -44px 0 -30px 0;" href="https://twitter.com/glintz_photography" target="_blank"><img src="https://img.icons8.com/cute-clipart/64/000000/twitter.png" height="20px" width="20px"/> </a>
-          <a class="eltdf-social-icon-widget-holder eltdf-icon-has-hover" data-hover-color="#afafa5" style="color: #84847c;;font-size: 18px;margin: -44px 0 -30px 0;" href="https://www.youtube.com/glintz_photography" target="_blank"><img src="https://img.icons8.com/cute-clipart/64/000000/youtube.png" height="20px" width="20px"/> </a>
-        </div>
-        <div id="text-4" class="widget eltdf-footer-column-1 widget_text">
-          <div class="textwidget">
-            <p><span style="font-size: 20px; font-family: Cormorant Garamond; color: #84847c; font-style: italic;"><a href="mailto:info@glintzphotography.org;">info@glintzphotography.org</a></span></p>
-          </div>
-        </div>
-      </div>
       <div class="eltdf-column-content eltdf-grid-col-4">
         <div class="widget eltdf-separator-widget">
           <div class="eltdf-separator-holder clearfix  eltdf-separator-center eltdf-separator-normal">
@@ -2259,7 +2126,7 @@ Alienum phaedrum torquatos </span>
         <h2 class="eltdf-custom-font-holder  eltdf-cf-4174   " style="font-family: Cormorant Garamond;font-size: 22px;line-height: 24px;font-weight: 300;letter-spacing: .15em;text-transform: uppercase;text-align: center;color: #ffffff;margin: 0 0 0 0" data-item-class="eltdf-cf-4174">Instagram </h2>
     </div>
     <div class="widget eltdf-custom-font-widget">
-        <h2 class="eltdf-custom-font-holder  eltdf-cf-4115   " style="font-family: Cormorant Garamond,serif;font-size: 21px;line-height: 1.772727272727273em;font-weight: 400;font-style: italic;letter-spacing: 0px;text-transform: capitalize;text-align: center;color: #afafa5;margin: 0 0 0px 0" data-item-class="eltdf-cf-4115">@ glintz_photography </h2>
+        <h2 class="eltdf-custom-font-holder  eltdf-cf-4115   " style="font-family: Cormorant Garamond,serif;font-size: 21px;line-height: 1.772727272727273em;font-weight: 400;font-style: italic;letter-spacing: 0px;text-transform: lowercase;text-align: center;color: #afafa5;margin: 0 0 0px 0" data-item-class="eltdf-cf-4115">@ glintz_photography </h2>
     </div>
     <div class="widget eltdf-separator-widget">
         <div class="eltdf-separator-holder clearfix  eltdf-separator-center eltdf-separator-normal">
@@ -2308,13 +2175,13 @@ Alienum phaedrum torquatos </span>
     </div>
     <div class="widget eltdf-social-icons-group-widget text-align-center">
         <a class="eltdf-social-icon-widget-holder eltdf-icon-has-hover" data-hover-color="#ffffff" style="font-size: 15px" href="#" target="_blank">
-            <span class="eltdf-social-icon-widget fab fa-facebook-f"></span>
+            <img src="https://img.icons8.com/android/24/ffffff/facebook-new.png"/>
         </a>
         <a class="eltdf-social-icon-widget-holder eltdf-icon-has-hover" data-hover-color="#ffffff" style="font-size: 15px" href="https://www.instagram.com/glintz_photography/" target="_blank">
-            <span class="eltdf-social-icon-widget fab fa-instagram"></span>
+            <img src="https://img.icons8.com/material-outlined/24/ffffff/instagram-new--v1.png"/>
         </a>
-        <a class="eltdf-social-icon-widget-holder eltdf-icon-has-hover" data-hover-color="#ffffff" style="font-size: 15px" href="https://twitter.com/QodeInteractive" target="_blank">
-            <span class="eltdf-social-icon-widget fab fa-twitter"></span>
+        <a class="eltdf-social-icon-widget-holder eltdf-icon-has-hover" data-hover-color="#ffffff" style="font-size: 15px" href="https://twitter.com/glintzmedia" target="_blank">
+            <img src="https://img.icons8.com/android/24/ffffff/twitter.png"/>
         </a>
         <a class="eltdf-social-icon-widget-holder eltdf-icon-has-hover" data-hover-color="#ffffff" style="font-size: 15px" href="https://www.youtube.com/" target="_blank">
             <span class="eltdf-social-icon-widget fab fa-youtube"></span>

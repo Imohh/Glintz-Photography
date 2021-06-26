@@ -8,78 +8,78 @@
 	<meta property="og:description" content="Photography">
 	<meta property="og:image" content="https://glintzphotography.org/">
 
-<link rel="profile" href="https://gmpg.org/xfn/11">
-<meta name="viewport" content="width=device-width,initial-scale=1,user-scalable=yes">
-<title>About Us – Glintz Photography</title>
+	<link rel="profile" href="https://gmpg.org/xfn/11">
+	<meta name="viewport" content="width=device-width,initial-scale=1,user-scalable=yes">
+	<title>About Us – Glintz Photography</title>
 
-<script type="text/javascript" async="" src="./assets/f.txt"></script>
-<script type="text/javascript" async="" src="./assets/analytics.js.download"></script>
-<script src="./assets/1821624764800433" async=""></script>
-<script async="" src="./assets/fbevents.js.download"></script>
-<script async="" src="./assets/gtm.js.download"></script>
-<script data-cfasync="false" data-pagespeed-no-defer="" type="text/javascript">//<![CDATA[
-	var gtm4wp_datalayer_name = "dataLayer";
-	var dataLayer = dataLayer || [];
-//]]>
-</script>
-<link rel="dns-prefetch" href="https://maps.googleapis.com/">
-<link rel="dns-prefetch" href="https://fonts.googleapis.com/">
-<link rel="dns-prefetch" href="https://s.w.org/">
-<link rel="alternate" type="application/rss+xml" title="Glintz Photography » Feed" href="https://glintzphotography.org/">
-<link rel="alternate" type="application/rss+xml" title="Glintz Photography » Comments Feed" href="https://glintzphotography.org/">
-<script type="text/javascript">
-			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.3.8"}};
-			!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode;p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0);e=i.toDataURL();return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(!p||!p.fillText)return!1;switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])?!1:!s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([55357,56424,55356,57342,8205,55358,56605,8205,55357,56424,55356,57340],[55357,56424,55356,57342,8203,55358,56605,8203,55357,56424,55356,57340])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(n=t.source||{}).concatemoji?c(n.concatemoji):n.wpemoji&&n.twemoji&&(c(n.twemoji),c(n.wpemoji)))}(window,document,window._wpemojiSettings);
-		</script><script src="./assets/wp-emoji-release.min.js.download" type="text/javascript" defer=""></script>
-<style type="text/css">
-img.wp-smiley,
-img.emoji {
-	display: inline !important;
-	border: none !important;
-	box-shadow: none !important;
-	height: 1em !important;
-	width: 1em !important;
-	margin: 0 .07em !important;
-	vertical-align: -0.1em !important;
-	background: none !important;
-	padding: 0 !important;
-}
-</style>
-<link rel="stylesheet" href="./assets/58f2c.css" media="all">
-<link rel="stylesheet" id="rabbit_css-css" href="./assets/rbt-modules.css" type="text/css" media="all">
-<link rel="stylesheet" href="./assets/edd85.css" media="all">
-<style id="rs-plugin-settings-inline-css" type="text/css">
-#rs-demo-id {}
-</style>
-<style id="woocommerce-inline-inline-css" type="text/css">
-.woocommerce form .form-row .required { visibility: visible; }
-</style>
-<link rel="stylesheet" href="./assets/5384c.css" media="all">
-<style id="solene-elated-woo-inline-css" type="text/css">
-.page-id-1253 .eltdf-content .eltdf-content-inner > .eltdf-container > .eltdf-container-inner, .page-id-1253 .eltdf-content .eltdf-content-inner > .eltdf-full-width > .eltdf-full-width-inner { padding: 0 0 0 0;}@media only screen and (max-width: 1024px) {.page-id-1253 .eltdf-content .eltdf-content-inner > .eltdf-container > .eltdf-container-inner, .page-id-1253 .eltdf-content .eltdf-content-inner > .eltdf-full-width > .eltdf-full-width-inner { padding: 0 0 0 0;}}.page-id-1253 .eltdf-content .eltdf-content-inner > .eltdf-container > .eltdf-container-inner, .page-id-1253 .eltdf-content .eltdf-content-inner > .eltdf-full-width > .eltdf-full-width-inner { padding: 0 0 0 0;}@media only screen and (max-width: 1024px) {.page-id-1253 .eltdf-content .eltdf-content-inner > .eltdf-container > .eltdf-container-inner, .page-id-1253 .eltdf-content .eltdf-content-inner > .eltdf-full-width > .eltdf-full-width-inner { padding: 0 0 0 0;}}@media only screen and (max-width: 1024px) {.page-id-1253 .eltdf-title-holder, .page-id-1253 .eltdf-title-holder .eltdf-title-wrapper { height: 107px !important;}}.page-id-1253 .eltdf-page-header .eltdf-vertical-align-containers, .page-id-1253 .eltdf-top-bar .eltdf-vertical-align-containers { padding-left: 60px;padding-right: 60px;}.eltdf-st-loader .eltdf-rotate-circles > div, .eltdf-st-loader .pulse, .eltdf-st-loader .double_pulse .double-bounce1, .eltdf-st-loader .double_pulse .double-bounce2, .eltdf-st-loader .cube, .eltdf-st-loader .rotating_cubes .cube1, .eltdf-st-loader .rotating_cubes .cube2, .eltdf-st-loader .stripes > div, .eltdf-st-loader .wave > div, .eltdf-st-loader .two_rotating_circles .dot1, .eltdf-st-loader .two_rotating_circles .dot2, .eltdf-st-loader .five_rotating_circles .container1 > div, .eltdf-st-loader .five_rotating_circles .container2 > div, .eltdf-st-loader .five_rotating_circles .container3 > div, .eltdf-st-loader .atom .ball-1:before, .eltdf-st-loader .atom .ball-2:before, .eltdf-st-loader .atom .ball-3:before, .eltdf-st-loader .atom .ball-4:before, .eltdf-st-loader .clock .ball:before, .eltdf-st-loader .mitosis .ball, .eltdf-st-loader .lines .line1, .eltdf-st-loader .lines .line2, .eltdf-st-loader .lines .line3, .eltdf-st-loader .lines .line4, .eltdf-st-loader .fussion .ball, .eltdf-st-loader .fussion .ball-1, .eltdf-st-loader .fussion .ball-2, .eltdf-st-loader .fussion .ball-3, .eltdf-st-loader .fussion .ball-4, .eltdf-st-loader .wave_circles .ball, .eltdf-st-loader .pulse_circles .ball { background-color: #84847c;}.eltdf-st-loader .eltdf-solene-spinner .eltdf-solene-spinner-text .eltdf-solene-spinner-title { color: #84847c;}.eltdf-st-loader .eltdf-solene-spinner .eltdf-solene-spinner-background { background-image: url(https://solene.qodeinteractive.com/wp-content/uploads/2020/01/landing-background-img.jpg);}.eltdf-st-loader .eltdf-solene-spinner .eltdf-solene-spinner-image-holder { background-image: url();}
-</style>
-<link rel="stylesheet" href="./assets/a5130.css" media="all">
-<link rel="stylesheet" id="solene-elated-google-fonts-css" href="./assets/css" type="text/css" media="all">
-<link rel="stylesheet" href="./assets/36f66.css" media="all">
-<script src="./assets/2044c.js.download"></script>
-<script src="./assets/f1253.js.download"></script>
-<link rel="canonical" href="https://glintzphotography.org/about-us/">
-<link rel="shortlink" href="https://glintzphotography.org/?p=1253">
+	<script type="text/javascript" async="" src="./assets/f.txt"></script>
+	<script type="text/javascript" async="" src="./assets/analytics.js.download"></script>
+	<script src="./assets/1821624764800433" async=""></script>
+	<script async="" src="./assets/fbevents.js.download"></script>
+	<script async="" src="./assets/gtm.js.download"></script>
+	<script data-cfasync="false" data-pagespeed-no-defer="" type="text/javascript">//<![CDATA[
+		var gtm4wp_datalayer_name = "dataLayer";
+		var dataLayer = dataLayer || [];
+	//]]>
+	</script>
+	<link rel="dns-prefetch" href="https://maps.googleapis.com/">
+	<link rel="dns-prefetch" href="https://fonts.googleapis.com/">
+	<link rel="dns-prefetch" href="https://s.w.org/">
+	<link rel="alternate" type="application/rss+xml" title="Glintz Photography » Feed" href="https://glintzphotography.org/">
+	<link rel="alternate" type="application/rss+xml" title="Glintz Photography » Comments Feed" href="https://glintzphotography.org/">
+	<script type="text/javascript">
+		window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.3.8"}};
+		!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode;p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0);e=i.toDataURL();return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(!p||!p.fillText)return!1;switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])?!1:!s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([55357,56424,55356,57342,8205,55358,56605,8205,55357,56424,55356,57340],[55357,56424,55356,57342,8203,55358,56605,8203,55357,56424,55356,57340])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(n=t.source||{}).concatemoji?c(n.concatemoji):n.wpemoji&&n.twemoji&&(c(n.twemoji),c(n.wpemoji)))}(window,document,window._wpemojiSettings);
+	</script>
+	<script src="./assets/wp-emoji-release.min.js.download" type="text/javascript" defer=""></script>
+	<style type="text/css">
+		img.wp-smiley,
+		img.emoji {
+			display: inline !important;
+			border: none !important;
+			box-shadow: none !important;
+			height: 1em !important;
+			width: 1em !important;
+			margin: 0 .07em !important;
+			vertical-align: -0.1em !important;
+			background: none !important;
+			padding: 0 !important;
+		}
+	</style>
+	<link rel="stylesheet" href="./assets/58f2c.css" media="all">
+	<link rel="stylesheet" id="rabbit_css-css" href="./assets/rbt-modules.css" type="text/css" media="all">
+	<link rel="stylesheet" href="./assets/edd85.css" media="all">
+	<style id="rs-plugin-settings-inline-css" type="text/css">
+	#rs-demo-id {}
+	</style>
+	<style id="woocommerce-inline-inline-css" type="text/css">
+	.woocommerce form .form-row .required { visibility: visible; }
+	</style>
+	<link rel="stylesheet" href="./assets/5384c.css" media="all">
+	<style id="solene-elated-woo-inline-css" type="text/css">
+	.page-id-1253 .eltdf-content .eltdf-content-inner > .eltdf-container > .eltdf-container-inner, .page-id-1253 .eltdf-content .eltdf-content-inner > .eltdf-full-width > .eltdf-full-width-inner { padding: 0 0 0 0;}@media only screen and (max-width: 1024px) {.page-id-1253 .eltdf-content .eltdf-content-inner > .eltdf-container > .eltdf-container-inner, .page-id-1253 .eltdf-content .eltdf-content-inner > .eltdf-full-width > .eltdf-full-width-inner { padding: 0 0 0 0;}}.page-id-1253 .eltdf-content .eltdf-content-inner > .eltdf-container > .eltdf-container-inner, .page-id-1253 .eltdf-content .eltdf-content-inner > .eltdf-full-width > .eltdf-full-width-inner { padding: 0 0 0 0;}@media only screen and (max-width: 1024px) {.page-id-1253 .eltdf-content .eltdf-content-inner > .eltdf-container > .eltdf-container-inner, .page-id-1253 .eltdf-content .eltdf-content-inner > .eltdf-full-width > .eltdf-full-width-inner { padding: 0 0 0 0;}}@media only screen and (max-width: 1024px) {.page-id-1253 .eltdf-title-holder, .page-id-1253 .eltdf-title-holder .eltdf-title-wrapper { height: 107px !important;}}.page-id-1253 .eltdf-page-header .eltdf-vertical-align-containers, .page-id-1253 .eltdf-top-bar .eltdf-vertical-align-containers { padding-left: 60px;padding-right: 60px;}.eltdf-st-loader .eltdf-rotate-circles > div, .eltdf-st-loader .pulse, .eltdf-st-loader .double_pulse .double-bounce1, .eltdf-st-loader .double_pulse .double-bounce2, .eltdf-st-loader .cube, .eltdf-st-loader .rotating_cubes .cube1, .eltdf-st-loader .rotating_cubes .cube2, .eltdf-st-loader .stripes > div, .eltdf-st-loader .wave > div, .eltdf-st-loader .two_rotating_circles .dot1, .eltdf-st-loader .two_rotating_circles .dot2, .eltdf-st-loader .five_rotating_circles .container1 > div, .eltdf-st-loader .five_rotating_circles .container2 > div, .eltdf-st-loader .five_rotating_circles .container3 > div, .eltdf-st-loader .atom .ball-1:before, .eltdf-st-loader .atom .ball-2:before, .eltdf-st-loader .atom .ball-3:before, .eltdf-st-loader .atom .ball-4:before, .eltdf-st-loader .clock .ball:before, .eltdf-st-loader .mitosis .ball, .eltdf-st-loader .lines .line1, .eltdf-st-loader .lines .line2, .eltdf-st-loader .lines .line3, .eltdf-st-loader .lines .line4, .eltdf-st-loader .fussion .ball, .eltdf-st-loader .fussion .ball-1, .eltdf-st-loader .fussion .ball-2, .eltdf-st-loader .fussion .ball-3, .eltdf-st-loader .fussion .ball-4, .eltdf-st-loader .wave_circles .ball, .eltdf-st-loader .pulse_circles .ball { background-color: #84847c;}.eltdf-st-loader .eltdf-solene-spinner .eltdf-solene-spinner-text .eltdf-solene-spinner-title { color: #84847c;}.eltdf-st-loader .eltdf-solene-spinner .eltdf-solene-spinner-background { background-image: url(https://solene.qodeinteractive.com/wp-content/uploads/2020/01/landing-background-img.jpg);}.eltdf-st-loader .eltdf-solene-spinner .eltdf-solene-spinner-image-holder { background-image: url();}
+	</style>
+	<link rel="stylesheet" href="./assets/a5130.css" media="all">
+	<link rel="stylesheet" id="solene-elated-google-fonts-css" href="./assets/css" type="text/css" media="all">
+	<link rel="stylesheet" href="./assets/36f66.css" media="all">
+	<script src="./assets/2044c.js.download"></script>
+	<script src="./assets/f1253.js.download"></script>
+	<link rel="canonical" href="https://glintzphotography.org/about-us/">
+	<link rel="shortlink" href="https://glintzphotography.org/?p=1253">
 
-<script data-cfasync="false" data-pagespeed-no-defer="" type="text/javascript">//<![CDATA[
-	var dataLayer_content = {"pagePostType":"page","pagePostType2":"single-page","pagePostAuthor":"admin"};
-	dataLayer.push( dataLayer_content );//]]>
-</script>
-<script data-cfasync="false">//<![CDATA[
-(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-'//www.googletagmanager.com/gtm.'+'js?id='+i+dl;f.parentNode.insertBefore(j,f);
-})(window,document,'script','dataLayer','GTM-KLJLSX7');//]]>
-</script>
+	<script data-cfasync="false" data-pagespeed-no-defer="" type="text/javascript">//<![CDATA[
+		var dataLayer_content = {"pagePostType":"page","pagePostType2":"single-page","pagePostAuthor":"admin"};
+		dataLayer.push( dataLayer_content );//]]>
+	</script>
+	<script data-cfasync="false">//<![CDATA[
+	(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+	new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+	j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+	'//www.googletagmanager.com/gtm.'+'js?id='+i+dl;f.parentNode.insertBefore(j,f);
+	})(window,document,'script','dataLayer','GTM-KLJLSX7');//]]>
+	</script>
 
- <noscript><style>.woocommerce-product-gallery{ opacity: 1 !important; }</style></noscript>
-<script type="text/javascript">function setREVStartSize(e){			
+	<script type="text/javascript">function setREVStartSize(e){			
 			try {								
 				var pw = document.getElementById(e.c).parentNode.offsetWidth,
 					newh;
@@ -180,15 +180,40 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 	<div class="eltdf-position-center-inner">
 		<nav class="eltdf-main-menu eltdf-drop-down eltdf-default-nav">
 			<ul id="menu-main-menu" class="clearfix">
-				<li id="nav-menu-item-28" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children  has_sub narrow"><a href="index.html" class=" no_link"><span class="item_outer"><span class="item_text">Home</span></span></a></li>
+				<li id="nav-menu-item-28" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children  has_sub narrow"><a href="index.php" class=" no_link"><span class="item_outer"><span class="item_text">Home</span></span></a></li>
 
-				<li id="nav-menu-item-29" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-ancestor current-menu-parent menu-item-has-children eltdf-active-item has_sub narrow"><a href="about-us.html" class=" current  no_link"><span class="item_outer"><span class="item_text">About Us</span></span></a></li>
+				<li id="nav-menu-item-29" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-ancestor current-menu-parent menu-item-has-children eltdf-active-item has_sub narrow"><a href="about-us.php" class=" current  no_link"><span class="item_outer"><span class="item_text">About Us</span></span></a></li>
 
-				<li id="nav-menu-item-31" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children  has_sub wide"><a href="portfolio.html" class=" no_link" onclick="JavaScript: return false;"><span class="item_outer"><span class="item_text">Portfolio</span></span></a></li>
+				<li id="nav-menu-item-31" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children  has_sub wide"><a href="#" class=" no_link"><span class="item_outer"><span class="item_text">Portfolio</span></span></a>
+					<div class="second" style="height: 0px;"><div class="inner">
+	                    <ul>
+	                        <li id="nav-menu-item-140" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home ">
+	                            <a href="" class=""><span class="item_outer">
+	                                <span class="item_text">Portraits</span></span>
+	                            </a>
+	                        </li>
+	                        <li id="nav-menu-item-168" class="menu-item menu-item-type-post_type menu-item-object-page ">
+	                            <a href="#" class="">
+	                                <span class="item_outer"><span class="item_text">Weddings</span></span>
+	                            </a>
+	                        </li>
+	                        <li id="nav-menu-item-2190" class="menu-item menu-item-type-post_type menu-item-object-page ">
+	                            <a href="#" class="">
+	                                <span class="item_outer"><span class="item_text">Events</span></span>
+	                            </a>
+	                        </li>
+	                        <li id="nav-menu-item-372" class="menu-item menu-item-type-post_type menu-item-object-page ">
+	                            <a href="#" class="">
+	                                <span class="item_outer"><span class="item_text">Documentary</span></span>
+	                            </a>
+	                        </li>
+	                    </ul>
+	                </div></div>
+	            </li>
 
-				<li id="nav-menu-item-30" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children  has_sub narrow"><a href="academy.html" class=" no_link" onclick="JavaScript: return false;"><span class="item_outer"><span class="item_text">Academy</span></span></a></li>
+				<li id="nav-menu-item-30" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children  has_sub narrow"><a href="academy.php" class=" no_link"><span class="item_outer"><span class="item_text">Academy</span></span></a></li>
 
-				<li id="nav-menu-item-32" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children  has_sub narrow"><a href="contact.html" class=" no_link"><span class="item_outer"><span class="item_text">Contact</span></span></a></li>
+				<li id="nav-menu-item-32" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children  has_sub narrow"><a href="contact.php" class=" no_link"><span class="item_outer"><span class="item_text">Contact</span></span></a></li>
 
 			</ul>
 		</nav>
@@ -206,9 +231,14 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 			</div>
 		</div>
 		<a class="eltdf-side-menu-button-opener eltdf-icon-has-hover eltdf-side-menu-button-opener-predefined" href="javascript:void(0)">
-		<span class="eltdf-side-menu-icon">
-		<span class="eltdf-sa-label"> Info</span>
-		<span class="eltdf-hm-label">Menu</span><span class="eltdf-hm-lines"><span class="eltdf-hm-line eltdf-line-1"></span><span class="eltdf-hm-line eltdf-line-2"></span></span> </span>
+			<span class="eltdf-side-menu-icon">
+				<span class="eltdf-sa-label"> Info</span>
+				<span class="eltdf-hm-label">Menu</span>
+				<span class="eltdf-hm-lines">
+					<span class="eltdf-hm-line eltdf-line-1" style="background: red"></span>
+					<span class="eltdf-hm-line eltdf-line-2" style="background: red"></span>
+				</span>
+			</span>
 		</a>
 	</div>
 </div>
@@ -222,8 +252,8 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 					<div class="eltdf-logo-wrapper">
 					<a itemprop="url" href="https://glintzphotography.org/" style="height: 62px;">
 					<img itemprop="image" class="eltdf-normal-logo" src="./images/glintz-logo-black.png" width="219" height="124" alt="logo">
-					<img itemprop="image" class="eltdf-dark-logo" src="./images/glintz-logo-black.png" width="180" height="163" alt="dark logo">
-					<img itemprop="image" class="eltdf-light-logo" src="./images/glintz-logo-black.png" width="180" height="178" alt="light logo"> </a>
+					<img itemprop="image" class="eltdf-dark-logo" src="./images/glintz-logo-black.png" width="180" height="163" alt="logo">
+					<img itemprop="image" class="eltdf-light-logo" src="./images/glintz-logo-black.png" width="180" height="178" alt="logo"> </a>
 				</div>
 			</div>
 		</div>
@@ -233,15 +263,40 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 				<nav class="eltdf-main-menu eltdf-drop-down eltdf-sticky-nav">
 					<ul id="menu-main-menu-1" class="clearfix">
 			
-						<li id="sticky-nav-menu-item-28" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children  has_sub narrow"><a href="index.html" class=" no_link" ><span class="item_outer"><span class="item_text">Home</span></a></li>
+						<li id="sticky-nav-menu-item-28" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children  has_sub narrow"><a href="index.php" class=" no_link" ><span class="item_outer"><span class="item_text">Home</span></a></li>
 
-						<li id="sticky-nav-menu-item-29" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-ancestor current-menu-parent menu-item-has-children eltdf-active-item has_sub narrow"><a href="about-us.html" class=" current  no_link"><span class="item_outer"><span class="item_text">About Us</span></span></a></li>
+						<li id="sticky-nav-menu-item-29" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-ancestor current-menu-parent menu-item-has-children eltdf-active-item has_sub narrow"><a href="about-us.php" class=" current  no_link"><span class="item_outer"><span class="item_text">About Us</span></span></a></li>
 
-						<li id="sticky-nav-menu-item-31" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children  has_sub wide"><a href="#" class=" no_link" onclick="JavaScript: return false;"><span class="item_outer"><span class="item_text">Portfolio</span></span></a></li>
+						<li id="sticky-nav-menu-item-31" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children  has_sub wide"><a href="#" class=" no_link"><span class="item_outer"><span class="item_text">Portfolio</span></span></a>
+							<div class="second" style="height: 0px;"><div class="inner">
+			                    <ul>
+			                        <li id="nav-menu-item-140" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home ">
+			                            <a href="" class="">
+			                            	<span class="item_outer"><span class="item_text">Portraits</span></span>
+			                            </a>
+			                        </li>
+			                        <li id="nav-menu-item-168" class="menu-item menu-item-type-post_type menu-item-object-page ">
+			                            <a href="#" class="">
+			                                <span class="item_outer"><span class="item_text">Weddings</span></span>
+			                            </a>
+			                        </li>
+			                        <li id="nav-menu-item-2190" class="menu-item menu-item-type-post_type menu-item-object-page ">
+			                            <a href="#" class="">
+			                                <span class="item_outer"><span class="item_text">Events</span></span>
+			                            </a>
+			                        </li>
+			                        <li id="nav-menu-item-372" class="menu-item menu-item-type-post_type menu-item-object-page ">
+			                            <a href="#" class="">
+			                                <span class="item_outer"><span class="item_text">Documentary</span></span>
+			                            </a>
+			                        </li>
+			                    </ul>
+			                </div></div>
+			            </li>
 
-						<li id="sticky-nav-menu-item-30" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children  has_sub narrow"><a href="#" class=" no_link" onclick="JavaScript: return false;"><span class="item_outer"><span class="item_text">Academy</span></span></a></li>
+						<li id="sticky-nav-menu-item-30" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children  has_sub narrow"><a href="academy.php" class=" no_link"><span class="item_outer"><span class="item_text">Academy</span></span></a></li>
 
-						<li id="sticky-nav-menu-item-32" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children  has_sub narrow"><a href="contact.html" class=" no_link"><span class="item_outer"><span class="item_text">Contact</span></span></a></li>
+						<li id="sticky-nav-menu-item-32" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children  has_sub narrow"><a href="contact.php" class=" no_link"><span class="item_outer"><span class="item_text">Contact</span></span></a></li>
 					</ul>
 				</nav>
 			</div>
@@ -262,8 +317,13 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
 	<a class="eltdf-side-menu-button-opener eltdf-icon-has-hover eltdf-side-menu-button-opener-predefined" href="javascript:void(0)">
 	<span class="eltdf-side-menu-icon">
-	<span class="eltdf-sa-label"> Info</span>
-	<span class="eltdf-hm-label">Menu</span><span class="eltdf-hm-lines"><span class="eltdf-hm-line eltdf-line-1"></span><span class="eltdf-hm-line eltdf-line-2"></span></span> </span>
+		<span class="eltdf-sa-label"> Info</span>
+		<span class="eltdf-hm-label">Menu</span>
+		<span class="eltdf-hm-lines">
+			<span class="eltdf-hm-line eltdf-line-1" style="background: red"></span>
+			<span class="eltdf-hm-line eltdf-line-2" style="background: red"></span>
+		</span>
+	</span>
 	</a>
 </div>
 </div>
@@ -282,7 +342,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 				<div class="eltdf-position-left">
 					<div class="eltdf-position-left-inner">
 						<div class="eltdf-mobile-logo-wrapper">
-							<a itemprop="url" href="index.html" style="height: 40px">
+							<a itemprop="url" href="index.php" style="height: 40px">
 							<img itemprop="image" src="./images/glintz-logo-black.png" width="140" height="81" alt="Mobile Logo">
 							</a>
 						</div>
@@ -306,8 +366,8 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 					<span class="eltdf-mobile-menu-icon">
 						<span class="eltdf-hm-label">Menu</span>
 						<span class="eltdf-hm-lines">
-							<span class="eltdf-hm-line eltdf-line-1"></span>
-							<span class="eltdf-hm-line eltdf-line-2"></span>
+							<span class="eltdf-hm-line eltdf-line-1" style="background: red"></span>
+							<span class="eltdf-hm-line eltdf-line-2" style="background: red"></span>
 						</span> 
 					</span>
 					</a>
@@ -320,15 +380,22 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <nav class="eltdf-mobile-nav" role="navigation" aria-label="Mobile Menu" style="">
 	<div class="eltdf-grid">
 		<ul id="menu-main-menu-2" class="">
-			<li id="mobile-menu-item-28" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children  has_sub"><a href="index.html"><h6><span>Home</span></h6></a></li>
+			<li id="mobile-menu-item-28" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children  has_sub"><a href="index.php"><h6><span>Home</span></h6></a></li>
 
 			<li id="mobile-menu-item-29" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-ancestor current-menu-parent menu-item-has-children eltdf-active-item has_sub"><h6><span>About Us</span></h6></li>
 
-			<li id="mobile-menu-item-31" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children  has_sub"><a href="#"><h6><span>Portfolio</span></h6></a></li>
+			<li id="mobile-menu-item-30" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children  has_sub"><h6><span>Portfolio</span></h6><span class="mobile_arrow"><i class="eltdf-sub-arrow ion-ios-arrow-forward"></i></span>
+				<ul class="sub_menu">
+					<li id="mobile-menu-item-1405" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="#" class=""><span>Portraits</span></a></li>
+					<li id="mobile-menu-item-1257" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="#" class=""><span>Weddings</span></a></li>
+					<li id="mobile-menu-item-1232" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="#" class=""><span>Events</span></a></li>
+					<li id="mobile-menu-item-1805" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="#" class=""><span>Documentary</span></a></li>
+				</ul>
+			</li>
 
-			<li id="mobile-menu-item-30" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children  has_sub"><a href="academy.html"><h6><span>Academy</span></h6></a></li>
+			<li id="mobile-menu-item-31" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children  has_sub"><a href="academy.php"><h6><span>Academy</span></h6></a></li>
 
-			<li id="mobile-menu-item-32" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children  has_sub"><a href="contact.html"><h6><span>Contact</span></h6></a></li>
+			<li id="mobile-menu-item-32" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children  has_sub"><a href="contact.php"><h6><span>Contact</span></h6></a></li>
 		</ul> 
 	</div>
 </nav>
@@ -442,7 +509,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 						<div class="wpb_wrapper">
 							<div class="wpb_text_column wpb_content_element ">
 								<div class="wpb_wrapper">
-									<p style="text-align: center;width: 75%; margin: 0 auto">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer facilisis lorem quis pretium posuere. Nam gravida orci in massa convallis vestibulum. Sed venenatis hendrerit gravida. In nec lectus diam. Sed tellus justo, aliquam id eros sit amet, condimentum ullamcorper justo. In lacinia, purus ut congue pharetra, elit sapien aliquam turpis, non viverra dui ante id orci. Nam laoreet ornare urna, in varius nibh finibus sit amet. Quisque sed commodo sapien. Suspendisse at risus tempor eros auctor ullamcorper. Duis ut libero nulla. Ut et erat in quam mattis rhoncus. Mauris dignissim pharetra erat at rhoncus. Aenean dignissim eros quis elit volutpat, faucibus facilisis nisl vulputate. Vivamus interdum id urna ut sagittis.</p>
+									<p style="text-align: center;width: 75%; margin: 0 auto">Glintz Photography is multimedia Brand, set up to document, tell African stories of places, people and their through creative visuals. Our storytelling expertise ranges from Portraits, Documentary to Events (weddings, Corporate and concerts). Our style is clean, simple, genuine and composed to communicate essence. We know every event is unique and it is always our delight to create exquisite, candid and creative content with real deep sense of mood in raw emotions peculiar to each client. We look forward to starting a long and lasting meaningful relationship with you. We are based in Lagos, Nigeria and we are available to travel within and outside Africa.</p>
 								</div>
 							</div>
 						</div>
@@ -500,7 +567,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 					<div class="wpb_wrapper">
 						<div class="eltdf-single-image-holder   ">
 							<div class="eltdf-si-inner">
-								<img width="800" height="524" src="./assets/about-us-img-1.jpg" class="attachment-full size-full" alt="m" srcset="https://solene.qodeinteractive.com/wp-content/uploads/2019/12/about-us-img-1.jpg 800w, https://solene.qodeinteractive.com/wp-content/uploads/2019/12/about-us-img-1-300x197.jpg 300w, https://solene.qodeinteractive.com/wp-content/uploads/2019/12/about-us-img-1-768x503.jpg 768w, https://solene.qodeinteractive.com/wp-content/uploads/2019/12/about-us-img-1-600x393.jpg 600w" sizes="(max-width: 800px) 100vw, 800px">
+								<img width="800" height="524" src="./assets/about-us-img-1.jpg" class="attachment-full size-full" alt="m" srcset="assets/about-us-img-1.jpg 800w, assets/about-us-img-1.jpg 300w, assets/about-us-img-1.jpg 768w, assets/about-us-img-1.jpg 600w" sizes="(max-width: 800px) 100vw, 800px">
 							</div>
 						</div>
 						<div class="vc_empty_space" style="height: 27px">
@@ -523,7 +590,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 					<div class="wpb_wrapper">
 						<div class="eltdf-single-image-holder   ">
 							<div class="eltdf-si-inner">
-								<img width="800" height="524" src="./assets/about-us-img-2.jpg" class="attachment-full size-full" alt="m" srcset="https://solene.qodeinteractive.com/wp-content/uploads/2019/12/about-us-img-2.jpg 800w, https://solene.qodeinteractive.com/wp-content/uploads/2019/12/about-us-img-2-300x197.jpg 300w, https://solene.qodeinteractive.com/wp-content/uploads/2019/12/about-us-img-2-768x503.jpg 768w, https://solene.qodeinteractive.com/wp-content/uploads/2019/12/about-us-img-2-600x393.jpg 600w" sizes="(max-width: 800px) 100vw, 800px">
+								<img width="800" height="524" src="./assets/about-us-img-2.jpg" class="attachment-full size-full" alt="m" srcset="assets/about-us-img-2.jpg 800w, assets/about-us-img-2.jpg 300w, assets/about-us-img-2.jpg 768w, assets/about-us-img-2.jpg 600w" sizes="(max-width: 800px) 100vw, 800px">
 							</div>
 						</div>
 						<div class="vc_empty_space" style="height: 27px">
@@ -546,7 +613,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 					<div class="wpb_wrapper">
 						<div class="eltdf-single-image-holder   ">
 							<div class="eltdf-si-inner">
-								<img width="800" height="524" src="./assets/about-us-img-3.jpg" class="attachment-full size-full" alt="m" srcset="https://solene.qodeinteractive.com/wp-content/uploads/2019/12/about-us-img-3.jpg 800w, https://solene.qodeinteractive.com/wp-content/uploads/2019/12/about-us-img-3-300x197.jpg 300w, https://solene.qodeinteractive.com/wp-content/uploads/2019/12/about-us-img-3-768x503.jpg 768w, https://solene.qodeinteractive.com/wp-content/uploads/2019/12/about-us-img-3-600x393.jpg 600w" sizes="(max-width: 800px) 100vw, 800px">
+								<img width="800" height="524" src="./assets/about-us-img-3.jpg" class="attachment-full size-full" alt="m" srcset="assets/about-us-img-3.jpg 800w, assets/about-us-img-3.jpg 300w, assets/about-us-img-3.jpg 768w, assets/about-us-img-3.jpg 600w" sizes="(max-width: 800px) 100vw, 800px">
 							</div>
 						</div>
 						<div class="vc_empty_space" style="height: 27px">
@@ -567,96 +634,8 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 		</div>
 	</div>
 </div>
-<div class="vc_row wpb_row vc_row-fluid vc_custom_1575470155182 vc_row-has-fill">
-	<div class="wpb_column vc_column_container vc_col-sm-12">
-		<div class="vc_column-inner">
-			<div class="wpb_wrapper">
-				<div class="eltdf-row-grid-section-wrapper ">
-					<div class="eltdf-row-grid-section">
-						<div class="vc_row wpb_row vc_inner vc_row-fluid">
-							<div class="wpb_column vc_column_container vc_col-sm-12">
-								<div class="vc_column-inner">
-									<div class="wpb_wrapper">
-										<div class="eltdf-elements-holder   eltdf-two-columns  eltdf-responsive-mode-1024 ">
-											<div class="eltdf-eh-item    " data-item-class="eltdf-eh-custom-3904" data-1025-1399="34px 4% 74px 0%">
-												<div class="eltdf-eh-item-inner">
-													<div class="eltdf-eh-item-content eltdf-eh-custom-3904" style="padding: 35px 13% 74px 0%">
-														<div class="eltdf-section-title-holder   eltdf-section-title-appeared">
-															<div class="eltdf-st-inner">
-																<h2 class="eltdf-st-title">Photo Editing </h2>
-																<h3 class="eltdf-st-subtitle" style="line-height: 32px;margin-top: 10px;text-transform: none;font-style: italic;color: #84847c">
-																	<span>Staurants in the country. This is the place where food meets passion creating the culinary masterpieces that are sure to enchant </span>
-																</h3>
-																<p class="eltdf-st-text" style="color: #72726c">
-																	Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla tempus molestie ligula mattis imperdiet. Quisque vitae erat diam. Cras congue pellentesque imperdiet. Phasellus velit tellus. Quisque vitae erat diam. Cras congue pellentesque imperdiet. Nulla tempus molestie ligula mattis imperdiet.
-																</p>
-															</div>
-														</div>
-													</div>
-												</div>
-											</div>
-											<div class="eltdf-eh-item    " data-item-class="eltdf-eh-custom-6592" data-1025-1399="0 4% 44px 0%">
-												<div class="eltdf-eh-item-inner">
-													<div class="eltdf-eh-item-content eltdf-eh-custom-6592" style="padding: 0 4% 41px 0%">
-														<div class="eltdf-progress-bar  eltdf-pb-percent-floating">
-															<h6 class="eltdf-pb-title-holder">
-																<span class="eltdf-pb-title">Photography</span>
-																<span class="eltdf-pb-percent" style="opacity: 1; left: 85%;">85</span>
-															</h6>
-															<div class="eltdf-pb-content-holder">
-																<div data-percentage="85" class="eltdf-pb-content" style="width: 85%;"></div>
-															</div>
-														</div>
-														<div class="vc_empty_space" style="height: 20px">
-															<span class="vc_empty_space_inner"></span>
-														</div>
-														<div class="eltdf-progress-bar  eltdf-pb-percent-floating">
-															<h6 class="eltdf-pb-title-holder">
-																<span class="eltdf-pb-title">Cinematography</span>
-																<span class="eltdf-pb-percent" style="opacity: 1; left: 80%;">80</span>
-															</h6>
-															<div class="eltdf-pb-content-holder">
-																<div data-percentage="80" class="eltdf-pb-content" style="width: 80%;"></div>
-															</div>
-														</div>
-														<div class="vc_empty_space" style="height: 20px">
-															<span class="vc_empty_space_inner"></span>
-														</div>
-														<div class="eltdf-progress-bar  eltdf-pb-percent-floating">
-															<h6 class="eltdf-pb-title-holder">
-																<span class="eltdf-pb-title">designer</span>
-																<span class="eltdf-pb-percent" style="opacity: 1; left: 90%;">90</span>
-															</h6>
-															<div class="eltdf-pb-content-holder">
-																<div data-percentage="90" class="eltdf-pb-content" style="width: 90%;"></div>
-															</div>
-														</div>
-														<div class="vc_empty_space" style="height: 20px">
-															<span class="vc_empty_space_inner"></span>
-														</div>
-														<div class="eltdf-progress-bar  eltdf-pb-percent-floating">
-															<h6 class="eltdf-pb-title-holder">
-																<span class="eltdf-pb-title">designer</span>
-																<span class="eltdf-pb-percent" style="opacity: 1; left: 95%;">95</span>
-															</h6>
-														<div class="eltdf-pb-content-holder">
-															<div data-percentage="95" class="eltdf-pb-content" style="width: 95%;"></div>
-														</div>
-													</div>
-												</div>
-											</div>
-										</div>
-									</div>
-								</div>
-							</div>
-						</div>
-					</div>
-				</div>
-			</div>
-		</div>
-	</div>
-</div>
-</div>
+
+
 <div class="vc_row wpb_row vc_row-fluid vc_custom_1575470855192 eltdf-content-aligment-center">
 	<div class="wpb_column vc_column_container vc_col-sm-12">
 		<div class="vc_column-inner">
@@ -682,7 +661,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 						<div class="eltdf-team-holder eltdf-team-info-below-image">
 							<div class="eltdf-team-inner">
 								<div class="eltdf-team-image">
-									<img width="800" height="1142" src="./assets/team-img-1.jpg" class="main-image" alt="d" srcset="https://solene.qodeinteractive.com/wp-content/uploads/2019/11/team-img-1.jpg 800w, https://solene.qodeinteractive.com/wp-content/uploads/2019/11/team-img-1-210x300.jpg 210w, https://solene.qodeinteractive.com/wp-content/uploads/2019/11/team-img-1-717x1024.jpg 717w, https://solene.qodeinteractive.com/wp-content/uploads/2019/11/team-img-1-768x1096.jpg 768w, https://solene.qodeinteractive.com/wp-content/uploads/2019/11/team-img-1-600x857.jpg 600w" sizes="(max-width: 800px) 100vw, 800px">
+									<img width="800" height="1142" src="./assets/team-img-1.jpg" class="main-image" alt="d" srcset="assets/team-img-1.jpg 800w, assets/team-img-1.jpg 210w, assets/team-img-1.jpg 717w, assets/team-img-1.jpg 768w, assets/team-img-1.jpg 600w" sizes="(max-width: 800px) 100vw, 800px">
 									<div class="eltdf-team-hover-image">
 										<img width="150" height="133" src="./assets/team-hover-img-1.png" class="attachment-full size-full" alt="m">
 									</div>
@@ -692,8 +671,8 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 									<h3 class="eltdf-team-name">Maria Smith</h3>
 									<div class="eltdf-team-textual-social-holder">
 										<a class="eltdf-team-icon" href="https://www.facebook.com/glintzphotography/" target="_blank">FB</a>
-										<a class="eltdf-team-icon" href="https://www.instagram.com/glintzphotography/" target="_blank">IN</a>
-										<a class="eltdf-team-icon" href="https://twitter.com/glintzphotography" target="_blank">TW</a>
+										<a class="eltdf-team-icon" href="https://www.instagram.com/glintz_photography/" target="_blank">IN</a>
+										<a class="eltdf-team-icon" href="https://twitter.com/glintzmedia " target="_blank">TW</a>
 									</div>
 								</div>
 							</div>
@@ -710,7 +689,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 						<div class="eltdf-team-holder eltdf-team-info-below-image">
 							<div class="eltdf-team-inner">
 								<div class="eltdf-team-image" style="margin-top: 40px">
-									<img width="800" height="1142" src="./assets/team-img-2.jpg" class="main-image" alt="d" srcset="https://solene.qodeinteractive.com/wp-content/uploads/2019/11/team-img-2.jpg 800w, https://solene.qodeinteractive.com/wp-content/uploads/2019/11/team-img-2-210x300.jpg 210w, https://solene.qodeinteractive.com/wp-content/uploads/2019/11/team-img-2-717x1024.jpg 717w, https://solene.qodeinteractive.com/wp-content/uploads/2019/11/team-img-2-768x1096.jpg 768w, https://solene.qodeinteractive.com/wp-content/uploads/2019/11/team-img-2-600x857.jpg 600w" sizes="(max-width: 800px) 100vw, 800px">
+									<img width="800" height="1142" src="./assets/team-img-2.jpg" class="main-image" alt="d" srcset="assets/team-img-2.jpg 800w, assets/team-img-2.jpg 210w,assets/team-img-2.jpg 717w, assets/team-img-2.jpg 768w, assets/team-img-2.jpg 600w" sizes="(max-width: 800px) 100vw, 800px">
 									<div class="eltdf-team-hover-image">
 										<img width="150" height="183" src="./assets/team-hover-img-2.png" class="attachment-full size-full" alt="m">
 									</div>
@@ -720,8 +699,8 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 									<h3 class="eltdf-team-name">Viola Jensen</h3>
 									<div class="eltdf-team-textual-social-holder">
 										<a class="eltdf-team-icon" href="https://www.facebook.com/glintzphotography/" target="_blank">FB</a>
-										<a class="eltdf-team-icon" href="https://www.instagram.com/glintzphotography/" target="_blank">IN</a>
-										<a class="eltdf-team-icon" href="https://twitter.com/glintzphotography" target="_blank">TW</a>
+										<a class="eltdf-team-icon" href="https://www.instagram.com/glintz_photography/" target="_blank">IN</a>
+										<a class="eltdf-team-icon" href="https://twitter.com/glintzmedia" target="_blank">TW</a>
 									</div>
 								</div>
 							</div>
@@ -737,43 +716,67 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 					<div class="wpb_wrapper">
 						<div class="eltdf-elements-holder   eltdf-one-column  eltdf-responsive-mode-768 ">
 							<div class="eltdf-eh-item    " data-item-class="eltdf-eh-custom-1750" data-680="40px 0 0">
-<div class="eltdf-eh-item-inner">
-<div class="eltdf-eh-item-content eltdf-eh-custom-1750">
-<div class="eltdf-team-holder eltdf-team-info-below-image">
-<div class="eltdf-team-inner">
-<div class="eltdf-team-image">
-<img width="800" height="1142" src="./assets/team-img-3.jpg" class="main-image" alt="d" srcset="https://solene.qodeinteractive.com/wp-content/uploads/2019/11/team-img-3.jpg 800w, https://solene.qodeinteractive.com/wp-content/uploads/2019/11/team-img-3-210x300.jpg 210w, https://solene.qodeinteractive.com/wp-content/uploads/2019/11/team-img-3-717x1024.jpg 717w, https://solene.qodeinteractive.com/wp-content/uploads/2019/11/team-img-3-768x1096.jpg 768w, https://solene.qodeinteractive.com/wp-content/uploads/2019/11/team-img-3-600x857.jpg 600w" sizes="(max-width: 800px) 100vw, 800px" style="filter: blur(0px);"> <div class="eltdf-team-hover-image">
-<img width="150" height="120" src="./assets/team-hover-img-3.png" class="attachment-full size-full" alt="m"> </div>
-</div>
-<div class="eltdf-team-info">
-<span class="eltdf-team-position">Photographer</span>
-<h3 class="eltdf-team-name">Felicia Davis</h3>
-<div class="eltdf-team-textual-social-holder">
-<a class="eltdf-team-icon" href="https://www.facebook.com/glintzphotography/" target="_blank">FB</a>
-<a class="eltdf-team-icon" href="https://www.instagram.com/glintzphotography/" target="_blank">IN</a>
-<a class="eltdf-team-icon" href="https://twitter.com/glintzphotography" target="_blank">TW</a>
-</div>
-</div>
-</div>
-</div> </div>
-</div>
-</div></div><div class="vc_empty_space" style="height: 32px"><span class="vc_empty_space_inner"></span></div></div></div></div><div class="wpb_column vc_column_container vc_col-sm-6 vc_col-lg-3"><div class="vc_column-inner"><div class="wpb_wrapper"><div class="eltdf-team-holder eltdf-team-info-below-image">
-<div class="eltdf-team-inner">
-<div class="eltdf-team-image" style="margin-top: 40px">
-<img width="800" height="1142" src="./assets/team-img-4.jpg" class="main-image" alt="d" srcset="https://solene.qodeinteractive.com/wp-content/uploads/2019/11/team-img-4.jpg 800w, https://solene.qodeinteractive.com/wp-content/uploads/2019/11/team-img-4-210x300.jpg 210w, https://solene.qodeinteractive.com/wp-content/uploads/2019/11/team-img-4-717x1024.jpg 717w, https://solene.qodeinteractive.com/wp-content/uploads/2019/11/team-img-4-768x1096.jpg 768w, https://solene.qodeinteractive.com/wp-content/uploads/2019/11/team-img-4-600x857.jpg 600w" sizes="(max-width: 800px) 100vw, 800px"> <div class="eltdf-team-hover-image">
-<img width="150" height="164" src="./assets/team-hover-img-4.png" class="attachment-full size-full" alt="m"> </div>
-</div>
-<div class="eltdf-team-info">
-<span class="eltdf-team-position">Photographer</span>
-<h3 class="eltdf-team-name">Jeff Alvarez</h3>
-<div class="eltdf-team-textual-social-holder">
-<a class="eltdf-team-icon" href="https://www.facebook.com/glintzphotography/" target="_blank">FB</a>
-<a class="eltdf-team-icon" href="https://www.instagram.com/glintzphotography/" target="_blank">IN</a>
-<a class="eltdf-team-icon" href="https://twitter.com/glintzphotography" target="_blank">TW</a>
-</div>
-</div>
-</div>
-</div><div class="vc_empty_space" style="height: 32px"><span class="vc_empty_space_inner"></span></div></div></div></div></div></div></div>
+								<div class="eltdf-eh-item-inner">
+									<div class="eltdf-eh-item-content eltdf-eh-custom-1750">
+										<div class="eltdf-team-holder eltdf-team-info-below-image">
+											<div class="eltdf-team-inner">
+												<div class="eltdf-team-image">
+													<img width="800" height="1142" src="./assets/team-img-3.jpg" class="main-image" alt="d" srcset="assets/team-img-3.jpg 800w, assets/team-img-3.jpg 210w, assets/team-img-3.jpg 717w, assets/team-img-3.jpg 768w, assets/team-img-3.jpg 600w" sizes="(max-width: 800px) 100vw, 800px" style="filter: blur(0px);">
+													<div class="eltdf-team-hover-image">
+														<img width="150" height="120" src="./assets/team-hover-img-3.png" class="attachment-full size-full" alt="m">
+													</div>
+												</div>
+												<div class="eltdf-team-info">
+													<span class="eltdf-team-position">Photographer</span>
+													<h3 class="eltdf-team-name">Felicia Davis</h3>
+													<div class="eltdf-team-textual-social-holder">
+														<a class="eltdf-team-icon" href="https://www.facebook.com/glintzphotography/" target="_blank">FB</a>
+														<a class="eltdf-team-icon" href="https://www.instagram.com/glintz_photography/" target="_blank">IN</a>
+														<a class="eltdf-team-icon" href="https://twitter.com/glintzmedia" target="_blank">TW</a>
+													</div>
+												</div>
+											</div>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+						<div class="vc_empty_space" style="height: 32px">
+							<span class="vc_empty_space_inner"></span>
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="wpb_column vc_column_container vc_col-sm-6 vc_col-lg-3">
+				<div class="vc_column-inner">
+					<div class="wpb_wrapper">
+						<div class="eltdf-team-holder eltdf-team-info-below-image">
+							<div class="eltdf-team-inner">
+								<div class="eltdf-team-image" style="margin-top: 40px">
+									<img width="800" height="1142" src="./assets/team-img-4.jpg" class="main-image" alt="d" srcset="assets/team-img-4.jpg 800w, assets/team-img-4.jpg 210w, assets/team-img-4.jpg 717w, assets/team-img-4.jpg 768w, assets/team-img-4.jpg 600w" sizes="(max-width: 800px) 100vw, 800px">
+									<div class="eltdf-team-hover-image">
+										<img width="150" height="164" src="./assets/team-hover-img-4.png" class="attachment-full size-full" alt="m"> </div>
+									</div>
+									<div class="eltdf-team-info">
+										<span class="eltdf-team-position">Photographer</span>
+										<h3 class="eltdf-team-name">Jeff Alvarez</h3>
+										<div class="eltdf-team-textual-social-holder">
+											<a class="eltdf-team-icon" href="https://www.facebook.com/glintzphotography/" target="_blank">FB</a>
+											<a class="eltdf-team-icon" href="https://www.instagram.com/glintzphotography/" target="_blank">IN</a>
+											<a class="eltdf-team-icon" href="https://twitter.com/glintzmedia " target="_blank">TW</a>
+										</div>
+									</div>
+								</div>
+							</div>
+							<div class="vc_empty_space" style="height: 32px">
+								<span class="vc_empty_space_inner"></span>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
 
 
 
@@ -788,30 +791,30 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 								<div class="eltdf-ils-holder eltdf-ils-split ">
 									<div class="eltdf-ils-content-holder">
 										<a itemprop="url" class="eltdf-ils-item-link eltdf-active" data-index="0" href="#four-columns-wide/" target="_self">
-										<span class="eltdf-ils-item-title">Fashion</span>
+										<span class="eltdf-ils-item-title">Portraits</span>
 										</a>
 										<a itemprop="url" class="eltdf-ils-item-link" data-index="1" href="#" target="_self">
-										<span class="eltdf-ils-item-title">Spring</span>
-										</a>
-										<a itemprop="url" class="eltdf-ils-item-link" data-index="2" href="#" target="_self">
 										<span class="eltdf-ils-item-title">Wedding</span>
 										</a>
+										<a itemprop="url" class="eltdf-ils-item-link" data-index="2" href="#" target="_self">
+										<span class="eltdf-ils-item-title">Events</span>
+										</a>
 										<a itemprop="url" class="eltdf-ils-item-link" data-index="3" href="#" target="_self">
-										<span class="eltdf-ils-item-title">Event</span>
+										<span class="eltdf-ils-item-title">Documentary</span>
 										</a>
 									</div>
 									<div class="eltdf-ils-item-images-holder">
 										<div class="eltdf-ils-item-image eltdf-active">
-											<img width="1300" height="718" src="./Aassets/h1-img-4.jpg" class="attachment-full size-full" alt="d" srcset="https://solene.qodeinteractive.com/wp-content/uploads/2019/11/h1-img-4.jpg 1300w, https://solene.qodeinteractive.com/wp-content/uploads/2019/11/h1-img-4-300x166.jpg 300w, https://solene.qodeinteractive.com/wp-content/uploads/2019/11/h1-img-4-1024x566.jpg 1024w, https://solene.qodeinteractive.com/wp-content/uploads/2019/11/h1-img-4-768x424.jpg 768w, https://solene.qodeinteractive.com/wp-content/uploads/2019/11/h1-img-4-600x331.jpg 600w" sizes="(max-width: 1300px) 100vw, 1300px">
+											<img width="1300" height="718" src="./assets/h1-img-4.jpg" class="attachment-full size-full" alt="d" srcset="assets/h1-img-4.jpg 1300w, assets/h1-img-4.jpg 300w, assets/h1-img-4.jpg 1024w, assets/h1-img-4.jpg 768w, assets/h1-img-4.jpg 600w" sizes="(max-width: 1300px) 100vw, 1300px">
 										</div>
 										<div class="eltdf-ils-item-image">
-											<img width="1300" height="718" src="./assets/h1-img-5.jpg" class="attachment-full size-full" alt="d" srcset="https://solene.qodeinteractive.com/wp-content/uploads/2019/11/h1-img-5.jpg 1300w, https://solene.qodeinteractive.com/wp-content/uploads/2019/11/h1-img-5-300x166.jpg 300w, https://solene.qodeinteractive.com/wp-content/uploads/2019/11/h1-img-5-1024x566.jpg 1024w, https://solene.qodeinteractive.com/wp-content/uploads/2019/11/h1-img-5-768x424.jpg 768w, https://solene.qodeinteractive.com/wp-content/uploads/2019/11/h1-img-5-600x331.jpg 600w" sizes="(max-width: 1300px) 100vw, 1300px"> 
+											<img width="1300" height="718" src="./assets/h1-img-5.jpg" class="attachment-full size-full" alt="d" srcset="assets/h1-img-5.jpg 1300w, assets/h1-img-5.jpg 300w, assets/h1-img-5.jpg 1024w, assets/h1-img-5.jpg 768w, assets/h1-img-5.jpg 600w" sizes="(max-width: 1300px) 100vw, 1300px"> 
 										</div>
 										<div class="eltdf-ils-item-image">
-											<img width="1300" height="718" src="./assets/h1-img-6.jpg" class="attachment-full size-full" alt="d" srcset="https://solene.qodeinteractive.com/wp-content/uploads/2019/11/h1-img-6.jpg 1300w, https://solene.qodeinteractive.com/wp-content/uploads/2019/11/h1-img-6-300x166.jpg 300w, https://solene.qodeinteractive.com/wp-content/uploads/2019/11/h1-img-6-1024x566.jpg 1024w, https://solene.qodeinteractive.com/wp-content/uploads/2019/11/h1-img-6-768x424.jpg 768w, https://solene.qodeinteractive.com/wp-content/uploads/2019/11/h1-img-6-600x331.jpg 600w" sizes="(max-width: 1300px) 100vw, 1300px"> 
+											<img width="1300" height="718" src="./assets/h1-img-6.jpg" class="attachment-full size-full" alt="d" srcset="assets/h1-img-6.jpg 1300w, assets/h1-img-6.jpg 300w, assets/h1-img-6.jpg 1024w, assets/h1-img-6.jpg 768w, assets/h1-img-6.jpg 600w" sizes="(max-width: 1300px) 100vw, 1300px"> 
 										</div>
 										<div class="eltdf-ils-item-image">
-											<img width="1300" height="718" src="./assets/h1-img-7.jpg" class="attachment-full size-full" alt="d" srcset="https://solene.qodeinteractive.com/wp-content/uploads/2019/11/h1-img-7.jpg 1300w, https://solene.qodeinteractive.com/wp-content/uploads/2019/11/h1-img-7-300x166.jpg 300w, https://solene.qodeinteractive.com/wp-content/uploads/2019/11/h1-img-7-1024x566.jpg 1024w, https://solene.qodeinteractive.com/wp-content/uploads/2019/11/h1-img-7-768x424.jpg 768w, https://solene.qodeinteractive.com/wp-content/uploads/2019/11/h1-img-7-600x331.jpg 600w" sizes="(max-width: 1300px) 100vw, 1300px"> 
+											<img width="1300" height="718" src="./assets/h1-img-7.jpg" class="attachment-full size-full" alt="d" srcset="assets/h1-img-7.jpg 1300w, assets/h1-img-7.jpg 300w, assets/h1-img-7.jpg 1024w, assets/h1-img-7.jpg 768w, assets/h1-img-7.jpg 600w" sizes="(max-width: 1300px) 100vw, 1300px"> 
 										</div>
 									</div>
 								</div>
@@ -986,7 +989,7 @@ Testimonials </h2>
 											<img src="./images/slider2.jpg" alt=""> </a>
 										</li>
 										<li class="eltdf-il-item eltdf-item-space">
-											<a href="https://www.instagram.com/glintzphotography/" target="_blank">
+											<a href="https://www.instagram.com/glintz_photography/" target="_blank">
 											<img src="./images/slider3.jpg" alt=""> </a>
 										</li>
 										<li class="eltdf-il-item eltdf-item-space">
@@ -1055,10 +1058,10 @@ Testimonials </h2>
 												<a class="eltdf-social-icon-widget-holder eltdf-icon-has-hover" style="color: #84847c;;margin: 27px 0 0 0;" href="https://www.facebook.com/glintzphotography/" target="_blank" rel="noopener noreferrer">
 													<span>FB</span>
 												</a>
-												<a class="eltdf-social-icon-widget-holder eltdf-icon-has-hover" style="color: #84847c;;margin: 27px 0 0 0;" href="https://www.instagram.com/glintzphotography/" target="_blank" rel="noopener noreferrer">
+												<a class="eltdf-social-icon-widget-holder eltdf-icon-has-hover" style="color: #84847c;;margin: 27px 0 0 0;" href="https://www.instagram.com/glintz_photography/" target="_blank" rel="noopener noreferrer">
 													<span>IN</span>
 												</a>
-												<a class="eltdf-social-icon-widget-holder eltdf-icon-has-hover" style="color: #84847c;;margin: 27px 0 0 0;" href="https://twitter.com/glintzphotography" target="_blank" rel="noopener noreferrer">
+												<a class="eltdf-social-icon-widget-holder eltdf-icon-has-hover" style="color: #84847c;;margin: 27px 0 0 0;" href="https://twitter.com/glintzmedia" target="_blank" rel="noopener noreferrer">
 													<span>TW</span>
 												</a>
 											</div>
@@ -1070,7 +1073,7 @@ Testimonials </h2>
 								<div class="vc_column-inner">
 									<div class="wpb_wrapper">
 										<h2 class="eltdf-custom-font-holder  eltdf-cf-1075  " style="font-family: Cormorant Garamond,serif;font-size: 20px;line-height: 25px;font-weight: 400;font-style: italic;letter-spacing: 0px;text-transform: capitalize;text-align: right;color: #4d504a" data-item-class="eltdf-cf-1075">
-											<a class="eltdf-cf-title-link" href="https://unstagram.com/oprimeng" target="_blank" rel="noopener noreferrer">Developed by Oprime Technologies</a>
+											Developed by <a class="eltdf-cf-title-link" href="https://instagram.com/oprimeng" target="_blank" rel="noopener noreferrer">Oprime Technologies</a>
 										</h2>
 									</div>
 								</div>
@@ -1175,10 +1178,10 @@ Testimonials </h2>
 		<a class="eltdf-social-icon-widget-holder eltdf-icon-has-hover" data-hover-color="#ffffff" style="font-size: 15px" href="https://www.facebook.com/glintzphotography/" target="_blank">
 			<span class="eltdf-social-icon-widget fab fa-facebook-f"></span> 
 		</a>
-		<a class="eltdf-social-icon-widget-holder eltdf-icon-has-hover" data-hover-color="#ffffff" style="font-size: 15px" href="https://www.instagram.com/glintzphotography/" target="_blank">
+		<a class="eltdf-social-icon-widget-holder eltdf-icon-has-hover" data-hover-color="#ffffff" style="font-size: 15px" href="https://www.instagram.com/glintz_photography/" target="_blank">
 			<span class="eltdf-social-icon-widget fab fa-instagram"></span>
 		</a>
-		<a class="eltdf-social-icon-widget-holder eltdf-icon-has-hover" data-hover-color="#ffffff" style="font-size: 15px" href="https://twitter.com/glintzphotography" target="_blank">
+		<a class="eltdf-social-icon-widget-holder eltdf-icon-has-hover" data-hover-color="#ffffff" style="font-size: 15px" href="https://twitter.com/glintzmedia " target="_blank">
 			<span class="eltdf-social-icon-widget fab fa-twitter"></span>
 		</a>
 		<a class="eltdf-social-icon-widget-holder eltdf-icon-has-hover" data-hover-color="#ffffff" style="font-size: 15px" href="https://www.youtube.com/glintzphotography" target="_blank">
