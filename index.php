@@ -1958,16 +1958,16 @@ Alienum phaedrum torquatos </span>
             </div>
             <div class="widget eltdf-social-icons-group-widget text-align-center">
                 <a class="eltdf-social-icon-widget-holder eltdf-icon-has-hover" data-hover-color="#afafa5" style="color: #84847c;;font-size: 18px;margin: -44px 0 -30px 0;" href="https://www.facebook.com/glintz_photography" target="_blank">
-                    <img src="https://img.icons8.com/officel/16/000000/facebook-new.png"/>
+                    <img src="https://img.icons8.com/ios-glyphs/24/000000/facebook-new.png" height="20px" width="20px"/>
                 </a>
                 <a class="eltdf-social-icon-widget-holder eltdf-icon-has-hover" data-hover-color="#afafa5" style="color: #84847c;;font-size: 18px;margin: -44px 0 -30px 0;" href="https://www.instagram.com/glintz_photography/" target="_blank">
-                    <img src="https://img.icons8.com/android/24/ffffff/facebook-new.png"/>
+                    <img src="https://img.icons8.com/material-outlined/24/000000/instagram-new--v1.png" height="20px" width="20px"/>
                 </a>
                 <a class="eltdf-social-icon-widget-holder eltdf-icon-has-hover" data-hover-color="#afafa5" style="color: #84847c;;font-size: 18px;margin: -44px 0 -30px 0;" href="https://twitter.com/glintzmedia" target="_blank">
-                    <img src="https://img.icons8.com/cute-clipart/64/000000/twitter.png" height="20px" width="20px"/>
+                    <img src="https://img.icons8.com/ios-glyphs/30/000000/twitter.png" height="20px" width="20px"/>
                 </a>
                 <a class="eltdf-social-icon-widget-holder eltdf-icon-has-hover" data-hover-color="#afafa5" style="color: #84847c;;font-size: 18px;margin: -44px 0 -30px 0;" href="https://www.youtube.com/glintz_photography" target="_blank">
-                    <img src="https://img.icons8.com/cute-clipart/64/000000/youtube.png" height="20px" width="20px"/>
+                    <img src="https://img.icons8.com/material-outlined/24/000000/youtube--v2.png" height="20px" width="20px"/>
                 </a>
             </div>
             <div id="text-4" class="widget eltdf-footer-column-1 widget_text">
@@ -2175,16 +2175,16 @@ Alienum phaedrum torquatos </span>
     </div>
     <div class="widget eltdf-social-icons-group-widget text-align-center">
         <a class="eltdf-social-icon-widget-holder eltdf-icon-has-hover" data-hover-color="#ffffff" style="font-size: 15px" href="#" target="_blank">
-            <img src="https://img.icons8.com/android/24/ffffff/facebook-new.png"/>
+            <img src="https://img.icons8.com/ios-glyphs/24/000000/facebook-new.png" height="20px" width="20px"/>
         </a>
         <a class="eltdf-social-icon-widget-holder eltdf-icon-has-hover" data-hover-color="#ffffff" style="font-size: 15px" href="https://www.instagram.com/glintz_photography/" target="_blank">
-            <img src="https://img.icons8.com/material-outlined/24/ffffff/instagram-new--v1.png"/>
+            <img src="https://img.icons8.com/material-outlined/24/000000/instagram-new--v1.png" height="20px" width="20px"/>
         </a>
         <a class="eltdf-social-icon-widget-holder eltdf-icon-has-hover" data-hover-color="#ffffff" style="font-size: 15px" href="https://twitter.com/glintzmedia" target="_blank">
-            <img src="https://img.icons8.com/android/24/ffffff/twitter.png"/>
+            <img src="https://img.icons8.com/ios-glyphs/30/000000/twitter.png" height="20px" width="20px"/>
         </a>
         <a class="eltdf-social-icon-widget-holder eltdf-icon-has-hover" data-hover-color="#ffffff" style="font-size: 15px" href="https://www.youtube.com/" target="_blank">
-            <span class="eltdf-social-icon-widget fab fa-youtube"></span>
+            <img src="https://img.icons8.com/material-outlined/24/000000/youtube--v2.png" height="20px" width="20px"/>
         </a>
     </div>
     <div class="widget eltdf-separator-widget">

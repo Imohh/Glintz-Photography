@@ -794,14 +794,17 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 					</div>
 					<div class="widget eltdf-social-icons-group-widget text-align-center">
 						<a class="eltdf-social-icon-widget-holder eltdf-icon-has-hover" data-hover-color="#afafa5" style="color: #84847c;;font-size: 18px;margin: -44px 0 -30px 0;" href="https://www.facebook.com/" target="_blank">
-						<span class="eltdf-social-icon-widget fab fa-facebook-f"></span> </a>
+							<img src="https://img.icons8.com/ios-glyphs/24/000000/facebook-new.png" height="20px" width="20px"/>
+						</a>
 						<a class="eltdf-social-icon-widget-holder eltdf-icon-has-hover" data-hover-color="#afafa5" style="color: #84847c;;font-size: 18px;margin: -44px 0 -30px 0;" href="https://www.instagram.com/glintz_photography/" target="_blank">
-						<span class="eltdf-social-icon-widget fab fa-instagram"></span>
+				            <img src="https://img.icons8.com/material-outlined/24/000000/instagram-new--v1.png" height="20px" width="20px"/>
 						</a>
 						<a class="eltdf-social-icon-widget-holder eltdf-icon-has-hover" data-hover-color="#afafa5" style="color: #84847c;;font-size: 18px;margin: -44px 0 -30px 0;" href="https://twitter.com/glintzmedia " target="_blank">
-						<span class="eltdf-social-icon-widget fab fa-twitter"></span> </a>
+							<img src="https://img.icons8.com/ios-glyphs/30/000000/twitter.png" height="20px" width="20px"/>
+						</a>
 						<a class="eltdf-social-icon-widget-holder eltdf-icon-has-hover" data-hover-color="#afafa5" style="color: #84847c;;font-size: 18px;margin: -44px 0 -30px 0;" href="https://www.youtube.com/" target="_blank">
-						<span class="eltdf-social-icon-widget fab fa-youtube"></span> </a>
+							<img src="https://img.icons8.com/material-outlined/24/000000/youtube--v2.png" height="20px" width="20px"/>
+						</a>
 					</div>
 					<div id="text-4" class="widget eltdf-footer-column-1 widget_text">
 						<div class="textwidget">
@@ -821,43 +824,46 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 								<img width="144" height="113" src="./images/glintz-logo-black.png" class="attachment-full size-full" alt="m">
 							</div>
 							<!-- <div class="eltdf-s-text" data-count="42">
-								<span class="eltdf-s-character" style="transform: rotate(-90deg) translateZ(0px); transition-delay: 0ms;">-</span> 
-								<span class="eltdf-s-character" style="transform: rotate(-81.4286deg) translateZ(0px); transition-delay: 14.2857ms;"> </span> 
-								<span class="eltdf-s-character" style="transform: rotate(-72.8571deg) translateZ(0px); transition-delay: 28.5714ms;">W</span> 
-								<span class="eltdf-s-character" style="transform: rotate(-64.2857deg) translateZ(0px); transition-delay: 42.8571ms;">e</span> 
-								<span class="eltdf-s-character" style="transform: rotate(-55.7143deg) translateZ(0px); transition-delay: 57.1429ms;">d</span> 
-								<span class="eltdf-s-character" style="transform: rotate(-47.1429deg) translateZ(0px); transition-delay: 71.4286ms;">d</span> 
-								<span class="eltdf-s-character" style="transform: rotate(-38.5714deg) translateZ(0px); transition-delay: 85.7143ms;">i</span> 
-								<span class="eltdf-s-character" style="transform: rotate(-30deg) translateZ(0px); transition-delay: 100ms;">n</span> 
-								<span class="eltdf-s-character" style="transform: rotate(-21.4286deg) translateZ(0px); transition-delay: 114.286ms;">g</span> 
-								<span class="eltdf-s-character" style="transform: rotate(-12.8571deg) translateZ(0px); transition-delay: 128.571ms;"> </span> 
-								<span class="eltdf-s-character" style="transform: rotate(-4.28571deg) translateZ(0px); transition-delay: 142.857ms;">-</span> 
-								<span class="eltdf-s-character" style="transform: rotate(4.28571deg) translateZ(0px); transition-delay: 157.143ms;"> </span> 
-								<span class="eltdf-s-character" style="transform: rotate(12.8571deg) translateZ(0px); transition-delay: 171.429ms;">P</span> 
-								<span class="eltdf-s-character" style="transform: rotate(21.4286deg) translateZ(0px); transition-delay: 185.714ms;">h</span> 
-								<span class="eltdf-s-character" style="transform: rotate(30deg) translateZ(0px); transition-delay: 200ms;">o</span> 
-								<span class="eltdf-s-character" style="transform: rotate(38.5714deg) translateZ(0px); transition-delay: 214.286ms;">t</span> 
-								<span class="eltdf-s-character" style="transform: rotate(47.1429deg) translateZ(0px); transition-delay: 228.571ms;">o</span> 
-								<span class="eltdf-s-character" style="transform: rotate(55.7143deg) translateZ(0px); transition-delay: 242.857ms;">g</span> 
-								<span class="eltdf-s-character" style="transform: rotate(64.2857deg) translateZ(0px); transition-delay: 257.143ms;">r</span> 
-								<span class="eltdf-s-character" style="transform: rotate(72.8571deg) translateZ(0px); transition-delay: 271.429ms;">a</span> 
-								<span class="eltdf-s-character" style="transform: rotate(81.4286deg) translateZ(0px); transition-delay: 285.714ms;">p</span> 
-								<span class="eltdf-s-character" style="transform: rotate(90deg) translateZ(0px); transition-delay: 300ms;">h</span> <span class="eltdf-s-character" style="transform: rotate(98.5714deg) translateZ(0px); transition-delay: 314.286ms;">y</span> <span class="eltdf-s-character" style="transform: rotate(107.143deg) translateZ(0px); transition-delay: 328.571ms;"> </span> 
-								<span class="eltdf-s-character" style="transform: rotate(115.714deg) translateZ(0px); transition-delay: 342.857ms;">-</span> 
-								<span class="eltdf-s-character" style="transform: rotate(124.286deg) translateZ(0px); transition-delay: 357.143ms;"> </span> 
-								<span class="eltdf-s-character" style="transform: rotate(132.857deg) translateZ(0px); transition-delay: 371.429ms;">s</span> 
-								<span class="eltdf-s-character" style="transform: rotate(141.429deg) translateZ(0px); transition-delay: 385.714ms;">t</span> 
-								<span class="eltdf-s-character" style="transform: rotate(150deg) translateZ(0px); transition-delay: 400ms;">u</span> <span class="eltdf-s-character" style="transform: rotate(158.571deg) translateZ(0px); transition-delay: 414.286ms;">d</span> 
-								<span class="eltdf-s-character" style="transform: rotate(167.143deg) translateZ(0px); transition-delay: 428.571ms;">i</span> 
-								<span class="eltdf-s-character" style="transform: rotate(175.714deg) translateZ(0px); transition-delay: 442.857ms;">o</span> 
-								<span class="eltdf-s-character" style="transform: rotate(184.286deg) translateZ(0px); transition-delay: 457.143ms;"> </span> 
-								<span class="eltdf-s-character" style="transform: rotate(192.857deg) translateZ(0px); transition-delay: 471.429ms;">-</span> 
-								<span class="eltdf-s-character" style="transform: rotate(201.429deg) translateZ(0px); transition-delay: 485.714ms;"> </span> 
-								<span class="eltdf-s-character" style="transform: rotate(210deg) translateZ(0px); transition-delay: 500ms;">s</span> 
-								<span class="eltdf-s-character" style="transform: rotate(218.571deg) translateZ(0px); transition-delay: 514.286ms;">o</span> 
-								<span class="eltdf-s-character" style="transform: rotate(227.143deg) translateZ(0px); transition-delay: 528.571ms;">l</span> 
-								<span class="eltdf-s-character" style="transform: rotate(235.714deg) translateZ(0px); transition-delay: 542.857ms;">e</span> 
-								<span class="eltdf-s-character" style="transform: rotate(244.286deg) translateZ(0px); transition-delay: 557.143ms;">n</span> 
+								<span class="eltdf-s-character" style="transform: rotate(-90deg) translateZ(0px); transition-delay: 0ms;">-</span>
+								<span class="eltdf-s-character" style="transform: rotate(-81.4286deg) translateZ(0px); transition-delay: 14.2857ms;"> </span>
+								<span class="eltdf-s-character" style="transform: rotate(-72.8571deg) translateZ(0px); transition-delay: 28.5714ms;">W</span>
+								<span class="eltdf-s-character" style="transform: rotate(-64.2857deg) translateZ(0px); transition-delay: 42.8571ms;">e</span>
+								<span class="eltdf-s-character" style="transform: rotate(-55.7143deg) translateZ(0px); transition-delay: 57.1429ms;">d</span>
+								<span class="eltdf-s-character" style="transform: rotate(-47.1429deg) translateZ(0px); transition-delay: 71.4286ms;">d</span>
+								<span class="eltdf-s-character" style="transform: rotate(-38.5714deg) translateZ(0px); transition-delay: 85.7143ms;">i</span>
+								<span class="eltdf-s-character" style="transform: rotate(-30deg) translateZ(0px); transition-delay: 100ms;">n</span>
+								<span class="eltdf-s-character" style="transform: rotate(-21.4286deg) translateZ(0px); transition-delay: 114.286ms;">g</span>
+								<span class="eltdf-s-character" style="transform: rotate(-12.8571deg) translateZ(0px); transition-delay: 128.571ms;"> </span>
+								<span class="eltdf-s-character" style="transform: rotate(-4.28571deg) translateZ(0px); transition-delay: 142.857ms;">-</span>
+								<span class="eltdf-s-character" style="transform: rotate(4.28571deg) translateZ(0px); transition-delay: 157.143ms;"> </span>
+								<span class="eltdf-s-character" style="transform: rotate(12.8571deg) translateZ(0px); transition-delay: 171.429ms;">P</span>
+								<span class="eltdf-s-character" style="transform: rotate(21.4286deg) translateZ(0px); transition-delay: 185.714ms;">h</span>
+								<span class="eltdf-s-character" style="transform: rotate(30deg) translateZ(0px); transition-delay: 200ms;">o</span>
+								<span class="eltdf-s-character" style="transform: rotate(38.5714deg) translateZ(0px); transition-delay: 214.286ms;">t</span>
+								<span class="eltdf-s-character" style="transform: rotate(47.1429deg) translateZ(0px); transition-delay: 228.571ms;">o</span>
+								<span class="eltdf-s-character" style="transform: rotate(55.7143deg) translateZ(0px); transition-delay: 242.857ms;">g</span>
+								<span class="eltdf-s-character" style="transform: rotate(64.2857deg) translateZ(0px); transition-delay: 257.143ms;">r</span>
+								<span class="eltdf-s-character" style="transform: rotate(72.8571deg) translateZ(0px); transition-delay: 271.429ms;">a</span>
+								<span class="eltdf-s-character" style="transform: rotate(81.4286deg) translateZ(0px); transition-delay: 285.714ms;">p</span>
+								<span class="eltdf-s-character" style="transform: rotate(90deg) translateZ(0px); transition-delay: 300ms;">h</span>
+								<span class="eltdf-s-character" style="transform: rotate(98.5714deg) translateZ(0px); transition-delay: 314.286ms;">y</span>
+								<span class="eltdf-s-character" style="transform: rotate(107.143deg) translateZ(0px); transition-delay: 328.571ms;"> </span>
+								<span class="eltdf-s-character" style="transform: rotate(115.714deg) translateZ(0px); transition-delay: 342.857ms;">-</span>
+								<span class="eltdf-s-character" style="transform: rotate(124.286deg) translateZ(0px); transition-delay: 357.143ms;"> </span>
+								<span class="eltdf-s-character" style="transform: rotate(132.857deg) translateZ(0px); transition-delay: 371.429ms;">s</span>
+								<span class="eltdf-s-character" style="transform: rotate(141.429deg) translateZ(0px); transition-delay: 385.714ms;">t</span>
+								<span class="eltdf-s-character" style="transform: rotate(150deg) translateZ(0px); transition-delay: 400ms;">u</span>
+								<span class="eltdf-s-character" style="transform: rotate(158.571deg) translateZ(0px); transition-delay: 414.286ms;">d</span>
+								<span class="eltdf-s-character" style="transform: rotate(167.143deg) translateZ(0px); transition-delay: 428.571ms;">i</span>
+								<span class="eltdf-s-character" style="transform: rotate(175.714deg) translateZ(0px); transition-delay: 442.857ms;">o</span>
+								<span class="eltdf-s-character" style="transform: rotate(184.286deg) translateZ(0px); transition-delay: 457.143ms;"> </span>
+								<span class="eltdf-s-character" style="transform: rotate(192.857deg) translateZ(0px); transition-delay: 471.429ms;">-</span>
+								<span class="eltdf-s-character" style="transform: rotate(201.429deg) translateZ(0px); transition-delay: 485.714ms;"> </span>
+								<span class="eltdf-s-character" style="transform: rotate(210deg) translateZ(0px); transition-delay: 500ms;">s</span>
+								<span class="eltdf-s-character" style="transform: rotate(218.571deg) translateZ(0px); transition-delay: 514.286ms;">o</span>
+								<span class="eltdf-s-character" style="transform: rotate(227.143deg) translateZ(0px); transition-delay: 528.571ms;">l</span>
+								<span class="eltdf-s-character" style="transform: rotate(235.714deg) translateZ(0px); transition-delay: 542.857ms;">e</span>
+								<span class="eltdf-s-character" style="transform: rotate(244.286deg) translateZ(0px); transition-delay: 557.143ms;">n</span>
 								<span class="eltdf-s-character" style="transform: rotate(252.857deg) translateZ(0px); transition-delay: 571.429ms;">e</span>
 							</div> -->
 							<a itemprop="url" class="eltdf-stamp-link" href="https://glintzphotography.org/" target="_self"></a>
@@ -1010,16 +1016,16 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 	</div>
 	<div class="widget eltdf-social-icons-group-widget text-align-center">
 		<a class="eltdf-social-icon-widget-holder eltdf-icon-has-hover" data-hover-color="#ffffff" style="font-size: 15px" href="https://www.facebook.com/" target="_blank">
-			<span class="eltdf-social-icon-widget fab fa-facebook-f"></span>
+			<img src="https://img.icons8.com/ios-glyphs/24/000000/facebook-new.png" height="20px" width="20px"/>
 		</a>
 		<a class="eltdf-social-icon-widget-holder eltdf-icon-has-hover" data-hover-color="#ffffff" style="font-size: 15px" href="https://www.instagram.com/glintz_photography/" target="_blank">
-			<span class="eltdf-social-icon-widget fab fa-instagram"></span>
+			<img src="https://img.icons8.com/material-outlined/24/000000/instagram-new--v1.png" height="20px" width="20px"/>
 		</a>
 		<a class="eltdf-social-icon-widget-holder eltdf-icon-has-hover" data-hover-color="#ffffff" style="font-size: 15px" href="https://twitter.com/glintzmedia" target="_blank">
-			<span class="eltdf-social-icon-widget fab fa-twitter"></span>
+			<img src="https://img.icons8.com/ios-glyphs/30/000000/twitter.png" height="20px" width="20px"/>
 		</a>
 		<a class="eltdf-social-icon-widget-holder eltdf-icon-has-hover" data-hover-color="#ffffff" style="font-size: 15px" href="https://www.youtube.com" target="_blank">
-			<span class="eltdf-social-icon-widget fab fa-youtube"></span>
+			<img src="https://img.icons8.com/material-outlined/24/000000/youtube--v2.png" height="20px" width="20px"/>
 		</a>
 		</div>
 		<div class="widget eltdf-separator-widget">

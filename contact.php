@@ -609,10 +609,18 @@
 		</div>
 	</div>
 	<div class="widget eltdf-social-icons-group-widget text-align-center">
-		<a class="eltdf-social-icon-widget-holder eltdf-icon-has-hover" data-hover-color="#ffffff" style="font-size: 15px" href="https://www.facebook.com/glintzphotography/" target="_blank"><span class="eltdf-social-icon-widget fab fa-facebook-f"></span> </a>
-		<a class="eltdf-social-icon-widget-holder eltdf-icon-has-hover" data-hover-color="#ffffff" style="font-size: 15px" href="https://www.instagram.com/glintzphotography/" target="_blank"><span class="eltdf-social-icon-widget fab fa-instagram"></span> </a>
-		<a class="eltdf-social-icon-widget-holder eltdf-icon-has-hover" data-hover-color="#ffffff" style="font-size: 15px" href="https://twitter.com/glintzmedia " target="_blank"><span class="eltdf-social-icon-widget fab fa-twitter"></span> </a>
-		<a class="eltdf-social-icon-widget-holder eltdf-icon-has-hover" data-hover-color="#ffffff" style="font-size: 15px" href="https://www.youtube.com/glintzphotography" target="_blank"><span class="eltdf-social-icon-widget fab fa-youtube"></span> </a>
+		<a class="eltdf-social-icon-widget-holder eltdf-icon-has-hover" data-hover-color="#ffffff" style="font-size: 15px" href="https://www.facebook.com/glintzphotography/" target="_blank">
+			<img src="https://img.icons8.com/ios-glyphs/24/000000/facebook-new.png" height="20px" width="20px"/>
+		</a>
+		<a class="eltdf-social-icon-widget-holder eltdf-icon-has-hover" data-hover-color="#ffffff" style="font-size: 15px" href="https://www.instagram.com/glintzphotography/" target="_blank">
+			<img src="https://img.icons8.com/material-outlined/24/000000/instagram-new--v1.png" height="20px" width="20px"/>
+		</a>
+		<a class="eltdf-social-icon-widget-holder eltdf-icon-has-hover" data-hover-color="#ffffff" style="font-size: 15px" href="https://twitter.com/glintzmedia " target="_blank">
+			<img src="https://img.icons8.com/ios-glyphs/30/000000/twitter.png" height="20px" width="20px"/>
+		</a>
+		<a class="eltdf-social-icon-widget-holder eltdf-icon-has-hover" data-hover-color="#ffffff" style="font-size: 15px" href="https://www.youtube.com/glintzphotography" target="_blank">
+			<img src="https://img.icons8.com/material-outlined/24/000000/youtube--v2.png" height="20px" width="20px"/>
+		</a>
 	</div>
 	<div class="widget eltdf-separator-widget">
 		<div class="eltdf-separator-holder clearfix  eltdf-separator-center eltdf-separator-normal">
