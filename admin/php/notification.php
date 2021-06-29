@@ -33,6 +33,7 @@
              <div class="form-group col-md-12">
     <label for="scrapbook_head">New Section Header</label>
     <input type="text" name="scrapbook_head" class="form-control" id="scrapbook_head" value="<?=$data5['scrapbook_head']?>" placeholder="header"><br>
+    <textarea class="form-control" name="shortdescs" id="shortdescs" rows="5" ><?=$data5['shortdescs']?></textarea><br>
   </div>
         
         
@@ -63,21 +64,6 @@
     <input type="file" name="projectpic" class="custom-file-input" id="profilepic">
     <label class="custom-file-label" for="projectpic">Choose Pic...</label>
   </div></div>
-
-  <div class="form-group col-md-6 mt-auto">
-      <label for="name">Project Name</label>
-      <input type="name" name="projectname" class="form-control" id="name" placeholder="ToDo List Maker">
-    </div>
-    
-   
-    
-    <div class="form-group col-md-12">
-      <label for="email">Project Link</label>
-      <input type="text" name="projectlink" class="form-control" id="email" placeholder="https://whomonugiri.github.io/todo-list-maker/">
-    </div>
-    <div class="form-group col-md-2 ml-auto">
-        <input type="submit" name="addtowork" class="btn btn-primary" value="Add To Work">
-    </div>
   
 
     <div class="form-group col-md-2 ml-auto">
@@ -89,8 +75,6 @@
           <thead>
             <tr>
               <th>Id</th>
-              <th>Project Name</th>
-              <th>Project Link</th>
               <th>Project Image</th>
               <th>Action</th>
             </tr>
@@ -154,7 +138,6 @@ while($data2=mysqli_fetch_array($queryrun2)){
               <td><img src="../assets/img/<?=$data2['projectpic']?>" class="oo img-thumbnail"></td>
          <td><?=$data2['projectname']?></td>
          <td>
-             <a href="<?=$data2['projectlink']?>"> <button type="button" class="btn btn-success btn-sm">Visit</button></a>
          
          <button type="button" class="btn btn-primary btn-sm" data-toggle="modal" data-target="#modal<?=$data2['id']?>">
   Edit

@@ -3,11 +3,11 @@ include('../../include/db.php');
 if(isset($_POST['save'])){        
 // $headings=mysqli_real_escape_string($db,$_POST['ptitles']);
 // $subheadings=mysqli_real_escape_string($db,$_POST['psubtitles']);
-// $shortdescs=mysqli_real_escape_string($db,$_POST['shortdescs']);
+$shortdescs=mysqli_real_escape_string($db,$_POST['shortdescs']);
 // $longdescs=mysqli_real_escape_string($db,$_POST['longdescs']);
 $scrapbook_head=mysqli_real_escape_string($db,$_POST['scrapbook_head']);
 $query="UPDATE headers SET ";
-// $query.="shortdescs='$shortdescs',";
+$query.="shortdescs='$shortdescs',";
 $query.="scrapbook_head='$scrapbook_head',";
 // $query.="headings='$headings',";
 // $query.="subheadings='$subheadings',";
