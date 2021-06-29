@@ -1,3 +1,11 @@
+<?php include('./include/db.php'); 
+$query = "SELECT * FROM basic_setup,personal_setup,aboutus_setup";
+$runquery = mysqli_query($db,$query);
+if(!$db){
+    header("location:index-2.html");
+}
+$data = mysqli_fetch_array($runquery);
+?>
 <!DOCTYPE html>
 <html lang="en-US" class=" js flexbox flexboxlegacy canvas canvastext no-touch hashchange history draganddrop rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio svg inlinesvg svgclippaths js_active  vc_desktop  vc_transform  vc_transform ">
 <head>
@@ -1227,26 +1235,44 @@ Alienum phaedrum torquatos neceu </span>
                   <li class="eltdf-bl-item eltdf-item-space">
                     <div class="eltdf-bli-inner">
                       <div class="eltdf-post-image">
-                        <a itemprop="url" href="#">
-                        <img width="1100" height="1294" src="./Solene – Wedding Photography Theme_files/blog-post-img-2.1.jpg" class="attachment-full size-full" alt="d" sizes="(max-width: 1100px) 100vw, 1100px"> </a>
+                        <?php
+                            $query5 = "SELECT * FROM campaigns_four";
+                            $runquery5= mysqli_query($db,$query5);
+                            while($data5=mysqli_fetch_array($runquery5)){
+                        ?>
+                      <a itemprop="url" href="#">
+                        <img width="1100" height="1294" src="assets/img/<?=$data5['projectpic']?>" class="attachment-full size-full" alt="d" sizes="(max-width: 1100px) 100vw, 1100px">
+                      </a>
+                      <?php
+                        }
+                      ?>
                       </div>
                       <div class="eltdf-bli-content">
-                        <div class="eltdf-bli-info">
+                        <!-- <div class="eltdf-bli-info">
                           <div class="eltdf-post-info-category">
                             <a href="#" rel="category tag">Photography</a>
                           </div>
                           <div class="eltdf-post-info-author">
                             <a itemprop="author" class="eltdf-post-info-author-link" href="#">Anna Smith </a>
                           </div>
-                        </div>
+                        </div>-->
+                        <?php
+                          $query5 = "SELECT * FROM headers";
+                          $queryrun5= mysqli_query($db,$query5);
+                          while($data5=mysqli_fetch_array($queryrun5)){
+                        ?>
                         <h3 itemprop="name" class="entry-title eltdf-post-title">
                         <a itemprop="url" href="#">
-                        Best Invitation </a>
+                        <?=$data5['campaignsfours'];?></a>
                         </h3>
+                        
                         <div class="eltdf-bli-excerpt">
                           <div class="eltdf-post-excerpt-holder">
-                            <p itemprop="description" class="eltdf-post-excerpt">Ut vitae feugiat magna, ut mattis ligula. Aliquam ut rutrum est. Maecenas sit amet scelerisque </p>
+                            <p itemprop="description" class="eltdf-post-excerpt"><?=$data5['campaignsfour'];?></p>
                           </div>
+                          <?php
+                            }
+                          ?>
                           <div class="eltdf-post-read-more-button">
                             <a itemprop="url" href="#" target="_self" class="eltdf-btn eltdf-btn-medium eltdf-btn-simple eltdf-blog-list-button">
                               <span class="eltdf-btn-text">Read More</span> </a>
@@ -1258,25 +1284,42 @@ Alienum phaedrum torquatos neceu </span>
                   <li class="eltdf-bl-item eltdf-item-space">
                     <div class="eltdf-bli-inner">
                       <div class="eltdf-post-image">
-                        <a itemprop="url" href="#">
-                          <img width="1100" height="1294" src="./Solene – Wedding Photography Theme_files/blog-post-img-3.1.jpg" class="attachment-full size-full" alt="d" sizes="(max-width: 1100px) 100vw, 1100px"> </a>
+                        <?php
+                            $query5 = "SELECT * FROM campaigns_three";
+                            $runquery5= mysqli_query($db,$query5);
+                            while($data5=mysqli_fetch_array($runquery5)){
+                        ?>
+                      <a itemprop="url" href="#">
+                        <img width="1100" height="1294" src="assets/img/<?=$data5['projectpic']?>" class="attachment-full size-full" alt="d" sizes="(max-width: 1100px) 100vw, 1100px">
+                      </a>
+                      <?php
+                        }
+                      ?>
                       </div>
                       <div class="eltdf-bli-content">
-                        <div class="eltdf-bli-info">
+                        <!-- <div class="eltdf-bli-info">
                           <div class="eltdf-post-info-category">
                             <a href="#" rel="category tag">Photography</a>
                           </div>
                           <div class="eltdf-post-info-author">
                             <a itemprop="author" class="eltdf-post-info-author-link" href="#">Anna Smith </a>
                         </div>
-                      </div>
+                      </div> -->
+                        <?php
+                          $query5 = "SELECT * FROM headers";
+                          $queryrun5= mysqli_query($db,$query5);
+                          while($data5=mysqli_fetch_array($queryrun5)){
+                        ?>
                       <h3 itemprop="name" class="entry-title eltdf-post-title">
-                        <a itemprop="url" href="#">Tender Love </a>
+                        <a itemprop="url" href="#"><?=$data5['campaignsthrees'];?> </a>
                       </h3>
                       <div class="eltdf-bli-excerpt">
                         <div class="eltdf-post-excerpt-holder">
-                          <p itemprop="description" class="eltdf-post-excerpt">Ut vitae feugiat magna, ut mattis ligula. Aliquam ut rutrum est. Maecenas sit amet scelerisque </p>
+                          <p itemprop="description" class="eltdf-post-excerpt"><?=$data5['campaignsthree'];?></p>
                         </div>
+                        <?php
+                            }
+                          ?>
                         <div class="eltdf-post-read-more-button">
                           <a itemprop="url" href="#" target="_self" class="eltdf-btn eltdf-btn-medium eltdf-btn-simple eltdf-blog-list-button">
                             <span class="eltdf-btn-text">Read More</span>
@@ -1289,26 +1332,42 @@ Alienum phaedrum torquatos neceu </span>
                 <li class="eltdf-bl-item eltdf-item-space">
                   <div class="eltdf-bli-inner">
                     <div class="eltdf-post-image">
+                        <?php
+                            $query5 = "SELECT * FROM campaigns_two";
+                            $runquery5= mysqli_query($db,$query5);
+                            while($data5=mysqli_fetch_array($runquery5)){
+                        ?>
                       <a itemprop="url" href="#">
-                        <img width="1100" height="1294" src="./Solene – Wedding Photography Theme_files/blog-post-img-4.1.jpg" class="attachment-full size-full" alt="d" sizes="(max-width: 1100px) 100vw, 1100px">
+                        <img width="1100" height="1294" src="assets/img/<?=$data5['projectpic']?>" class="attachment-full size-full" alt="d" sizes="(max-width: 1100px) 100vw, 1100px">
                       </a>
+                      <?php
+                        }
+                      ?>
                     </div>
                     <div class="eltdf-bli-content">
-                      <div class="eltdf-bli-info">
+                      <!-- <div class="eltdf-bli-info">
                         <div class="eltdf-post-info-category">
                           <a href="#" rel="category tag">Photography</a>
                         </div>
                         <div class="eltdf-post-info-author">
                           <a itemprop="author" class="eltdf-post-info-author-link" href="#">Anna Smith</a>
                       </div>
-                    </div>
+                    </div> -->
+                    <?php
+                        $query5 = "SELECT * FROM headers";
+                        $queryrun5= mysqli_query($db,$query5);
+                        while($data5=mysqli_fetch_array($queryrun5)){
+                    ?>
                     <h3 itemprop="name" class="entry-title eltdf-post-title">
-                      <a itemprop="url" href="#">Into the Woods</a>
+                      <a itemprop="url" href="#"><?=$data5['campaignstwos'];?></a>
                     </h3>
                     <div class="eltdf-bli-excerpt">
                       <div class="eltdf-post-excerpt-holder">
-                        <p itemprop="description" class="eltdf-post-excerpt">Ut vitae feugiat magna, ut mattis ligula. Aliquam ut rutrum est. Maecenas sit amet scelerisque </p>
+                        <p itemprop="description" class="eltdf-post-excerpt"><?=$data5['campaignstwo'];?> </p>
                       </div>
+                      <?php
+                            }
+                          ?>
                       <div class="eltdf-post-read-more-button">
                         <a itemprop="url" href="#" target="_self" class="eltdf-btn eltdf-btn-medium eltdf-btn-simple eltdf-blog-list-button"> <span class="eltdf-btn-text">Read More</span></a>
                       </div>

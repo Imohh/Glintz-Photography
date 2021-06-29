@@ -33,7 +33,6 @@
              <div class="form-group col-md-12">
     <label for="scrapbook_head">New Section Header</label>
     <input type="text" name="scrapbook_head" class="form-control" id="scrapbook_head" value="<?=$data5['scrapbook_head']?>" placeholder="header"><br>
-    <textarea class="form-control" name="shortdescs" id="shortdescs" rows="5" ><?=$data5['shortdescs']?></textarea><br>
   </div>
         
         
@@ -46,12 +45,6 @@
          </form>
          <br>
          <br>
-
-
-
-
-
-
 
 
 
@@ -109,18 +102,6 @@ while($data2=mysqli_fetch_array($queryrun2)){
     <input type="file" name="projectpic" class="custom-file-input" id="profilepic">
     <label class="custom-file-label" for="projectpic">Choose Pic...</label>
   </div></div>
-
-  <div class="form-group col-md-6 mt-auto">
-      <label for="name">Project Name</label>
-      <input type="name" name="projectname" value="<?=$data2['projectname']?>" class="form-control" id="name" placeholder="ToDo List Maker">
-    </div>
-    
-   
-    
-    <div class="form-group col-md-12">
-      <label for="email">Project Link</label>
-      <input type="text" name="projectlink" value="<?=$data2['projectlink']?>" class="form-control" id="email" placeholder="https://whomonugiri.github.io/todo-list-maker/">
-    </div>
   
 
       </div>
@@ -135,9 +116,23 @@ while($data2=mysqli_fetch_array($queryrun2)){
   </div>
 </div>   
           <td>#<?=$count?></td>
-              <td><img src="../assets/img/<?=$data2['projectpic']?>" class="oo img-thumbnail"></td>
+
+
+
+          <?php
+              $file = $data2['projectpic'];
+              $ext = pathinfo($file, PATHINFO_EXTENSION);
+              if($ext == "mp4" || $ext == "mov"){
+                echo "<td><video width='50%' controls>";
+                echo "<source src='../assets/img/$file' type='video/mp4' autoplay='autoplay'>";
+                echo "</video></td>";
+              } else {
+                echo "<td><img src='../assets/img/$file' class='oo img-thumbnail'>";
+              }
+            ?>
          <td><?=$data2['projectname']?></td>
          <td>
+             
          
          <button type="button" class="btn btn-primary btn-sm" data-toggle="modal" data-target="#modal<?=$data2['id']?>">
   Edit

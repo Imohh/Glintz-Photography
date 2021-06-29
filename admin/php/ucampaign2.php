@@ -23,7 +23,7 @@ $projectlink=mysqli_real_escape_string($db,$_POST['projectlink']);
   
  
 if($pdone=="error"){
-    header("location:../?edithome=true&msg=error");
+    header("location:../?editcampaign2=true&msg=error");
 }else{
 $query="UPDATE campaigns_two SET ";
 $query.="projectpic='$projectpic',";

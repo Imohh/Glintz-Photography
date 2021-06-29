@@ -146,154 +146,9 @@ while($data2=mysqli_fetch_array($queryrun2)){
 
 
 
-<!-- STAR RADLER -->
-<!-- add new section -->
-<h2 align="center">SECTION 2</h2>
-  <?php
-    $query5 = "SELECT * FROM headers";
-    $queryrun5= mysqli_query($db,$query5);
-    while($data5=mysqli_fetch_array($queryrun5)){
-  ?>
-
-
-         <form method="post" action="php/ucampai8.php">
-         <div class="form-row">
-             <div class="form-group col-md-12">
-    <label for="scrapbook_head">New Section Header</label>
-    <input type="text" name="campaignsfives" class="form-control" id="campaignsfives" value="<?=$data5['campaignsfives']?>" placeholder="header"><br>
-    <textarea class="form-control" name="campaignsfive" id="campaignsfive" rows="5" ><?=$data5['campaignsfive']?></textarea>
-  </div>
-        
-        
-        <?php
-          }
-        ?>
-
-</div>
-         <input type="submit" name="save" class="btn btn-primary" value="Save Changes">
-         </form>
-         <br>
-         <br>
 
 
 
-
-<!-- add new section -->
-<h2 align="center">SECTION 3</h2>
-  <?php
-    $query5 = "SELECT * FROM headers";
-    $queryrun5= mysqli_query($db,$query5);
-    while($data5=mysqli_fetch_array($queryrun5)){
-  ?>
-
-
-         <form method="post" action="php/ucampai5.php">
-         <div class="form-row">
-             <div class="form-group col-md-12">
-    <label for="scrapbook_head">New Section Header</label>
-    <input type="text" name="campaignssixs" class="form-control" id="campaignssixs" value="<?=$data5['campaignssixs']?>" placeholder="header"><br>
-    <textarea class="form-control" name="campaignssix" id="campaignssix" rows="5" ><?=$data5['campaignssix']?></textarea>
-  </div>
-        
-        
-        <?php
-          }
-        ?>
-
-</div>
-         <input type="submit" name="save" class="btn btn-primary" value="Save Changes">
-         </form>
-         <br>
-         <br>
-
-
-<!-- add new section -->
-<h2 align="center">SECTION 4</h2>
-  <?php
-    $query5 = "SELECT * FROM headers";
-    $queryrun5= mysqli_query($db,$query5);
-    while($data5=mysqli_fetch_array($queryrun5)){
-  ?>
-
-
-         <form method="post" action="php/ucampai6.php">
-         <div class="form-row">
-             <div class="form-group col-md-12">
-    <label for="scrapbook_head">New Section Header</label>
-    <input type="text" name="campaignssevens" class="form-control" id="campaignssevens" value="<?=$data5['campaignssevens']?>" placeholder="header"><br>
-    <textarea class="form-control" name="campaignsseven" id="campaignsseven" rows="5" ><?=$data5['campaignsseven']?></textarea>
-  </div>
-        
-        
-        <?php
-          }
-        ?>
-
-</div>
-         <input type="submit" name="save" class="btn btn-primary" value="Save Changes">
-         </form>
-         <br>
-         <br>
-
-
-  <!-- add new section -->
-<h2 align="center">SECTION 5</h2>
-  <?php
-    $query5 = "SELECT * FROM headers";
-    $queryrun5= mysqli_query($db,$query5);
-    while($data5=mysqli_fetch_array($queryrun5)){
-  ?>
-
-
-         <form method="post" action="php/ucampai7.php">
-         <div class="form-row">
-             <div class="form-group col-md-12">
-    <label for="scrapbook_head">New Section Header</label>
-    <input type="text" name="campaignseights" class="form-control" id="campaignseights" value="<?=$data5['campaignseights']?>" placeholder="header"><br>
-    <textarea class="form-control" name="campaignseight" id="campaignseight" rows="5" ><?=$data5['campaignseight']?></textarea>
-  </div>
-        
-        
-        <?php
-          }
-        ?>
-
-</div>
-         <input type="submit" name="save" class="btn btn-primary" value="Save Changes">
-         </form>
-         <br>
-         <br>
-
-
-
-
-  <!-- add new section -->
-<h2 align="center">SECTION 6</h2>
-  <?php
-    $query5 = "SELECT * FROM headers";
-    $queryrun5= mysqli_query($db,$query5);
-    while($data5=mysqli_fetch_array($queryrun5)){
-  ?>
-
-
-         <form method="post" action="php/ucampai9.php">
-         <div class="form-row">
-             <div class="form-group col-md-12">
-    <label for="scrapbook_head">New Section Header</label>
-    <input type="text" name="campaignsnines" class="form-control" id="campaignsnines" value="<?=$data5['campaignsnines']?>" placeholder="header"><br>
-    <textarea class="form-control" name="campaignsnine" id="campaignsnine" rows="5" ><?=$data5['campaignsnine']?></textarea>
-  </div>
-        
-        
-        <?php
-          }
-        ?>
-
-</div>
-         <input type="submit" name="save" class="btn btn-primary" value="Save Changes">
-         </form>
-         <br>
-         <br>
 
 
 
@@ -305,7 +160,7 @@ while($data2=mysqli_fetch_array($queryrun2)){
 
 
 <!-- NEW SECTION -->
- <h2 align="center">SECTION 7</h2>
+ <h2 align="center">SECTION 2</h2>
 
 
 
@@ -424,6 +279,15 @@ while($data2=mysqli_fetch_array($queryrun2)){
 <br>
 <br>
 <br>
+
+
+
+
+
+
+
+
+
 
 
 
@@ -550,127 +414,4 @@ while($data2=mysqli_fetch_array($queryrun2)){
 
 
 
-
-<!-- add new section -->
-<h2 align="center">ADD NEW SECTON</h2>
-<?php
-      $query5 = "SELECT * FROM headers";
-                  $queryrun5= mysqli_query($db,$query5);
-                  while($data5=mysqli_fetch_array($queryrun5)){
-                ?>
-
-
-
-
-
-
-         <form method="post" action="php/ucampai.php">
-         <div class="form-row">
-             <div class="form-group col-md-12">
-    <label for="scrapbook_head">New Section Header</label>
-    <input type="text" name="campaignsones" class="form-control" id="campaignsones" value="<?=$data5['campaignsones']?>" placeholder="header"><br>
-    <textarea class="form-control" name="campaignsone" id="campaignsone" rows="5" ><?=$data5['campaignsone']?></textarea>
-  </div>
-        
-        
-        <?php
-          }
-        ?>
-
-         </div>
-         <input type="submit" name="save" class="btn btn-primary" value="Save Changes">
-         </form>
-         <br>
-         <br>
-
-         <form method="post" action="php/ucampaign.php" enctype="multipart/form-data">
-  <div class="form-row">
-  <div class="form-group col-md-6">
-  <label>Project Screenshot/Image (Minimum 600px X 600px, Maxsize 2mb)</label>
-  <div class="custom-file">
-    <input type="file" name="projectpic" class="custom-file-input" id="profilepic">
-    <label class="custom-file-label" for="projectpic">Choose Pic...</label>
-  </div></div>
-  
-    <div class="form-group col-md-2 ml-auto">
-        <input type="submit" name="addtocampaign" class="btn btn-primary" value="Add To Campaign">
-    </div>
-  
-</form>
-<table class="table table-striped table-sm">
-          <thead>
-            <tr>
-              <th>Id</th>
-              <th>Project Image</th>
-              <th>Project Name</th>
-              <th>Action</th>
-            </tr>
-          </thead>
-          <tbody>
-         <?php
-$query2="SELECT * FROM campaigns_one";
-$queryrun2=mysqli_query($db,$query2);
-$count=1;         
-while($data2=mysqli_fetch_array($queryrun2)){
-    ?>
-     <tr>
-         <div class="modal fade" id="modal<?=$data2['id']?>" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
-  <div class="modal-dialog">
-    <div class="modal-content">
-      <div class="modal-header">
-        <h6 class="modal-title" id="exampleModalLabel">Edit Campaign</h6>
-        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-          <span aria-hidden="true">&times;</span>
-        </button>
-      </div>
-      <div class="modal-body">
-          <form method="post" action="php/ucampaign.php" enctype="multipart/form-data">
-          <input type="hidden" name="id" value="<?=$data2['id']?>">
-  <div class="form-row">
-  <div class="form-group col-md-12">
-      <img src="../assets/img/<?=$data2['projectpic']?>" class="oo img-thumbnail">
-  </div>
-  <div class="form-group col-md-6">
-  <label>Project Screenshot/Image (Minimum 600px X 600px, Maxsize 2mb)</label>
-  <div class="custom-file">
-    <input type="file" name="projectpic" class="custom-file-input" id="profilepic">
-    <label class="custom-file-label" for="projectpic">Choose Pic...</label>
-  </div></div>
-
-      </div>
-      
-      
-      <div class="modal-footer">
-        <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
-        <input type="submit" class="btn btn-primary" name="pupdate" value="Update">
-          </form>
-      </div>
-    </div>
-  </div>
-</div>   
-          <td>#<?=$count?></td>
-              <td><img src="../assets/img/<?=$data2['projectpic']?>" class="oo img-thumbnail"></td>
-         <td><?=$data2['projectname']?></td>
-         <td>
-             <a href="<?=$data2['projectlink']?>"> <button type="button" class="btn btn-success btn-sm">Visit</button></a>
-         
-         <button type="button" class="btn btn-primary btn-sm" data-toggle="modal" data-target="#modal<?=$data2['id']?>">
-  Edit
-</button> <a href="php/ucampaign.php?del=<?=$data2['id']?>"><button type="button" class="btn btn-danger btn-sm" data-toggle="modal" data-target="#exampleModal">
-  Delete
-             </button></a></td>
-            </tr>            
-         <?php $count++;
-} ?>
-             </tbody></table>  
-
-</form>
-
-
-</div>
-<br>
-<br>
-<br>
-<br>
-
-
+<br><br>

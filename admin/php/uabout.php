@@ -4,12 +4,14 @@ if(isset($_POST['save'])){
 $heading=mysqli_real_escape_string($db,$_POST['ptitle']);
 $subheading=mysqli_real_escape_string($db,$_POST['psubtitle']);
 $shortdesc=mysqli_real_escape_string($db,$_POST['shortdesc']);
-$longdesc=mysqli_real_escape_string($db,$_POST['longdesc']);  
-$dob=mysqli_real_escape_string($db,$_POST['dob']);  
+$longdesc=mysqli_real_escape_string($db,$_POST['longdesc']);
+$headerone=mysqli_real_escape_string($db,$_POST['headerone']);
+$dob=mysqli_real_escape_string($db,$_POST['dob']);
 $website=mysqli_real_escape_string($db,$_POST['website']);  
 $query="UPDATE aboutus_setup SET ";
 $query.="shortdesc='$shortdesc',";
 $query.="heading='$heading',";
+$query.="headerone='$headerone',";
 $query.="subheading='$subheading',";
 $query.="dob='$dob',";
 $query.="website='$website',";

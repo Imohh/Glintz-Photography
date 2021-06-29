@@ -1,4 +1,4 @@
- <h2>Edit Scrapbook Section</h2>
+ <h2>Edit First Blog Section</h2>
          <?php
          if(isset($_GET['msg'])){
              
@@ -21,15 +21,51 @@
 
 
 
+  <?php
+    $query5 = "SELECT * FROM headers";
+    $queryrun5= mysqli_query($db,$query5);
+    while($data5=mysqli_fetch_array($queryrun5)){
+  ?>
+
+         <form method="post" action="php/ucampai2.php">
+         <div class="form-row">
+             <div class="form-group col-md-12">
+    <label for="scrapbook_head">New Section Header</label>
+    <input type="text" name="campaignstwos" class="form-control" id="campaignstwos" value="<?=$data5['campaignstwos']?>" placeholder="header"><br>
+    <textarea class="form-control" name="campaignstwo" id="campaignstwo" rows="5" ><?=$data5['campaignstwo']?></textarea>
+  </div>
+        
+        
+        <?php
+          }
+        ?>
+
+         </div>
+         <input type="submit" name="save" class="btn btn-primary" value="Save Changes">
+         </form>
+         <br>
+         <br>
+
+
+
+
+
+
+
+
+
+
+
 
          <form method="post" action="php/uportfolio.php" enctype="multipart/form-data">
-  <div class="form-row">
-  <div class="form-group col-md-6">
-  <label>Project Screenshot/Image (Minimum 600px X 600px, Maxsize 2mb)</label>
-  <div class="custom-file">
-    <input type="file" name="projectpic" class="custom-file-input" id="profilepic">
-    <label class="custom-file-label" for="projectpic">Choose Pic...</label>
-  </div></div>
+          <div class="form-row">
+            <div class="form-group col-md-6">
+              <label>Project Screenshot/Image (Minimum 600px X 600px, Maxsize 2mb)</label>
+              <div class="custom-file">
+                <input type="file" name="projectpic" class="custom-file-input" id="profilepic">
+                <label class="custom-file-label" for="projectpic">Choose Pic...</label>
+              </div>
+            </div>
   
    <!-- <div class="form-group col-md-6 mt-auto">
       <label for="name">Project Name</label>
@@ -101,14 +137,27 @@ while($data2=mysqli_fetch_array($queryrun2)){
   </div>
 </div>   
           <td>#<?=$count?></td>
-              <td><img src="../assets/img/<?=$data2['projectpic']?>" class="oo img-thumbnail"></td>
+
+            <?php
+              $file = $data2['projectpic'];
+              $ext = pathinfo($file, PATHINFO_EXTENSION);
+              if($ext == "mp4" || $ext == "mov"){
+                echo "<td><video width='50%' controls>";
+                echo "<source src='../assets/img/$file' type='video/mp4' autoplay='autoplay'>";
+                echo "</video></td>";
+              } else {
+                echo "<td><img src='../assets/img/$file' class='oo img-thumbnail'>";
+              }
+            ?>
+
+            
+
+
          <td><?=$data2['projectname']?></td>
          <td>
-             <a href="<?=$data2['projectlink']?>"> <button type="button" class="btn btn-success btn-sm">Visit</button></a>
+             
          
-         <button type="button" class="btn btn-primary btn-sm" data-toggle="modal" data-target="#modal<?=$data2['id']?>">
-  Edit
-</button> <a href="php/uportfolio.php?del=<?=$data2['id']?>"><button type="button" class="btn btn-danger btn-sm" data-toggle="modal" data-target="#exampleModal">
+         <a href="php/uportfolio.php?del=<?=$data2['id']?>"><button type="button" class="btn btn-danger btn-sm" data-toggle="modal" data-target="#exampleModal">
   Delete
              </button></a></td>
             </tr>            

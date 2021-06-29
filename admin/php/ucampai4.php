@@ -17,7 +17,7 @@ $query.="longdescs='$longdescs' WHERE 1";
 echo $query;    
 $queryrun=mysqli_query($db,$query);
 if($queryrun){
-    header("location:../?editcampaign=true&msg=updated");
+    header("location:../?editwork=true&msg=updated");
 }    
 
 }

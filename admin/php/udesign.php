@@ -33,10 +33,10 @@ echo $query;
 $queryrun=mysqli_query($db,$query);
 if($queryrun){
     header("location:../?edituidesign=true#done");
-}    
+}
 
-}    
-    
+}
+
 }
 
 if(isset($_GET['del'])){
@@ -49,19 +49,19 @@ if($queryrun){
 }
 
 
-if(isset($_POST['addtouidesign'])){    
-$projectpic=$_FILES['projectpic']['name'];        
+if(isset($_POST['addtouidesign'])){
+$projectpic=$_FILES['projectpic']['name'];
 if($projectpic==""){
     $projectpic=$data['projectpic'];
 }else{
     $pdone = Upload('projectpic',$target_dir);
 }
-    
-    
+
+
 $projectname=mysqli_real_escape_string($db,$_POST['projectname']);
 $projectlink=mysqli_real_escape_string($db,$_POST['projectlink']);
-  
- 
+
+
 if($pdone=="error"){
     header("location:../?edituidesign=true&msg=error");
 }else{
@@ -70,8 +70,8 @@ $query.="VALUES ('$projectname','$projectpic','$projectlink')";
 $queryrun=mysqli_query($db,$query);
 if($queryrun){
     header("location:../?edituidesign=true&msg=updated");
-}    
+}
 
-}    
-    
+}
+
 }

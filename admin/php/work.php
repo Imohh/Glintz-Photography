@@ -1,4 +1,4 @@
- <h2>Edit Work Section</h2>
+ <h2>Edit Third Blog Section</h2>
          <?php
          if(isset($_GET['msg'])){
              
@@ -15,8 +15,50 @@
   something wrong with your image please check type or size !
 </div>
       <?php
-  } } 
-?>  
+  } }
+?>
+
+
+  
+
+
+  <?php
+    $query5 = "SELECT * FROM headers";
+    $queryrun5= mysqli_query($db,$query5);
+    while($data5=mysqli_fetch_array($queryrun5)){
+  ?>
+
+         <form method="post" action="php/ucampai4.php">
+         <div class="form-row">
+             <div class="form-group col-md-12">
+    <label for="scrapbook_head">Section 3 header</label>
+    <input type="text" name="campaignsfours" class="form-control" id="campaignsfours" value="<?=$data5['campaignsfours']?>" placeholder="header"><br>
+    <textarea class="form-control" name="campaignsfour" id="campaignsfour" rows="5" ><?=$data5['campaignsfour']?></textarea>
+  </div>
+        
+        
+  <?php
+    }
+  ?>
+
+         </div>
+         <input type="submit" name="save" class="btn btn-primary" value="Save Changes">
+         </form>
+         <br>
+         <br>
+
+
+
+
+
+
+
+
+
+
+
+
+
          <form method="post" action="php/uwork.php" enctype="multipart/form-data">
   <div class="form-row">
   <div class="form-group col-md-6">
@@ -26,17 +68,7 @@
     <label class="custom-file-label" for="projectpic">Choose Pic...</label>
   </div></div>
   
-   <div class="form-group col-md-6 mt-auto">
-      <label for="name">Project Name</label>
-      <input type="name" name="projectname" class="form-control" id="name" placeholder="ToDo List Maker">
-    </div>
-    
    
-    
-    <div class="form-group col-md-12">
-      <label for="email">Project Link</label>
-      <input type="text" name="projectlink" class="form-control" id="email" placeholder="https://whomonugiri.github.io/todo-list-maker/">
-    </div>
     <div class="form-group col-md-2 ml-auto">
         <input type="submit" name="addtowork" class="btn btn-primary" value="Add To Work">
     </div>
@@ -47,7 +79,6 @@
             <tr>
               <th>Id</th>
               <th>Project Image</th>
-              <th>Project Name</th>
               <th>Action</th>
             </tr>
           </thead>
@@ -81,18 +112,7 @@ while($data2=mysqli_fetch_array($queryrun2)){
     <input type="file" name="projectpic" class="custom-file-input" id="profilepic">
     <label class="custom-file-label" for="projectpic">Choose Pic...</label>
   </div></div>
-  
-   <div class="form-group col-md-6 mt-auto">
-      <label for="name">Project Name</label>
-      <input type="name" name="projectname" value="<?=$data2['projectname']?>" class="form-control" id="name" placeholder="ToDo List Maker">
-    </div>
-    
-   
-    
-    <div class="form-group col-md-12">
-      <label for="email">Project Link</label>
-      <input type="text" name="projectlink" value="<?=$data2['projectlink']?>" class="form-control" id="email" placeholder="https://whomonugiri.github.io/todo-list-maker/">
-    </div>
+
 
       </div>
       
@@ -109,11 +129,8 @@ while($data2=mysqli_fetch_array($queryrun2)){
               <td><img src="../assets/img/<?=$data2['projectpic']?>" class="oo img-thumbnail"></td>
          <td><?=$data2['projectname']?></td>
          <td>
-             <a href="<?=$data2['projectlink']?>"> <button type="button" class="btn btn-success btn-sm">Visit</button></a>
          
-         <button type="button" class="btn btn-primary btn-sm" data-toggle="modal" data-target="#modal<?=$data2['id']?>">
-  Edit
-</button> <a href="php/uwork.php?del=<?=$data2['id']?>"><button type="button" class="btn btn-danger btn-sm" data-toggle="modal" data-target="#exampleModal">
+         <a href="php/uwork.php?del=<?=$data2['id']?>"><button type="button" class="btn btn-danger btn-sm" data-toggle="modal" data-target="#exampleModal">
   Delete
              </button></a></td>
             </tr>            

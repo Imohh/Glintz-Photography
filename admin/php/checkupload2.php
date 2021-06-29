@@ -1,12 +1,12 @@
 <?php
 function Upload($file,$dir){
-$target_file = $dir . basename($_FILES["$file"]["name"]);
+$target_file = $dir . basename($_FILES["uploaded"]["name"]);
 $uploadOk = 1;
 $imageFileType = strtolower(pathinfo($target_file,PATHINFO_EXTENSION));
 
 // Check if image file is a actual image or fake image
 
-  $check = getimagesize($_FILES["$file"]["tmp_name"]);
+  $check = getimagesize($_FILES["uploaded"]["tmp_name"]);
   if($check !== false) {
 //    echo "File is an image - " . $check["mime"] . ".";
     $uploadOk = 1;
@@ -15,7 +15,6 @@ $imageFileType = strtolower(pathinfo($target_file,PATHINFO_EXTENSION));
     $uploadOk = 0;
   }
 
-
 // Check if file already exists
 //if (file_exists($target_file)) {
 ////  echo "Sorry, file already exists.";
@@ -23,7 +22,7 @@ $imageFileType = strtolower(pathinfo($target_file,PATHINFO_EXTENSION));
 //}
 
 // Check file size
-if ($_FILES["$file"]["size"] > 140000000000) {
+if ($_FILES["uploaded"]["size"] > 140000000000) {
 //  echo "Sorry, your file is too large.";
   $uploadOk = 0;
 }
@@ -40,7 +39,7 @@ if ($uploadOk == 0) {
   return "error";
 // if everything is ok, try to upload file
 } else {
-  if (move_uploaded_file($_FILES["$file"]["tmp_name"], $target_file)) {
+  if (move_uploaded_file($_FILES["uploaded"]["tmp_name"], $target_file)) {
 //    echo "The file ". basename( $_FILES["$file"]["name"]). " has been uploaded.";
   } else {
 //    echo "Sorry, there was an error uploading your file.";

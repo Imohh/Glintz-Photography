@@ -79,58 +79,21 @@ $data=mysqli_fetch_array($queryrun);
             </a>
           </li> -->
           <li class="nav-item">
-            <a class="nav-link" href="?editabout=true">
-              <span data-feather="info"></span>
-              Edit Home Page
-            </a>
-          </li>
-          <li class="nav-item">
             <a class="nav-link" href="?editportfolio=true">
               <span data-feather="archive"></span>
-              Edit Scrapbook
-            </a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link" href="?editnotification=true">
-              <span data-feather="archive"></span>
-              Add New Section Scrapbook
+              Edit First Blog
             </a>
           </li>
           <li class="nav-item">
             <a class="nav-link" href="?edituidesign=true">
               <span data-feather="archive"></span>
-              Edit ui design
+              Edit Second Blog
             </a>
           </li>
           <li class="nav-item">
             <a class="nav-link" href="?editwork=true">
               <span data-feather="archive"></span>
-              Edit Works
-            </a>
-          </li>
-          
-          <li class="nav-item">
-            <a class="nav-link" href="?editheaders=true">
-              <span data-feather="archive"></span>
-              Edit Headers
-            </a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link" href="?edittestimonials=true">
-              <span data-feather="archive"></span>
-              Edit Testimonials
-            </a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link" href="?editcampaign=true">
-              <span data-feather="archive"></span>
-              campaigns Page
-            </a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link" href="?editvideo=true">
-              <span data-feather="archive"></span>
-              Video Page
+              Edit Third Blog
             </a>
           </li>
           <!-- <li class="nav-item">
@@ -181,20 +144,6 @@ $data=mysqli_fetch_array($queryrun);
       include('php/uidesign.php');
      }else if(isset($_GET['editwork'])){
       include('php/work.php');
-     }else if(isset($_GET['editnotification'])){
-      include('php/notification.php');
-     }else if(isset($_GET['editheaders'])){
-      include('php/headers.php');
-     }else if(isset($_GET['edittestimonials'])){
-      include('php/testimonials.php');
-     }else if(isset($_GET['editcampaign'])){
-      include('php/campaign.php');
-     }else if(isset($_GET['editcampaignheaders'])){
-      include('php/campaignheaders.php');
-    }else if(isset($_GET['editvideo'])){
-      include('php/video.php');
-     }else if(isset($_GET['editseo'])){
-         include('php/seo.php');
     
      }else if(isset($_GET['editprofile'])){ ?>
         <h2>Edit Profile</h2>
