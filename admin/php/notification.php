@@ -63,6 +63,21 @@
     <input type="file" name="projectpic" class="custom-file-input" id="profilepic">
     <label class="custom-file-label" for="projectpic">Choose Pic...</label>
   </div></div>
+
+  <div class="form-group col-md-6 mt-auto">
+      <label for="name">Project Name</label>
+      <input type="name" name="projectname" class="form-control" id="name" placeholder="ToDo List Maker">
+    </div>
+    
+   
+    
+    <div class="form-group col-md-12">
+      <label for="email">Project Link</label>
+      <input type="text" name="projectlink" class="form-control" id="email" placeholder="https://whomonugiri.github.io/todo-list-maker/">
+    </div>
+    <div class="form-group col-md-2 ml-auto">
+        <input type="submit" name="addtowork" class="btn btn-primary" value="Add To Work">
+    </div>
   
 
     <div class="form-group col-md-2 ml-auto">
@@ -74,6 +89,8 @@
           <thead>
             <tr>
               <th>Id</th>
+              <th>Project Name</th>
+              <th>Project Link</th>
               <th>Project Image</th>
               <th>Action</th>
             </tr>
@@ -108,6 +125,18 @@ while($data2=mysqli_fetch_array($queryrun2)){
     <input type="file" name="projectpic" class="custom-file-input" id="profilepic">
     <label class="custom-file-label" for="projectpic">Choose Pic...</label>
   </div></div>
+
+  <div class="form-group col-md-6 mt-auto">
+      <label for="name">Project Name</label>
+      <input type="name" name="projectname" value="<?=$data2['projectname']?>" class="form-control" id="name" placeholder="ToDo List Maker">
+    </div>
+    
+   
+    
+    <div class="form-group col-md-12">
+      <label for="email">Project Link</label>
+      <input type="text" name="projectlink" value="<?=$data2['projectlink']?>" class="form-control" id="email" placeholder="https://whomonugiri.github.io/todo-list-maker/">
+    </div>
   
 
       </div>
