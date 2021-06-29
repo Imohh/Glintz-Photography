@@ -1236,7 +1236,7 @@ Alienum phaedrum torquatos neceu </span>
                     <div class="eltdf-bli-inner">
                       <div class="eltdf-post-image">
                         <?php
-                            $query5 = "SELECT * FROM campaigns_four";
+                            $query5 = "SELECT * FROM portfolio limit 1";
                             $runquery5= mysqli_query($db,$query5);
                             while($data5=mysqli_fetch_array($runquery5)){
                         ?>
@@ -1285,7 +1285,7 @@ Alienum phaedrum torquatos neceu </span>
                     <div class="eltdf-bli-inner">
                       <div class="eltdf-post-image">
                         <?php
-                            $query5 = "SELECT * FROM campaigns_three";
+                            $query5 = "SELECT * FROM ui_design limit 1";
                             $runquery5= mysqli_query($db,$query5);
                             while($data5=mysqli_fetch_array($runquery5)){
                         ?>
@@ -1333,7 +1333,7 @@ Alienum phaedrum torquatos neceu </span>
                   <div class="eltdf-bli-inner">
                     <div class="eltdf-post-image">
                         <?php
-                            $query5 = "SELECT * FROM campaigns_two";
+                            $query5 = "SELECT * FROM works limit 1";
                             $runquery5= mysqli_query($db,$query5);
                             while($data5=mysqli_fetch_array($runquery5)){
                         ?>
