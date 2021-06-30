@@ -1263,12 +1263,12 @@ Alienum phaedrum torquatos neceu </span>
                         ?>
                         <h3 itemprop="name" class="entry-title eltdf-post-title">
                         <a itemprop="url" href="#">
-                        <?=$data5['campaignsfours'];?></a>
+                        <?=$data5['campaignstwos'];?></a>
                         </h3>
                         
                         <div class="eltdf-bli-excerpt">
                           <div class="eltdf-post-excerpt-holder">
-                            <p itemprop="description" class="eltdf-post-excerpt"><?=$data5['campaignsfour'];?></p>
+                            <p itemprop="description" class="eltdf-post-excerpt" title="<?=$data5['campaignstwo']?>"><?php echo substr($data5['campaignstwo'], 0, 70) . "..."; ?></p>
                           </div>
                           <?php
                             }
@@ -1315,7 +1315,7 @@ Alienum phaedrum torquatos neceu </span>
                       </h3>
                       <div class="eltdf-bli-excerpt">
                         <div class="eltdf-post-excerpt-holder">
-                          <p itemprop="description" class="eltdf-post-excerpt"><?=$data5['campaignsthree'];?></p>
+                          <p itemprop="description" class="eltdf-post-excerpt" title="<?=$data5['campaignsthree']?>"><?php echo substr($data5['campaignsthree'], 0, 70) . "..."; ?></p>
                         </div>
                         <?php
                             }
@@ -1359,11 +1359,11 @@ Alienum phaedrum torquatos neceu </span>
                         while($data5=mysqli_fetch_array($queryrun5)){
                     ?>
                     <h3 itemprop="name" class="entry-title eltdf-post-title">
-                      <a itemprop="url" href="#"><?=$data5['campaignstwos'];?></a>
+                      <a itemprop="url" href="#"><?=$data5['campaignsfours'];?></a>
                     </h3>
                     <div class="eltdf-bli-excerpt">
                       <div class="eltdf-post-excerpt-holder">
-                        <p itemprop="description" class="eltdf-post-excerpt"><?=$data5['campaignstwo'];?> </p>
+                        <p itemprop="description" class="eltdf-post-excerpt" title="<?=$data5['campaignsfour']?>"><?php echo substr($data5['campaignsfour'], 0, 70) . "..."; ?></p>
                       </div>
                       <?php
                             }

@@ -415,7 +415,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <h3 class="eltdf-page-title entry-title" style="color: #ffffff">Blog Section</h3>
 </div>
 <div class="eltdf-breadcrumbs-info">
-<div itemprop="breadcrumb" class="eltdf-breadcrumbs eltdf-has-inline-style" style="color: #ffffff"><a itemprop="url" href="https://glintzphotography.org/">Home</a><span class="eltdf-delimiter">&nbsp; / &nbsp;</span><a itemprop="url" href="first-blog.php">First Blog</a></div> </div>
+<div itemprop="breadcrumb" class="eltdf-breadcrumbs eltdf-has-inline-style" style="color: #ffffff"><a itemprop="url" href="https://glintzphotography.org/">Home</a><span class="eltdf-delimiter">&nbsp; / &nbsp;</span><a itemprop="url" href="second-blog.php">Second Blog</a></div> </div>
 </div>
 </div>
 </div>
