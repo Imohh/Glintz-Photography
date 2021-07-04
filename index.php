@@ -403,22 +403,22 @@ rs-fullwidth-wrap .eltdf-social-icon-widget-holder:after {
                 <div class="second" style="height: 0px;"><div class="inner">
                     <ul>
                         <li id="nav-menu-item-140" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home ">
-                            <a href="" class=""><span class="item_outer">
+                            <a href="portraits.php" class=""><span class="item_outer">
                                 <span class="item_text">Portraits</span></span>
                             </a>
                         </li>
                         <li id="nav-menu-item-168" class="menu-item menu-item-type-post_type menu-item-object-page ">
-                            <a href="#" class="">
+                            <a href="wedding.php" class="">
                                 <span class="item_outer"><span class="item_text">Weddings</span></span>
                             </a>
                         </li>
                         <li id="nav-menu-item-2190" class="menu-item menu-item-type-post_type menu-item-object-page ">
-                            <a href="#" class="">
+                            <a href="events.php" class="">
                                 <span class="item_outer"><span class="item_text">Events</span></span>
                             </a>
                         </li>
                         <li id="nav-menu-item-372" class="menu-item menu-item-type-post_type menu-item-object-page ">
-                            <a href="#" class="">
+                            <a href="documentary.php" class="">
                                 <span class="item_outer"><span class="item_text">Documentary</span></span>
                             </a>
                         </li>
@@ -491,17 +491,17 @@ rs-fullwidth-wrap .eltdf-social-icon-widget-holder:after {
                             </a>
                         </li>
                         <li id="nav-menu-item-168" class="menu-item menu-item-type-post_type menu-item-object-page ">
-                            <a href="#" class="">
+                            <a href="wedding.php" class="">
                                 <span class="item_outer"><span class="item_text">Weddings</span></span>
                             </a>
                         </li>
                         <li id="nav-menu-item-2190" class="menu-item menu-item-type-post_type menu-item-object-page ">
-                            <a href="#" class="">
+                            <a href="events.php" class="">
                                 <span class="item_outer"><span class="item_text">Events</span></span>
                             </a>
                         </li>
                         <li id="nav-menu-item-372" class="menu-item menu-item-type-post_type menu-item-object-page ">
-                            <a href="#" class="">
+                            <a href="documentary.php" class="">
                                 <span class="item_outer"><span class="item_text">Documentary</span></span>
                             </a>
                         </li>
@@ -1274,7 +1274,7 @@ Alienum phaedrum torquatos neceu </span>
                             }
                           ?>
                           <div class="eltdf-post-read-more-button">
-                            <a itemprop="url" href="#" target="_self" class="eltdf-btn eltdf-btn-medium eltdf-btn-simple eltdf-blog-list-button">
+                            <a itemprop="url" href="first-blog.php" target="_self" class="eltdf-btn eltdf-btn-medium eltdf-btn-simple eltdf-blog-list-button">
                               <span class="eltdf-btn-text">Read More</span> </a>
                           </div>
                         </div>
@@ -1321,7 +1321,7 @@ Alienum phaedrum torquatos neceu </span>
                             }
                           ?>
                         <div class="eltdf-post-read-more-button">
-                          <a itemprop="url" href="#" target="_self" class="eltdf-btn eltdf-btn-medium eltdf-btn-simple eltdf-blog-list-button">
+                          <a itemprop="url" href="second-blog.php" target="_self" class="eltdf-btn eltdf-btn-medium eltdf-btn-simple eltdf-blog-list-button">
                             <span class="eltdf-btn-text">Read More</span>
                           </a>
                         </div>
@@ -1369,7 +1369,8 @@ Alienum phaedrum torquatos neceu </span>
                             }
                           ?>
                       <div class="eltdf-post-read-more-button">
-                        <a itemprop="url" href="#" target="_self" class="eltdf-btn eltdf-btn-medium eltdf-btn-simple eltdf-blog-list-button"> <span class="eltdf-btn-text">Read More</span></a>
+                        <a itemprop="url" href="third-blog.php" target="_self" class="eltdf-btn eltdf-btn-medium eltdf-btn-simple eltdf-blog-list-button">
+                            <span class="eltdf-btn-text">Read More</span></a>
                       </div>
                     </div>
                   </div>

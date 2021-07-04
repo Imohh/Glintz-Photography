@@ -188,22 +188,22 @@
 					<div class="second" style="height: 0px;"><div class="inner">
 	                    <ul>
 	                        <li id="nav-menu-item-140" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home ">
-	                            <a href="" class=""><span class="item_outer">
+	                            <a href="portraits.php" class=""><span class="item_outer">
 	                                <span class="item_text">Portraits</span></span>
 	                            </a>
 	                        </li>
 	                        <li id="nav-menu-item-168" class="menu-item menu-item-type-post_type menu-item-object-page ">
-	                            <a href="#" class="">
+	                            <a href="wedding.php" class="">
 	                                <span class="item_outer"><span class="item_text">Weddings</span></span>
 	                            </a>
 	                        </li>
 	                        <li id="nav-menu-item-2190" class="menu-item menu-item-type-post_type menu-item-object-page ">
-	                            <a href="#" class="">
+	                            <a href="events.php" class="">
 	                                <span class="item_outer"><span class="item_text">Events</span></span>
 	                            </a>
 	                        </li>
 	                        <li id="nav-menu-item-372" class="menu-item menu-item-type-post_type menu-item-object-page ">
-	                            <a href="#" class="">
+	                            <a href="documentary.php" class="">
 	                                <span class="item_outer"><span class="item_text">Documentary</span></span>
 	                            </a>
 	                        </li>
@@ -271,22 +271,22 @@
 							<div class="second" style="height: 0px;"><div class="inner">
 			                    <ul>
 			                        <li id="nav-menu-item-140" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home ">
-			                            <a href="" class="">
+			                            <a href="portraits.php" class="">
 			                            	<span class="item_outer"><span class="item_text">Portraits</span></span>
 			                            </a>
 			                        </li>
 			                        <li id="nav-menu-item-168" class="menu-item menu-item-type-post_type menu-item-object-page ">
-			                            <a href="#" class="">
+			                            <a href="wedding.php" class="">
 			                                <span class="item_outer"><span class="item_text">Weddings</span></span>
 			                            </a>
 			                        </li>
 			                        <li id="nav-menu-item-2190" class="menu-item menu-item-type-post_type menu-item-object-page ">
-			                            <a href="#" class="">
+			                            <a href="events.php" class="">
 			                                <span class="item_outer"><span class="item_text">Events</span></span>
 			                            </a>
 			                        </li>
 			                        <li id="nav-menu-item-372" class="menu-item menu-item-type-post_type menu-item-object-page ">
-			                            <a href="#" class="">
+			                            <a href="documentary.php" class="">
 			                                <span class="item_outer"><span class="item_text">Documentary</span></span>
 			                            </a>
 			                        </li>
