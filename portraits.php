@@ -1,12 +1,11 @@
 <?php include('./include/db.php'); 
-$query = "SELECT * FROM basic_setup,personal_setup,aboutus_setup";
-$runquery = mysqli_query($db,$query);
-if(!$db){
-    header("location:index-2.html");
-}
-$data = mysqli_fetch_array($runquery);
+    $query = "SELECT * FROM basic_setup,personal_setup,aboutus_setup";
+    $runquery = mysqli_query($db,$query);
+    if(!$db){
+        header("location:index-2.html");
+    }
+    $data = mysqli_fetch_array($runquery);
 ?>
-
 <!DOCTYPE html>
 
 <html lang="en-US" class=" js flexbox flexboxlegacy canvas canvastext no-touch hashchange history draganddrop rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio svg inlinesvg svgclippaths js_active  vc_desktop  vc_transform  vc_transform ">
@@ -182,18 +181,18 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                                 <span class="item_text">Portraits</span></span>
                             </a>
                         </li>
-                        <li id="nav-menu-item-168" class="menu-item menu-item-type-post_type menu-item-object-page ">
+                        <li id="nav-menu-item-168" class="menu-item menu-item-type-post_type menu-item-object-page">
                             <a href="wedding.php" class="">
                                 <span class="item_outer"><span class="item_text">Weddings</span></span>
                             </a>
                         </li>
-                        <li id="nav-menu-item-2190" class="menu-item menu-item-type-post_type menu-item-object-page ">
-                            <a href="events..php" class="">
+                        <li id="nav-menu-item-2190" class="menu-item menu-item-type-post_type menu-item-object-page">
+                            <a href="events.php" class="">
                                 <span class="item_outer"><span class="item_text">Events</span></span>
                             </a>
                         </li>
-                        <li id="nav-menu-item-372" class="menu-item menu-item-type-post_type menu-item-object-page ">
-                            <a href="documantary.php" class="">
+                        <li id="nav-menu-item-372" class="menu-item menu-item-type-post_type menu-item-object-page">
+                            <a href="documentary.php" class="">
                                 <span class="item_outer"><span class="item_text">Documentary</span></span>
                             </a>
                         </li>
@@ -211,7 +210,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <div class="eltdf-position-right"><div class="eltdf-position-right-inner">
 <div class="eltdf-shopping-cart-holder" style="margin: 0 21px 0 0">
         <div class="eltdf-shopping-cart-inner">
-            <a itemprop="url" class="eltdf-header-cart eltdf-header-cart-predefined" href="https://solene.qodeinteractive.com/cart/">
+            <a itemprop="url" class="eltdf-header-cart eltdf-header-cart-predefined" href="#">
 
 </a><div class="eltdf-sc-dropdown">
     <div class="eltdf-sc-dropdown-inner">
@@ -265,18 +264,18 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                                 <span class="item_text">Portraits</span></span>
                             </a>
                         </li>
-                        <li id="nav-menu-item-168" class="menu-item menu-item-type-post_type menu-item-object-page ">
+                        <li id="nav-menu-item-168" class="menu-item menu-item-type-post_type menu-item-object-page">
                             <a href="wedding.php" class="">
                                 <span class="item_outer"><span class="item_text">Weddings</span></span>
                             </a>
                         </li>
-                        <li id="nav-menu-item-2190" class="menu-item menu-item-type-post_type menu-item-object-page ">
+                        <li id="nav-menu-item-2190" class="menu-item menu-item-type-post_type menu-item-object-page">
                             <a href="events.php" class="">
                                 <span class="item_outer"><span class="item_text">Events</span></span>
                             </a>
                         </li>
-                        <li id="nav-menu-item-372" class="menu-item menu-item-type-post_type menu-item-object-page ">
-                            <a href="documantary.php" class="">
+                        <li id="nav-menu-item-372" class="menu-item menu-item-type-post_type menu-item-object-page">
+                            <a href="documentary.php" class="">
                                 <span class="item_outer"><span class="item_text">Documentary</span></span>
                             </a>
                         </li>
@@ -404,9 +403,9 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 </a>
 <div class="eltdf-content">
 <div class="eltdf-content-inner">
-<div class="eltdf-title-holder eltdf-standard-with-breadcrumbs-type eltdf-title-va-header-bottom eltdf-has-bg-image eltdf-bg-parallax" style="height: 107px; background-image: url(&quot;https://solene.qodeinteractive.com/wp-content/uploads/2020/01/port-title-img-1-parallax.jpg&quot;); background-position: center 0px;" data-height="107">
+<div class="eltdf-title-holder eltdf-standard-with-breadcrumbs-type eltdf-title-va-header-bottom eltdf-has-bg-image eltdf-bg-parallax" style="height: 107px; background-image: url(&quot;images/slider6.jpg&quot;); background-position: center 0px;" data-height="107">
 <div class="eltdf-title-image">
-<img itemprop="image" src="./assets/port-title-img-1-parallax.jpg" alt="m">
+<img itemprop="image" src="./images/slider6.jpg" alt="m">
 </div>
 <div class="eltdf-title-wrapper" style="height: 107px">
 <div class="eltdf-title-inner">
@@ -415,46 +414,37 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <h3 class="eltdf-page-title entry-title" style="color: #ffffff">Portraits</h3>
 </div>
 <div class="eltdf-breadcrumbs-info">
-<div itemprop="breadcrumb" class="eltdf-breadcrumbs eltdf-has-inline-style" style="color: #ffffff"><a itemprop="url" href="https://glintzphotography.org/">Home</a><span class="eltdf-delimiter">&nbsp; / &nbsp;</span><a itemprop="url" href="portraits.php">portraits</a></div> </div>
+<div itemprop="breadcrumb" class="eltdf-breadcrumbs eltdf-has-inline-style" style="color: #ffffff"><a itemprop="url" href="https://glintzphotography.org/">Home</a><span class="eltdf-delimiter">&nbsp; / &nbsp;</span><a itemprop="url" href="portrait.php">portrait</a></div> </div>
 </div>
 </div>
 </div>
 </div>
+
 <div class="eltdf-container">
 <div class="eltdf-container-inner clearfix">
 <div class="eltdf-portfolio-single-holder eltdf-ps-gallery-layout">
 <div class="eltdf-ps-image-holder eltdf-ps-gallery-images eltdf-grid-list eltdf-disable-bottom-space  eltdf-three-columns eltdf-tiny-space">
+
 <div class="eltdf-ps-image-inner eltdf-outer-space">
+    <?php
+        $query5 = "SELECT * FROM notification";
+        $runquery5= mysqli_query($db,$query5);
+        while($data5=mysqli_fetch_array($runquery5)){
+    ?>
 <div class="eltdf-ps-image eltdf-item-space">
-<a itemprop="image" title="port-single-img-1" data-rel="prettyPhoto[single_pretty_photo]" href="./assets/port-single-img-1.jpg">
-<img itemprop="image" src="./assets/port-single-img-1.jpg" alt="m">
+    
+
+<a itemprop="image" data-rel="prettyPhoto[single_pretty_photo]" href="./assets/img/<?=$data5['projectpic']?>">
+<img itemprop="image" src="./assets/img/<?=$data5['projectpic']?>" alt="m">
 </a>
+
 </div>
-<div class="eltdf-ps-image eltdf-item-space">
-<a itemprop="image" title="port-single-img-2" data-rel="prettyPhoto[single_pretty_photo]" href="./assets/port-single-img-2.jpg">
-<img itemprop="image" src="./assets/port-single-img-2.jpg" alt="m">
-</a>
-</div>
-<div class="eltdf-ps-image eltdf-item-space">
-<a itemprop="image" title="port-single-img-3" data-rel="prettyPhoto[single_pretty_photo]" href="./assets/port-single-img-3.jpg">
-<img itemprop="image" src="./assets/port-single-img-3.jpg" alt="m">
-</a>
-</div>
-<div class="eltdf-ps-image eltdf-item-space">
-<a itemprop="image" title="port-single-img-19" data-rel="prettyPhoto[single_pretty_photo]" href="./assets/port-single-img-19.jpg">
-<img itemprop="image" src="./assets/port-single-img-19.jpg" alt="m">
-</a>
-</div>
-<div class="eltdf-ps-image eltdf-item-space">
-<a itemprop="image" title="port-single-img-4" data-rel="prettyPhoto[single_pretty_photo]" href="./assets/port-single-img-4.jpg">
-<img itemprop="image" src="./assets/port-single-img-4.jpg" alt="m">
-</a>
-</div>
-<div class="eltdf-ps-image eltdf-item-space">
-<a itemprop="image" title="port-single-img-5" data-rel="prettyPhoto[single_pretty_photo]" href="./assets/port-single-img-5.jpg">
-<img itemprop="image" src="./assets/port-single-img-5.jpg" alt="m">
-</a>
-</div>
+<?php
+    }
+?>
+
+
+
 </div>
 </div>
 
