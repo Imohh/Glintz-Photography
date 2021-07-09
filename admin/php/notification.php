@@ -1,4 +1,4 @@
- <h2>Add New Section in Scrapbook Page</h2>
+ <h2>Add New pictures in Portraits</h2>
          <?php
          if(isset($_GET['msg'])){
              
@@ -20,31 +20,7 @@
 
 
 
-<h2 align="center">HEADER SECTION</h2>
-  <?php
-    $query5 = "SELECT * FROM headers";
-    $queryrun5= mysqli_query($db,$query5);
-    while($data5=mysqli_fetch_array($queryrun5)){
-  ?>
 
-
-         <form method="post" action="php/ucampail.php">
-         <div class="form-row">
-             <div class="form-group col-md-12">
-    <label for="scrapbook_head">New Section Header</label>
-    <input type="text" name="scrapbook_head" class="form-control" id="scrapbook_head" value="<?=$data5['scrapbook_head']?>" placeholder="header"><br>
-  </div>
-        
-        
-        <?php
-          }
-        ?>
-
-</div>
-         <input type="submit" name="save" class="btn btn-primary" value="Save Changes">
-         </form>
-         <br>
-         <br>
 
 
 
@@ -60,7 +36,7 @@
   
 
     <div class="form-group col-md-2 ml-auto">
-        <input type="submit" name="addtonotification" class="btn btn-primary" value="Add To Scrapbook">
+        <input type="submit" name="addtonotification" class="btn btn-primary" value="Add To Portrait">
     </div>
   
 </form>
@@ -84,7 +60,7 @@ while($data2=mysqli_fetch_array($queryrun2)){
   <div class="modal-dialog">
     <div class="modal-content">
       <div class="modal-header">
-        <h6 class="modal-title" id="exampleModalLabel">Edit Scrapbook</h6>
+        <h6 class="modal-title" id="exampleModalLabel">Edit Portraits</h6>
         <button type="button" class="close" data-dismiss="modal" aria-label="Close">
           <span aria-hidden="true">&times;</span>
         </button>
@@ -134,9 +110,7 @@ while($data2=mysqli_fetch_array($queryrun2)){
          <td>
              
          
-         <button type="button" class="btn btn-primary btn-sm" data-toggle="modal" data-target="#modal<?=$data2['id']?>">
-  Edit
-</button> <a href="php/unotification.php?del=<?=$data2['id']?>"><button type="button" class="btn btn-danger btn-sm" data-toggle="modal" data-target="#exampleModal">
+         <a href="php/unotification.php?del=<?=$data2['id']?>"><button type="button" class="btn btn-danger btn-sm" data-toggle="modal" data-target="#exampleModal">
   Delete
              </button></a></td>
             </tr>            

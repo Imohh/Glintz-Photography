@@ -96,19 +96,31 @@ $data=mysqli_fetch_array($queryrun);
               Edit Third Blog
             </a>
           </li>
+          <li class="nav-item">
+            <a class="nav-link" href="?editvideo=true">
+              <span data-feather="archive"></span>
+              Events
+            </a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="?editnotification=true">
+              <span data-feather="archive"></span>
+              Portraits
+            </a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="?editdocumentary=true">
+              <span data-feather="archive"></span>
+              Documentary
+            </a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="?editwedding=true">
+              <span data-feather="archive"></span>
+              Weddings
+            </a>
+          </li>
           <!-- <li class="nav-item">
-            <a class="nav-link" href="?editcampaign2=true">
-              <span data-feather="archive"></span>
-              Add new section campaigns 2
-            </a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link" href="?editcampaign3=true">
-              <span data-feather="archive"></span>
-              Add new section campaigns 3
-            </a>
-          </li>
-          <li class="nav-item">
             <a class="nav-link" href="?editcampaign4=true">
               <span data-feather="archive"></span>
               Add new section campaigns 4
@@ -144,6 +156,14 @@ $data=mysqli_fetch_array($queryrun);
       include('php/uidesign.php');
      }else if(isset($_GET['editwork'])){
       include('php/work.php');
+     }else if(isset($_GET['editvideo'])){
+      include('php/video.php');
+     }else if(isset($_GET['editnotification'])){
+      include('php/notification.php');
+     }else if(isset($_GET['editdocumentary'])){
+      include('php/documentary.php');
+     }else if(isset($_GET['editwedding'])){
+      include('php/wedding.php');
     
      }else if(isset($_GET['editprofile'])){ ?>
         <h2>Edit Profile</h2>
