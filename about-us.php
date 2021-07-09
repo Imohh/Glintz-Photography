@@ -567,7 +567,7 @@
 					<div class="wpb_wrapper">
 						<div class="eltdf-single-image-holder   ">
 							<div class="eltdf-si-inner">
-								<img width="800" height="524" src="./assets/about-us-img-1.jpg" class="attachment-full size-full" alt="m" srcset="assets/about-us-img-1.jpg 800w, assets/about-us-img-1.jpg 300w, assets/about-us-img-1.jpg 768w, assets/about-us-img-1.jpg 600w" sizes="(max-width: 800px) 100vw, 800px">
+								<img width="800" height="524" src="./images/photography.jpg" class="attachment-full size-full" alt="m" srcset="images/photography.jpg 800w, images/photography.jpg 300w, images/photography.jpg 768w, images/photography.jpg 600w" sizes="(max-width: 800px) 100vw, 800px">
 							</div>
 						</div>
 						<div class="vc_empty_space" style="height: 27px">
@@ -576,7 +576,7 @@
 						<div class="eltdf-section-title-holder   eltdf-section-title-appeared">
 							<div class="eltdf-st-inner">
 								<h3 class="eltdf-st-title">Photography</h3>
-								<p class="eltdf-st-text" style="margin-top: 7px">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean molestie orci ut nibh </p>
+								<p class="eltdf-st-text" style="margin-top: 7px">We create and document timeless images in elegant and simple form, evoking true emotions. </p>
 							</div>
 						</div>
 						<div class="vc_empty_space" style="height: 40px">
@@ -590,7 +590,7 @@
 					<div class="wpb_wrapper">
 						<div class="eltdf-single-image-holder   ">
 							<div class="eltdf-si-inner">
-								<img width="800" height="524" src="./assets/about-us-img-2.jpg" class="attachment-full size-full" alt="m" srcset="assets/about-us-img-2.jpg 800w, assets/about-us-img-2.jpg 300w, assets/about-us-img-2.jpg 768w, assets/about-us-img-2.jpg 600w" sizes="(max-width: 800px) 100vw, 800px">
+								<img width="800" height="524" src="./images/cinematography.jpg" class="attachment-full size-full" alt="m" srcset="images/cinematography.jpg 800w, images/cinematography.jpg 300w, images/cinematography.jpg 768w, images/cinematography.jpg 600w" sizes="(max-width: 800px) 100vw, 800px">
 							</div>
 						</div>
 						<div class="vc_empty_space" style="height: 27px">
@@ -599,7 +599,7 @@
 						<div class="eltdf-section-title-holder   eltdf-section-title-appeared">
 							<div class="eltdf-st-inner">
 								<h3 class="eltdf-st-title">Cinematography</h3>
-								<p class="eltdf-st-text" style="margin-top: 7px">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean molestie orci ut nibh </p>
+								<p class="eltdf-st-text" style="margin-top: 7px">We help you tell stories in a way that is personal and original, giving you a reason to gigle years after your event.</p>
 							</div>
 						</div>
 						<div class="vc_empty_space" style="height: 40px">
@@ -613,7 +613,7 @@
 					<div class="wpb_wrapper">
 						<div class="eltdf-single-image-holder   ">
 							<div class="eltdf-si-inner">
-								<img width="800" height="524" src="./assets/about-us-img-3.jpg" class="attachment-full size-full" alt="m" srcset="assets/about-us-img-3.jpg 800w, assets/about-us-img-3.jpg 300w, assets/about-us-img-3.jpg 768w, assets/about-us-img-3.jpg 600w" sizes="(max-width: 800px) 100vw, 800px">
+								<img width="800" height="524" src="./images/talent-development.jpg" class="attachment-full size-full" alt="m" srcset="images/talent-development.jpg 800w, images/talent-development.jpg 300w, images/talent-development.jpg 768w, images/talent-development.jpg 600w" sizes="(max-width: 800px) 100vw, 800px">
 							</div>
 						</div>
 						<div class="vc_empty_space" style="height: 27px">
@@ -622,7 +622,7 @@
 						<div class="eltdf-section-title-holder   eltdf-section-title-appeared">
 							<div class="eltdf-st-inner">
 								<h3 class="eltdf-st-title">Talent Development </h3>
-								<p class="eltdf-st-text" style="margin-top: 7px">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean molestie orci ut nibh </p>
+								<p class="eltdf-st-text" style="margin-top: 7px">We inspire and empower creative talents in photography through our academy. </p>
 							</div>
 						</div>
 						<div class="vc_empty_space" style="height: 40px">
@@ -805,16 +805,16 @@
 									</div>
 									<div class="eltdf-ils-item-images-holder">
 										<div class="eltdf-ils-item-image eltdf-active">
-											<img width="1300" height="718" src="./assets/h1-img-4.jpg" class="attachment-full size-full" alt="d" srcset="assets/h1-img-4.jpg 1300w, assets/h1-img-4.jpg 300w, assets/h1-img-4.jpg 1024w, assets/h1-img-4.jpg 768w, assets/h1-img-4.jpg 600w" sizes="(max-width: 1300px) 100vw, 1300px">
+											<img width="1300" height="718" src="./assets/h1-img-4.jpg" class="attachment-full size-full" alt="d" srcset="images/portrait-model.jpg 1300w, images/portrait-model.jpg 300w, images/portrait-model.jpg 1024w, images/portrait-model.jpg 768w, images/portrait-model.jpg 600w" sizes="(max-width: 1300px) 100vw, 1300px">
 										</div>
 										<div class="eltdf-ils-item-image">
-											<img width="1300" height="718" src="./assets/h1-img-5.jpg" class="attachment-full size-full" alt="d" srcset="assets/h1-img-5.jpg 1300w, assets/h1-img-5.jpg 300w, assets/h1-img-5.jpg 1024w, assets/h1-img-5.jpg 768w, assets/h1-img-5.jpg 600w" sizes="(max-width: 1300px) 100vw, 1300px"> 
+											<img width="1300" height="718" src="./images/h1-img-5.jpg" class="attachment-full size-full" alt="d" srcset="images/wedding4.jpg 1300w, assets/wedding4.jpg 300w, images/wedding4.jpg 1024w, assets/wedding4.jpg 768w, images/wedding4.jpg 600w" sizes="(max-width: 1300px) 100vw, 1300px"> 
 										</div>
 										<div class="eltdf-ils-item-image">
-											<img width="1300" height="718" src="./assets/h1-img-6.jpg" class="attachment-full size-full" alt="d" srcset="assets/h1-img-6.jpg 1300w, assets/h1-img-6.jpg 300w, assets/h1-img-6.jpg 1024w, assets/h1-img-6.jpg 768w, assets/h1-img-6.jpg 600w" sizes="(max-width: 1300px) 100vw, 1300px"> 
+											<img width="1300" height="718" src="./assets/h1-img-6.jpg" class="attachment-full size-full" alt="d" srcset="images/event1.jpg 1300w, images/event1.jpg 300w, images/event1.jpg 1024w, assets/event1.jpg 768w, assets/event1.jpg 600w" sizes="(max-width: 1300px) 100vw, 1300px"> 
 										</div>
 										<div class="eltdf-ils-item-image">
-											<img width="1300" height="718" src="./assets/h1-img-7.jpg" class="attachment-full size-full" alt="d" srcset="assets/h1-img-7.jpg 1300w, assets/h1-img-7.jpg 300w, assets/h1-img-7.jpg 1024w, assets/h1-img-7.jpg 768w, assets/h1-img-7.jpg 600w" sizes="(max-width: 1300px) 100vw, 1300px"> 
+											<img width="1300" height="718" src="./images/documentary.jpg" class="attachment-full size-full" alt="d" srcset="images/documentary.jpg 1300w, images/documentary.jpg 300w, images/documentary.jpg 1024w, images/documentary.jpg 768w, images/documentary.jpg 600w" sizes="(max-width: 1300px) 100vw, 1300px"> 
 										</div>
 									</div>
 								</div>
