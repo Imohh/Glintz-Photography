@@ -61,7 +61,7 @@
           </thead>
           <tbody>
          <?php
-          $query2="SELECT * FROM campaigns_three";
+          $query2="SELECT * FROM documentary";
           $queryrun2=mysqli_query($db,$query2);
           $count=1;         
           while($data2=mysqli_fetch_array($queryrun2)){

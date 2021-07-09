@@ -2,7 +2,7 @@
 include('../../include/db.php');
 include('checkupload.php');
 $id=$_POST['id'];
-$query="SELECT * FROM wedding WHERE id='$id'";
+$query="SELECT * FROM events WHERE id='$id'";
 
 $queryrun=mysqli_query($db,$query);
 $data=mysqli_fetch_array($queryrun);
@@ -23,14 +23,14 @@ $projectlink=mysqli_real_escape_string($db,$_POST['projectlink']);
 if($pdone=="error"){
     header("location:../?edithome=true&msg=error");
 }else{
-$query="UPDATE wedding SET ";
+$query="UPDATE events SET ";
 $query.="projectpic='$projectpic',";
 $query.="projectname='$projectname',";
 $query.="projectlink='$projectlink' WHERE id='$id'";
 echo $query;    
 $queryrun=mysqli_query($db,$query);
 if($queryrun){
-    header("location:../?editwedding=true#done");
+    header("location:../?editevents=true#done");
 }    
 
 }    
@@ -39,14 +39,14 @@ if($queryrun){
 
 if(isset($_GET['del'])){
     $id=$_GET['del'];
-    $query="DELETE FROM wedding WHERE id='$id'";
+    $query="DELETE FROM events WHERE id='$id'";
     $queryrun=mysqli_query($db,$query);
 if($queryrun){
-    header("location:../?editwedding=true#done");
+    header("location:../?editevents=true#done");
 }
 }
 
-if(isset($_POST['addtowedding'])){    
+if(isset($_POST['addtoevents'])){    
 $projectpic=$_FILES['projectpic']['name'];        
 if($projectpic==""){
     $projectpic=$data['projectpic'];
@@ -58,13 +58,13 @@ $projectname=mysqli_real_escape_string($db,$_POST['projectname']);
 $projectlink=mysqli_real_escape_string($db,$_POST['projectlink']);
 
 if($pdone=="error"){
-    header("location:../?editwedding=true&msg=error");
+    header("location:../?editevents=true&msg=error");
 }else{
-$query="INSERT INTO wedding (projectname,projectpic,projectlink) ";
+$query="INSERT INTO events (projectname,projectpic,projectlink) ";
 $query.="VALUES ('$projectname','$projectpic','$projectlink')";
 $queryrun=mysqli_query($db,$query);
 if($queryrun){
-    header("location:../?editwedding=true&msg=updated");
+    header("location:../?editevents=true&msg=updated");
 }    
 
 }    

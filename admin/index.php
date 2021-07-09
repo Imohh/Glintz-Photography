@@ -97,7 +97,7 @@ $data=mysqli_fetch_array($queryrun);
             </a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="?editvideo=true">
+            <a class="nav-link" href="?editevents=true">
               <span data-feather="archive"></span>
               Events
             </a>
@@ -156,8 +156,8 @@ $data=mysqli_fetch_array($queryrun);
       include('php/uidesign.php');
      }else if(isset($_GET['editwork'])){
       include('php/work.php');
-     }else if(isset($_GET['editvideo'])){
-      include('php/video.php');
+     }else if(isset($_GET['editevents'])){
+      include('php/events.php');
      }else if(isset($_GET['editnotification'])){
       include('php/notification.php');
      }else if(isset($_GET['editdocumentary'])){

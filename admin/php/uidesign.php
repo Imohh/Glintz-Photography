@@ -66,7 +66,7 @@
       <input type="text" name="projectlink" class="form-control" id="email" placeholder="https://whomonugiri.github.io/todo-list-maker/">
     </div> -->
     <div class="form-group col-md-2 ml-auto">
-        <input type="submit" name="addtouidesign" class="btn btn-primary" value="Add To Ui design">
+        <input type="submit" name="addtouidesign" class="btn btn-primary" value="Add To Blog">
     </div>
   
 </form>
