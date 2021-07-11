@@ -424,7 +424,7 @@
 								<div class="vc_column-inner">
 									<div class="wpb_wrapper">
 										<div class="eltdf-elements-holder   eltdf-one-column  eltdf-responsive-mode-768 ">
-											<div class="eltdf-eh-item   eltdf-horizontal-alignment-center " style="background-image: url(./images/header.jpg)" data-item-class="eltdf-eh-custom-4652">
+											<div class="eltdf-eh-item   eltdf-horizontal-alignment-center " style="background-image: url(./images/head-section.jpg); background-position: 100% 80%;" data-item-class="eltdf-eh-custom-4652">
 												<div class="eltdf-eh-item-inner">
 													<div class="eltdf-eh-item-content eltdf-eh-custom-4652" style="padding: 15% 0 15% 0">
 														<div class="eltdf-section-title-holder   eltdf-section-title-appeared">
@@ -490,9 +490,9 @@
 						<div class="wpb_wrapper">
 							<div class="eltdf-section-title-holder   eltdf-section-title-appeared">
 								<div class="eltdf-st-inner">
-									<h2 class="eltdf-st-title" style="color: #4d504a">About Glintz Photography </h2>
+									<!-- <h2 class="eltdf-st-title" style="color: #4d504a">About Glintz Photography </h2> -->
 									<h3 class="eltdf-st-subtitle" style="text-transform: none;font-style: italic;color: #84847c">
-										<span>Lorem ipsum dolor sit amet, consectetur </span>
+										<span>We picture the future</span>
 									</h3>
 								</div>
 							</div>
@@ -509,7 +509,7 @@
 						<div class="wpb_wrapper">
 							<div class="wpb_text_column wpb_content_element ">
 								<div class="wpb_wrapper">
-									<p style="text-align: center;width: 75%; margin: 0 auto">Glintz Photography is multimedia Brand, set up to document, tell African stories of places, people and their through creative visuals. Our storytelling expertise ranges from Portraits, Documentary to Events (weddings, Corporate and concerts). Our style is clean, simple, genuine and composed to communicate essence. We know every event is unique and it is always our delight to create exquisite, candid and creative content with real deep sense of mood in raw emotions peculiar to each client. We look forward to starting a long and lasting meaningful relationship with you. We are based in Lagos, Nigeria and we are available to travel within and outside Africa.</p>
+									<p style="text-align: center;width: 75%; margin: 0 auto">Glintz Photography is a multimedia Brand, set up to document, tell African stories of love, places, people and their culture through creative visuals(still and motion pictures). Our storytelling expertise ranges from Portraits, Documentary to Events (weddings, Corporate and concerts). Our style is clean, simple, genuine and composed to communicate essence. We know every event is unique and it is always our delight to create exquisite, candid and creative content with real deep sense of mood in raw emotions peculiar to each client. We look forward to starting a long and lasting meaningful relationship with you. We are based in Lagos, Nigeria and we are available to travel within and outside Africa.</p>
 								</div>
 							</div>
 						</div>
@@ -546,7 +546,7 @@
 							<div class="eltdf-st-inner">
 								<h2 class="eltdf-st-title">Who we are </h2>
 								<h3 class="eltdf-st-subtitle" style="margin-top: 3px;text-transform: none;font-style: italic;color: #84847c">
-									<span>Alienum phaedrum torquatos </span>
+									<!-- <span>Alienum phaedrum torquatos </span> -->
 								</h3>
 							</div>
 						</div>
@@ -575,7 +575,7 @@
 						</div>
 						<div class="eltdf-section-title-holder   eltdf-section-title-appeared">
 							<div class="eltdf-st-inner">
-								<h3 class="eltdf-st-title">Photography</h3>
+								<h3 class="eltdf-st-title">Photographer</h3>
 								<p class="eltdf-st-text" style="margin-top: 7px">We create and document timeless images in elegant and simple form, evoking true emotions. </p>
 							</div>
 						</div>
@@ -598,7 +598,7 @@
 						</div>
 						<div class="eltdf-section-title-holder   eltdf-section-title-appeared">
 							<div class="eltdf-st-inner">
-								<h3 class="eltdf-st-title">Cinematography</h3>
+								<h3 class="eltdf-st-title">Cinematographer</h3>
 								<p class="eltdf-st-text" style="margin-top: 7px">We help you tell stories in a way that is personal and original, giving you a reason to gigle years after your event.</p>
 							</div>
 						</div>
@@ -621,7 +621,7 @@
 						</div>
 						<div class="eltdf-section-title-holder   eltdf-section-title-appeared">
 							<div class="eltdf-st-inner">
-								<h3 class="eltdf-st-title">Talent Development </h3>
+								<h3 class="eltdf-st-title">Talent Developer </h3>
 								<p class="eltdf-st-text" style="margin-top: 7px">We inspire and empower creative talents in photography through our academy. </p>
 							</div>
 						</div>
@@ -963,7 +963,7 @@ Testimonials </h2>
 			<div class="wpb_wrapper">
 				<div class="eltdf-section-title-holder   eltdf-section-title-appeared" style="text-align: center">
 					<div class="eltdf-st-inner">
-						<h2 class="eltdf-st-title">Follow Me on Instagram </h2>
+						<h2 class="eltdf-st-title">Follow Us on Instagram </h2>
 						<h3 class="eltdf-st-subtitle" style="text-transform: none;font-style: italic;color: #84847c">
 						<span>@ glintz_photography </span>
 						</h3>

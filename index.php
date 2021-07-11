@@ -725,14 +725,13 @@ rs-fullwidth-wrap .eltdf-social-icon-widget-holder:after {
 <div class="eltdf-eh-item-content eltdf-eh-custom-5842" style="padding: 0 49% 54.5% 0">
 <div class="wpb_text_column wpb_content_element ">
 <div class="wpb_wrapper">
-<h1>Iconic Photos</h1>
+<h1>Signature</h1>
 </div>
 </div>
 <div class="vc_empty_space" style="height: 14px"><span class="vc_empty_space_inner"></span></div><div class="eltdf-section-title-holder   eltdf-section-title-appeared" style="padding: 0 20% 0 0">
 <div class="eltdf-st-inner">
 <h3 class="eltdf-st-subtitle" style="line-height: 32px;text-transform: none;font-style: italic;color: #72726c">
-<span>
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium veritatis </span>
+<span>Our style is clean, simple, and sincere to communicate essence</span>
 </h3>
 </div>
 </div> </div>
@@ -747,12 +746,12 @@ Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium dolor
 <article class="eltdf-pl-item eltdf-item-space  post-353 portfolio-item type-portfolio-item status-publish has-post-thumbnail hentry portfolio-category-interior portfolio-tag-photo eltdf-item-show eltdf-item-shown" style="padding: 190px 7% 0px 0px; position: absolute; left: 0%; top: 0px;">
 <div class="eltdf-pl-item-inner">
 <div class="eltdf-pli-image">
-<img width="800" height="979" src="./images/wedding3.jpg" class="attachment-full size-full wp-post-image" alt="m" sizes="(max-width: 800px) 100vw, 800px"></div>
+<img width="800" height="979" src="./images/wedding6.jpg" class="attachment-full size-full wp-post-image" alt="m" sizes="(max-width: 800px) 100vw, 800px"></div>
 <div class="eltdf-pli-text-holder">
 <div class="eltdf-pli-text-wrapper">
 <div class="eltdf-pli-text">
 <div class="eltdf-pli-category-holder">
-<a itemprop="url" class="eltdf-pli-category" href="#">Interior</a>
+<a itemprop="url" class="eltdf-pli-category" href="#">Pre wedding</a>
 </div>
 <h3 itemprop="name" class="eltdf-pli-title entry-title">
 Bridal Bouquet	</h3>
@@ -769,10 +768,10 @@ Bridal Bouquet	</h3>
 <div class="eltdf-pli-text-wrapper">
 <div class="eltdf-pli-text">
 <div class="eltdf-pli-category-holder">
-<a itemprop="url" class="eltdf-pli-category" href="#">Interior</a>
+<a itemprop="url" class="eltdf-pli-category" href="#">Traditional wedding</a>
 </div>
 <h3 itemprop="name" class="eltdf-pli-title entry-title">
-Blushing Bride	</h3>
+Love and culture</h3>
 </div>
 </div>
 </div>
@@ -781,15 +780,15 @@ Blushing Bride	</h3>
 </article><article class="eltdf-pl-item eltdf-item-space  post-366 portfolio-item type-portfolio-item status-publish has-post-thumbnail hentry portfolio-category-interior portfolio-tag-photo eltdf-item-show eltdf-item-shown" style="padding: 120px 0px 57px 7%; position: absolute; left: 50%; top: 601px;">
 <div class="eltdf-pl-item-inner">
 <div class="eltdf-pli-image">
-<img width="800" height="963" src="./images/3.jpg" class="attachment-full size-full wp-post-image" alt="m"  sizes="(max-width: 800px) 100vw, 800px"></div>
+<img width="800" height="963" src="./images/signature-portrait.jpg" class="attachment-full size-full wp-post-image" alt="m"  sizes="(max-width: 800px) 100vw, 800px"></div>
 <div class="eltdf-pli-text-holder">
 <div class="eltdf-pli-text-wrapper">
 <div class="eltdf-pli-text">
 <div class="eltdf-pli-category-holder">
-<a itemprop="url" class="eltdf-pli-category" href="#">Interior</a>
+<a itemprop="url" class="eltdf-pli-category" href="#">Portraits</a>
 </div>
 <h3 itemprop="name" class="eltdf-pli-title entry-title">
-Love Shades	</h3>
+Album Cover</h3>
 </div>
 </div>
 </div>
@@ -798,15 +797,15 @@ Love Shades	</h3>
 </article><article class="eltdf-pl-item eltdf-item-space  post-365 portfolio-item type-portfolio-item status-publish has-post-thumbnail hentry portfolio-category-interior portfolio-tag-photo eltdf-item-show eltdf-item-shown" style="padding: 120px 15% 57px 0px; position: absolute; left: 0%; top: 884px;">
 <div class="eltdf-pl-item-inner">
 <div class="eltdf-pli-image">
-<img width="800" height="1007" src="./images/wedding2.jpg" class="attachment-full size-full wp-post-image" alt="m" sizes="(max-width: 800px) 100vw, 800px"></div>
+<img width="800" height="1007" src="./images/traditional2.jpg" class="attachment-full size-full wp-post-image" alt="m" sizes="(max-width: 800px) 100vw, 800px"></div>
 <div class="eltdf-pli-text-holder">
 <div class="eltdf-pli-text-wrapper">
 <div class="eltdf-pli-text">
 <div class="eltdf-pli-category-holder">
-<a itemprop="url" class="eltdf-pli-category" href="#">Interior</a>
+<a itemprop="url" class="eltdf-pli-category" href="#">Portrait</a>
 </div>
 <h3 itemprop="name" class="eltdf-pli-title entry-title">
-Capture Emotion	</h3>
+Royal Prince</h3>
 </div>
 </div>
 </div>
@@ -855,7 +854,7 @@ Capture Emotion	</h3>
                               <div class="eltdf-st-inner">
                                 <span class="eltdf-st-separator" style="color: #e1d9cf;height: 136px"></span>
                                 <h3 class="eltdf-st-title" style="color: #72726c">
-                                Live your magic and save your precious love memories! Our team of professional photographers is here to help you. </h3>
+                                to hire is to trust us and we promise to deploy our best to make your project an unforgettable experience</h3>
                               </div>
                             </div>
                           </div>
@@ -892,7 +891,7 @@ Capture Emotion	</h3>
                                   <div class="eltdf-video-button-image">
                                     <img width="1302" height="696" src="./images/videopic.jpg" class="attachment-full size-full" alt="d" sizes="(max-width: 1302px) 100vw, 1302px">
                                   </div>
-                                  <a class="eltdf-video-button-play" style="color: #ffffff" href="https://www.youtube.com/watch?v=JtYaDKNssbI" data-rel="prettyPhoto[video_button_pretty_photo_412]">
+                                  <a class="eltdf-video-button-play" style="color: #ffffff" href="https://www.youtube.com/watch?v=XeBd5ANLuvo&t=16s" data-rel="prettyPhoto[video_button_pretty_photo_412]">
                                     <span class="eltdf-video-button-play-inner">
                                       <img src="https://img.icons8.com/android/64/000000/play.png" height="30px" width="30px" />
                                       <span class="eltdf-vb-label">
@@ -1015,26 +1014,25 @@ Alienum phaedrum torquatos neceu </span>
 </div></div></div></div></div><div class="eltdf-row-grid-section-wrapper "><div class="eltdf-row-grid-section"><div class="vc_row wpb_row vc_row-fluid vc_column-gap-1"><div class="wpb_column vc_column_container vc_col-sm-6 vc_col-lg-3"><div class="vc_column-inner"><div class="wpb_wrapper"><div class="eltdf-team-holder eltdf-team-info-below-image">
 <div class="eltdf-team-inner">
 <div class="eltdf-team-image">
-<img width="800" height="1142" src="./Solene – Wedding Photography Theme_files/team-img-1.jpg" class="main-image" alt="d" sizes="(max-width: 800px) 100vw, 800px"> <div class="eltdf-team-hover-image">
-<img width="150" height="133" src="./Solene – Wedding Photography Theme_files/team-hover-img-1.png" class="attachment-full size-full" alt="m"> </div>
-<a class="eltdf-team-link" href="https://solene.qodeinteractive.com/our-team/" target="_self"></a>
+<img width="800" height="1142" src="./images/tpj4.jpg" class="main-image" alt="d" sizes="(max-width: 800px) 100vw, 800px"> <!-- <div class="eltdf-team-hover-image">
+<img width="150" height="133" src="./Solene – Wedding Photography Theme_files/team-hover-img-1.png" class="attachment-full size-full" alt="m"> </div> -->
+<a class="eltdf-team-link" href="" target="_self"></a>
 </div>
 <div class="eltdf-team-info">
-<span class="eltdf-team-position" style="color: #84847c">Photographer</span>
-<h3 class="eltdf-team-name">Maria Smith</h3>
+<span class="eltdf-team-position" style="color: #84847c">Creative Director</span>
+<h3 class="eltdf-team-name" style="font-size: 17px">Temitope Jalekun</h3>
 <div class="eltdf-team-textual-social-holder">
-<a class="eltdf-team-icon" href="https://www.facebook.com/glintz_photography" target="_blank">FB</a>
-<a class="eltdf-team-icon" href="https://www.instagram.com/glintz_photography" target="_blank">IN</a>
-<a class="eltdf-team-icon" href="https://twitter.com/glintzmedia" target="_blank">TW</a>
+<a class="eltdf-team-icon" href="https://www.instagram.com/temitopejalekun" target="_blank">IN</a>
+<a class="eltdf-team-icon" href="https://twitter.com/adedoyintp" target="_blank">TW</a>
 </div>
 </div>
 </div>
 </div><div class="vc_empty_space" style="height: 32px"><span class="vc_empty_space_inner"></span></div></div></div></div><div class="wpb_column vc_column_container vc_col-sm-6 vc_col-lg-3"><div class="vc_column-inner"><div class="wpb_wrapper"><div class="eltdf-team-holder eltdf-team-info-below-image">
 <div class="eltdf-team-inner">
 <div class="eltdf-team-image" style="margin-top: 40px">
-<img width="800" height="1142" src="./Solene – Wedding Photography Theme_files/team-img-2.jpg" class="main-image" alt="d" sizes="(max-width: 800px) 100vw, 800px" style="filter: blur(0px);"> <div class="eltdf-team-hover-image">
+<img width="800" height="1142" src="./Solene – Wedding Photography Theme_files/team-img-2.jpg" class="main-image" alt="d" sizes="(max-width: 800px) 100vw, 800px" style="filter: blur(0px);"> <!-- <div class="eltdf-team-hover-image">
 <img width="150" height="183" src="./Solene – Wedding Photography Theme_files/team-hover-img-2.png" class="attachment-full size-full" alt="m"> </div>
-<a class="eltdf-team-link" href="https://solene.qodeinteractive.com/our-team/" target="_self"></a>
+ --><a class="eltdf-team-link" href="#" target="_self"></a>
 </div>
 <div class="eltdf-team-info">
 <span class="eltdf-team-position" style="color: #84847c">Photographer</span>
@@ -1105,16 +1103,16 @@ Alienum phaedrum torquatos neceu </span>
               <div class="eltdf-eh-item-content eltdf-eh-custom-3676" style="padding: 315px 0 125px 15.8%">
                 <div class="eltdf-ils-holder eltdf-ils-split ">
                   <div class="eltdf-ils-content-holder">
-                    <a itemprop="url" class="eltdf-ils-item-link" data-index="0" href="#" target="_self">
+                    <a itemprop="url" class="eltdf-ils-item-link" data-index="0" href="portrait.php" target="_self">
                     <span class="eltdf-ils-item-title">Portrait</span>
                     </a>
-                    <a itemprop="url" class="eltdf-ils-item-link eltdf-active" data-index="1" href="#" target="_self">
+                    <a itemprop="url" class="eltdf-ils-item-link eltdf-active" data-index="1" href="wedding.php" target="_self">
                     <span class="eltdf-ils-item-title">Wedding</span>
                     </a>
-                    <a itemprop="url" class="eltdf-ils-item-link" data-index="2" href="#" target="_self">
+                    <a itemprop="url" class="eltdf-ils-item-link" data-index="2" href="events.php" target="_self">
                     <span class="eltdf-ils-item-title">Events</span>
                     </a>
-                    <a itemprop="url" class="eltdf-ils-item-link" data-index="3" href="#" target="_self">
+                    <a itemprop="url" class="eltdf-ils-item-link" data-index="3" href="documentary.php" target="_self">
                     <span class="eltdf-ils-item-title">Documentary</span>
                     </a>
                   </div>
@@ -1129,7 +1127,7 @@ Alienum phaedrum torquatos neceu </span>
                       <img width="1300" height="718" src="./images/event1.jpg" class="attachment-full size-full" alt="d" sizes="(max-width: 1300px) 100vw, 1300px">
                     </div>
                     <div class="eltdf-ils-item-image">
-                      <img width="1300" height="718" src="./images/portrait1.jpg" class="attachment-full size-full" alt="d" sizes="(max-width: 1300px) 100vw, 1300px">
+                      <img width="1300" height="718" src="./images/DOCUMENTARY, MOTHER AND CHILD, INTERNALLY DISPLACED PEOPLE.jpg" class="attachment-full size-full" alt="d" sizes="(max-width: 1300px) 100vw, 1300px">
                     </div>
                   </div>
                 </div>
@@ -1149,7 +1147,7 @@ Alienum phaedrum torquatos neceu </span>
 
 
 <!-- CLIENT SECTION -->
-<div class="vc_row wpb_row vc_row-fluid">
+<div class="vc_row wpb_row vc_row-fluid" style="margin-top: 5%;">
   <div class="wpb_column vc_column_container vc_col-sm-12">
     <div class="vc_column-inner">
       <div class="wpb_wrapper">
@@ -1165,26 +1163,26 @@ Alienum phaedrum torquatos neceu </span>
                           <div class="eltdf-cg-inner eltdf-outer-space">
                             <div class="eltdf-cc-item eltdf-item-space eltdf-cci-has-link">
                               <a itemprop="url" class="eltdf-cc-link eltdf-block-drag-link" href="#" target="_self">
-                              <img itemprop="image" class="eltdf-cc-image" src="./Solene – Wedding Photography Theme_files/h1-client-1-new.png" alt="d">
-                              <img itemprop="image" class="eltdf-cc-hover-image" src="./Solene – Wedding Photography Theme_files/h1-client-1-new-hover.png" alt="d">
+                              <img itemprop="image" class="eltdf-cc-image" src="./images/total-logo.png" alt="d" width="30px">
+                              <img itemprop="image" class="eltdf-cc-hover-image" src="./images/total-logo.png" alt="d">
+                              </a>
+                            </div>
+                            <div class="eltdf-cc-item eltdf-item-space eltdf-cci-has-link" width="10px">
+                              <a itemprop="url" class="eltdf-cc-link eltdf-block-drag-link" href="#" target="_self">
+                              <img itemprop="image" class="eltdf-cc-image" src="./images/gordons.png" alt="d" width="30px">
+                              <img itemprop="image" class="eltdf-cc-hover-image" src="./images/gordons.png" alt="d">
                               </a>
                             </div>
                             <div class="eltdf-cc-item eltdf-item-space eltdf-cci-has-link">
                               <a itemprop="url" class="eltdf-cc-link eltdf-block-drag-link" href="#" target="_self">
-                              <img itemprop="image" class="eltdf-cc-image" src="./Solene – Wedding Photography Theme_files/h1-client-2.png" alt="d">
-                              <img itemprop="image" class="eltdf-cc-hover-image" src="./Solene – Wedding Photography Theme_files/h1-client-2-hover.png" alt="d">
+                              <img itemprop="image" class="eltdf-cc-image" src="./images/so-fresh.png" alt="d" width="30px">
+                              <img itemprop="image" class="eltdf-cc-hover-image" src="./images/so-fresh.png" alt="d">
                               </a>
                             </div>
                             <div class="eltdf-cc-item eltdf-item-space eltdf-cci-has-link">
                               <a itemprop="url" class="eltdf-cc-link eltdf-block-drag-link" href="#" target="_self">
-                              <img itemprop="image" class="eltdf-cc-image" src="./Solene – Wedding Photography Theme_files/h1-client-3.png" alt="d">
-                              <img itemprop="image" class="eltdf-cc-hover-image" src="./Solene – Wedding Photography Theme_files/h1-client-3-hover.png" alt="d">
-                              </a>
-                            </div>
-                            <div class="eltdf-cc-item eltdf-item-space eltdf-cci-has-link">
-                              <a itemprop="url" class="eltdf-cc-link eltdf-block-drag-link" href="#" target="_self">
-                              <img itemprop="image" class="eltdf-cc-image" src="./Solene – Wedding Photography Theme_files/h1-client-4.png" alt="d">
-                              <img itemprop="image" class="eltdf-cc-hover-image" src="./Solene – Wedding Photography Theme_files/h1-client-4-hover.png" alt="d">
+                              <img itemprop="image" class="eltdf-cc-image" src="./images/ekiti-logo.png" alt="d" width="30px">
+                              <img itemprop="image" class="eltdf-cc-hover-image" src="./images/ekiti-logo.png" alt="d">
                               </a>
                             </div>
                           </div>
@@ -1222,7 +1220,7 @@ Alienum phaedrum torquatos neceu </span>
                 Read our Blog </h2>
                 <h3 class="eltdf-st-subtitle" style="text-transform: none;font-style: italic;color: #84847c">
                 <span>
-                Alienum phaedrum torquatos neceu, vis detraxit </span>
+                Stories of love, people, places and culture</span>
                 </h3>
               </div>
             </div>
@@ -1394,7 +1392,7 @@ Alienum phaedrum torquatos neceu </span>
 
 
 <!-- PARALLAX -->
-<div data-parallax-bg-image="images/wedding5.jpg" data-parallax-bg-speed="1" class="vc_row wpb_row vc_row-fluid vc_row-o-content-middle vc_row-flex eltdf-parallax-row-holder eltdf-content-aligment-center" style="background-image: url(images/wedding5.jpg); background-position: 50% 8px;">
+<div data-parallax-bg-image="images/GLI_8296.jpg" data-parallax-bg-speed="1" class="vc_row wpb_row vc_row-fluid vc_row-o-content-middle vc_row-flex eltdf-parallax-row-holder eltdf-content-aligment-center" style="background-image: url(images/GLI_8296.jpg); background-position: cover; background-size: 100% 150%;">
   <div class="wpb_column vc_column_container vc_col-sm-12" style="background-color: rgba(0, 0, 0, 0.5);">
     <div class="vc_column-inner">
       <div class="wpb_wrapper">
@@ -1404,20 +1402,19 @@ Alienum phaedrum torquatos neceu </span>
               <div class="eltdf-eh-item-content eltdf-eh-custom-6456" style="padding: 210px 0 215px">
                 <div class="eltdf-section-title-holder   eltdf-section-title-appeared">
                   <div class="eltdf-st-inner">
-                    <h1 class="eltdf-st-title" style="color: #ffffff">Let's document these moments together!</h1>
+                    <h1 class="eltdf-st-title" style="color: #ffffff; font-size: 40px;">Let's document these moments together!</h1>
                     <h3 class="eltdf-st-subtitle" style="margin-top: 19px;text-transform: none;font-style: italic;color: #ffffff">
-                      <span>Lorem ipsum dolor sit amet, adipiscing elit. Aenean commodo ligula. </span>
                     </h3>
                   </div>
                 </div>
                 <div class="vc_empty_space" style="height: 42px">
                   <span class="vc_empty_space_inner"></span>
                 </div>
-                <a itemprop="url" href="https://solene.qodeinteractive.com/four-columns-wide/" target="_self" style="color: #ffffff;border-color: rgba(255,255,255,0.6)" class="eltdf-btn eltdf-btn-large eltdf-btn-outline eltdf-btn-custom-hover-color" data-hover-color="#ffffff">
+                <!-- <a itemprop="url" href="https://solene.qodeinteractive.com/four-columns-wide/" target="_self" style="color: #ffffff;border-color: rgba(255,255,255,0.6)" class="eltdf-btn eltdf-btn-large eltdf-btn-outline eltdf-btn-custom-hover-color" data-hover-color="#ffffff">
                   <span class="eltdf-btn-outline-horizontal-lines" style="color: #ffffff"></span>
                   <span class="eltdf-btn-outline-vertical-lines" style="color: #ffffff"></span>
                   <span class="eltdf-btn-text">Read more</span>
-                </a>
+                </a> -->
               </div>
             </div>
           </div>
@@ -1770,7 +1767,7 @@ Alienum phaedrum torquatos </span>
             <article class="eltdf-pl-item eltdf-item-space  post-1074 portfolio-item type-portfolio-item status-publish has-post-thumbnail hentry portfolio-category-memory portfolio-tag-selebration">
               <div class="eltdf-pl-item-inner">
                 <div class="eltdf-pli-image">
-                  <img width="800" height="1017" src="./images/portraits4.jpg" class="attachment-full size-full wp-post-image" alt="m" sizes="(max-width: 800px) 100vw, 800px"></div>
+                  <img width="800" height="1017" src="./images/celebrate.jpg" class="attachment-full size-full wp-post-image" alt="m" sizes="(max-width: 800px) 100vw, 800px"></div>
                     <div class="eltdf-pli-text-holder">
                       <div class="eltdf-pli-text-wrapper">
                         <div class="eltdf-pli-text">
@@ -1795,7 +1792,7 @@ Alienum phaedrum torquatos </span>
                           <div class="eltdf-pli-category-holder">
                             <a itemprop="url" class="eltdf-pli-category" href="#">Memory</a>
                           </div>
-                          <h3 itemprop="name" class="eltdf-pli-title entry-title">Velvet Cake</h3>
+                          <h3 itemprop="name" class="eltdf-pli-title entry-title">Birthday Portrait</h3>
                         </div>
                       </div>
                     </div>
@@ -2017,7 +2014,7 @@ Alienum phaedrum torquatos </span>
               </div>
             </div>
             <div class="widget eltdf-social-icons-group-widget text-align-center">
-                <a class="eltdf-social-icon-widget-holder eltdf-icon-has-hover" data-hover-color="#afafa5" style="color: #84847c;;font-size: 18px;margin: -44px 0 -30px 0;" href="https://www.facebook.com/glintz_photography" target="_blank">
+                <a class="eltdf-social-icon-widget-holder eltdf-icon-has-hover" data-hover-color="#afafa5" style="color: #84847c;;font-size: 18px;margin: -44px 0 -30px 0;" href="https://web.facebook.com/glintzphotography/?ref=pages_you_manage" target="_blank">
                     <img src="https://img.icons8.com/ios-glyphs/24/000000/facebook-new.png" height="20px" width="20px"/>
                 </a>
                 <a class="eltdf-social-icon-widget-holder eltdf-icon-has-hover" data-hover-color="#afafa5" style="color: #84847c;;font-size: 18px;margin: -44px 0 -30px 0;" href="https://www.instagram.com/glintz_photography/" target="_blank">
@@ -2026,7 +2023,7 @@ Alienum phaedrum torquatos </span>
                 <a class="eltdf-social-icon-widget-holder eltdf-icon-has-hover" data-hover-color="#afafa5" style="color: #84847c;;font-size: 18px;margin: -44px 0 -30px 0;" href="https://twitter.com/glintzmedia" target="_blank">
                     <img src="https://img.icons8.com/ios-glyphs/30/000000/twitter.png" height="20px" width="20px"/>
                 </a>
-                <a class="eltdf-social-icon-widget-holder eltdf-icon-has-hover" data-hover-color="#afafa5" style="color: #84847c;;font-size: 18px;margin: -44px 0 -30px 0;" href="https://www.youtube.com/glintz_photography" target="_blank">
+                <a class="eltdf-social-icon-widget-holder eltdf-icon-has-hover" data-hover-color="#afafa5" style="color: #84847c;;font-size: 18px;margin: -44px 0 -30px 0;" href="https://www.youtube.com/channel/UCMdqsviB8dCvgYGTLPBgVaQ" target="_blank">
                     <img src="https://img.icons8.com/material-outlined/24/000000/youtube--v2.png" height="20px" width="20px"/>
                 </a>
             </div>

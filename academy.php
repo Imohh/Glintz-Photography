@@ -404,7 +404,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 								<div class="vc_column-inner">
 									<div class="wpb_wrapper">
 										<div class="eltdf-elements-holder   eltdf-one-column  eltdf-responsive-mode-768 ">
-											<div class="eltdf-eh-item   eltdf-horizontal-alignment-center " style="background-image: url(./images/header.jpg)" data-item-class="eltdf-eh-custom-4652">
+											<div class="eltdf-eh-item   eltdf-horizontal-alignment-center " style="background-image: url(./images/academy-header.jpg)" data-item-class="eltdf-eh-custom-4652">
 												<div class="eltdf-eh-item-inner">
 													<div class="eltdf-eh-item-content eltdf-eh-custom-4652" style="padding: 15% 0 15% 0">
 														<div class="eltdf-section-title-holder   eltdf-section-title-appeared">
@@ -440,12 +440,12 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 									<div class="eltdf-pi-content">
 										<div class="eltdf-pi-image-holder">
 											<div class="eltdf-pi-image-background" style="background-color: #84847c"></div>
-											<img width="572" height="369" src="./assets/our-process-img-1a.jpg" class="attachment-full size-full" alt="m" srcset="./assets/our-process-img-1a.jpg 572w, ./assets/our-process-img-1a.jpg 300w" sizes="(max-width: 572px) 100vw, 572px"> 
+											<img width="572" height="369" src="./images/IMG_20201212_103613.jpg" class="attachment-full size-full" alt="m" srcset="./images/IMG_20201212_103613.jpg 572w, ./images/IMG_20201212_103613.jpg 300w" sizes="(max-width: 572px) 100vw, 572px" style="background-size: 170% 150%;"> 
 										</div>
 										<div class="eltdf-pi-desc-holder">
 											<div class="eltdf-pi-desc-inner">
 												<div class="eltdf-process-mark">01</div>
-												<h2 class="eltdf-pi-title" style="color: #4d504a">Glintz Photo Academy</h2>
+												<h2 class="eltdf-pi-title" style="color: #4d504a; font-size: 21px;">Glintz Photo Academy</h2>
 												<p class="eltdf-pi-text" style="color: #72726c;margin-top: 8px">A platform set to help young people discover, polish and explore their creative talents through Visual art ( Still and Motion Pictures). Over the years, we have been able to groom several amazing photographers, now doing great in their chosen genre of photography beyond storytelling. our students will learn business ethics, set design, branding/packaging, financial management. Etc.</p>
 												<p class="eltdf-pi-text" style="color: #72726c;margin-top: 8px">In the cause of the training, our students will have opportunity to meet and engage other high profile Nigerian photographers. They will also be assigned a personal project for portfolio creation purpose.</p>
 											</div>
@@ -455,13 +455,13 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 								<div class="eltdf-process-item ">
 									<div class="eltdf-pi-content">
 										<div class="eltdf-pi-image-holder">
-											<div class="eltdf-pi-image-background" style="background-color: #975030"></div>
-											<img width="572" height="369" src="./assets/our-process-img-2a.jpg" class="attachment-full size-full" alt="m" srcset="./assets/our-process-img-2a.jpg 572w, ./assets/our-process-img-2a.jpg 300w" sizes="(max-width: 572px) 100vw, 572px">
+											<div class="eltdf-pi-image-background" style="background-color: red"></div>
+											<img width="572" height="369" src="./images/IMG_20201203_163211.jpg" class="attachment-full size-full" alt="m" srcset="./images/IMG_20201203_163211.jpg 572w, ./images/IMG_20201203_163211.jpg 300w" sizes="(max-width: 572px) 100vw, 572px">
 										</div>
 										<div class="eltdf-pi-desc-holder">
 											<div class="eltdf-pi-desc-inner">
 												<div class="eltdf-process-mark">02</div>
-												<h2 class="eltdf-pi-title" style="color: #4d504a">our Offerings</h2>
+												<h2 class="eltdf-pi-title" style="color: #4d504a;font-size: 21px;">our Offerings</h2>
 												<p class="eltdf-pi-text" style="color: #72726c;margin-top: 8px"> Our program is designed for starters and intermediate photographers. </p>Courses:
 												<ul>
 													<li>Camera Mechanics and Operation</li>
@@ -484,7 +484,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 										<div class="eltdf-pi-desc-holder">
 											<div class="eltdf-pi-desc-inner">
 												<div class="eltdf-process-mark">03</div>
-												<h2 class="eltdf-pi-title" style="color: #4d504a">DURATION AND PAYMENT</h2>
+												<h2 class="eltdf-pi-title" style="color: #4d504a;font-size: 21px;">DURATION AND PAYMENT</h2>
 												<p class="eltdf-pi-text" style="color: #72726c;margin-top: 8px">
 													<ul>
 														<li>2 months, 3days a week. 2-3hrs.  #180,000 </li>
@@ -515,12 +515,12 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 									<div class="eltdf-pi-content">
 										<div class="eltdf-pi-image-holder">
 											<div class="eltdf-pi-image-background" style="background-color: #4d504a"></div>
-											<img width="572" height="369" src="./assets/our-process-img-4a.jpg" class="attachment-full size-full" alt="m" srcset="./assets/our-process-img-4a.jpg 572w, ./assets/our-process-img-4a.jpg 300w" sizes="(max-width: 572px) 100vw, 572px">
+											<img width="572" height="369" src="./images/welcome-to-academy.jpg" class="attachment-full size-full" alt="m" srcset="./images/welcome-to-academy.jpg 572w, ./images/welcome-to-academy.jpg 300w" sizes="(max-width: 572px) 100vw, 572px">
 										</div>
 										<div class="eltdf-pi-desc-holder">
 											<div class="eltdf-pi-desc-inner">
 												<div class="eltdf-process-mark">04</div>
-												<h2 class="eltdf-pi-title" style="color: #4d504a">Welcome</h2>
+												<h2 class="eltdf-pi-title" style="color: #4d504a;font-size: 21px;">Welcome</h2>
 												<p class="eltdf-pi-text" style="color: #72726c;margin-top: 8px">It will be a pleasure to welcome you to our academy! Let's discover and explore your creative talent through visual art</p>
 											</div>
 										</div>
