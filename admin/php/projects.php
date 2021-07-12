@@ -1,4 +1,4 @@
- <h2>Edit First Blog Section</h2>
+ <h2>Add New pictures in Projects</h2>
          <?php
          if(isset($_GET['msg'])){
              
@@ -21,65 +21,22 @@
 
 
 
-  <?php
-    $query5 = "SELECT * FROM headers";
-    $queryrun5= mysqli_query($db,$query5);
-    while($data5=mysqli_fetch_array($queryrun5)){
-  ?>
-
-         <form method="post" action="php/ucampai2.php">
-         <div class="form-row">
-             <div class="form-group col-md-12">
-    <label for="scrapbook_head">New Section Header</label>
-    <input type="text" name="campaignstwos" class="form-control" id="campaignstwos" value="<?=$data5['campaignstwos']?>" placeholder="header"><br>
-    <textarea class="form-control" name="campaignstwo" id="campaignstwo" rows="5" ><?=$data5['campaignstwo']?></textarea>
-  </div>
-        
-        
-        <?php
-          }
-        ?>
-
-         </div>
-         <input type="submit" name="save" class="btn btn-primary" value="Save Changes">
-         </form>
-         <br>
-         <br>
 
 
 
 
-
-
-
-
-
-
-
-
-         <form method="post" action="php/uportfolio.php" enctype="multipart/form-data">
-          <div class="form-row">
-            <div class="form-group col-md-6">
-              <label>Project Screenshot/Image (Minimum 600px X 600px, Maxsize 2mb)</label>
-              <div class="custom-file">
-                <input type="file" name="projectpic" class="custom-file-input" id="profilepic">
-                <label class="custom-file-label" for="projectpic">Choose Pic...</label>
-              </div>
-            </div>
+         <form method="post" action="php/uprojects.php" enctype="multipart/form-data">
+  <div class="form-row">
+  <div class="form-group col-md-6">
+  <label>Project Screenshot/Image (Minimum 600px X 600px, Maxsize 2mb)</label>
+  <div class="custom-file">
+    <input type="file" name="projectpic" class="custom-file-input" id="profilepic">
+    <label class="custom-file-label" for="projectpic">Choose Pic...</label>
+  </div></div>
   
-   <!-- <div class="form-group col-md-6 mt-auto">
-      <label for="name">Project Name</label>
-      <input type="name" name="projectname" class="form-control" id="name" placeholder="ToDo List Maker">
-    </div>
-    
-   
-    
-    <div class="form-group col-md-12">
-      <label for="email">Project Link</label>
-      <input type="text" name="projectlink" class="form-control" id="email" placeholder="https://whomonugiri.github.io/todo-list-maker/">
-    </div> -->
+
     <div class="form-group col-md-2 ml-auto">
-        <input type="submit" name="addtoportfolio" class="btn btn-primary" value="Add To Blog">
+        <input type="submit" name="addtoprojects" class="btn btn-primary" value="Add To projects">
     </div>
   
 </form>
@@ -88,13 +45,12 @@
             <tr>
               <th>Id</th>
               <th>Project Image</th>
-              <th></th>
               <th>Action</th>
             </tr>
           </thead>
           <tbody>
          <?php
-$query2="SELECT * FROM portfolio";
+$query2="SELECT * FROM projects";
 $queryrun2=mysqli_query($db,$query2);
 $count=1;         
 while($data2=mysqli_fetch_array($queryrun2)){
@@ -104,13 +60,13 @@ while($data2=mysqli_fetch_array($queryrun2)){
   <div class="modal-dialog">
     <div class="modal-content">
       <div class="modal-header">
-        <h6 class="modal-title" id="exampleModalLabel">Edit Scapbook</h6>
+        <h6 class="modal-title" id="exampleModalLabel">Edit Portraits</h6>
         <button type="button" class="close" data-dismiss="modal" aria-label="Close">
           <span aria-hidden="true">&times;</span>
         </button>
       </div>
       <div class="modal-body">
-          <form method="post" action="php/uportfolio.php" enctype="multipart/form-data">
+          <form method="post" action="php/uprojects.php" enctype="multipart/form-data">
           <input type="hidden" name="id" value="<?=$data2['id']?>">
   <div class="form-row">
   <div class="form-group col-md-12">
@@ -123,7 +79,6 @@ while($data2=mysqli_fetch_array($queryrun2)){
     <label class="custom-file-label" for="projectpic">Choose Pic...</label>
   </div></div>
   
-   
 
       </div>
       
@@ -138,7 +93,9 @@ while($data2=mysqli_fetch_array($queryrun2)){
 </div>   
           <td>#<?=$count?></td>
 
-            <?php
+
+
+          <?php
               $file = $data2['projectpic'];
               $ext = pathinfo($file, PATHINFO_EXTENSION);
               if($ext == "mp4" || $ext == "mov"){
@@ -149,15 +106,11 @@ while($data2=mysqli_fetch_array($queryrun2)){
                 echo "<td><img src='../assets/img/$file' class='oo img-thumbnail'>";
               }
             ?>
-
-            
-
-
          <td><?=$data2['projectname']?></td>
          <td>
              
          
-         <a href="php/uportfolio.php?del=<?=$data2['id']?>"><button type="button" class="btn btn-danger btn-sm" data-toggle="modal" data-target="#exampleModal">
+         <a href="php/uprojects.php?del=<?=$data2['id']?>"><button type="button" class="btn btn-danger btn-sm" data-toggle="modal" data-target="#exampleModal">
   Delete
              </button></a></td>
             </tr>            

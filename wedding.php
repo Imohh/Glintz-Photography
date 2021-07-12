@@ -174,32 +174,41 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
             <ul id="menu-main-menu" class="clearfix">
               <li id="nav-menu-item-28" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-children   has_sub narrow"><a href="index.php" class=" current  no_link" style="color: #000"><span class="item_outer"><span class="item_text">Home</span><i class="eltdf-menu-arrow fa fa-angle-down"></i></span></a></li>
               <li id="nav-menu-item-29" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children  has_sub narrow"><a href="about-us.php" class=" no_link" style="color: #000"><span class="item_outer"><span class="item_text">About Us</span><i class="eltdf-menu-arrow fa fa-angle-down"></i></span></a></li>
-              <li id="nav-menu-item-31" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children  has_sub wide"><a href="portfolio.php" class=" no_link" style="color: #000"><span class="item_outer"><span class="item_text">Portfolio</span><i class="eltdf-menu-arrow fa fa-angle-down"></i></span></a>
-                <div class="second" style="height: 0px;"><div class="inner">
-                    <ul>
-                        <li id="nav-menu-item-140" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home ">
-                            <a href="portraits.php" class=""><span class="item_outer">
-                                <span class="item_text">Portraits</span></span>
-                            </a>
-                        </li>
-                        <li id="nav-menu-item-168" class="menu-item menu-item-type-post_type menu-item-object-page -page current-menu-ancestor current-menu-parent menu-item-has-children eltdf-active-item has_sub narrow">
-                            <a href="wedding.php" class="">
-                                <span class="item_outer"><span class="item_text">Weddings</span></span>
-                            </a>
-                        </li>
-                        <li id="nav-menu-item-2190" class="menu-item menu-item-type-post_type menu-item-object">
-                            <a href="events.php" class="">
-                                <span class="item_outer"><span class="item_text">Events</span></span>
-                            </a>
-                        </li>
-                        <li id="nav-menu-item-372" class="menu-item menu-item-type-post_type menu-item-object-page">
-                            <a href="documentary.php" class="">
-                                <span class="item_outer"><span class="item_text">Documentary</span></span>
-                            </a>
-                        </li>
-                    </ul>
-                </div></div>
+
+              <li id="nav-menu-item-30" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children  has_sub narrow"><a href="#" class=" no_link" onclick="JavaScript: return false;"><span class="item_outer"><span class="item_text">portfolio</span><i class="eltdf-menu-arrow fa fa-angle-down"></i></span></a>
+                <div class="second" style="height: 0px;">
+                    <div class="inner">
+                        <ul>
+                            <li id="nav-menu-item-974" class="menu-item menu-item-type-post_type menu-item-object-proofing-gallery ">
+                                <a href="portraits.php" class="">
+                                    <span class="item_outer"><span class="item_text">Portraits</span></span>
+                                </a>
+                            </li>
+                            <li id="nav-menu-item-973" class="menu-item menu-item-type-post_type menu-item-object-proofing-gallery current-menu-ancestor current-menu-parent menu-item-has-children eltdf-active-item has_sub narrow">
+                                <a href="wedding.php" class="">
+                                    <span class="item_outer"><span class="item_text">Weddings</span></span>
+                                </a>
+                            </li>
+                            <li id="nav-menu-item-973" class="menu-item menu-item-type-post_type menu-item-object-proofing-gallery ">
+                                <a href="events.php" class="">
+                                    <span class="item_outer"><span class="item_text">Events</span></span>
+                                </a>
+                            </li>
+                            <li id="nav-menu-item-973" class="menu-item menu-item-type-post_type menu-item-object-proofing-gallery ">
+                                <a href="documentary.php" class="">
+                                    <span class="item_outer"><span class="item_text">Documentary</span></span>
+                                </a>
+                            </li>
+                            <li id="nav-menu-item-973" class="menu-item menu-item-type-post_type menu-item-object-proofing-gallery ">
+                                <a href="projects.php" class="">
+                                    <span class="item_outer"><span class="item_text">Projects</span></span>
+                                </a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
               </li>
+
               <li id="nav-menu-item-33" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children  has_sub narrow"><a href="academy.php" class=" no_link" style="color: #000"><span class="item_outer"><span class="item_text">Academy</span><i class="eltdf-menu-arrow fa fa-angle-down"></i></span></a></li>
               <li id="nav-menu-item-33" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children  has_sub narrow"><a href="contact.php" class=" no_link" style="color: #000"><span class="item_outer"><span class="item_text">Contact</span><i class="eltdf-menu-arrow fa fa-angle-down"></i></span></a></li>
             </ul>
@@ -240,7 +249,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
       <div class="eltdf-position-left">
         <div class="eltdf-position-left-inner">
           <div class="eltdf-logo-wrapper">
-            <a itemprop="url" href="https://solene.qodeinteractive.com/" style="height: 62px;">
+            <a itemprop="url" href="index.php" style="height: 62px;">
             <img itemprop="image" class="eltdf-normal-logo" src="./images/glintz-logo-black.png" width="219" height="124" alt="logo">
             <img itemprop="image" class="eltdf-dark-logo" src="./images/glintz-logo-black.png" width="180" height="163" alt="dark logo">
             <img itemprop="image" class="eltdf-light-logo" src="./images/glintz-logo-black.png" width="180" height="178" alt="light logo"> </a>
@@ -257,31 +266,38 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
               <li id="sticky-nav-menu-item-29" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children  has_sub narrow"><a href="about-us.php" class=" no_link"><span class="item_outer"><span class="item_text">About Us</span><span class="plus"></span><i class="eltdf-menu-arrow fa fa-angle-down"></i></span></a></li>
 
-              <li id="sticky-nav-menu-item-31" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children  has_sub wide"><a href="portfolio.php" class=" no_link"><span class="item_outer"><span class="item_text">Portfolio</span><span class="plus"></span><i class="eltdf-menu-arrow fa fa-angle-down"></i></span></a>
-                <div class="second" style="height: 0px;"><div class="inner">
-                    <ul>
-                        <li id="nav-menu-item-140" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home">
-                            <a href="portraits.php" class=""><span class="item_outer">
-                                <span class="item_text">Portraits</span></span>
-                            </a>
-                        </li>
-                        <li id="nav-menu-item-168" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-ancestor current-menu-parent menu-item-has-children eltdf-active-item has_sub narrow">
-                            <a href="wedding.php" class="">
-                                <span class="item_outer"><span class="item_text">Weddings</span></span>
-                            </a>
-                        </li>
-                        <li id="nav-menu-item-2190" class="menu-item menu-item-type-post_type menu-item-object-page">
-                            <a href="events.php" class="">
-                                <span class="item_outer"><span class="item_text">Events</span></span>
-                            </a>
-                        </li>
-                        <li id="nav-menu-item-372" class="menu-item menu-item-type-post_type menu-item-object-page ">
-                            <a href="documentary.php" class="">
-                                <span class="item_outer"><span class="item_text">Documentary</span></span>
-                            </a>
-                        </li>
-                    </ul>
-                </div></div>
+              <li id="nav-menu-item-30" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children  has_sub narrow"><a href="#" class=" no_link" onclick="JavaScript: return false;"><span class="item_outer"><span class="item_text">portfolio</span><i class="eltdf-menu-arrow fa fa-angle-down"></i></span></a>
+                <div class="second" style="height: 0px;">
+                    <div class="inner">
+                        <ul>
+                            <li id="nav-menu-item-974" class="menu-item menu-item-type-post_type menu-item-object-proofing-gallery ">
+                                <a href="portraits.php" class="">
+                                    <span class="item_outer"><span class="item_text">Portraits</span></span>
+                                </a>
+                            </li>
+                            <li id="nav-menu-item-973" class="menu-item menu-item-type-post_type menu-item-object-proofing-gallery current-menu-ancestor current-menu-parent menu-item-has-children eltdf-active-item has_sub narrow">
+                                <a href="wedding.php" class="">
+                                    <span class="item_outer"><span class="item_text">Weddings</span></span>
+                                </a>
+                            </li>
+                            <li id="nav-menu-item-973" class="menu-item menu-item-type-post_type menu-item-object-proofing-gallery ">
+                                <a href="events.php" class="">
+                                    <span class="item_outer"><span class="item_text">Events</span></span>
+                                </a>
+                            </li>
+                            <li id="nav-menu-item-973" class="menu-item menu-item-type-post_type menu-item-object-proofing-gallery ">
+                                <a href="documentary.php" class="">
+                                    <span class="item_outer"><span class="item_text">Documentary</span></span>
+                                </a>
+                            </li>
+                            <li id="nav-menu-item-973" class="menu-item menu-item-type-post_type menu-item-object-proofing-gallery ">
+                                <a href="projects.php" class="">
+                                    <span class="item_outer"><span class="item_text">Projects</span></span>
+                                </a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
               </li>
 
               <li id="sticky-nav-menu-item-31" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children  has_sub wide"><a href="academy.php"><span class="item_outer"><span class="item_text">Academy</span><span class="plus"></span><i class="eltdf-menu-arrow fa fa-angle-down"></i></span></a></li>
@@ -393,7 +409,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
 
 
-<a id="eltdf-back-to-top" href="https://solene.qodeinteractive.com/portfolio-item/bridal-bouquet/#" class="off">
+<a id="eltdf-back-to-top" href="#" class="off">
 <span>
 <svg class="eltdf-svg-circle"><circle cx="50%" cy="50%" r="45%"></circle></svg> <svg class="eltdf-svg-circle"><circle cx="50%" cy="50%" r="45%"></circle></svg> <svg class="eltdf-back-to-top-arrow" x="0px" y="0px" width="12.771px" height="19.503px" viewBox="8.563 4.497 12.771 19.503" enable-background="new 8.563 4.497 12.771 19.503" xml:space="preserve">
 <line fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" x1="14.962" y1="23.433" x2="14.962" y2="5.058"></line>
@@ -404,7 +420,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 </a>
 <div class="eltdf-content">
 <div class="eltdf-content-inner">
-<div class="eltdf-title-holder eltdf-standard-with-breadcrumbs-type eltdf-title-va-header-bottom eltdf-has-bg-image eltdf-bg-parallax" style="height: 107px; background-image: url(&quot;images/slider6.jpg&quot;); background-position: center 0px;" data-height="107">
+<div class="eltdf-title-holder eltdf-standard-with-breadcrumbs-type eltdf-title-va-header-bottom eltdf-has-bg-image eltdf-bg-parallax" style="height: 107px; background-image: url(&quot;images/WEDDING RECEPTION, DANCE, COUPLE DANCE, NIGERIAN WEDDING, COUPLES DANCE.jpg&quot;); background-position: center 0px;" data-height="107">
 <div class="eltdf-title-image">
 <img itemprop="image" src="./images/slider6.jpg" alt="m">
 </div>

@@ -120,6 +120,12 @@ $data=mysqli_fetch_array($queryrun);
               Weddings
             </a>
           </li>
+          <li class="nav-item">
+            <a class="nav-link" href="?editprojects=true">
+              <span data-feather="archive"></span>
+              Projects
+            </a>
+          </li>
           <!-- <li class="nav-item">
             <a class="nav-link" href="?editcampaign4=true">
               <span data-feather="archive"></span>
@@ -164,6 +170,8 @@ $data=mysqli_fetch_array($queryrun);
       include('php/documentary.php');
      }else if(isset($_GET['editwedding'])){
       include('php/wedding.php');
+     }else if(isset($_GET['editprojects'])){
+      include('php/projects.php');
     
      }else if(isset($_GET['editprofile'])){ ?>
         <h2>Edit Profile</h2>

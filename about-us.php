@@ -22,6 +22,11 @@
 		var dataLayer = dataLayer || [];
 	//]]>
 	</script>
+	<link rel="icon" href="images/glintz-logo-black.png" sizes="32x32">
+	<link rel="icon" href="images/glintz-logo-black.png" sizes="192x192">
+	<link rel="apple-touch-icon-precomposed" href="images/glintz-logo-black.png">
+	<meta name="msapplication-TileImage" content="images/glintz-logo-black.png">
+	
 	<link rel="dns-prefetch" href="https://maps.googleapis.com/">
 	<link rel="dns-prefetch" href="https://fonts.googleapis.com/">
 	<link rel="dns-prefetch" href="https://s.w.org/">
@@ -184,32 +189,39 @@
 
 				<li id="nav-menu-item-29" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-ancestor current-menu-parent menu-item-has-children eltdf-active-item has_sub narrow"><a href="about-us.php" class=" current  no_link"><span class="item_outer"><span class="item_text">About Us</span></span></a></li>
 
-				<li id="nav-menu-item-31" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children  has_sub wide"><a href="#" class=" no_link"><span class="item_outer"><span class="item_text">Portfolio</span></span></a>
-					<div class="second" style="height: 0px;"><div class="inner">
-	                    <ul>
-	                        <li id="nav-menu-item-140" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home ">
-	                            <a href="portraits.php" class=""><span class="item_outer">
-	                                <span class="item_text">Portraits</span></span>
-	                            </a>
-	                        </li>
-	                        <li id="nav-menu-item-168" class="menu-item menu-item-type-post_type menu-item-object-page ">
-	                            <a href="wedding.php" class="">
-	                                <span class="item_outer"><span class="item_text">Weddings</span></span>
-	                            </a>
-	                        </li>
-	                        <li id="nav-menu-item-2190" class="menu-item menu-item-type-post_type menu-item-object-page ">
-	                            <a href="events.php" class="">
-	                                <span class="item_outer"><span class="item_text">Events</span></span>
-	                            </a>
-	                        </li>
-	                        <li id="nav-menu-item-372" class="menu-item menu-item-type-post_type menu-item-object-page ">
-	                            <a href="documentary.php" class="">
-	                                <span class="item_outer"><span class="item_text">Documentary</span></span>
-	                            </a>
-	                        </li>
-	                    </ul>
-	                </div></div>
-	            </li>
+				<li id="nav-menu-item-30" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children  has_sub narrow"><a href="#" class=" no_link" onclick="JavaScript: return false;"><span class="item_outer"><span class="item_text">portfolio</span><i class="eltdf-menu-arrow fa fa-angle-down"></i></span></a>
+                <div class="second" style="height: 0px;">
+                    <div class="inner">
+                        <ul>
+                            <li id="nav-menu-item-974" class="menu-item menu-item-type-post_type menu-item-object-proofing-gallery ">
+                                <a href="portraits.php" class="">
+                                    <span class="item_outer"><span class="item_text">Portraits</span></span>
+                                </a>
+                            </li>
+                            <li id="nav-menu-item-973" class="menu-item menu-item-type-post_type menu-item-object-proofing-gallery ">
+                                <a href="wedding.php" class="">
+                                    <span class="item_outer"><span class="item_text">Weddings</span></span>
+                                </a>
+                            </li>
+                            <li id="nav-menu-item-973" class="menu-item menu-item-type-post_type menu-item-object-proofing-gallery ">
+                                <a href="events.php" class="">
+                                    <span class="item_outer"><span class="item_text">Events</span></span>
+                                </a>
+                            </li>
+                            <li id="nav-menu-item-973" class="menu-item menu-item-type-post_type menu-item-object-proofing-gallery ">
+                                <a href="documentary.php" class="">
+                                    <span class="item_outer"><span class="item_text">Documentary</span></span>
+                                </a>
+                            </li>
+                            <li id="nav-menu-item-973" class="menu-item menu-item-type-post_type menu-item-object-proofing-gallery ">
+                                <a href="projects.php" class="">
+                                    <span class="item_outer"><span class="item_text">Projects</span></span>
+                                </a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+              </li>
 
 				<li id="nav-menu-item-30" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children  has_sub narrow"><a href="academy.php" class=" no_link"><span class="item_outer"><span class="item_text">Academy</span></span></a></li>
 
@@ -522,7 +534,7 @@
 						<div class="wpb_wrapper">
 							<div class="wpb_text_column wpb_content_element ">
 								<div class="wpb_wrapper">
-									<p style="text-align: center;">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer facilisis lorem quis pretium posuere. Nam gravida orci in massa convallis vestibulum. Sed venenatis hendrerit gravida. In nec lectus diam. Sed tellus justo, aliquam id eros sit amet, condimentum ullamcorper justo. In lacinia, purus ut congue pharetra, elit sapien aliquam turpis, non viverra dui ante id orci. Nam laoreet ornare urna, in varius nibh finibus sit ame.</p>
+									<p style="text-align: center;">Glintz Photography is a multimedia Brand, set up to document, tell African stories of love, places, people and their culture through creative visuals(still and motion pictures). Our storytelling expertise ranges from Portraits, Documentary to Events (weddings, Corporate and concerts). Our style is clean, simple, genuine and composed to communicate essence. We know every event is unique and it is always our delight to create exquisite, candid and creative content with real deep sense of mood in raw emotions peculiar to each client. We look forward to starting a long and lasting meaningful relationship with you. We are based in Lagos, Nigeria and we are available to travel within and outside Africa.</p>
 								</div>
 							</div>
 						</div>
@@ -661,20 +673,17 @@
 						<div class="eltdf-team-holder eltdf-team-info-below-image">
 							<div class="eltdf-team-inner">
 								<div class="eltdf-team-image">
-									<img width="800" height="1142" src="./assets/team-img-1.jpg" class="main-image" alt="d" srcset="assets/team-img-1.jpg 800w, assets/team-img-1.jpg 210w, assets/team-img-1.jpg 717w, assets/team-img-1.jpg 768w, assets/team-img-1.jpg 600w" sizes="(max-width: 800px) 100vw, 800px">
-									<div class="eltdf-team-hover-image">
-										<img width="150" height="133" src="./assets/team-hover-img-1.png" class="attachment-full size-full" alt="m">
-									</div>
-								</div>
-								<div class="eltdf-team-info">
-									<span class="eltdf-team-position">Photographer</span>
-									<h3 class="eltdf-team-name">Maria Smith</h3>
-									<div class="eltdf-team-textual-social-holder">
-										<a class="eltdf-team-icon" href="https://www.facebook.com/glintzphotography/" target="_blank">FB</a>
-										<a class="eltdf-team-icon" href="https://www.instagram.com/glintz_photography/" target="_blank">IN</a>
-										<a class="eltdf-team-icon" href="https://twitter.com/glintzmedia " target="_blank">TW</a>
-									</div>
-								</div>
+                                    <img width="800" height="1142" src="./images/tpj4.jpg" class="main-image" alt="d" sizes="(max-width: 800px) 100vw, 800px">
+                                    <a class="eltdf-team-link" href="" target="_self"></a>
+                                </div>
+                                <div class="eltdf-team-info">
+                                    <span class="eltdf-team-position" style="color: #84847c">Creative Director</span>
+                                    <h3 class="eltdf-team-name" style="font-size: 17px">Temitope Jalekun</h3>
+                                    <div class="eltdf-team-textual-social-holder">
+                                        <a class="eltdf-team-icon" href="https://www.instagram.com/temitopejalekun" target="_blank">IN</a>
+                                        <a class="eltdf-team-icon" href="https://twitter.com/adedoyintp" target="_blank">TW</a>
+                                    </div>
+                                </div>
 							</div>
 						</div>
 						<div class="vc_empty_space" style="height: 32px">
@@ -791,16 +800,16 @@
 								<div class="eltdf-ils-holder eltdf-ils-split ">
 									<div class="eltdf-ils-content-holder">
 										<a itemprop="url" class="eltdf-ils-item-link eltdf-active" data-index="0" href="#four-columns-wide/" target="_self">
-										<span class="eltdf-ils-item-title">Portraits</span>
+										<span class="eltdf-ils-item-title" style="font-size: 30px">Portraits</span>
 										</a>
 										<a itemprop="url" class="eltdf-ils-item-link" data-index="1" href="#" target="_self">
-										<span class="eltdf-ils-item-title">Wedding</span>
+										<span class="eltdf-ils-item-title" style="font-size: 30px">Wedding</span>
 										</a>
 										<a itemprop="url" class="eltdf-ils-item-link" data-index="2" href="#" target="_self">
-										<span class="eltdf-ils-item-title">Events</span>
+										<span class="eltdf-ils-item-title" style="font-size: 30px">Events</span>
 										</a>
 										<a itemprop="url" class="eltdf-ils-item-link" data-index="3" href="#" target="_self">
-										<span class="eltdf-ils-item-title">Documentary</span>
+										<span class="eltdf-ils-item-title" style="font-size: 30px">Documentary</span>
 										</a>
 									</div>
 									<div class="eltdf-ils-item-images-holder">
@@ -840,31 +849,31 @@
 										<div class="eltdf-eh-item-inner">
 											<div class="eltdf-eh-item-content eltdf-eh-custom-9236" style="padding: 179px 13.7% 115px">
 												<div class="eltdf-clients-grid-holder eltdf-grid-list eltdf-disable-bottom-space eltdf-five-columns eltdf-tiny-space  eltdf-cc-hover-switch-images">
-													<div class="eltdf-cg-inner eltdf-outer-space">
+													<div class="eltdf-cg-inner eltdf-outer-space" style="margin-top: 10%;">
 														<div class="eltdf-cc-item eltdf-item-space eltdf-cci-has-link">
-															<a itemprop="url" class="eltdf-cc-link eltdf-block-drag-link" href="#" target="_self">
-															<img itemprop="image" class="eltdf-cc-image" src="./assets/h1-client-1-new.png" alt="d">
-															<img itemprop="image" class="eltdf-cc-hover-image" src="./assets/h1-client-1-new-hover.png" alt="d">
-															</a>
-														</div>
-														<div class="eltdf-cc-item eltdf-item-space eltdf-cci-has-link">
-															<a itemprop="url" class="eltdf-cc-link eltdf-block-drag-link" href="#" target="_self">
-															<img itemprop="image" class="eltdf-cc-image" src="./assets/h1-client-2.png" alt="d">
-															<img itemprop="image" class="eltdf-cc-hover-image" src="./assets/h1-client-2-hover.png" alt="d">
-															</a>
-														</div>
-														<div class="eltdf-cc-item eltdf-item-space eltdf-cci-has-link">
-															<a itemprop="url" class="eltdf-cc-link eltdf-block-drag-link" href="#" target="_self">
-															<img itemprop="image" class="eltdf-cc-image" src="./assets/h1-client-3.png" alt="d">
-															<img itemprop="image" class="eltdf-cc-hover-image" src="./assets/h1-client-3-hover.png" alt="d">
-															</a>
-														</div>
-														<div class="eltdf-cc-item eltdf-item-space eltdf-cci-has-link">
-															<a itemprop="url" class="eltdf-cc-link eltdf-block-drag-link" href="#" target="_self">
-															<img itemprop="image" class="eltdf-cc-image" src="./assets/h1-client-4.png" alt="d">
-															<img itemprop="image" class="eltdf-cc-hover-image" src="./assets/h1-client-4-hover.png" alt="d">
-															</a>
-														</div>
+							                              <a itemprop="url" class="eltdf-cc-link eltdf-block-drag-link" href="#" target="_self">
+							                              <img itemprop="image" class="eltdf-cc-image" src="./images/total-logo.png" alt="d" style="width: 50%;">
+							                              <img itemprop="image" class="eltdf-cc-hover-image" src="./images/total-logo.png" alt="d" style="width: 50%;">
+							                              </a>
+							                            </div>
+							                            <div class="eltdf-cc-item eltdf-item-space eltdf-cci-has-link" width="10px">
+							                              <a itemprop="url" class="eltdf-cc-link eltdf-block-drag-link" href="#" target="_self">
+							                              <img itemprop="image" class="eltdf-cc-image" src="./images/gordons.png" alt="d" style="width: 50%;">
+							                              <img itemprop="image" class="eltdf-cc-hover-image" src="./images/gordons.png" alt="d" style="width: 50%;">
+							                              </a>
+							                            </div>
+							                            <div class="eltdf-cc-item eltdf-item-space eltdf-cci-has-link">
+							                              <a itemprop="url" class="eltdf-cc-link eltdf-block-drag-link" href="#" target="_self">
+							                              <img itemprop="image" class="eltdf-cc-image" src="./images/so-fresh.png" alt="d" style="width: 50%;">
+							                              <img itemprop="image" class="eltdf-cc-hover-image" src="./images/so-fresh.png" alt="d" style="width: 50%;">
+							                              </a>
+							                            </div>
+							                            <div class="eltdf-cc-item eltdf-item-space eltdf-cci-has-link">
+							                              <a itemprop="url" class="eltdf-cc-link eltdf-block-drag-link" href="#" target="_self">
+							                              <img itemprop="image" class="eltdf-cc-image" src="./images/ekiti-logo.png" alt="d" style="width: 50%;">
+							                              <img itemprop="image" class="eltdf-cc-hover-image" src="./images/ekiti-logo.png" alt="d" style="width: 50%;">
+							                              </a>
+							                            </div>
 													</div>
 												</div>
 											</div>

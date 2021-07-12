@@ -2,7 +2,7 @@
 $query = "SELECT * FROM basic_setup,personal_setup,aboutus_setup";
 $runquery = mysqli_query($db,$query);
 if(!$db){
-    header("location:index-2.html");
+    header("location:index.php");
 }
 $data = mysqli_fetch_array($runquery);
 ?>
@@ -399,31 +399,38 @@ rs-fullwidth-wrap .eltdf-social-icon-widget-holder:after {
             <ul id="menu-main-menu" class="clearfix">
               <li id="nav-menu-item-28" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-ancestor current-menu-parent menu-item-has-children eltdf-active-item has_sub narrow"><a href="index.php" class=" current  no_link" onclick="JavaScript: return false;" style="color: #000"><span class="item_outer"><span class="item_text">Home</span><i class="eltdf-menu-arrow fa fa-angle-down"></i></span></a></li>
               <li id="nav-menu-item-29" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children  has_sub narrow"><a href="about-us.php" class=" no_link" style="color: #000"><span class="item_outer"><span class="item_text">About Us</span><i class="eltdf-menu-arrow fa fa-angle-down"></i></span></a></li>
-              <li id="nav-menu-item-31" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children  has_sub wide"><a href="portfolio.php" class=" no_link" style="color: #000"><span class="item_outer"><span class="item_text">Portfolio</span><i class="eltdf-menu-arrow fa fa-angle-down"></i></span></a>
-                <div class="second" style="height: 0px;"><div class="inner">
-                    <ul>
-                        <li id="nav-menu-item-140" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home ">
-                            <a href="portraits.php" class=""><span class="item_outer">
-                                <span class="item_text">Portraits</span></span>
-                            </a>
-                        </li>
-                        <li id="nav-menu-item-168" class="menu-item menu-item-type-post_type menu-item-object-page ">
-                            <a href="wedding.php" class="">
-                                <span class="item_outer"><span class="item_text">Weddings</span></span>
-                            </a>
-                        </li>
-                        <li id="nav-menu-item-2190" class="menu-item menu-item-type-post_type menu-item-object-page ">
-                            <a href="events.php" class="">
-                                <span class="item_outer"><span class="item_text">Events</span></span>
-                            </a>
-                        </li>
-                        <li id="nav-menu-item-372" class="menu-item menu-item-type-post_type menu-item-object-page ">
-                            <a href="documentary.php" class="">
-                                <span class="item_outer"><span class="item_text">Documentary</span></span>
-                            </a>
-                        </li>
-                    </ul>
-                </div></div>
+              <li id="nav-menu-item-30" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children  has_sub narrow"><a href="#" class=" no_link"><span class="item_outer"><span class="item_text" style="color: #000">portfolio</span><i class="eltdf-menu-arrow fa fa-angle-down"></i></span></a>
+                <div class="second" style="height: 0px;">
+                    <div class="inner">
+                        <ul>
+                            <li id="nav-menu-item-974" class="menu-item menu-item-type-post_type menu-item-object-proofing-gallery ">
+                                <a href="portraits.php" class="">
+                                    <span class="item_outer"><span class="item_text">Portraits</span></span>
+                                </a>
+                            </li>
+                            <li id="nav-menu-item-973" class="menu-item menu-item-type-post_type menu-item-object-proofing-gallery ">
+                                <a href="wedding.php" class="">
+                                    <span class="item_outer"><span class="item_text">Weddings</span></span>
+                                </a>
+                            </li>
+                            <li id="nav-menu-item-973" class="menu-item menu-item-type-post_type menu-item-object-proofing-gallery ">
+                                <a href="events.php" class="">
+                                    <span class="item_outer"><span class="item_text">Events</span></span>
+                                </a>
+                            </li>
+                            <li id="nav-menu-item-973" class="menu-item menu-item-type-post_type menu-item-object-proofing-gallery ">
+                                <a href="documentary.php" class="">
+                                    <span class="item_outer"><span class="item_text">Documentary</span></span>
+                                </a>
+                            </li>
+                            <li id="nav-menu-item-973" class="menu-item menu-item-type-post_type menu-item-object-proofing-gallery ">
+                                <a href="projects.php" class="">
+                                    <span class="item_outer"><span class="item_text">Projects</span></span>
+                                </a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
               </li>
               <li id="nav-menu-item-33" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children  has_sub narrow"><a href="academy.php" class=" no_link" style="color: #000"><span class="item_outer"><span class="item_text">Academy</span><i class="eltdf-menu-arrow fa fa-angle-down"></i></span></a></li>
               <li id="nav-menu-item-33" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children  has_sub narrow"><a href="contact.php" class=" no_link" style="color: #000"><span class="item_outer"><span class="item_text">Contact</span><i class="eltdf-menu-arrow fa fa-angle-down"></i></span></a></li>
@@ -482,33 +489,40 @@ rs-fullwidth-wrap .eltdf-social-icon-widget-holder:after {
 
               <li id="sticky-nav-menu-item-29" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children  has_sub narrow"><a href="about-us.php" class=" no_link"><span class="item_outer"><span class="item_text">About Us</span><span class="plus"></span><i class="eltdf-menu-arrow fa fa-angle-down"></i></span></a></li>
 
-              <li id="sticky-nav-menu-item-31" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children  has_sub wide"><a href="portfolio.php" class=" no_link"><span class="item_outer"><span class="item_text">Portfolio</span><span class="plus"></span><i class="eltdf-menu-arrow fa fa-angle-down"></i></span></a>
-                <div class="second" style="height: 0px;"><div class="inner">
-                    <ul>
-                        <li id="nav-menu-item-140" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home ">
-                            <a href="" class=""><span class="item_outer">
-                                <span class="item_text">Portraits</span></span>
-                            </a>
-                        </li>
-                        <li id="nav-menu-item-168" class="menu-item menu-item-type-post_type menu-item-object-page ">
-                            <a href="wedding.php" class="">
-                                <span class="item_outer"><span class="item_text">Weddings</span></span>
-                            </a>
-                        </li>
-                        <li id="nav-menu-item-2190" class="menu-item menu-item-type-post_type menu-item-object-page ">
-                            <a href="events.php" class="">
-                                <span class="item_outer"><span class="item_text">Events</span></span>
-                            </a>
-                        </li>
-                        <li id="nav-menu-item-372" class="menu-item menu-item-type-post_type menu-item-object-page ">
-                            <a href="documentary.php" class="">
-                                <span class="item_outer"><span class="item_text">Documentary</span></span>
-                            </a>
-                        </li>
-                    </ul>
-                </div></div>
-              </li>
 
+              <li id="nav-menu-item-30" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children  has_sub narrow"><a href="#" class=" no_link" onclick="JavaScript: return false;"><span class="item_outer"><span class="item_text">portfolio</span><i class="eltdf-menu-arrow fa fa-angle-down"></i></span></a>
+                <div class="second" style="height: 0px;">
+                    <div class="inner">
+                        <ul>
+                            <li id="nav-menu-item-974" class="menu-item menu-item-type-post_type menu-item-object-proofing-gallery ">
+                                <a href="portraits.php" class="">
+                                    <span class="item_outer"><span class="item_text">Portraits</span></span>
+                                </a>
+                            </li>
+                            <li id="nav-menu-item-973" class="menu-item menu-item-type-post_type menu-item-object-proofing-gallery ">
+                                <a href="wedding.php" class="">
+                                    <span class="item_outer"><span class="item_text">Weddings</span></span>
+                                </a>
+                            </li>
+                            <li id="nav-menu-item-973" class="menu-item menu-item-type-post_type menu-item-object-proofing-gallery ">
+                                <a href="events.php" class="">
+                                    <span class="item_outer"><span class="item_text">Events</span></span>
+                                </a>
+                            </li>
+                            <li id="nav-menu-item-973" class="menu-item menu-item-type-post_type menu-item-object-proofing-gallery ">
+                                <a href="documentary.php" class="">
+                                    <span class="item_outer"><span class="item_text">Documentary</span></span>
+                                </a>
+                            </li>
+                            <li id="nav-menu-item-973" class="menu-item menu-item-type-post_type menu-item-object-proofing-gallery ">
+                                <a href="projects.php" class="">
+                                    <span class="item_outer"><span class="item_text">Projects</span></span>
+                                </a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+              </li>
               <li id="sticky-nav-menu-item-31" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children  has_sub wide"><a href="academy.php"><span class="item_outer"><span class="item_text">Academy</span><span class="plus"></span><i class="eltdf-menu-arrow fa fa-angle-down"></i></span></a></li>
 
               <li id="sticky-nav-menu-item-31" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children  has_sub wide"><a href="contact.php" class=" no_link" ><span class="item_outer"><span class="item_text">Contact</span><span class="plus"></span><i class="eltdf-menu-arrow fa fa-angle-down"></i></span></a></li>
@@ -599,7 +613,25 @@ rs-fullwidth-wrap .eltdf-social-icon-widget-holder:after {
 
                   <li id="mobile-menu-item-29" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children  has_sub"><a href="about-us.php"><h6><span>About Us</span></h6></a></li>
 
-                  <li id="mobile-menu-item-31" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children  has_sub"><h6><span>Portfolio</span></h6></li>
+                  <li id="mobile-menu-item-30" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children  has_sub"><h6><span>Portfolio</span></h6><span class="mobile_arrow"><i class="eltdf-sub-arrow ion-ios-arrow-forward"></i></span>
+                    <ul class="sub_menu">
+                        <li id="mobile-menu-item-974" class="menu-item menu-item-type-post_type menu-item-object-proofing-gallery ">
+                            <a href="portraits.php" class=""><span>Portrait</span></a>
+                        </li>
+                        <li id="mobile-menu-item-973" class="menu-item menu-item-type-post_type menu-item-object-proofing-gallery ">
+                            <a href="wedding.php" class=""><span>Weddings</span></a>
+                        </li>
+                        <li id="mobile-menu-item-973" class="menu-item menu-item-type-post_type menu-item-object-proofing-gallery ">
+                            <a href="events.php" class=""><span>Events</span></a>
+                        </li>
+                        <li id="mobile-menu-item-973" class="menu-item menu-item-type-post_type menu-item-object-proofing-gallery ">
+                            <a href="documentary.php" class=""><span>Documentary</span></a>
+                        </li>
+                        <li id="mobile-menu-item-973" class="menu-item menu-item-type-post_type menu-item-object-proofing-gallery ">
+                            <a href="projects.php" class=""><span>Projects</span></a>
+                        </li>
+                    </ul>
+                  </li>
 
                   <li id="mobile-menu-item-33" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children  has_sub"><a href="academy.php>"><h6><span>Academy</span></h6></a></li>
 
@@ -640,50 +672,92 @@ rs-fullwidth-wrap .eltdf-social-icon-widget-holder:after {
                     <div class="owl-stage-outer">
                         <div class="owl-stage" style="transform: translate3d(-4400px, 0px, 0px); transition: all 0.6s ease 0s; width: 12100px;"><div class="owl-item cloned" style="width: 1100px;">
                             <div class="eltdf-ps-image">
-                                <a itemprop="image" title="port-single-img-3" data-rel="prettyPhoto[single_pretty_photo]" href="./contact.php">
-                                <img itemprop="image" src="./images/slider2.jpg" alt="m">
+                                <a itemprop="image" title="CONCERTS (5)" data-rel="prettyPhoto[single_pretty_photo]" href="./events.php">
+                                <img itemprop="image" src="./images/slider/CONCERTS (5).jpg" alt="m">
                                 </a>
                             </div>
                         </div>
                         <div class="owl-item cloned" style="width: 1100px;">
                             <div class="eltdf-ps-image">
-                                <a itemprop="image" title="port-single-img-3" data-rel="prettyPhoto[single_pretty_photo]" href="./contact.php">
-                                <img itemprop="image" src="./images/slider3.jpg" alt="m">
+                                <a itemprop="image" title="DETAIL 3" data-rel="prettyPhoto[single_pretty_photo]" href="#">
+                                <img itemprop="image" src="./images/slider/DETAIL 3.jpg" alt="m">
                                 </a>
                             </div>
                         </div>
                         <div class="owl-item cloned" style="width: 1100px;">
                             <div class="eltdf-ps-image">
-                                <a itemprop="image" title="port-single-img-3" data-rel="prettyPhoto[single_pretty_photo]" href="./contact.php">
-                                <img itemprop="image" src="./images/slider4.jpg" alt="m">
+                                <a itemprop="image" title="DETAIL WEDDING RING" data-rel="prettyPhoto[single_pretty_photo]" href="./wedding.php">
+                                <img itemprop="image" src="./images/slider/DETAIL WEDDING RING.jpg" alt="m">
                                 </a>
                             </div>
                         </div>
                         <div class="owl-item" style="width: 1100px;">
                             <div class="eltdf-ps-image">
-                                <a itemprop="image" title="port-single-img-3" data-rel="prettyPhoto[single_pretty_photo]" href="./contact.php">
-                                <img itemprop="image" src="./images/slider5.jpg" alt="m">
+                                <a itemprop="image" title="SLIDE  4TOMI& OLUMIDE WHITE (15)" data-rel="prettyPhoto[single_pretty_photo]" href="./wedding.php">
+                                <img itemprop="image" src="./images/slider/SLIDE  4TOMI& OLUMIDE WHITE (15).jpg" alt="m">
                                 </a>
                             </div>
                         </div>
                         <div class="owl-item active" style="width: 1100px;">
                             <div class="eltdf-ps-image">
-                                <a itemprop="image" title="port-single-img-3" data-rel="prettyPhoto[single_pretty_photo]" href="./contact.php">
-                                <img itemprop="image" src="./images/slider6.jpg" alt="m">
+                                <a itemprop="image" title="SLIDE 1 weddingg (1)" data-rel="prettyPhoto[single_pretty_photo]" href="./wedding.php">
+                                <img itemprop="image" src="./images/slider/SLIDE 1 weddingg (1).jpg" alt="m">
                                 </a>
                             </div>
                         </div>
                         <div class="owl-item" style="width: 1100px;">
                             <div class="eltdf-ps-image">
-                                <a itemprop="image" title="port-single-img-3" data-rel="prettyPhoto[single_pretty_photo]" href="./contact.php">
-                                <img itemprop="image" src="./images/slider7.jpg" alt="m">
+                                <a itemprop="image" title="SLIDE 2 WHITENVINTAGE (4)" data-rel="prettyPhoto[single_pretty_photo]" href="./wedding.php">
+                                <img itemprop="image" src="./images/slider/SLIDE 2 WHITENVINTAGE (4).jpg" alt="m">
                                 </a>
                             </div>
                         </div>
                         <div class="owl-item" style="width: 1100px;">
                             <div class="eltdf-ps-image">
-                                <a itemprop="image" title="port-single-img-3" data-rel="prettyPhoto[single_pretty_photo]" href="./contact.php">
-                                <img itemprop="image" src="./images/slider8.jpg" alt="m">
+                                <a itemprop="image" title="COUPLE" data-rel="prettyPhoto[single_pretty_photo]" href="./wedding.php">
+                                <img itemprop="image" src="./images/slider/SLIDE 3.jpg" alt="m">
+                                </a>
+                            </div>
+                        </div>
+                        <div class="owl-item" style="width: 1100px;">
+                            <div class="eltdf-ps-image">
+                                <a itemprop="image" title="SLIDE 5 MODELLING, MODEL PORTRAIT, FASHION PORTRAIT, BEAUTY, WOMEN PORTRAIT, EDITORIAL, COMMERCIAL PORTRAIT, COMMERCIAL PHOTOGRAPHER, ADVERTISING PORTRAIT  (1)" data-rel="prettyPhoto[single_pretty_photo]" href="./wedding.php">
+                                <img itemprop="image" src="./images/slider/SLIDE 5 MODELLING, MODEL PORTRAIT, FASHION PORTRAIT, BEAUTY, WOMEN PORTRAIT, EDITORIAL, COMMERCIAL PORTRAIT, COMMERCIAL PHOTOGRAPHER, ADVERTISING PORTRAIT  (1).jpg" alt="m">
+                                </a>
+                            </div>
+                        </div>
+                        <div class="owl-item" style="width: 1100px;">
+                            <div class="eltdf-ps-image">
+                                <a itemprop="image" title="SLIDE 6 DOCUMENTARY, CHILDREN, DISPLACED KIDS, GIRL CHILD" data-rel="prettyPhoto[single_pretty_photo]" href="./documentary.php">
+                                <img itemprop="image" src="./images/slider/SLIDE 6 DOCUMENTARY, CHILDREN, DISPLACED KIDS, GIRL CHILD.jpg" alt="m">
+                                </a>
+                            </div>
+                        </div>
+                        <div class="owl-item" style="width: 1100px;">
+                            <div class="eltdf-ps-image">
+                                <a itemprop="image" title="SLIDE 7 WEDDING BRIDE (1)" data-rel="prettyPhoto[single_pretty_photo]" href="./wedding.php">
+                                <img itemprop="image" src="./images/slider/SLIDE 7 WEDDING BRIDE (1).jpg" alt="m">
+                                </a>
+                            </div>
+                        </div>
+                        <div class="owl-item" style="width: 1100px;">
+                            <div class="eltdf-ps-image">
+                                <a itemprop="image" title="SLIDE 8 WEDDING DAY, COUPLE PORTRAIT SESSION, WEDDING PORTRAIT, COUPLE ON BEACH, LAGOS WEDDING" data-rel="prettyPhoto[single_pretty_photo]" href="./wedding.php">
+                                <img itemprop="image" src="./images/slider/SLIDE 8 WEDDING DAY, COUPLE PORTRAIT SESSION, WEDDING PORTRAIT, COUPLE ON BEACH, LAGOS WEDDING.jpg" alt="m">
+                                </a>
+                            </div>
+                        </div>
+                        <div class="owl-item" style="width: 1100px;">
+                            <div class="eltdf-ps-image">
+                                <a itemprop="image" title="SLIDE 8 WEDDING RECEPTION, DANCE, COUPLE DANCE, NIGERIAN WEDDING" data-rel="prettyPhoto[single_pretty_photo]" href="./wedding.php">
+                                <img itemprop="image" src="./images/slider/SLIDE 8 WEDDING RECEPTION, DANCE, COUPLE DANCE, NIGERIAN WEDDING.jpg" alt="m">
+                                </a>
+                            </div>
+                        </div>
+                        <div class="owl-item" style="width: 1100px;">
+                            <div class="eltdf-ps-image">
+                                <a itemprop="image" title="SLIDE 9 PORTRAITS (7)" data-rel="prettyPhoto[single_pretty_photo]" href="./portrait.php">
+                                <img itemprop="image" src="./images/slider/SLIDE 9 PORTRAITS (7).jpg" alt="m">
                                 </a>
                             </div>
                         </div>
@@ -1002,88 +1076,145 @@ ceremonies </h6>
 
 
 <!-- TEAM MEMBERS SECTION -->
-<div class="vc_row wpb_row vc_row-fluid vc_custom_1576063397961 eltdf-content-aligment-center"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner"><div class="wpb_wrapper"><div class="eltdf-section-title-holder   eltdf-section-title-appeared">
-<div class="eltdf-st-inner">
-<h2 class="eltdf-st-title">
-Our Photography Team </h2>
-<h3 class="eltdf-st-subtitle" style="text-transform: none;font-style: italic;color: #84847c">
-<span>
-Alienum phaedrum torquatos neceu </span>
-</h3>
+<div class="vc_row wpb_row vc_row-fluid vc_custom_1576063397961 eltdf-content-aligment-center">
+    <div class="wpb_column vc_column_container vc_col-sm-12">
+        <div class="vc_column-inner">
+            <div class="wpb_wrapper">
+                <div class="eltdf-section-title-holder   eltdf-section-title-appeared">
+                    <div class="eltdf-st-inner">
+                        <h2 class="eltdf-st-title">Our Photography Team </h2>
+                        <h3 class="eltdf-st-subtitle" style="text-transform: none;font-style: italic;color: #84847c">
+                            <span>Alienum phaedrum torquatos neceu </span>
+                        </h3>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
 </div>
-</div></div></div></div></div><div class="eltdf-row-grid-section-wrapper "><div class="eltdf-row-grid-section"><div class="vc_row wpb_row vc_row-fluid vc_column-gap-1"><div class="wpb_column vc_column_container vc_col-sm-6 vc_col-lg-3"><div class="vc_column-inner"><div class="wpb_wrapper"><div class="eltdf-team-holder eltdf-team-info-below-image">
-<div class="eltdf-team-inner">
-<div class="eltdf-team-image">
-<img width="800" height="1142" src="./images/tpj4.jpg" class="main-image" alt="d" sizes="(max-width: 800px) 100vw, 800px"> <!-- <div class="eltdf-team-hover-image">
-<img width="150" height="133" src="./Solene – Wedding Photography Theme_files/team-hover-img-1.png" class="attachment-full size-full" alt="m"> </div> -->
-<a class="eltdf-team-link" href="" target="_self"></a>
+<div class="eltdf-row-grid-section-wrapper ">
+    <div class="eltdf-row-grid-section">
+        <div class="vc_row wpb_row vc_row-fluid vc_column-gap-1">
+            <div class="wpb_column vc_column_container vc_col-sm-6 vc_col-lg-3">
+                <div class="vc_column-inner">
+                    <div class="wpb_wrapper">
+                        <div class="eltdf-team-holder eltdf-team-info-below-image">
+                            <div class="eltdf-team-inner">
+                                <div class="eltdf-team-image">
+                                    <img width="800" height="1142" src="./images/tpj4.jpg" class="main-image" alt="d" sizes="(max-width: 800px) 100vw, 800px">
+                                    <a class="eltdf-team-link" href="" target="_self"></a>
+                                </div>
+                                <div class="eltdf-team-info">
+                                    <span class="eltdf-team-position" style="color: #84847c">Creative Director</span>
+                                    <h3 class="eltdf-team-name" style="font-size: 17px">Temitope Jalekun</h3>
+                                    <div class="eltdf-team-textual-social-holder">
+                                        <a class="eltdf-team-icon" href="https://www.instagram.com/temitopejalekun" target="_blank">IN</a>
+                                        <a class="eltdf-team-icon" href="https://twitter.com/adedoyintp" target="_blank">TW</a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="vc_empty_space" style="height: 32px">
+                            <span class="vc_empty_space_inner"></span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="wpb_column vc_column_container vc_col-sm-6 vc_col-lg-3">
+                <div class="vc_column-inner">
+                    <div class="wpb_wrapper">
+                        <div class="eltdf-team-holder eltdf-team-info-below-image">
+                            <div class="eltdf-team-inner">
+                                <div class="eltdf-team-image" style="margin-top: 40px">
+                                    <img width="800" height="1142" src="./Solene – Wedding Photography Theme_files/team-img-2.jpg" class="main-image" alt="d" sizes="(max-width: 800px) 100vw, 800px" style="filter: blur(0px);">
+                                    <a class="eltdf-team-link" href="#" target="_self"></a>
+                                </div>
+                                <div class="eltdf-team-info">
+                                    <span class="eltdf-team-position" style="color: #84847c">Photographer</span>
+                                    <h3 class="eltdf-team-name">Viola Jensen</h3>
+                                    <div class="eltdf-team-textual-social-holder">
+                                        <a class="eltdf-team-icon" href="https://www.facebook.com/glintz_photography" target="_blank">FB</a>
+                                        <a class="eltdf-team-icon" href="https://www.instagram.com/glintz_photography" target="_blank">IN</a>
+                                        <a class="eltdf-team-icon" href="https://twitter.com/glintz_photography" target="_blank">TW</a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="vc_empty_space" style="height: 32px">
+                            <span class="vc_empty_space_inner"></span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="wpb_column vc_column_container vc_col-sm-6 vc_col-lg-3">
+                <div class="vc_column-inner">
+                    <div class="wpb_wrapper">
+                        <div class="eltdf-elements-holder   eltdf-one-column  eltdf-responsive-mode-768 ">
+                            <div class="eltdf-eh-item    " data-item-class="eltdf-eh-custom-8921" data-680="40px 0 0">
+                                <div class="eltdf-eh-item-inner">
+                                    <div class="eltdf-eh-item-content eltdf-eh-custom-8921">
+                                        <div class="eltdf-team-holder eltdf-team-info-below-image">
+                                            <div class="eltdf-team-inner">
+                                                <div class="eltdf-team-image">
+                                                    <img width="800" height="1142" src="./Solene – Wedding Photography Theme_files/team-img-3.jpg" class="main-image" alt="d" sizes="(max-width: 800px) 100vw, 800px"> 
+                                                    <div class="eltdf-team-hover-image">
+                                                        <img width="150" height="120" src="./Solene – Wedding Photography Theme_files/team-hover-img-3.png" class="attachment-full size-full" alt="m">
+                                                    </div>
+                                                    <a class="eltdf-team-link" href="https://solene.qodeinteractive.com/our-team/" target="_self"></a>
+                                                </div>
+                                                <div class="eltdf-team-info">
+                                                    <span class="eltdf-team-position" style="color: #84847c">Photographer</span>
+                                                    <h3 class="eltdf-team-name">Felicia Davis</h3>
+                                                    <div class="eltdf-team-textual-social-holder">
+                                                        <a class="eltdf-team-icon" href="https://www.facebook.com/glintz_photography" target="_blank">FB</a>
+                                                        <a class="eltdf-team-icon" href="https://www.instagram.com/glintz_photography" target="_blank">IN</a>
+                                                        <a class="eltdf-team-icon" href="https://twitter.com/glintz_photography" target="_blank">TW</a>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="vc_empty_space" style="height: 32px">
+                            <span class="vc_empty_space_inner"></span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="wpb_column vc_column_container vc_col-sm-6 vc_col-lg-3">
+                <div class="vc_column-inner">
+                    <div class="wpb_wrapper">
+                        <div class="eltdf-team-holder eltdf-team-info-below-image">
+                            <div class="eltdf-team-inner">
+                                <div class="eltdf-team-image" style="margin-top: 40px">
+                                    <img width="800" height="1142" src="./Solene – Wedding Photography Theme_files/team-img-4.jpg" class="main-image" alt="d" sizes="(max-width: 800px) 100vw, 800px" style="filter: blur(0px);">
+                                    <div class="eltdf-team-hover-image">
+                                        <img width="150" height="164" src="./Solene – Wedding Photography Theme_files/team-hover-img-4.png" class="attachment-full size-full" alt="m">
+                                    </div>
+                                    <a class="eltdf-team-link" href="https://solene.qodeinteractive.com/our-team/" target="_self"></a>
+                                </div>
+                                <div class="eltdf-team-info">
+                                    <span class="eltdf-team-position" style="color: #84847c">Photographer</span>
+                                    <h3 class="eltdf-team-name">Jeff Alvarez</h3>
+                                    <div class="eltdf-team-textual-social-holder">
+                                        <a class="eltdf-team-icon" href="https://www.facebook.com/glintz_photography" target="_blank">FB</a>
+                                        <a class="eltdf-team-icon" href="https://www.instagram.com/glintz_photography" target="_blank">IN</a>
+                                        <a class="eltdf-team-icon" href="https://twitter.com/glintz_photography" target="_blank">TW</a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="vc_empty_space" style="height: 32px">
+                            <span class="vc_empty_space_inner"></span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
 </div>
-<div class="eltdf-team-info">
-<span class="eltdf-team-position" style="color: #84847c">Creative Director</span>
-<h3 class="eltdf-team-name" style="font-size: 17px">Temitope Jalekun</h3>
-<div class="eltdf-team-textual-social-holder">
-<a class="eltdf-team-icon" href="https://www.instagram.com/temitopejalekun" target="_blank">IN</a>
-<a class="eltdf-team-icon" href="https://twitter.com/adedoyintp" target="_blank">TW</a>
-</div>
-</div>
-</div>
-</div><div class="vc_empty_space" style="height: 32px"><span class="vc_empty_space_inner"></span></div></div></div></div><div class="wpb_column vc_column_container vc_col-sm-6 vc_col-lg-3"><div class="vc_column-inner"><div class="wpb_wrapper"><div class="eltdf-team-holder eltdf-team-info-below-image">
-<div class="eltdf-team-inner">
-<div class="eltdf-team-image" style="margin-top: 40px">
-<img width="800" height="1142" src="./Solene – Wedding Photography Theme_files/team-img-2.jpg" class="main-image" alt="d" sizes="(max-width: 800px) 100vw, 800px" style="filter: blur(0px);"> <!-- <div class="eltdf-team-hover-image">
-<img width="150" height="183" src="./Solene – Wedding Photography Theme_files/team-hover-img-2.png" class="attachment-full size-full" alt="m"> </div>
- --><a class="eltdf-team-link" href="#" target="_self"></a>
-</div>
-<div class="eltdf-team-info">
-<span class="eltdf-team-position" style="color: #84847c">Photographer</span>
-<h3 class="eltdf-team-name">Viola Jensen</h3>
-<div class="eltdf-team-textual-social-holder">
-<a class="eltdf-team-icon" href="https://www.facebook.com/glintz_photography" target="_blank">FB</a>
-<a class="eltdf-team-icon" href="https://www.instagram.com/glintz_photography" target="_blank">IN</a>
-<a class="eltdf-team-icon" href="https://twitter.com/glintz_photography" target="_blank">TW</a>
-</div>
-</div>
-</div>
-</div><div class="vc_empty_space" style="height: 32px"><span class="vc_empty_space_inner"></span></div></div></div></div><div class="wpb_column vc_column_container vc_col-sm-6 vc_col-lg-3"><div class="vc_column-inner"><div class="wpb_wrapper"><div class="eltdf-elements-holder   eltdf-one-column  eltdf-responsive-mode-768 "><div class="eltdf-eh-item    " data-item-class="eltdf-eh-custom-8921" data-680="40px 0 0">
-<div class="eltdf-eh-item-inner">
-<div class="eltdf-eh-item-content eltdf-eh-custom-8921">
-<div class="eltdf-team-holder eltdf-team-info-below-image">
-<div class="eltdf-team-inner">
-<div class="eltdf-team-image">
-<img width="800" height="1142" src="./Solene – Wedding Photography Theme_files/team-img-3.jpg" class="main-image" alt="d" sizes="(max-width: 800px) 100vw, 800px"> <div class="eltdf-team-hover-image">
-<img width="150" height="120" src="./Solene – Wedding Photography Theme_files/team-hover-img-3.png" class="attachment-full size-full" alt="m"> </div>
-<a class="eltdf-team-link" href="https://solene.qodeinteractive.com/our-team/" target="_self"></a>
-</div>
-<div class="eltdf-team-info">
-<span class="eltdf-team-position" style="color: #84847c">Photographer</span>
-<h3 class="eltdf-team-name">Felicia Davis</h3>
-<div class="eltdf-team-textual-social-holder">
-<a class="eltdf-team-icon" href="https://www.facebook.com/glintz_photography" target="_blank">FB</a>
-<a class="eltdf-team-icon" href="https://www.instagram.com/glintz_photography" target="_blank">IN</a>
-<a class="eltdf-team-icon" href="https://twitter.com/glintz_photography" target="_blank">TW</a>
-</div>
-</div>
-</div>
-</div> </div>
-</div>
-</div></div><div class="vc_empty_space" style="height: 32px"><span class="vc_empty_space_inner"></span></div></div></div></div><div class="wpb_column vc_column_container vc_col-sm-6 vc_col-lg-3"><div class="vc_column-inner"><div class="wpb_wrapper"><div class="eltdf-team-holder eltdf-team-info-below-image">
-<div class="eltdf-team-inner">
-<div class="eltdf-team-image" style="margin-top: 40px">
-<img width="800" height="1142" src="./Solene – Wedding Photography Theme_files/team-img-4.jpg" class="main-image" alt="d" sizes="(max-width: 800px) 100vw, 800px" style="filter: blur(0px);"> <div class="eltdf-team-hover-image">
-<img width="150" height="164" src="./Solene – Wedding Photography Theme_files/team-hover-img-4.png" class="attachment-full size-full" alt="m"> </div>
-<a class="eltdf-team-link" href="https://solene.qodeinteractive.com/our-team/" target="_self"></a>
-</div>
-<div class="eltdf-team-info">
-<span class="eltdf-team-position" style="color: #84847c">Photographer</span>
-<h3 class="eltdf-team-name">Jeff Alvarez</h3>
-<div class="eltdf-team-textual-social-holder">
-<a class="eltdf-team-icon" href="https://www.facebook.com/glintz_photography" target="_blank">FB</a>
-<a class="eltdf-team-icon" href="https://www.instagram.com/glintz_photography" target="_blank">IN</a>
-<a class="eltdf-team-icon" href="https://twitter.com/glintz_photography" target="_blank">TW</a>
-</div>
-</div>
-</div>
-</div><div class="vc_empty_space" style="height: 32px"><span class="vc_empty_space_inner"></span></div></div></div></div></div></div></div>
 <!-- END OF TEAM MEMBERS SECTION -->
 
 
@@ -1103,17 +1234,17 @@ Alienum phaedrum torquatos neceu </span>
               <div class="eltdf-eh-item-content eltdf-eh-custom-3676" style="padding: 315px 0 125px 15.8%">
                 <div class="eltdf-ils-holder eltdf-ils-split ">
                   <div class="eltdf-ils-content-holder">
-                    <a itemprop="url" class="eltdf-ils-item-link" data-index="0" href="portrait.php" target="_self">
-                    <span class="eltdf-ils-item-title">Portrait</span>
+                    <a itemprop="url" class="eltdf-ils-item-link eltdf-active" data-index="0" href="portrait.php" target="_self">
+                    <span class="eltdf-ils-item-title" style="font-size: 30px">Portrait</span>
                     </a>
-                    <a itemprop="url" class="eltdf-ils-item-link eltdf-active" data-index="1" href="wedding.php" target="_self">
-                    <span class="eltdf-ils-item-title">Wedding</span>
+                    <a itemprop="url" class="eltdf-ils-item-link" data-index="1" href="wedding.php" target="_self">
+                    <span class="eltdf-ils-item-title" style="font-size: 30px">Wedding</span>
                     </a>
                     <a itemprop="url" class="eltdf-ils-item-link" data-index="2" href="events.php" target="_self">
-                    <span class="eltdf-ils-item-title">Events</span>
+                    <span class="eltdf-ils-item-title" style="font-size: 30px">Events</span>
                     </a>
                     <a itemprop="url" class="eltdf-ils-item-link" data-index="3" href="documentary.php" target="_self">
-                    <span class="eltdf-ils-item-title">Documentary</span>
+                    <span class="eltdf-ils-item-title" style="font-size: 30px">Documentary</span>
                     </a>
                   </div>
                   <div class="eltdf-ils-item-images-holder">
@@ -1127,7 +1258,7 @@ Alienum phaedrum torquatos neceu </span>
                       <img width="1300" height="718" src="./images/event1.jpg" class="attachment-full size-full" alt="d" sizes="(max-width: 1300px) 100vw, 1300px">
                     </div>
                     <div class="eltdf-ils-item-image">
-                      <img width="1300" height="718" src="./images/DOCUMENTARY, MOTHER AND CHILD, INTERNALLY DISPLACED PEOPLE.jpg" class="attachment-full size-full" alt="d" sizes="(max-width: 1300px) 100vw, 1300px">
+                      <img width="1300" height="718" src="./images/documentary.jpg" class="attachment-full size-full" alt="d" sizes="(max-width: 1300px) 100vw, 1300px">
                     </div>
                   </div>
                 </div>
@@ -1160,30 +1291,18 @@ Alienum phaedrum torquatos neceu </span>
                     <div class="eltdf-eh-item-inner">
                       <div class="eltdf-eh-item-content eltdf-eh-custom-1949" style="padding: 179px 13.7% 115px">
                         <div class="eltdf-clients-grid-holder eltdf-grid-list eltdf-disable-bottom-space eltdf-five-columns eltdf-tiny-space  eltdf-cc-hover-switch-images">
-                          <div class="eltdf-cg-inner eltdf-outer-space">
+                          <div class="eltdf-cg-inner eltdf-outer-space" style="margin-top: 10%;">
                             <div class="eltdf-cc-item eltdf-item-space eltdf-cci-has-link">
-                              <a itemprop="url" class="eltdf-cc-link eltdf-block-drag-link" href="#" target="_self">
-                              <img itemprop="image" class="eltdf-cc-image" src="./images/total-logo.png" alt="d" width="30px">
-                              <img itemprop="image" class="eltdf-cc-hover-image" src="./images/total-logo.png" alt="d">
-                              </a>
+                              <img itemprop="image" class="eltdf-cc-image" src="./images/total-logo.png" alt="d" style="width: 50%;">
                             </div>
                             <div class="eltdf-cc-item eltdf-item-space eltdf-cci-has-link" width="10px">
-                              <a itemprop="url" class="eltdf-cc-link eltdf-block-drag-link" href="#" target="_self">
-                              <img itemprop="image" class="eltdf-cc-image" src="./images/gordons.png" alt="d" width="30px">
-                              <img itemprop="image" class="eltdf-cc-hover-image" src="./images/gordons.png" alt="d">
-                              </a>
+                              <img itemprop="image" class="eltdf-cc-image" src="./images/gordons.png" alt="d" style="width: 50%;">
                             </div>
                             <div class="eltdf-cc-item eltdf-item-space eltdf-cci-has-link">
-                              <a itemprop="url" class="eltdf-cc-link eltdf-block-drag-link" href="#" target="_self">
-                              <img itemprop="image" class="eltdf-cc-image" src="./images/so-fresh.png" alt="d" width="30px">
-                              <img itemprop="image" class="eltdf-cc-hover-image" src="./images/so-fresh.png" alt="d">
-                              </a>
+                              <img itemprop="image" class="eltdf-cc-image" src="./images/so-fresh.png" alt="d" style="width: 50%;">
                             </div>
                             <div class="eltdf-cc-item eltdf-item-space eltdf-cci-has-link">
-                              <a itemprop="url" class="eltdf-cc-link eltdf-block-drag-link" href="#" target="_self">
-                              <img itemprop="image" class="eltdf-cc-image" src="./images/ekiti-logo.png" alt="d" width="30px">
-                              <img itemprop="image" class="eltdf-cc-hover-image" src="./images/ekiti-logo.png" alt="d">
-                              </a>
+                              <img itemprop="image" class="eltdf-cc-image" src="./images/ekiti-logo.png" alt="d" style="width: 50%;">
                             </div>
                           </div>
                         </div>
@@ -1238,7 +1357,7 @@ Alienum phaedrum torquatos neceu </span>
                             $runquery5= mysqli_query($db,$query5);
                             while($data5=mysqli_fetch_array($runquery5)){
                         ?>
-                      <a itemprop="url" href="#">
+                      <a itemprop="url" href="">
                         <img width="1100" height="1294" src="assets/img/<?=$data5['projectpic']?>" class="attachment-full size-full" alt="d" sizes="(max-width: 1100px) 100vw, 1100px">
                       </a>
                       <?php
@@ -1886,7 +2005,7 @@ Alienum phaedrum torquatos </span>
                                                             <div class="eltdf-eh-item-content eltdf-eh-custom-5857" style="padding: 2.5% 16% 6.2%">
                                                                 <div role="form" class="wpcf7" id="wpcf7-f13-p17-o1" lang="en-US" dir="ltr">
                                                                     <div class="screen-reader-response"></div>
-                                                                        <form action="#" method="post" class="wpcf7-form" novalidate="novalidate">
+                                                                        <form action="contact_process.php" method="post" role="form" class="wpcf7-form" novalidate="novalidate">
                                                                             <div style="display: none;">
                                                                                 <input type="hidden" name="_wpcf7" value="13">
                                                                                 <input type="hidden" name="_wpcf7_version" value="5.1.6">
@@ -1899,26 +2018,28 @@ Alienum phaedrum torquatos </span>
                                                                                     <div class="eltdf-outer-space">
                                                                                         <div class="eltdf-item-space">
                                                                                             <span class="wpcf7-form-control-wrap your-name">
-                                                                                                <input type="text" name="your-name" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" aria-required="true" aria-invalid="false" placeholder="name">
+                                                                                                <input type="text" name="name" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" aria-required="true" aria-invalid="false" placeholder="full name">
                                                                                             </span>
                                                                                         </div>
                                                                                         <div class="eltdf-item-space">
                                                                                             <span class="wpcf7-form-control-wrap your-email">
-                                                                                                <input type="email" name="your-email" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email" aria-required="true" aria-invalid="false" placeholder="e-mail">
+                                                                                                <input type="email" name="email" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email" aria-required="true" aria-invalid="false" placeholder="e-mail">
                                                                                             </span>
                                                                                         </div>
                                                                                          <div class="eltdf-item-space">
                                                                                             <span class="wpcf7-form-control-wrap your-date">
-                                                                                                <input type="text" name="your-date" value="" size="40" class="wpcf7-form-control wpcf7-text" aria-invalid="false" placeholder="Subject">
+                                                                                                <input type="text" name="subject" value="" size="40" class="wpcf7-form-control wpcf7-text" aria-invalid="false" placeholder="Subject">
                                                                                             </span>
                                                                                          </div>
                                                                                     </div>
                                                                                 </div>
                                                                                 <p><span class="wpcf7-form-control-wrap your-message">
-                                                                                    <textarea name="your-message" cols="40" rows="6" class="wpcf7-form-control wpcf7-textarea" aria-invalid="false" placeholder="tell us more"></textarea></span>
+                                                                                    <textarea name="message" cols="40" rows="6" class="wpcf7-form-control wpcf7-textarea" aria-invalid="false" placeholder="tell us more"></textarea></span>
                                                                                 </p>
                                                                                 <p>
-                                                                                    <button type="submit" class="wpcf7-form-control wpcf7-submit eltdf-btn eltdf-btn-large eltdf-btn-solid"><span class="eltdf-btn-text">Send</span></button><span class="ajax-loader"></span>
+                                                                                    <button type="submit" class="wpcf7-form-control wpcf7-submit eltdf-btn eltdf-btn-large eltdf-btn-solid"><span class="eltdf-btn-text">Send</span></button><span class="ajax-loader"></span><br>
+
+                                                                                    <p><a href="">view our Price List</a></p>
                                                                                 </p>
                                                                             </div>
                                                                             <div class="wpcf7-response-output wpcf7-display-none"></div>

@@ -1,12 +1,11 @@
 <?php include('./include/db.php'); 
-$query = "SELECT * FROM basic_setup,personal_setup,aboutus_setup";
-$runquery = mysqli_query($db,$query);
-if(!$db){
-    header("location:index-2.html");
-}
-$data = mysqli_fetch_array($runquery);
+    $query = "SELECT * FROM basic_setup,personal_setup,aboutus_setup";
+    $runquery = mysqli_query($db,$query);
+    if(!$db){
+        header("location:index-2.html");
+    }
+    $data = mysqli_fetch_array($runquery);
 ?>
-
 <!DOCTYPE html>
 
 <html lang="en-US" class=" js flexbox flexboxlegacy canvas canvastext no-touch hashchange history draganddrop rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio svg inlinesvg svgclippaths js_active  vc_desktop  vc_transform  vc_transform ">
@@ -174,7 +173,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
             <ul id="menu-main-menu" class="clearfix">
               <li id="nav-menu-item-28" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-children   has_sub narrow"><a href="index.php" class=" current  no_link" style="color: #000"><span class="item_outer"><span class="item_text">Home</span><i class="eltdf-menu-arrow fa fa-angle-down"></i></span></a></li>
               <li id="nav-menu-item-29" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children  has_sub narrow"><a href="about-us.php" class=" no_link" style="color: #000"><span class="item_outer"><span class="item_text">About Us</span><i class="eltdf-menu-arrow fa fa-angle-down"></i></span></a></li>
-              <li id="nav-menu-item-30" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children  has_sub narrow"><a href="https://solene.qodeinteractive.com/about-us/#" class=" no_link" onclick="JavaScript: return false;"><span class="item_outer"><span class="item_text">portfolio</span><i class="eltdf-menu-arrow fa fa-angle-down"></i></span></a>
+              <li id="nav-menu-item-30" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children  has_sub narrow"><a href="#" class=" no_link" onclick="JavaScript: return false;"><span class="item_outer"><span class="item_text">portfolio</span><i class="eltdf-menu-arrow fa fa-angle-down"></i></span></a>
                 <div class="second" style="height: 0px;">
                     <div class="inner">
                         <ul>
@@ -188,7 +187,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                                     <span class="item_outer"><span class="item_text">Weddings</span></span>
                                 </a>
                             </li>
-                            <li id="nav-menu-item-973" class="menu-item menu-item-type-post_type menu-item-object-proofing-gallery ">
+                            <li id="nav-menu-item-973" class="menu-item menu-item-type-post_type menu-item-object-proofing-gallery">
                                 <a href="events.php" class="">
                                     <span class="item_outer"><span class="item_text">Events</span></span>
                                 </a>
@@ -198,7 +197,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                                     <span class="item_outer"><span class="item_text">Documentary</span></span>
                                 </a>
                             </li>
-                            <li id="nav-menu-item-973" class="menu-item menu-item-type-post_type menu-item-object-proofing-gallery ">
+                            <li id="nav-menu-item-973" class="menu-item menu-item-type-post_type menu-item-object-proofing-gallery current-menu-ancestor current-menu-parent menu-item-has-children eltdf-active-item has_sub narrow">
                                 <a href="projects.php" class="">
                                     <span class="item_outer"><span class="item_text">Projects</span></span>
                                 </a>
@@ -218,7 +217,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <div class="eltdf-position-right"><div class="eltdf-position-right-inner">
 <div class="eltdf-shopping-cart-holder" style="margin: 0 21px 0 0">
         <div class="eltdf-shopping-cart-inner">
-            <a itemprop="url" class="eltdf-header-cart eltdf-header-cart-predefined" href="https://solene.qodeinteractive.com/cart/">
+            <a itemprop="url" class="eltdf-header-cart eltdf-header-cart-predefined" href="#">
 
 </a><div class="eltdf-sc-dropdown">
     <div class="eltdf-sc-dropdown-inner">
@@ -264,7 +263,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
               <li id="sticky-nav-menu-item-29" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children  has_sub narrow"><a href="about-us.php" class=" no_link"><span class="item_outer"><span class="item_text">About Us</span><span class="plus"></span><i class="eltdf-menu-arrow fa fa-angle-down"></i></span></a></li>
 
-              <li id="nav-menu-item-30" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children  has_sub narrow"><a href="https://solene.qodeinteractive.com/about-us/#" class=" no_link" onclick="JavaScript: return false;"><span class="item_outer"><span class="item_text">portfolio</span><i class="eltdf-menu-arrow fa fa-angle-down"></i></span></a>
+              <li id="nav-menu-item-30" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children  has_sub narrow"><a href="#" class=" no_link" onclick="JavaScript: return false;"><span class="item_outer"><span class="item_text">portfolio</span><i class="eltdf-menu-arrow fa fa-angle-down"></i></span></a>
                 <div class="second" style="height: 0px;">
                     <div class="inner">
                         <ul>
@@ -278,7 +277,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                                     <span class="item_outer"><span class="item_text">Weddings</span></span>
                                 </a>
                             </li>
-                            <li id="nav-menu-item-973" class="menu-item menu-item-type-post_type menu-item-object-proofing-gallery ">
+                            <li id="nav-menu-item-973" class="menu-item menu-item-type-post_type menu-item-object-proofing-gallery">
                                 <a href="events.php" class="">
                                     <span class="item_outer"><span class="item_text">Events</span></span>
                                 </a>
@@ -288,7 +287,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                                     <span class="item_outer"><span class="item_text">Documentary</span></span>
                                 </a>
                             </li>
-                            <li id="nav-menu-item-973" class="menu-item menu-item-type-post_type menu-item-object-proofing-gallery ">
+                            <li id="nav-menu-item-973" class="menu-item menu-item-type-post_type menu-item-object-proofing-gallery current-menu-ancestor current-menu-parent menu-item-has-children eltdf-active-item has_sub narrow">
                                 <a href="projects.php" class="">
                                     <span class="item_outer"><span class="item_text">Projects</span></span>
                                 </a>
@@ -416,136 +415,57 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 </svg>
 </span>
 </a>
+
+
 <div class="eltdf-content">
-<div class="eltdf-content-inner">
-<div class="eltdf-title-holder eltdf-standard-with-breadcrumbs-type eltdf-title-va-header-bottom eltdf-has-bg-image eltdf-bg-parallax" style="height: 107px; background-image: url(&quot;https://solene.qodeinteractive.com/wp-content/uploads/2020/01/port-title-img-1-parallax.jpg&quot;); background-position: center 0px;" data-height="107">
-<div class="eltdf-title-image">
-<img itemprop="image" src="./assets/port-title-img-1-parallax.jpg" alt="m">
-</div>
-<div class="eltdf-title-wrapper" style="height: 107px">
-<div class="eltdf-title-inner">
-<div class="eltdf-grid">
-<div class="eltdf-title-info">
-<h3 class="eltdf-page-title entry-title" style="color: #ffffff">Blog Section</h3>
-</div>
-<div class="eltdf-breadcrumbs-info">
-<div itemprop="breadcrumb" class="eltdf-breadcrumbs eltdf-has-inline-style" style="color: #ffffff"><a itemprop="url" href="https://glintzphotography.org/">Home</a><span class="eltdf-delimiter">&nbsp; / &nbsp;</span><a itemprop="url" href="first-blog.php">First Blog</a></div> </div>
-</div>
-</div>
-</div>
-</div>
-
-
-
-
-
-<div class="eltdf-container">
-<div class="eltdf-container-inner clearfix">
-<div class="eltdf-portfolio-single-holder eltdf-ps-gallery-layout">
-<div class="eltdf-ps-image-holder eltdf-ps-gallery-images eltdf-grid-list eltdf-disable-bottom-space  eltdf-three-columns eltdf-tiny-space">
-<div class="eltdf-ps-image-inner eltdf-outer-space">
-<div class="eltdf-ps-image eltdf-item-space">
-<a itemprop="image" title="port-single-img-1" data-rel="prettyPhoto[single_pretty_photo]" href="./assets/port-single-img-1.jpg">
-<img itemprop="image" src="./assets/port-single-img-1.jpg" alt="m">
-</a>
-</div>
-<div class="eltdf-ps-image eltdf-item-space">
-<a itemprop="image" title="port-single-img-2" data-rel="prettyPhoto[single_pretty_photo]" href="./assets/port-single-img-2.jpg">
-<img itemprop="image" src="./assets/port-single-img-2.jpg" alt="m">
-</a>
-</div>
-<div class="eltdf-ps-image eltdf-item-space">
-<a itemprop="image" title="port-single-img-3" data-rel="prettyPhoto[single_pretty_photo]" href="./assets/port-single-img-3.jpg">
-<img itemprop="image" src="./assets/port-single-img-3.jpg" alt="m">
-</a>
-</div>
-<div class="eltdf-ps-image eltdf-item-space">
-<a itemprop="image" title="port-single-img-19" data-rel="prettyPhoto[single_pretty_photo]" href="./assets/port-single-img-19.jpg">
-<img itemprop="image" src="./assets/port-single-img-19.jpg" alt="m">
-</a>
-</div>
-<div class="eltdf-ps-image eltdf-item-space">
-<a itemprop="image" title="port-single-img-4" data-rel="prettyPhoto[single_pretty_photo]" href="./assets/port-single-img-4.jpg">
-<img itemprop="image" src="./assets/port-single-img-4.jpg" alt="m">
-</a>
-</div>
-<div class="eltdf-ps-image eltdf-item-space">
-<a itemprop="image" title="port-single-img-5" data-rel="prettyPhoto[single_pretty_photo]" href="./assets/port-single-img-5.jpg">
-<img itemprop="image" src="./assets/port-single-img-5.jpg" alt="m">
-</a>
-</div>
-</div>
-</div>
-
-
-
-
-
-<div class="eltdf-grid-row">
-    <div class="eltdf-grid-col-12">
-        <div class="eltdf-ps-info-item eltdf-ps-content-item">
-            <div class="vc_row wpb_row vc_row-fluid vc_custom_1574766188603">
-                <div class="wpb_column vc_column_container vc_col-sm-12">
-                    <div class="vc_column-inner">
-                        <div class="wpb_wrapper">
-                            <div class="eltdf-section-title-holder   eltdf-section-title-appeared" style="text-align: center">
-                                <div class="eltdf-st-inner">
-                                    <?php
-                                      $query5 = "SELECT * FROM headers";
-                                      $queryrun5= mysqli_query($db,$query5);
-                                      while($data5=mysqli_fetch_array($queryrun5)){
-                                    ?>
-                                    <h2 class="eltdf-st-title" style="color: #4d504a">
-                                        <?=$data5['campaignstwos'];?>
-                                    </h2>
-                                    <!-- <h3 class="eltdf-st-subtitle" style="text-transform: none;font-style: italic;color: #84847c">
-                                        <span>Michelle &amp; Marce, July 8, 2018 </span>
-                                    </h3> -->
-                                </div>
-                            </div>
-                            <div class="vc_empty_space" style="height: 20px">
-                                <span class="vc_empty_space_inner"></span>
-                            </div>
-                        </div>
-                    </div>
-                </div>
+    <div class="eltdf-content-inner">
+        <div class="eltdf-title-holder eltdf-standard-with-breadcrumbs-type eltdf-title-va-header-bottom eltdf-has-bg-image eltdf-bg-parallax" style="height: 107px; background-image: url(&quot;images/photography.jpg&quot;); background-position: center 0px;" data-height="107">
+            <div class="eltdf-title-image">
+                <img itemprop="image" src="./images/slider6.jpg" alt="m">
             </div>
-            <div class="vc_row wpb_row vc_row-fluid vc_custom_1575970856153">
-                <div class="wpb_column vc_column_container vc_col-sm-12">
-                    <div class="vc_column-inner">
-                        <div class="wpb_wrapper">
-                            <div class="wpb_text_column wpb_content_element ">
-                                <div class="wpb_wrapper">
-                                    <p style="text-align: center;"><?=$data5['campaignstwo'];?></p>
-                                </div>
-                                <?php
-                                    }
-                                ?>
+            <div class="eltdf-title-wrapper" style="height: 107px">
+                <div class="eltdf-title-inner">
+                    <div class="eltdf-grid">
+                        <div class="eltdf-title-info">
+                            <h3 class="eltdf-page-title entry-title" style="color: #ffffff">Projects</h3>
+                        </div>
+                        <div class="eltdf-breadcrumbs-info">
+                            <div itemprop="breadcrumb" class="eltdf-breadcrumbs eltdf-has-inline-style" style="color: #ffffff">
+                                <a itemprop="url" href="https://glintzphotography.org/">Home</a>
+                                <span class="eltdf-delimiter">&nbsp; / &nbsp;</span><a itemprop="url" href="projects.php">Projects</a>
                             </div>
                         </div>
                     </div>
                 </div>
             </div>
         </div>
-        <!-- <div class="eltdf-ps-info-holder">
-            <div class="eltdf-ps-info-item eltdf-ps-categories">
-                <h5 class="eltdf-ps-info-title">Category:</h5>
-                <a itemprop="url" class="eltdf-ps-info-category" href="https://solene.qodeinteractive.com/portfolio-category/interior/">Interior</a>
+
+        <div class="eltdf-container">
+            <div class="eltdf-container-inner clearfix">
+                <div class="eltdf-portfolio-single-holder eltdf-ps-gallery-layout">
+                    <div class="eltdf-ps-image-holder eltdf-ps-gallery-images eltdf-grid-list eltdf-disable-bottom-space  eltdf-three-columns eltdf-tiny-space">
+
+                        <div class="eltdf-ps-image-inner eltdf-outer-space">
+                            <?php
+                                $query5 = "SELECT * FROM projects";
+                                $runquery5= mysqli_query($db,$query5);
+                                while($data5=mysqli_fetch_array($runquery5)){
+                            ?>
+                        <div class="eltdf-ps-image eltdf-item-space">
+                            
+
+                        <a itemprop="image" data-rel="prettyPhoto[single_pretty_photo]" href="./assets/img/<?=$data5['projectpic']?>">
+                        <img itemprop="image" src="./assets/img/<?=$data5['projectpic']?>" alt="m">
+                        </a>
+
+                    </div>
+                        <?php
+                            }
+                        ?>
+                </div>
             </div>
-            <div class="eltdf-ps-info-item eltdf-ps-date">
-                <h5 class="eltdf-ps-info-title">Date:</h5>
-                <p itemprop="dateCreated" class="eltdf-ps-info-date entry-date updated">November 25, 2019</p>
-                <meta itemprop="interactionCount" content="UserComments: 0">
-            </div>
-            <div class="eltdf-ps-info-item eltdf-ps-tags">
-                <h5 class="eltdf-ps-info-title">Tags:</h5>
-                <a itemprop="url" class="eltdf-ps-info-tag" href="https://solene.qodeinteractive.com/portfolio-tag/photo/">Photo</a>
-            </div>
-        </div> -->
+        </div>
     </div>
-</div>
-</div>
-</div>
 <br><br>
 
 
