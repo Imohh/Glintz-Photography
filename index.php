@@ -1095,7 +1095,7 @@ ceremonies </h6>
 <div class="eltdf-row-grid-section-wrapper ">
     <div class="eltdf-row-grid-section">
         <div class="vc_row wpb_row vc_row-fluid vc_column-gap-1">
-            <div class="wpb_column vc_column_container vc_col-sm-6 vc_col-lg-3">
+            <div class="wpb_column vc_column_container vc_col-sm-6 vc_col-lg-4">
                 <div class="vc_column-inner">
                     <div class="wpb_wrapper">
                         <div class="eltdf-team-holder eltdf-team-info-below-image">
@@ -1120,22 +1120,22 @@ ceremonies </h6>
                     </div>
                 </div>
             </div>
-            <div class="wpb_column vc_column_container vc_col-sm-6 vc_col-lg-3">
+            <div class="wpb_column vc_column_container vc_col-sm-6 vc_col-lg-4">
                 <div class="vc_column-inner">
                     <div class="wpb_wrapper">
                         <div class="eltdf-team-holder eltdf-team-info-below-image">
                             <div class="eltdf-team-inner">
                                 <div class="eltdf-team-image" style="margin-top: 40px">
-                                    <img width="800" height="1142" src="./Solene – Wedding Photography Theme_files/team-img-2.jpg" class="main-image" alt="d" sizes="(max-width: 800px) 100vw, 800px" style="filter: blur(0px);">
+                                    <img width="800" height="1142" src="./images/IMG_20210711_101013.jpg" class="main-image" alt="d" sizes="(max-width: 800px) 100vw, 800px" style="filter: blur(0px);">
                                     <a class="eltdf-team-link" href="#" target="_self"></a>
                                 </div>
                                 <div class="eltdf-team-info">
                                     <span class="eltdf-team-position" style="color: #84847c">Photographer</span>
-                                    <h3 class="eltdf-team-name">Viola Jensen</h3>
+                                    <h3 class="eltdf-team-name" style="font-size: 17px">Leonard Ikediuba</h3>
                                     <div class="eltdf-team-textual-social-holder">
-                                        <a class="eltdf-team-icon" href="https://www.facebook.com/glintz_photography" target="_blank">FB</a>
+                                        <!-- <a class="eltdf-team-icon" href="https://www.facebook.com/glintz_photography" target="_blank">FB</a>
                                         <a class="eltdf-team-icon" href="https://www.instagram.com/glintz_photography" target="_blank">IN</a>
-                                        <a class="eltdf-team-icon" href="https://twitter.com/glintz_photography" target="_blank">TW</a>
+                                        <a class="eltdf-team-icon" href="https://twitter.com/glintz_photography" target="_blank">TW</a> -->
                                     </div>
                                 </div>
                             </div>
@@ -1146,7 +1146,7 @@ ceremonies </h6>
                     </div>
                 </div>
             </div>
-            <div class="wpb_column vc_column_container vc_col-sm-6 vc_col-lg-3">
+            <div class="wpb_column vc_column_container vc_col-sm-6 vc_col-lg-4">
                 <div class="vc_column-inner">
                     <div class="wpb_wrapper">
                         <div class="eltdf-elements-holder   eltdf-one-column  eltdf-responsive-mode-768 ">
@@ -1156,52 +1156,20 @@ ceremonies </h6>
                                         <div class="eltdf-team-holder eltdf-team-info-below-image">
                                             <div class="eltdf-team-inner">
                                                 <div class="eltdf-team-image">
-                                                    <img width="800" height="1142" src="./Solene – Wedding Photography Theme_files/team-img-3.jpg" class="main-image" alt="d" sizes="(max-width: 800px) 100vw, 800px"> 
-                                                    <div class="eltdf-team-hover-image">
-                                                        <img width="150" height="120" src="./Solene – Wedding Photography Theme_files/team-hover-img-3.png" class="attachment-full size-full" alt="m">
-                                                    </div>
-                                                    <a class="eltdf-team-link" href="https://solene.qodeinteractive.com/our-team/" target="_self"></a>
+                                                    <img width="800" height="1142" src="./images/GLI_0736e.jpg" class="main-image" alt="d" sizes="(max-width: 800px) 100vw, 800px">
+                                                    <a class="eltdf-team-link" href="#" target="_self"></a>
                                                 </div>
                                                 <div class="eltdf-team-info">
-                                                    <span class="eltdf-team-position" style="color: #84847c">Photographer</span>
-                                                    <h3 class="eltdf-team-name">Felicia Davis</h3>
+                                                    <span class="eltdf-team-position" style="color: #84847c">Retoucher</span>
+                                                    <h3 class="eltdf-team-name" style="font-size: 17px">Funmi Awopetu</h3>
                                                     <div class="eltdf-team-textual-social-holder">
-                                                        <a class="eltdf-team-icon" href="https://www.facebook.com/glintz_photography" target="_blank">FB</a>
+                                                        <!-- <a class="eltdf-team-icon" href="https://www.facebook.com/glintz_photography" target="_blank">FB</a>
                                                         <a class="eltdf-team-icon" href="https://www.instagram.com/glintz_photography" target="_blank">IN</a>
-                                                        <a class="eltdf-team-icon" href="https://twitter.com/glintz_photography" target="_blank">TW</a>
+                                                        <a class="eltdf-team-icon" href="https://twitter.com/glintz_photography" target="_blank">TW</a> -->
                                                     </div>
                                                 </div>
                                             </div>
                                         </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="vc_empty_space" style="height: 32px">
-                            <span class="vc_empty_space_inner"></span>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="wpb_column vc_column_container vc_col-sm-6 vc_col-lg-3">
-                <div class="vc_column-inner">
-                    <div class="wpb_wrapper">
-                        <div class="eltdf-team-holder eltdf-team-info-below-image">
-                            <div class="eltdf-team-inner">
-                                <div class="eltdf-team-image" style="margin-top: 40px">
-                                    <img width="800" height="1142" src="./Solene – Wedding Photography Theme_files/team-img-4.jpg" class="main-image" alt="d" sizes="(max-width: 800px) 100vw, 800px" style="filter: blur(0px);">
-                                    <div class="eltdf-team-hover-image">
-                                        <img width="150" height="164" src="./Solene – Wedding Photography Theme_files/team-hover-img-4.png" class="attachment-full size-full" alt="m">
-                                    </div>
-                                    <a class="eltdf-team-link" href="https://solene.qodeinteractive.com/our-team/" target="_self"></a>
-                                </div>
-                                <div class="eltdf-team-info">
-                                    <span class="eltdf-team-position" style="color: #84847c">Photographer</span>
-                                    <h3 class="eltdf-team-name">Jeff Alvarez</h3>
-                                    <div class="eltdf-team-textual-social-holder">
-                                        <a class="eltdf-team-icon" href="https://www.facebook.com/glintz_photography" target="_blank">FB</a>
-                                        <a class="eltdf-team-icon" href="https://www.instagram.com/glintz_photography" target="_blank">IN</a>
-                                        <a class="eltdf-team-icon" href="https://twitter.com/glintz_photography" target="_blank">TW</a>
                                     </div>
                                 </div>
                             </div>

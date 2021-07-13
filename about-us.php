@@ -26,7 +26,7 @@
 	<link rel="icon" href="images/glintz-logo-black.png" sizes="192x192">
 	<link rel="apple-touch-icon-precomposed" href="images/glintz-logo-black.png">
 	<meta name="msapplication-TileImage" content="images/glintz-logo-black.png">
-	
+
 	<link rel="dns-prefetch" href="https://maps.googleapis.com/">
 	<link rel="dns-prefetch" href="https://fonts.googleapis.com/">
 	<link rel="dns-prefetch" href="https://s.w.org/">
@@ -667,7 +667,7 @@
 <div class="eltdf-row-grid-section-wrapper ">
 	<div class="eltdf-row-grid-section">
 		<div class="vc_row wpb_row vc_row-fluid vc_column-gap-1">
-			<div class="wpb_column vc_column_container vc_col-sm-6 vc_col-lg-3">
+			<div class="wpb_column vc_column_container vc_col-sm-6 vc_col-lg-4">
 				<div class="vc_column-inner">
 					<div class="wpb_wrapper">
 						<div class="eltdf-team-holder eltdf-team-info-below-image">
@@ -692,24 +692,22 @@
 					</div>
 				</div>
 			</div>
-			<div class="wpb_column vc_column_container vc_col-sm-6 vc_col-lg-3">
+			<div class="wpb_column vc_column_container vc_col-sm-6 vc_col-lg-4">
 				<div class="vc_column-inner">
 					<div class="wpb_wrapper">
 						<div class="eltdf-team-holder eltdf-team-info-below-image">
 							<div class="eltdf-team-inner">
 								<div class="eltdf-team-image" style="margin-top: 40px">
-									<img width="800" height="1142" src="./assets/team-img-2.jpg" class="main-image" alt="d" srcset="assets/team-img-2.jpg 800w, assets/team-img-2.jpg 210w,assets/team-img-2.jpg 717w, assets/team-img-2.jpg 768w, assets/team-img-2.jpg 600w" sizes="(max-width: 800px) 100vw, 800px">
-									<div class="eltdf-team-hover-image">
-										<img width="150" height="183" src="./assets/team-hover-img-2.png" class="attachment-full size-full" alt="m">
-									</div>
+									<img width="800" height="1142" src="./images/IMG_20210711_101013.jpg" class="main-image" alt="d" srcset="./images/IMG_20210711_101013.jpg 800w, ./images/IMG_20210711_101013.jpg 210w,images/IMG_20210711_101013.jpg 717w, images/IMG_20210711_101013.jpg 768w, images/IMG_20210711_101013.jpg 600w" sizes="(max-width: 800px) 100vw, 800px">
+									
 								</div>
 								<div class="eltdf-team-info">
-									<span class="eltdf-team-position">Photographer</span>
-									<h3 class="eltdf-team-name">Viola Jensen</h3>
+									<span class="eltdf-team-position" style="color: #84847c">Photographer</span>
+                                    <h3 class="eltdf-team-name" style="font-size: 17px">Leonard Ikediuba</h3>
 									<div class="eltdf-team-textual-social-holder">
-										<a class="eltdf-team-icon" href="https://www.facebook.com/glintzphotography/" target="_blank">FB</a>
+										<!-- <a class="eltdf-team-icon" href="https://www.facebook.com/glintzphotography/" target="_blank">FB</a>
 										<a class="eltdf-team-icon" href="https://www.instagram.com/glintz_photography/" target="_blank">IN</a>
-										<a class="eltdf-team-icon" href="https://twitter.com/glintzmedia" target="_blank">TW</a>
+										<a class="eltdf-team-icon" href="https://twitter.com/glintzmedia" target="_blank">TW</a> -->
 									</div>
 								</div>
 							</div>
@@ -720,7 +718,7 @@
 					</div>
 				</div>
 			</div>
-			<div class="wpb_column vc_column_container vc_col-sm-6 vc_col-lg-3">
+			<div class="wpb_column vc_column_container vc_col-sm-6 vc_col-lg-4">
 				<div class="vc_column-inner">
 					<div class="wpb_wrapper">
 						<div class="eltdf-elements-holder   eltdf-one-column  eltdf-responsive-mode-768 ">
@@ -730,18 +728,15 @@
 										<div class="eltdf-team-holder eltdf-team-info-below-image">
 											<div class="eltdf-team-inner">
 												<div class="eltdf-team-image">
-													<img width="800" height="1142" src="./assets/team-img-3.jpg" class="main-image" alt="d" srcset="assets/team-img-3.jpg 800w, assets/team-img-3.jpg 210w, assets/team-img-3.jpg 717w, assets/team-img-3.jpg 768w, assets/team-img-3.jpg 600w" sizes="(max-width: 800px) 100vw, 800px" style="filter: blur(0px);">
-													<div class="eltdf-team-hover-image">
-														<img width="150" height="120" src="./assets/team-hover-img-3.png" class="attachment-full size-full" alt="m">
-													</div>
+													<img width="800" height="1142" src="./images/GLI_0736e.jpg" class="main-image" alt="d" srcset="images/GLI_0736e.jpg 800w, images/GLI_0736e.jpg 210w, images/GLI_0736e.jpg 717w, images/GLI_0736e.jpg 768w, images/GLI_0736e.jpg 600w" sizes="(max-width: 800px) 100vw, 800px" style="filter: blur(0px);">
 												</div>
 												<div class="eltdf-team-info">
-													<span class="eltdf-team-position">Photographer</span>
-													<h3 class="eltdf-team-name">Felicia Davis</h3>
+													<span class="eltdf-team-position" style="color: #84847c">Retoucher</span>
+                                                    <h3 class="eltdf-team-name" style="font-size: 17px">Funmi Awopetu</h3>
 													<div class="eltdf-team-textual-social-holder">
-														<a class="eltdf-team-icon" href="https://www.facebook.com/glintzphotography/" target="_blank">FB</a>
+														<!-- <a class="eltdf-team-icon" href="https://www.facebook.com/glintzphotography/" target="_blank">FB</a>
 														<a class="eltdf-team-icon" href="https://www.instagram.com/glintz_photography/" target="_blank">IN</a>
-														<a class="eltdf-team-icon" href="https://twitter.com/glintzmedia" target="_blank">TW</a>
+														<a class="eltdf-team-icon" href="https://twitter.com/glintzmedia" target="_blank">TW</a> -->
 													</div>
 												</div>
 											</div>
@@ -752,34 +747,6 @@
 						</div>
 						<div class="vc_empty_space" style="height: 32px">
 							<span class="vc_empty_space_inner"></span>
-						</div>
-					</div>
-				</div>
-			</div>
-			<div class="wpb_column vc_column_container vc_col-sm-6 vc_col-lg-3">
-				<div class="vc_column-inner">
-					<div class="wpb_wrapper">
-						<div class="eltdf-team-holder eltdf-team-info-below-image">
-							<div class="eltdf-team-inner">
-								<div class="eltdf-team-image" style="margin-top: 40px">
-									<img width="800" height="1142" src="./assets/team-img-4.jpg" class="main-image" alt="d" srcset="assets/team-img-4.jpg 800w, assets/team-img-4.jpg 210w, assets/team-img-4.jpg 717w, assets/team-img-4.jpg 768w, assets/team-img-4.jpg 600w" sizes="(max-width: 800px) 100vw, 800px">
-									<div class="eltdf-team-hover-image">
-										<img width="150" height="164" src="./assets/team-hover-img-4.png" class="attachment-full size-full" alt="m"> </div>
-									</div>
-									<div class="eltdf-team-info">
-										<span class="eltdf-team-position">Photographer</span>
-										<h3 class="eltdf-team-name">Jeff Alvarez</h3>
-										<div class="eltdf-team-textual-social-holder">
-											<a class="eltdf-team-icon" href="https://www.facebook.com/glintzphotography/" target="_blank">FB</a>
-											<a class="eltdf-team-icon" href="https://www.instagram.com/glintzphotography/" target="_blank">IN</a>
-											<a class="eltdf-team-icon" href="https://twitter.com/glintzmedia " target="_blank">TW</a>
-										</div>
-									</div>
-								</div>
-							</div>
-							<div class="vc_empty_space" style="height: 32px">
-								<span class="vc_empty_space_inner"></span>
-							</div>
 						</div>
 					</div>
 				</div>

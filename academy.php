@@ -463,7 +463,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 									<div class="eltdf-pi-content">
 										<div class="eltdf-pi-image-holder">
 											<div class="eltdf-pi-image-background" style="background-color: red"></div>
-											<img width="572" height="369" src="./images/IMG_20201203_163211.jpg" class="attachment-full size-full" alt="m" srcset="./images/IMG_20201203_163211.jpg 572w, ./images/IMG_20201203_163211.jpg 300w" sizes="(max-width: 572px) 100vw, 572px">
+											<img width="572" height="369" src="./images/GLI_1308.jpg" class="attachment-full size-full" alt="m" srcset="./images/GLI_1308.jpg 572w, ./images/GLI_1308.jpg 300w" sizes="(max-width: 572px) 100vw, 572px">
 										</div>
 										<div class="eltdf-pi-desc-holder">
 											<div class="eltdf-pi-desc-inner">
@@ -522,7 +522,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 									<div class="eltdf-pi-content">
 										<div class="eltdf-pi-image-holder">
 											<div class="eltdf-pi-image-background" style="background-color: #4d504a"></div>
-											<img width="572" height="369" src="./images/welcome-to-academy.jpg" class="attachment-full size-full" alt="m" srcset="./images/welcome-to-academy.jpg 572w, ./images/welcome-to-academy.jpg 300w" sizes="(max-width: 572px) 100vw, 572px">
+											<img width="572" height="369" src="./images/GLI_3027.jpg" class="attachment-full size-full" alt="m" srcset="./images/GLI_3027.jpg 572w, ./images/GLI_3027.jpg 300w" sizes="(max-width: 572px) 100vw, 572px">
 										</div>
 										<div class="eltdf-pi-desc-holder">
 											<div class="eltdf-pi-desc-inner">
