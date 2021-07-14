@@ -669,11 +669,7 @@ var wpcf7 = {"apiSettings":{"root":"https:\/\/solene.qodeinteractive.com\/wp-jso
 <!-- <script src="./assets/0fef6.js.download"></script> -->
 <script type="text/javascript" src="./assets/rbt-modules.js.download"></script>
 <script src="./assets/63c68.js.download"></script>
-<script type="text/javascript">
-/* <![CDATA[ */
-var woocommerce_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/?wc-ajax=%%endpoint%%"};
-/* ]]> */
-</script>
+
 <script src="./assets/63a69.js.download"></script>
 <script type="text/javascript">
 /* <![CDATA[ */

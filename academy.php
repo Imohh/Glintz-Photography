@@ -784,157 +784,74 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 </div>
 </div> 
 </div> 
-<footer class="eltdf-page-footer ">
-	<div class="eltdf-footer-top-holder">
-		<div class="eltdf-footer-top-inner eltdf-grid">
-			<div class="eltdf-grid-row eltdf-footer-top-alignment-center">
-				<div class="eltdf-column-content eltdf-grid-col-4">
-					<div class="widget eltdf-separator-widget">
-						<div class="eltdf-separator-holder clearfix  eltdf-separator-center eltdf-separator-normal">
-							<div class="eltdf-separator" style="border-color: #ffffff;border-style: solid;width: 1px;border-bottom-width: 1px;margin-top: 19px"></div>
-						</div>
-					</div>
-					<div id="text-3" class="widget eltdf-footer-column-1 widget_text">
-						<div class="textwidget">
-							<p><span style="font-size: 22px; font-family: Cormorant Garamond; color: #4d504a; font-weight: 400; letter-spacing: .15em;">FOLLOW US</span></p>
-						</div>
-					</div>
-					<div class="widget eltdf-social-icons-group-widget text-align-center">
-						<a class="eltdf-social-icon-widget-holder eltdf-icon-has-hover" data-hover-color="#afafa5" style="color: #84847c;;font-size: 18px;margin: -44px 0 -30px 0;" href="https://www.facebook.com/" target="_blank">
-							<img src="https://img.icons8.com/ios-glyphs/24/000000/facebook-new.png" height="20px" width="20px"/>
-						</a>
-						<a class="eltdf-social-icon-widget-holder eltdf-icon-has-hover" data-hover-color="#afafa5" style="color: #84847c;;font-size: 18px;margin: -44px 0 -30px 0;" href="https://www.instagram.com/glintz_photography/" target="_blank">
-				            <img src="https://img.icons8.com/material-outlined/24/000000/instagram-new--v1.png" height="20px" width="20px"/>
-						</a>
-						<a class="eltdf-social-icon-widget-holder eltdf-icon-has-hover" data-hover-color="#afafa5" style="color: #84847c;;font-size: 18px;margin: -44px 0 -30px 0;" href="https://twitter.com/glintzmedia " target="_blank">
-							<img src="https://img.icons8.com/ios-glyphs/30/000000/twitter.png" height="20px" width="20px"/>
-						</a>
-						<a class="eltdf-social-icon-widget-holder eltdf-icon-has-hover" data-hover-color="#afafa5" style="color: #84847c;;font-size: 18px;margin: -44px 0 -30px 0;" href="https://www.youtube.com/" target="_blank">
-							<img src="https://img.icons8.com/material-outlined/24/000000/youtube--v2.png" height="20px" width="20px"/>
-						</a>
-					</div>
-					<div id="text-4" class="widget eltdf-footer-column-1 widget_text">
-						<div class="textwidget">
-							<p><span style="font-size: 20px; font-family: Cormorant Garamond; color: #84847c; font-style: italic;"><a href="mailto:info@glintzphotography.org">info@glintzpgotography.org</a></span></p>
-						</div>
-					</div>
-				</div>
-				<div class="eltdf-column-content eltdf-grid-col-4">
-					<div class="widget eltdf-separator-widget">
-						<div class="eltdf-separator-holder clearfix  eltdf-separator-center eltdf-separator-normal">
-							<div class="eltdf-separator" style="border-color: #ffffff;border-style: solid;width: 1px;border-bottom-width: 1px;margin-top: 20px"></div>
-						</div>
-					</div>
-					<div class="widget eltdf-stamp-widget eltdf-complex-widget">
-						<div class="eltdf-stamp-holder     eltdf-stamp-appeared eltdf-appear eltdf-init eltdf-animate-stamp" style="color: #4d504a;font-size: 11px" data-appearing-delay="0">
-							<div class="eltdf-stamp-image-holder">
-								<img width="144" height="113" src="./images/glintz-logo-black.png" class="attachment-full size-full" alt="m">
+<div class="eltdf-content-bottom" style="background-color: #f4f0ed;">
+	<div class="eltdf-content-bottom-inner eltdf-full-width">
+	<div class="widget_text widget widget_custom_html">
+		<div class="textwidget custom-html-widget">
+			<div class="eltdf-full-width-inner">
+				<div class="eltdf-grid-row">
+					<div class="eltdf-page-content-holder eltdf-grid-col-12">
+						<div class="vc_row wpb_row vc_row-fluid">
+							<div class="wpb_column vc_column_container vc_col-sm-12">
+								<div class="vc_column-inner">
+									<div class="wpb_wrapper">
+										<div class="eltdf-separator-holder clearfix  eltdf-separator-center eltdf-separator-full-width">
+											<div class="eltdf-separator" style="border-color: #c9c7c1;border-style: solid;border-bottom-width: 1px;margin-bottom: -6px"></div>
+										</div>
+									</div>
+								</div>
 							</div>
-							<!-- <div class="eltdf-s-text" data-count="42">
-								<span class="eltdf-s-character" style="transform: rotate(-90deg) translateZ(0px); transition-delay: 0ms;">-</span>
-								<span class="eltdf-s-character" style="transform: rotate(-81.4286deg) translateZ(0px); transition-delay: 14.2857ms;"> </span>
-								<span class="eltdf-s-character" style="transform: rotate(-72.8571deg) translateZ(0px); transition-delay: 28.5714ms;">W</span>
-								<span class="eltdf-s-character" style="transform: rotate(-64.2857deg) translateZ(0px); transition-delay: 42.8571ms;">e</span>
-								<span class="eltdf-s-character" style="transform: rotate(-55.7143deg) translateZ(0px); transition-delay: 57.1429ms;">d</span>
-								<span class="eltdf-s-character" style="transform: rotate(-47.1429deg) translateZ(0px); transition-delay: 71.4286ms;">d</span>
-								<span class="eltdf-s-character" style="transform: rotate(-38.5714deg) translateZ(0px); transition-delay: 85.7143ms;">i</span>
-								<span class="eltdf-s-character" style="transform: rotate(-30deg) translateZ(0px); transition-delay: 100ms;">n</span>
-								<span class="eltdf-s-character" style="transform: rotate(-21.4286deg) translateZ(0px); transition-delay: 114.286ms;">g</span>
-								<span class="eltdf-s-character" style="transform: rotate(-12.8571deg) translateZ(0px); transition-delay: 128.571ms;"> </span>
-								<span class="eltdf-s-character" style="transform: rotate(-4.28571deg) translateZ(0px); transition-delay: 142.857ms;">-</span>
-								<span class="eltdf-s-character" style="transform: rotate(4.28571deg) translateZ(0px); transition-delay: 157.143ms;"> </span>
-								<span class="eltdf-s-character" style="transform: rotate(12.8571deg) translateZ(0px); transition-delay: 171.429ms;">P</span>
-								<span class="eltdf-s-character" style="transform: rotate(21.4286deg) translateZ(0px); transition-delay: 185.714ms;">h</span>
-								<span class="eltdf-s-character" style="transform: rotate(30deg) translateZ(0px); transition-delay: 200ms;">o</span>
-								<span class="eltdf-s-character" style="transform: rotate(38.5714deg) translateZ(0px); transition-delay: 214.286ms;">t</span>
-								<span class="eltdf-s-character" style="transform: rotate(47.1429deg) translateZ(0px); transition-delay: 228.571ms;">o</span>
-								<span class="eltdf-s-character" style="transform: rotate(55.7143deg) translateZ(0px); transition-delay: 242.857ms;">g</span>
-								<span class="eltdf-s-character" style="transform: rotate(64.2857deg) translateZ(0px); transition-delay: 257.143ms;">r</span>
-								<span class="eltdf-s-character" style="transform: rotate(72.8571deg) translateZ(0px); transition-delay: 271.429ms;">a</span>
-								<span class="eltdf-s-character" style="transform: rotate(81.4286deg) translateZ(0px); transition-delay: 285.714ms;">p</span>
-								<span class="eltdf-s-character" style="transform: rotate(90deg) translateZ(0px); transition-delay: 300ms;">h</span>
-								<span class="eltdf-s-character" style="transform: rotate(98.5714deg) translateZ(0px); transition-delay: 314.286ms;">y</span>
-								<span class="eltdf-s-character" style="transform: rotate(107.143deg) translateZ(0px); transition-delay: 328.571ms;"> </span>
-								<span class="eltdf-s-character" style="transform: rotate(115.714deg) translateZ(0px); transition-delay: 342.857ms;">-</span>
-								<span class="eltdf-s-character" style="transform: rotate(124.286deg) translateZ(0px); transition-delay: 357.143ms;"> </span>
-								<span class="eltdf-s-character" style="transform: rotate(132.857deg) translateZ(0px); transition-delay: 371.429ms;">s</span>
-								<span class="eltdf-s-character" style="transform: rotate(141.429deg) translateZ(0px); transition-delay: 385.714ms;">t</span>
-								<span class="eltdf-s-character" style="transform: rotate(150deg) translateZ(0px); transition-delay: 400ms;">u</span>
-								<span class="eltdf-s-character" style="transform: rotate(158.571deg) translateZ(0px); transition-delay: 414.286ms;">d</span>
-								<span class="eltdf-s-character" style="transform: rotate(167.143deg) translateZ(0px); transition-delay: 428.571ms;">i</span>
-								<span class="eltdf-s-character" style="transform: rotate(175.714deg) translateZ(0px); transition-delay: 442.857ms;">o</span>
-								<span class="eltdf-s-character" style="transform: rotate(184.286deg) translateZ(0px); transition-delay: 457.143ms;"> </span>
-								<span class="eltdf-s-character" style="transform: rotate(192.857deg) translateZ(0px); transition-delay: 471.429ms;">-</span>
-								<span class="eltdf-s-character" style="transform: rotate(201.429deg) translateZ(0px); transition-delay: 485.714ms;"> </span>
-								<span class="eltdf-s-character" style="transform: rotate(210deg) translateZ(0px); transition-delay: 500ms;">s</span>
-								<span class="eltdf-s-character" style="transform: rotate(218.571deg) translateZ(0px); transition-delay: 514.286ms;">o</span>
-								<span class="eltdf-s-character" style="transform: rotate(227.143deg) translateZ(0px); transition-delay: 528.571ms;">l</span>
-								<span class="eltdf-s-character" style="transform: rotate(235.714deg) translateZ(0px); transition-delay: 542.857ms;">e</span>
-								<span class="eltdf-s-character" style="transform: rotate(244.286deg) translateZ(0px); transition-delay: 557.143ms;">n</span>
-								<span class="eltdf-s-character" style="transform: rotate(252.857deg) translateZ(0px); transition-delay: 571.429ms;">e</span>
-							</div> -->
-							<a itemprop="url" class="eltdf-stamp-link" href="https://glintzphotography.org/" target="_self"></a>
 						</div>
-					</div>
-				</div>
-				<div class="eltdf-column-content eltdf-grid-col-4">
-					<div class="widget eltdf-separator-widget">
-						<div class="eltdf-separator-holder clearfix  eltdf-separator-center eltdf-separator-normal">
-							<div class="eltdf-separator" style="border-color: #ffffff;border-style: solid;width: 1px;border-bottom-width: 1px;margin-top: 19px"></div>
-						</div>
-					</div>
-					<div id="text-5" class="widget eltdf-footer-column-3 widget_text">
-						<div class="textwidget">
-							<p><span style="font-size: 22px; font-family: Cormorant Garamond; color: #4d504a; font-weight: 400; letter-spacing: .15em;">NEWSLETTER</span></p>
-							<p><span style="margin-top: -1px; margin-bottom: -10px; font-size: 20px; font-family: Cormorant Garamond; color: #84847c; font-style: italic;">Follow our latest stories.</span></p>
-						</div>
-					</div>
-					<div class="widget eltdf-contact-form-7-widget ">
-						<div role="form" class="wpcf7" id="wpcf7-f15-o1" lang="en-US" dir="ltr">
-							<div class="screen-reader-response"></div>
-							<form action="#" method="post" class="wpcf7-form" novalidate="novalidate">
-								<div style="display: none;">
-									<input type="hidden" name="_wpcf7" value="15">
-									<input type="hidden" name="_wpcf7_version" value="5.1.6">
-									<input type="hidden" name="_wpcf7_locale" value="en_US">
-									<input type="hidden" name="_wpcf7_unit_tag" value="wpcf7-f15-o1">
-									<input type="hidden" name="_wpcf7_container_post" value="0">
+						<div class="vc_row wpb_row vc_row-fluid eltdf-content-aligment-center">
+							<div class="wpb_column vc_column_container vc_col-sm-4">
+								<div class="vc_column-inner">
+									<div class="wpb_wrapper">
+										<h2 class="eltdf-custom-font-holder  eltdf-cf-9000  " style="font-family: Cormorant Garamond,serif;font-size: 20px;line-height: 25px;font-weight: 400;font-style: italic;letter-spacing: 0px;text-transform: capitalize;text-align: left;color: #4d504a" data-item-class="eltdf-cf-9000">
+											<a class="eltdf-cf-title-link" href="mailto:info@glintzphotography.org" target="_self" rel="noopener noreferrer">© 2021 Copyright Glintz Photography</a>
+										</h2>
+									</div>
 								</div>
-								<div class="eltdf-nl-custom-style">
-									<span class="wpcf7-form-control-wrap your-email">
-										<input type="email" name="your-email" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email" aria-required="true" aria-invalid="false" placeholder="e-mail">
-									</span>
-									<button type="submit" class="wpcf7-form-control wpcf7-submit eltdf-btn eltdf-btn-large eltdf-btn-solid">
-										<span class="eltdf-btn-text">Send</span>
-									</button>
-									<span class="ajax-loader"></span>
+							</div>
+							<div class="wpb_column vc_column_container vc_col-sm-4">
+								<div class="vc_column-inner">
+									<div class="wpb_wrapper">
+										<div class="wpb_widgetised_column wpb_content_element">
+											<div class="wpb_wrapper">
+												<a class="eltdf-social-icon-widget-holder eltdf-icon-has-hover" style="color: #84847c;;margin: 27px 0 0 0;" href="https://www.facebook.com/glintzphotography/" target="_blank" rel="noopener noreferrer">
+													<span>FB</span>
+												</a>
+												<a class="eltdf-social-icon-widget-holder eltdf-icon-has-hover" style="color: #84847c;;margin: 27px 0 0 0;" href="https://www.instagram.com/glintz_photography/" target="_blank" rel="noopener noreferrer">
+													<span>IN</span>
+												</a>
+												<a class="eltdf-social-icon-widget-holder eltdf-icon-has-hover" style="color: #84847c;;margin: 27px 0 0 0;" href="https://twitter.com/glintzmedia" target="_blank" rel="noopener noreferrer">
+													<span>TW</span>
+												</a>
+											</div>
+										</div>
+									</div>
 								</div>
-								<div class="wpcf7-response-output wpcf7-display-none"></div>
-							</form>
+							</div>
+							<div class="wpb_column vc_column_container vc_col-sm-4">
+								<div class="vc_column-inner">
+									<div class="wpb_wrapper">
+										<h2 class="eltdf-custom-font-holder  eltdf-cf-1075  " style="font-family: Cormorant Garamond,serif;font-size: 20px;line-height: 25px;font-weight: 400;font-style: italic;letter-spacing: 0px;text-transform: capitalize;text-align: right;color: #4d504a" data-item-class="eltdf-cf-1075">
+											Developed by <a class="eltdf-cf-title-link" href="https://instagram.com/oprimeng" target="_blank" rel="noopener noreferrer">Oprime Technologies</a>
+										</h2>
+									</div>
+								</div>
+							</div>
 						</div>
 					</div>
 				</div>
 			</div>
 		</div>
 	</div>
-	<div class="eltdf-footer-bottom-holder">
-		<div class="eltdf-footer-bottom-inner eltdf-grid">
-			<div class="eltdf-grid-row eltdf-footer-bottom-alignment-center">
-				<div class="eltdf-grid-col-4"></div>
-				<div class="eltdf-grid-col-4">
-					<div id="text-6" class="widget eltdf-footer-bottom-column-2 widget_text">
-						<div class="textwidget">
-							<p><span style="font-size: 18px; font-family: Cormorant Garamond; color: #4d504a; font-style: italic; font-weight: 400;">© 2021 Copyright Glintz Photography – Developed by <a href="https://instagram.com/oprime.ng" target="_blank" rel="noopener noreferrer">Oprime Technologies</a></span></p>
-						</div>
-					</div>
-				</div>
-				<div class="eltdf-grid-col-4"></div>
-			</div>
-		</div>
-	</div>
-</footer>
 </div>
 </div>
+</div>
+</div> 
+</div> 
+</div> 
 <section class="eltdf-side-menu ps ps--active-y">
 	<a class="eltdf-close-side-menu eltdf-close-side-menu-predefined" href="#">
 		<span class="eltdf-hm-label">Close</span>
@@ -943,7 +860,6 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 			<span class="eltdf-hm-line eltdf-line-2"></span>
 		</span>
 	</a>
-
 	<div class="widget eltdf-separator-widget">
 		<div class="eltdf-separator-holder clearfix  eltdf-separator-center eltdf-separator-normal">
 			<div class="eltdf-separator" style="border-style: solid;margin-top: 39px"></div>
@@ -970,10 +886,9 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 		</div>
 	</div>
 	<div class="widget eltdf-custom-font-widget">
-		<h2 class="eltdf-custom-font-holder  eltdf-cf-3828" style="font-family: Cormorant Garamond;font-size: 22px;line-height: 24px;font-weight: 300;letter-spacing: .15em;text-transform: uppercase;text-align: center;color: #ffffff;margin: 0 0 0 0" data-item-class="eltdf-cf-3828">Instagram</h2>
+		<h2 class="eltdf-custom-font-holder  eltdf-cf-5313   " style="font-family: Cormorant Garamond;font-size: 22px;line-height: 24px;font-weight: 300;letter-spacing: .15em;text-transform: uppercase;text-align: center;color: #ffffff;margin: 0 0 0 0" data-item-class="eltdf-cf-5313">Instagram </h2>
 	</div>
-	<div class="widget eltdf-custom-font-widget">
-		<h2 class="eltdf-custom-font-holder  eltdf-cf-2732   " style="font-family: Cormorant Garamond,serif;font-size: 21px;line-height: 1.772727272727273em;font-weight: 400;font-style: italic;letter-spacing: 0px;text-transform: lowercase;text-align: center;color: #afafa5;margin: 0 0 0px 0" data-item-class="eltdf-cf-2732">@ glintz_photography</h2>
+	<div class="widget eltdf-custom-font-widget"><h2 class="eltdf-custom-font-holder  eltdf-cf-1934   " style="font-family: Cormorant Garamond,serif;font-size: 21px;line-height: 1.772727272727273em;font-weight: 400;font-style: italic;letter-spacing: 0px;text-transform: lowercase;text-align: center;color: #afafa5;margin: 0 0 0px 0" data-item-class="eltdf-cf-1934">@ glintz_photography </h2>
 	</div>
 	<div class="widget eltdf-separator-widget">
 		<div class="eltdf-separator-holder clearfix  eltdf-separator-center eltdf-separator-normal">
@@ -983,28 +898,28 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 	<div id="eltdf_instagram_widget-5" class="widget eltdf-sidearea widget_eltdf_instagram_widget">
 		<ul class="eltdf-instagram-feed clearfix eltdf-col-3 eltdf-instagram-gallery eltdf-tiny-space">
 			<li>
-				<a href="https://www.instagram.com/p/CHIJQzPFVeA/" target="_blank">
-				<img src="./assets/123419765_967569203765510_1355979709489754512_n(1).jpg" alt=""> </a>
+			<a href="https://www.instagram.com/p/CPqAVaWDQZ7/" target="_blank">
+			<img src="./images/slider2.jpg" alt=""> </a>
 			</li>
 			<li>
-				<a href="https://www.instagram.com/p/CHIJOLXljFS/" target="_blank">
-				<img src="./assets/123532082_1033669507095475_5159253297320179405_n(1).jpg" alt=""> </a>
+			<a href="https://www.instagram.com/p/CPqASP0DuvG/" target="_blank">
+			<img src="./images/slider3.jpg" alt=""> </a>
 			</li>
 			<li>
-				<a href="https://www.instagram.com/p/CHIJMt5FnQn/" target="_blank">
-				<img src="./assets/123134686_372059340700020_4404525409356853774_n(1).jpg" alt=""> </a>
+			<a href="https://www.instagram.com/p/CHIJMt5FnQn/" target="_blank">
+			<img src="./images/slider4.jpg" alt=""> </a>
 			</li>
 			<li>
-				<a href="https://www.instagram.com/p/CHIJEOvFgpT/" target="_blank">
-				<img src="./assets/123288051_3380409715359391_3006139455467396831_n(1).jpg" alt=""> </a>
+			<a href="https://www.instagram.com/p/CHIJEOvFgpT/" target="_blank">
+			<img src="./images/slider5.jpg" alt=""> </a>
 			</li>
 			<li>
-				<a href="https://www.instagram.com/p/CHIJCQklRxQ/" target="_blank">
-				<img src="./assets/123592246_3485041341614119_3091980917171181489_n(1).jpg" alt=""> </a>
+			<a href="https://www.instagram.com/p/CHIJCQklRxQ/" target="_blank">
+			<img src="./images/slider6.jpg" alt=""> </a>
 			</li>
 			<li>
-				<a href="https://www.instagram.com/p/CHIJApyF1Tb/" target="_blank">
-				<img src="./assets/123278186_119770123067280_3503388356522484163_n(1).jpg" alt=""> </a>
+			<a href="https://www.instagram.com/p/CHIJApyF1Tb/" target="_blank">
+			<img src="./images/slider7.jpg" alt=""> </a>
 			</li>
 		</ul>
 	</div>
@@ -1014,7 +929,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 		</div>
 	</div>
 	<div class="widget eltdf-custom-font-widget">
-		<h2 class="eltdf-custom-font-holder  eltdf-cf-5997   " style="font-family: Cormorant Garamond;font-size: 22px;line-height: 24px;font-weight: 300;letter-spacing: .15em;text-transform: uppercase;text-align: center;color: #ffffff;margin: 0 0 0px 0" data-item-class="eltdf-cf-5997">Follow Us </h2>
+		<h2 class="eltdf-custom-font-holder  eltdf-cf-4008   " style="font-family: Cormorant Garamond;font-size: 22px;line-height: 24px;font-weight: 300;letter-spacing: .15em;text-transform: uppercase;text-align: center;color: #ffffff;margin: 0 0 0px 0" data-item-class="eltdf-cf-4008">Follow Us </h2>
 	</div>
 	<div class="widget eltdf-separator-widget">
 		<div class="eltdf-separator-holder clearfix  eltdf-separator-center eltdf-separator-normal">
@@ -1022,41 +937,41 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 		</div>
 	</div>
 	<div class="widget eltdf-social-icons-group-widget text-align-center">
-		<a class="eltdf-social-icon-widget-holder eltdf-icon-has-hover" data-hover-color="#ffffff" style="font-size: 15px" href="https://www.facebook.com/" target="_blank">
+		<a class="eltdf-social-icon-widget-holder eltdf-icon-has-hover" data-hover-color="#ffffff" style="font-size: 15px" href="https://www.facebook.com/glintzphotography/" target="_blank">
 			<img src="https://img.icons8.com/ios-glyphs/24/000000/facebook-new.png" height="20px" width="20px"/>
 		</a>
 		<a class="eltdf-social-icon-widget-holder eltdf-icon-has-hover" data-hover-color="#ffffff" style="font-size: 15px" href="https://www.instagram.com/glintz_photography/" target="_blank">
 			<img src="https://img.icons8.com/material-outlined/24/000000/instagram-new--v1.png" height="20px" width="20px"/>
 		</a>
-		<a class="eltdf-social-icon-widget-holder eltdf-icon-has-hover" data-hover-color="#ffffff" style="font-size: 15px" href="https://twitter.com/glintzmedia" target="_blank">
+		<a class="eltdf-social-icon-widget-holder eltdf-icon-has-hover" data-hover-color="#ffffff" style="font-size: 15px" href="https://twitter.com/glintzmedia " target="_blank">
 			<img src="https://img.icons8.com/ios-glyphs/30/000000/twitter.png" height="20px" width="20px"/>
 		</a>
-		<a class="eltdf-social-icon-widget-holder eltdf-icon-has-hover" data-hover-color="#ffffff" style="font-size: 15px" href="https://www.youtube.com" target="_blank">
+		<a class="eltdf-social-icon-widget-holder eltdf-icon-has-hover" data-hover-color="#ffffff" style="font-size: 15px" href="https://www.youtube.com/glintzphotography" target="_blank">
 			<img src="https://img.icons8.com/material-outlined/24/000000/youtube--v2.png" height="20px" width="20px"/>
 		</a>
+	</div>
+	<div class="widget eltdf-separator-widget">
+		<div class="eltdf-separator-holder clearfix  eltdf-separator-center eltdf-separator-normal">
+			<div class="eltdf-separator" style="border-style: solid;margin-top: 2px"></div>
 		</div>
-		<div class="widget eltdf-separator-widget">
-			<div class="eltdf-separator-holder clearfix  eltdf-separator-center eltdf-separator-normal">
-				<div class="eltdf-separator" style="border-style: solid;margin-top: 2px"></div>
-			</div>
+	</div>
+	<div class="widget eltdf-custom-font-widget">
+		<h2 class="eltdf-custom-font-holder  eltdf-cf-5740   " style="font-family: Cormorant Garamond,serif;font-size: 21px;line-height: 1.772727272727273em;font-weight: 400;font-style: italic;letter-spacing: 0px;text-transform: capitalize;text-align: center;color: #afafa5" data-item-class="eltdf-cf-5740">
+			<a class="eltdf-cf-title-link" href="mailto:info@glintzphotography.org" target="_self">info@glintzphotography.org </a>
+		</h2>
+	</div>
+	<div class="widget eltdf-separator-widget">
+		<div class="eltdf-separator-holder clearfix  eltdf-separator-center eltdf-separator-normal">
+			<div class="eltdf-separator" style="border-style: solid;margin-top: 3px"></div>
 		</div>
-		<div class="widget eltdf-custom-font-widget">
-			<h2 class="eltdf-custom-font-holder  eltdf-cf-2194   " style="font-family: Cormorant Garamond,serif;font-size: 21px;line-height: 1.772727272727273em;font-weight: 400;font-style: italic;letter-spacing: 0px;text-transform: capitalize;text-align: center;color: #afafa5" data-item-class="eltdf-cf-2194">
-				<a class="eltdf-cf-title-link" href="mailto:info@glintzphotography.org" target="_self">info@glintzphotography.org </a>
-			</h2>
-		</div>
-		<div class="widget eltdf-separator-widget">
-			<div class="eltdf-separator-holder clearfix  eltdf-separator-center eltdf-separator-normal">
-				<div class="eltdf-separator" style="border-style: solid;margin-top: 3px"></div>
-			</div>
-		</div>
-		<div class="ps__rail-x" style="left: 0px; bottom: 0px;">
-			<div class="ps__thumb-x" tabindex="0" style="left: 0px; width: 0px;"></div>
-		</div>
-		<div class="ps__rail-y" style="top: 0px; height: 600px; right: 0px;">
-			<div class="ps__thumb-y" tabindex="0" style="top: 0px; height: 351px;"></div>
-		</div>
-	</section>
+	</div>
+	<div class="ps__rail-x" style="left: 0px; bottom: 0px;">
+		<div class="ps__thumb-x" tabindex="0" style="left: 0px; width: 0px;"></div>
+	</div>
+	<div class="ps__rail-y" style="top: 0px; height: 600px; right: 0px;">
+		<div class="ps__thumb-y" tabindex="0" style="top: 0px; height: 351px;"></div>
+	</div>
+</section>
 
 <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KLJLSX7"
 height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
