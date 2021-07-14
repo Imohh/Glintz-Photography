@@ -418,7 +418,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 </a>
 <div class="eltdf-content">
 <div class="eltdf-content-inner">
-<div class="eltdf-title-holder eltdf-standard-with-breadcrumbs-type eltdf-title-va-header-bottom eltdf-has-bg-image eltdf-bg-parallax" style="height: 107px; background-image: url(&quot;https://solene.qodeinteractive.com/wp-content/uploads/2020/01/port-title-img-1-parallax.jpg&quot;); background-position: center 0px;" data-height="107">
+<div class="eltdf-title-holder eltdf-standard-with-breadcrumbs-type eltdf-title-va-header-bottom eltdf-has-bg-image eltdf-bg-parallax" style="height: 107px; background-image: url(&quot;images/header.jpg&quot;); background-position: center 0px;" data-height="107">
 <div class="eltdf-title-image">
 <img itemprop="image" src="./assets/port-title-img-1-parallax.jpg" alt="m">
 </div>
