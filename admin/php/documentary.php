@@ -1,4 +1,4 @@
- <h2>Add pictures to Weddings section</h2>
+ <h2>Add pictures to Documentary section</h2>
          <?php
          if(isset($_GET['msg'])){
              

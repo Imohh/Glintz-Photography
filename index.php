@@ -1272,6 +1272,9 @@ ceremonies </h6>
                             <div class="eltdf-cc-item eltdf-item-space eltdf-cci-has-link">
                               <img itemprop="image" class="eltdf-cc-image" src="./images/ekiti-logo.png" alt="d" style="width: 50%;">
                             </div>
+                            <div class="eltdf-cc-item eltdf-item-space eltdf-cci-has-link">
+                              <img itemprop="image" class="eltdf-cc-image" src="./images/OLD LAGOS BLACK.png" alt="d" >
+                            </div>
                           </div>
                         </div>
                       </div>
@@ -1973,7 +1976,7 @@ Alienum phaedrum torquatos </span>
                                                             <div class="eltdf-eh-item-content eltdf-eh-custom-5857" style="padding: 2.5% 16% 6.2%">
                                                                 <div role="form" class="wpcf7" id="wpcf7-f13-p17-o1" lang="en-US" dir="ltr">
                                                                     <div class="screen-reader-response"></div>
-                                                                        <form action="contact_process.php" method="post" role="form" class="wpcf7-form" novalidate="novalidate">
+                                                                        <form action="include/message.php" method="post" role="form" class="wpcf7-form" novalidate="novalidate">
                                                                             <div style="display: none;">
                                                                                 <input type="hidden" name="_wpcf7" value="13">
                                                                                 <input type="hidden" name="_wpcf7_version" value="5.1.6">
