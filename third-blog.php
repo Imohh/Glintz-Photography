@@ -434,41 +434,28 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 </div>
 </div>
 </div>
+
+
 <div class="eltdf-container">
 <div class="eltdf-container-inner clearfix">
 <div class="eltdf-portfolio-single-holder eltdf-ps-gallery-layout">
 <div class="eltdf-ps-image-holder eltdf-ps-gallery-images eltdf-grid-list eltdf-disable-bottom-space  eltdf-three-columns eltdf-tiny-space">
 <div class="eltdf-ps-image-inner eltdf-outer-space">
+    <?php
+        $query5 = "SELECT * FROM works";
+        $runquery5= mysqli_query($db,$query5);
+        while($data5=mysqli_fetch_array($runquery5)){
+    ?>
 <div class="eltdf-ps-image eltdf-item-space">
-<a itemprop="image" title="port-single-img-1" data-rel="prettyPhoto[single_pretty_photo]" href="./assets/port-single-img-1.jpg">
-<img itemprop="image" src="./assets/port-single-img-1.jpg" alt="m">
+
+<a itemprop="image" data-rel="prettyPhoto[single_pretty_photo]" href="./assets/img/<?=$data5['projectpic']?>">
+<img itemprop="image" src="./assets/img/<?=$data5['projectpic']?>" alt="m">
 </a>
 </div>
-<div class="eltdf-ps-image eltdf-item-space">
-<a itemprop="image" title="port-single-img-2" data-rel="prettyPhoto[single_pretty_photo]" href="./assets/port-single-img-2.jpg">
-<img itemprop="image" src="./assets/port-single-img-2.jpg" alt="m">
-</a>
-</div>
-<div class="eltdf-ps-image eltdf-item-space">
-<a itemprop="image" title="port-single-img-3" data-rel="prettyPhoto[single_pretty_photo]" href="./assets/port-single-img-3.jpg">
-<img itemprop="image" src="./assets/port-single-img-3.jpg" alt="m">
-</a>
-</div>
-<div class="eltdf-ps-image eltdf-item-space">
-<a itemprop="image" title="port-single-img-19" data-rel="prettyPhoto[single_pretty_photo]" href="./assets/port-single-img-19.jpg">
-<img itemprop="image" src="./assets/port-single-img-19.jpg" alt="m">
-</a>
-</div>
-<div class="eltdf-ps-image eltdf-item-space">
-<a itemprop="image" title="port-single-img-4" data-rel="prettyPhoto[single_pretty_photo]" href="./assets/port-single-img-4.jpg">
-<img itemprop="image" src="./assets/port-single-img-4.jpg" alt="m">
-</a>
-</div>
-<div class="eltdf-ps-image eltdf-item-space">
-<a itemprop="image" title="port-single-img-5" data-rel="prettyPhoto[single_pretty_photo]" href="./assets/port-single-img-5.jpg">
-<img itemprop="image" src="./assets/port-single-img-5.jpg" alt="m">
-</a>
-</div>
+<?php
+    }
+?>
+
 </div>
 </div>
 
@@ -491,7 +478,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                                       while($data5=mysqli_fetch_array($queryrun5)){
                                     ?>
                                     <h2 class="eltdf-st-title" style="color: #4d504a">
-                                        <?=$data5['campaignstwos'];?>
+                                        <?=$data5['campaignsfours'];?>
                                     </h2>
                                     <!-- <h3 class="eltdf-st-subtitle" style="text-transform: none;font-style: italic;color: #84847c">
                                         <span>Michelle &amp; Marce, July 8, 2018 </span>
@@ -511,7 +498,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                         <div class="wpb_wrapper">
                             <div class="wpb_text_column wpb_content_element ">
                                 <div class="wpb_wrapper">
-                                    <p style="text-align: center;"><?=$data5['campaignstwo'];?></p>
+                                    <p style="text-align: center;"><?=$data5['campaignsfour'];?></p>
                                 </div>
                                 <?php
                                     }
