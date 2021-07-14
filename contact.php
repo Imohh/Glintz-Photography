@@ -296,7 +296,7 @@
 																				<div class="eltdf-st-inner">
 																					<h1 class="eltdf-st-title" style="color: #4d504a">get in Touch </h1>
 																					<h3 class="eltdf-st-subtitle" style="text-transform: none;font-style: italic;color: #84847c">
-																						<span>Alienum phaedrum torquatos neceu </span>
+																						<!-- <span>Alienum phaedrum torquatos neceu </span> -->
 																					</h3>
 																				</div>
 																			</div>
@@ -318,53 +318,45 @@
 																		<div class="wpb_wrapper">
 																			<div role="form" class="wpcf7" id="wpcf7-f13-p1792-o1" lang="en-US" dir="ltr">
 																				<div class="screen-reader-response"></div>
-																				<form action="contact_process" method="post" class="wpcf7-form" novalidate="novalidate">
-																				<div style="display: none;">
-																					<input type="hidden" name="_wpcf7" value="13">
-																					<input type="hidden" name="_wpcf7_version" value="5.1.6">
-																					<input type="hidden" name="_wpcf7_locale" value="en_US">
-																					<input type="hidden" name="_wpcf7_unit_tag" value="wpcf7-f13-p1792-o1">
-																					<input type="hidden" name="_wpcf7_container_post" value="1792">
-																				</div>
-																				<div class="eltdf-custom-cf">
-																					<div class="eltdf-grid-list eltdf-two-columns eltdf-normal-space clearfix">
-																						<div class="eltdf-outer-space">
-																							<div class="eltdf-item-space">
-																								<span class="wpcf7-form-control-wrap your-name">
-																									<input type="text" name="name" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" aria-required="true" aria-invalid="false" placeholder="name">
-																								</span>
-																							</div>
-																							<div class="eltdf-item-space">
-																								<span class="wpcf7-form-control-wrap your-email">
-																									<input type="email" name="email" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email" aria-required="true" aria-invalid="false" placeholder="e-mail">
-																								</span>
-																							</div>
-																							<div class="eltdf-item-space">
-																								<span class="wpcf7-form-control-wrap your-date">
-																									<input type="text" name="subject" value="" size="80" class="wpcf7-form-control wpcf7-text" aria-invalid="false" placeholder="Subject">
-																								</span>
-																							</div>
-																							<!-- <div class="eltdf-item-space">
-																								<span class="wpcf7-form-control-wrap your-address">
-																									<input type="text" name="your-address" value="" size="40" class="wpcf7-form-control wpcf7-text" aria-invalid="false" placeholder="wedding address">
-																								</span>
-																							</div> -->
-																						</div>
-																					</div>
-																					<p>
-																						<span class="wpcf7-form-control-wrap your-message">
-																							<textarea name="message" cols="40" rows="6" class="wpcf7-form-control wpcf7-textarea" aria-invalid="false" placeholder="tell us more"></textarea>
-																						</span>
-																					</p>
-																					<p>
-																						<button type="submit" class="wpcf7-form-control wpcf7-submit eltdf-btn eltdf-btn-large eltdf-btn-solid">
-																							<span class="eltdf-btn-text">Send</span>
-																						</button>
-																						<span class="ajax-loader"></span>
-																					</p>
-																				</div>
-																				<div class="wpcf7-response-output wpcf7-display-none"></div>
-																			</form>
+																					<form action="include/message.php" method="post" role="form" class="wpcf7-form" novalidate="novalidate">
+			                                                                            <div style="display: none;">
+			                                                                                <input type="hidden" name="_wpcf7" value="13">
+			                                                                                <input type="hidden" name="_wpcf7_version" value="5.1.6">
+			                                                                                <input type="hidden" name="_wpcf7_locale" value="en_US">
+			                                                                                <input type="hidden" name="_wpcf7_unit_tag" value="wpcf7-f13-p17-o1">
+			                                                                                <input type="hidden" name="_wpcf7_container_post" value="17">
+			                                                                            </div>
+			                                                                            <div class="eltdf-custom-cf">
+			                                                                                <div class="eltdf-grid-list eltdf-two-columns eltdf-normal-space clearfix">
+			                                                                                    <div class="eltdf-outer-space">
+			                                                                                        <div class="eltdf-item-space">
+			                                                                                            <span class="wpcf7-form-control-wrap your-name">
+			                                                                                                <input type="text" name="name" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" aria-required="true" aria-invalid="false" placeholder="full name">
+			                                                                                            </span>
+			                                                                                        </div>
+			                                                                                        <div class="eltdf-item-space">
+			                                                                                            <span class="wpcf7-form-control-wrap your-email">
+			                                                                                                <input type="email" name="email" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email" aria-required="true" aria-invalid="false" placeholder="e-mail">
+			                                                                                            </span>
+			                                                                                        </div>
+			                                                                                         <div class="eltdf-item-space">
+			                                                                                            <span class="wpcf7-form-control-wrap your-date">
+			                                                                                                <input type="text" name="subject" value="" size="40" class="wpcf7-form-control wpcf7-text" aria-invalid="false" placeholder="Subject">
+			                                                                                            </span>
+			                                                                                         </div>
+			                                                                                    </div>
+			                                                                                </div>
+			                                                                                <p><span class="wpcf7-form-control-wrap your-message">
+			                                                                                    <textarea name="message" cols="40" rows="6" class="wpcf7-form-control wpcf7-textarea" aria-invalid="false" placeholder="tell us more"></textarea></span>
+			                                                                                </p>
+			                                                                                <p>
+			                                                                                    <button type="submit" class="wpcf7-form-control wpcf7-submit eltdf-btn eltdf-btn-large eltdf-btn-solid"><span class="eltdf-btn-text">Send</span></button><span class="ajax-loader"></span><br>
+
+			                                                                                    <p><a href="">view our Price List</a></p>
+			                                                                                </p>
+			                                                                            </div>
+			                                                                            <div class="wpcf7-response-output wpcf7-display-none"></div>
+			                                                                        </form>
 																		</div>
 																	</div>
 																</div>
