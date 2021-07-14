@@ -11,3 +11,6 @@ $run = mysqli_query($db,$query);
 if($run){
     echo 'Your message has been sent. Thank you!';
 }
+
+header("Location: ../index.php");
+exit();

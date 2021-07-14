@@ -28,10 +28,8 @@ $data = mysqli_fetch_array($runquery);
 <link rel="dns-prefetch" href="https://maps.googleapis.com/">
 <link rel="dns-prefetch" href="https://fonts.googleapis.com/">
 <link rel="dns-prefetch" href="https://s.w.org/">
-<link rel="alternate" type="application/rss+xml" title="Solene » Feed" href="https://solene.qodeinteractive.com/feed/">
-<link rel="alternate" type="application/rss+xml" title="Solene » Comments Feed" href="https://solene.qodeinteractive.com/comments/feed/">
 <script type="text/javascript">
-			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/solene.qodeinteractive.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.3.6"}};
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.3.6"}};
 			!function(e,a,t){var r,n,o,i,p=a.createElement("canvas"),s=p.getContext&&p.getContext("2d");function c(e,t){var a=String.fromCharCode;s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,e),0,0);var r=p.toDataURL();return s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,t),0,0),r===p.toDataURL()}function l(e){if(!s||!s.fillText)return!1;switch(s.textBaseline="top",s.font="600 32px Arial",e){case"flag":return!c([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])&&(!c([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!c([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]));case"emoji":return!c([55357,56424,55356,57342,8205,55358,56605,8205,55357,56424,55356,57340],[55357,56424,55356,57342,8203,55358,56605,8203,55357,56424,55356,57340])}return!1}function d(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(i=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},o=0;o<i.length;o++)t.supports[i[o]]=l(i[o]),t.supports.everything=t.supports.everything&&t.supports[i[o]],"flag"!==i[o]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[i[o]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(r=t.source||{}).concatemoji?d(r.concatemoji):r.wpemoji&&r.twemoji&&(d(r.twemoji),d(r.wpemoji)))}(window,document,window._wpemojiSettings); var _Hasync= _Hasync|| [];_Hasync.push(['Histats.start', '1,4524396,4,0,0,0,00010000']);_Hasync.push(['Histats.fasi', '1']);_Hasync.push(['Histats.track_hits', '']);(function() {var hs = document.createElement('script'); hs.type = 'text/javascript'; hs.async = true;hs.src = ('//s10.histats.com/js15_as.js');(document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(hs);})();
 		</script><script src="./Solene – Wedding Photography Theme_files/wp-emoji-release.min.js.download" type="text/javascript" defer=""></script><script type="text/javascript" async="" src="./Solene – Wedding Photography Theme_files/js15_as.js.download"></script>
 <style type="text/css">
@@ -252,13 +250,8 @@ rs-sbg-px:after {
 <link rel="stylesheet" id="solene-elated-google-fonts-css" href="./Solene – Wedding Photography Theme_files/css" type="text/css" media="all">
 <link rel="stylesheet" href="./Solene – Wedding Photography Theme_files/36f66.css" media="all">
 <script src="./Solene – Wedding Photography Theme_files/2044c.js.download"></script>
-<script type="text/javascript">
-/* <![CDATA[ */
-var wc_add_to_cart_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/?wc-ajax=%%endpoint%%","i18n_view_cart":"View cart","cart_url":"https:\/\/solene.qodeinteractive.com\/cart\/","is_cart":"","cart_redirect_after_add":"no"};
-/* ]]> */
-</script>
+
 <script src="./Solene – Wedding Photography Theme_files/f1253.js.download"></script>
-<link rel="https://api.w.org/" href="https://solene.qodeinteractive.com/wp-json/">
 <meta name="generator" content="WordPress 5.3.6">
 <meta name="generator" content="WooCommerce 3.9.1">
 <link rel="alternate" type="application/json+oembed" href="">
@@ -443,7 +436,7 @@ rs-fullwidth-wrap .eltdf-social-icon-widget-holder:after {
 <div class="eltdf-position-right"><div class="eltdf-position-right-inner">
 <div class="eltdf-shopping-cart-holder" style="margin: 0 21px 0 0">
 		<div class="eltdf-shopping-cart-inner">
-			<a itemprop="url" class="eltdf-header-cart eltdf-header-cart-predefined" href="https://solene.qodeinteractive.com/cart/">
+			<a itemprop="url" class="eltdf-header-cart eltdf-header-cart-predefined" href="#">
 
 </a><div class="eltdf-sc-dropdown">
 	<div class="eltdf-sc-dropdown-inner">
@@ -472,7 +465,7 @@ rs-fullwidth-wrap .eltdf-social-icon-widget-holder:after {
       <div class="eltdf-position-left">
         <div class="eltdf-position-left-inner">
           <div class="eltdf-logo-wrapper">
-            <a itemprop="url" href="https://solene.qodeinteractive.com/" style="height: 62px;">
+            <a itemprop="url" href="#" style="height: 62px;">
             <img itemprop="image" class="eltdf-normal-logo" src="./images/glintz-logo-black.png" width="219" height="124" alt="logo">
             <img itemprop="image" class="eltdf-dark-logo" src="./images/glintz-logo-black.png" width="180" height="163" alt="dark logo">
             <img itemprop="image" class="eltdf-light-logo" src="./images/glintz-logo-black.png" width="180" height="178" alt="light logo"> </a>
@@ -537,7 +530,7 @@ rs-fullwidth-wrap .eltdf-social-icon-widget-holder:after {
         <div class="eltdf-position-right-inner">
           <div class="eltdf-shopping-cart-holder" style="margin: 0 21px 0 0">
 		        <div class="eltdf-shopping-cart-inner">
-              <a itemprop="url" class="eltdf-header-cart eltdf-header-cart-predefined" href="https://solene.qodeinteractive.com/cart/"></a>
+              <a itemprop="url" class="eltdf-header-cart eltdf-header-cart-predefined" href="#"></a>
               <div class="eltdf-sc-dropdown">
                 <div class="eltdf-sc-dropdown-inner">
 		              <p class="eltdf-empty-cart">No products in the cart.</p>
@@ -582,7 +575,7 @@ rs-fullwidth-wrap .eltdf-social-icon-widget-holder:after {
                         <div class="eltdf-position-right-inner">
                             <div class="eltdf-shopping-cart-holder">
                             	<div class="eltdf-shopping-cart-inner">
-                                    <a itemprop="url" class="eltdf-header-cart eltdf-header-cart-predefined" href="https://solene.qodeinteractive.com/cart/"></a>
+                                    <a itemprop="url" class="eltdf-header-cart eltdf-header-cart-predefined" href="#"></a>
                                     <div class="eltdf-sc-dropdown">
                                         <div class="eltdf-sc-dropdown-inner">
                             		        <p class="eltdf-empty-cart">No products in the cart.</p>
@@ -1500,7 +1493,7 @@ ceremonies </h6>
                 <div class="vc_empty_space" style="height: 42px">
                   <span class="vc_empty_space_inner"></span>
                 </div>
-                <!-- <a itemprop="url" href="https://solene.qodeinteractive.com/four-columns-wide/" target="_self" style="color: #ffffff;border-color: rgba(255,255,255,0.6)" class="eltdf-btn eltdf-btn-large eltdf-btn-outline eltdf-btn-custom-hover-color" data-hover-color="#ffffff">
+                <!-- <a itemprop="url" href="#" target="_self" style="color: #ffffff;border-color: rgba(255,255,255,0.6)" class="eltdf-btn eltdf-btn-large eltdf-btn-outline eltdf-btn-custom-hover-color" data-hover-color="#ffffff">
                   <span class="eltdf-btn-outline-horizontal-lines" style="color: #ffffff"></span>
                   <span class="eltdf-btn-outline-vertical-lines" style="color: #ffffff"></span>
                   <span class="eltdf-btn-text">Read more</span>
@@ -1709,7 +1702,7 @@ Alienum phaedrum torquatos </span>
 </ul>
 </li>
 <li class="eltdf-pt-button">
-<a itemprop="url" href="https://solene.qodeinteractive.com/#" target="_self" class="eltdf-btn eltdf-btn-large eltdf-btn-solid"> <span class="eltdf-btn-text">SEND</span> </a> </li>
+<a itemprop="url" href="#" target="_self" class="eltdf-btn eltdf-btn-large eltdf-btn-solid"> <span class="eltdf-btn-text">SEND</span> </a> </li>
 </ul>
 </div>
 </div><div class="eltdf-price-table eltdf-item-space  eltdf-pt-active-item">
@@ -1732,7 +1725,7 @@ Alienum phaedrum torquatos </span>
 </ul>
 </li>
 <li class="eltdf-pt-button">
-<a itemprop="url" href="https://solene.qodeinteractive.com/#" target="_self" class="eltdf-btn eltdf-btn-large eltdf-btn-outline"> <span class="eltdf-btn-outline-horizontal-lines"></span> <span class="eltdf-btn-outline-vertical-lines"></span> <span class="eltdf-btn-text">SEND</span> </a> </li>
+<a itemprop="url" href="#" target="_self" class="eltdf-btn eltdf-btn-large eltdf-btn-outline"> <span class="eltdf-btn-outline-horizontal-lines"></span> <span class="eltdf-btn-outline-vertical-lines"></span> <span class="eltdf-btn-text">SEND</span> </a> </li>
 </ul>
 </div>
 </div><div class="eltdf-price-table eltdf-item-space  ">
@@ -1755,7 +1748,7 @@ Alienum phaedrum torquatos </span>
 </ul>
 </li>
 <li class="eltdf-pt-button">
-<a itemprop="url" href="https://solene.qodeinteractive.com/#" target="_self" class="eltdf-btn eltdf-btn-large eltdf-btn-solid"> <span class="eltdf-btn-text">SEND</span> </a> </li>
+<a itemprop="url" href="#" target="_self" class="eltdf-btn eltdf-btn-large eltdf-btn-solid"> <span class="eltdf-btn-text">SEND</span> </a> </li>
 </ul>
 </div>
 </div></div></div></div></div></div></div></div></div> -->
@@ -2015,6 +2008,35 @@ Alienum phaedrum torquatos </span>
                                                                             </div>
                                                                             <div class="wpcf7-response-output wpcf7-display-none"></div>
                                                                         </form>
+                                                                        <!-- <form action="include/message.php" method="post" role="form" class="php-email-form">
+                            <div class="form-row">
+                                <div class="form-group col-md-6">
+                                    <label for="name">Your Name</label>
+                                    <input type="text" name="name" class="form-control" id="name" data-rule="minlen:4" data-msg="Please enter at least 4 chars" />
+                                    <div class="validate"></div>
+                                </div>
+                                <div class="form-group col-md-6">
+                                    <label for="name">Your Email</label>
+                                    <input type="email" class="form-control" name="email" id="email" data-rule="email" data-msg="Please enter a valid email" />
+                                    <div class="validate"></div>
+                                </div>
+                            </div>
+                            <div class="form-group">
+                                <label for="name">Subject</label>
+                                <input type="text" class="form-control" name="subject" id="subject" data-rule="minlen:4" data-msg="Please enter at least 8 chars of subject" />
+                                <div class="validate"></div>
+                            </div>
+                            <div class="form-group">
+                                <label for="name">Message</label>
+                                <textarea class="form-control" name="message" id="message" rows="10" data-rule="required" data-msg="Please write something for us"></textarea>
+                                <div class="validate"></div>
+                            </div>
+                            <div class="mb-3">
+                                <div class="bg-success error-message"></div>
+                                <div class="sent-message"></div>
+                            </div>
+                            <div class="text-center"><button type="submit">Send Message</button></div>
+                        </form> -->
                                                                     </div>
                                                                 </div>
                                                             </div>
@@ -2383,11 +2405,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 			}
 		}
 		</script>
-<script type="text/javascript">
-/* <![CDATA[ */
-var wpcf7 = {"apiSettings":{"root":"https:\/\/solene.qodeinteractive.com\/wp-json\/contact-form-7\/v1","namespace":"contact-form-7\/v1"},"cached":"1"};
-/* ]]> */
-</script>
+
 <script src="./Solene – Wedding Photography Theme_files/0fef6.js.download"></script>
 <script type="text/javascript" src="./Solene – Wedding Photography Theme_files/rbt-modules.js.download"></script>
 <script src="./Solene – Wedding Photography Theme_files/63c68.js.download"></script>
@@ -2416,7 +2434,7 @@ var _wpmejsSettings = {"pluginPath":"\/wp-includes\/js\/mediaelement\/","classPr
 <script type="text/javascript" src="./Solene – Wedding Photography Theme_files/js"></script>
 <script type="text/javascript">
 /* <![CDATA[ */
-var eltdfGlobalVars = {"vars":{"eltdfAddForAdminBar":0,"eltdfElementAppearAmount":-50,"eltdfAjaxUrl":"https:\/\/solene.qodeinteractive.com\/wp-admin\/admin-ajax.php","sliderNavPrevArrow":"<svg xmlns=\"http:\/\/www.w3.org\/2000\/svg\" xmlns:xlink=\"http:\/\/www.w3.org\/1999\/xlink\" x=\"0px\" y=\"0px\"\n\t\t\t\t\t width=\"45.479px\" height=\"15.292px\" viewBox=\"0 4.375 45.479 15.292\" enable-background=\"new 0 4.375 45.479 15.292\"\n\t\t\t\t\t xml:space=\"preserve\">\n\t\t\t\t<line fill=\"none\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" x1=\"44.639\" y1=\"12\" x2=\"0.639\" y2=\"12\"\/>\n\t\t\t\t<line fill=\"none\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" x1=\"0.639\" y1=\"12\" x2=\"44.639\" y2=\"12\"\/>\n\t\t\t\t<polyline fill=\"none\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" points=\"7.639,19 0.639,12 7.639,5 \"\/>\n\t\t\t\t<\/svg>","sliderNavNextArrow":"<svg xmlns=\"http:\/\/www.w3.org\/2000\/svg\" xmlns:xlink=\"http:\/\/www.w3.org\/1999\/xlink\" x=\"0px\" y=\"0px\"\n\t\t\t\t\t width=\"45.479px\" height=\"15.292px\" viewBox=\"0 4.375 45.479 15.292\" enable-background=\"new 0 4.375 45.479 15.292\"\n\t\t\t\t\t xml:space=\"preserve\">\n\t\t\t\t<line fill=\"none\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" x1=\"0.639\" y1=\"12\" x2=\"44.639\" y2=\"12\"\/>\n\t\t\t\t<line fill=\"none\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" x1=\"0.639\" y1=\"12\" x2=\"44.639\" y2=\"12\"\/>\n\t\t\t\t<polyline fill=\"none\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" points=\"37.639,5 44.639,12 37.639,19 \"\/>\n\t\t\t\t<\/svg>","ppExpand":"Expand the image","ppNext":"Next","ppPrev":"Previous","ppClose":"Close","eltdfStickyHeaderHeight":0,"eltdfStickyHeaderTransparencyHeight":100,"eltdfTopBarHeight":0,"eltdfLogoAreaHeight":0,"eltdfMenuAreaHeight":130,"eltdfMobileHeaderHeight":70}};
+var eltdfGlobalVars = {"vars":{"eltdfAddForAdminBar":0,"eltdfElementAppearAmount":-50,"eltdfAjaxUrl":"https:\/\/wp-admin\/admin-ajax.php","sliderNavPrevArrow":"<svg xmlns=\"http:\/\/www.w3.org\/2000\/svg\" xmlns:xlink=\"http:\/\/www.w3.org\/1999\/xlink\" x=\"0px\" y=\"0px\"\n\t\t\t\t\t width=\"45.479px\" height=\"15.292px\" viewBox=\"0 4.375 45.479 15.292\" enable-background=\"new 0 4.375 45.479 15.292\"\n\t\t\t\t\t xml:space=\"preserve\">\n\t\t\t\t<line fill=\"none\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" x1=\"44.639\" y1=\"12\" x2=\"0.639\" y2=\"12\"\/>\n\t\t\t\t<line fill=\"none\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" x1=\"0.639\" y1=\"12\" x2=\"44.639\" y2=\"12\"\/>\n\t\t\t\t<polyline fill=\"none\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" points=\"7.639,19 0.639,12 7.639,5 \"\/>\n\t\t\t\t<\/svg>","sliderNavNextArrow":"<svg xmlns=\"http:\/\/www.w3.org\/2000\/svg\" xmlns:xlink=\"http:\/\/www.w3.org\/1999\/xlink\" x=\"0px\" y=\"0px\"\n\t\t\t\t\t width=\"45.479px\" height=\"15.292px\" viewBox=\"0 4.375 45.479 15.292\" enable-background=\"new 0 4.375 45.479 15.292\"\n\t\t\t\t\t xml:space=\"preserve\">\n\t\t\t\t<line fill=\"none\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" x1=\"0.639\" y1=\"12\" x2=\"44.639\" y2=\"12\"\/>\n\t\t\t\t<line fill=\"none\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" x1=\"0.639\" y1=\"12\" x2=\"44.639\" y2=\"12\"\/>\n\t\t\t\t<polyline fill=\"none\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" points=\"37.639,5 44.639,12 37.639,19 \"\/>\n\t\t\t\t<\/svg>","ppExpand":"Expand the image","ppNext":"Next","ppPrev":"Previous","ppClose":"Close","eltdfStickyHeaderHeight":0,"eltdfStickyHeaderTransparencyHeight":100,"eltdfTopBarHeight":0,"eltdfLogoAreaHeight":0,"eltdfMenuAreaHeight":130,"eltdfMobileHeaderHeight":70}};
 var eltdfPerPageVars = {"vars":{"eltdfMobileHeaderHeight":70,"eltdfStickyScrollAmount":1300,"eltdfHeaderTransparencyHeight":0,"eltdfHeaderVerticalWidth":0}};
 /* ]]> */
 </script>
