@@ -97,6 +97,12 @@ $data=mysqli_fetch_array($queryrun);
             </a>
           </li>
           <li class="nav-item">
+            <a class="nav-link" href="?editwork=true">
+              <span data-feather="archive"></span>
+              Edit Forth Blog
+            </a>
+          </li>
+          <li class="nav-item">
             <a class="nav-link" href="?editevents=true">
               <span data-feather="archive"></span>
               Events
