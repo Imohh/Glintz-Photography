@@ -97,7 +97,7 @@ $data=mysqli_fetch_array($queryrun);
             </a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="?editwork=true">
+            <a class="nav-link" href="?editforthblog=true">
               <span data-feather="archive"></span>
               Edit Forth Blog
             </a>
@@ -178,6 +178,8 @@ $data=mysqli_fetch_array($queryrun);
       include('php/wedding.php');
      }else if(isset($_GET['editprojects'])){
       include('php/projects.php');
+     }else if(isset($_GET['editforthblog'])){
+      include('php/forthblog.php');
     
      }else if(isset($_GET['editprofile'])){ ?>
         <h2>Edit Profile</h2>

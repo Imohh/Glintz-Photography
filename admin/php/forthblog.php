@@ -31,8 +31,8 @@
          <div class="form-row">
              <div class="form-group col-md-12">
     <label for="scrapbook_head">New Section Header</label>
-    <input type="text" name="campaignstwos" class="form-control" id="campaignstwos" value="<?=$data5['campaignsfives']?>" placeholder="header"><br>
-    <textarea class="form-control" name="campaignstwo" id="campaignstwo" rows="5" ><?=$data5['campaignsfive']?></textarea>
+    <input type="text" name="campaignsfives" class="form-control" id="campaignsfives" value="<?=$data5['campaignsfives']?>" placeholder="header"><br>
+    <textarea class="form-control" name="campaignsfive" id="campaignsfive" rows="5" ><?=$data5['campaignsfive']?></textarea>
   </div>
         
         

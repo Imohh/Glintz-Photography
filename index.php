@@ -1451,11 +1451,11 @@ ceremonies </h6>
                         while($data5=mysqli_fetch_array($queryrun5)){
                     ?>
                     <h3 itemprop="name" class="entry-title eltdf-post-title">
-                      <a itemprop="url" href="#"><?=$data5['campaignsfours'];?></a>
+                      <a itemprop="url" href="#"><?=$data5['campaignsfives'];?></a>
                     </h3>
                     <div class="eltdf-bli-excerpt">
                       <div class="eltdf-post-excerpt-holder">
-                        <p itemprop="description" class="eltdf-post-excerpt" title="<?=$data5['campaignsfour']?>"><?php echo substr($data5['campaignsfour'], 0, 70) . "..."; ?></p>
+                        <p itemprop="description" class="eltdf-post-excerpt" title="<?=$data5['campaignsfour']?>"><?php echo substr($data5['campaignsfive'], 0, 70) . "..."; ?></p>
                       </div>
                       <?php
                             }
@@ -1472,7 +1472,7 @@ ceremonies </h6>
                   <div class="eltdf-bli-inner">
                     <div class="eltdf-post-image">
                         <?php
-                            $query5 = "SELECT * FROM works limit 1";
+                            $query5 = "SELECT * FROM forthblog limit 1";
                             $runquery5= mysqli_query($db,$query5);
                             while($data5=mysqli_fetch_array($runquery5)){
                         ?>
