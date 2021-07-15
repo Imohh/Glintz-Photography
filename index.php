@@ -1451,11 +1451,11 @@ ceremonies </h6>
                         while($data5=mysqli_fetch_array($queryrun5)){
                     ?>
                     <h3 itemprop="name" class="entry-title eltdf-post-title">
-                      <a itemprop="url" href="#"><?=$data5['campaignsfives'];?></a>
+                      <a itemprop="url" href="#"><?=$data5['campaignsfours'];?></a>
                     </h3>
                     <div class="eltdf-bli-excerpt">
                       <div class="eltdf-post-excerpt-holder">
-                        <p itemprop="description" class="eltdf-post-excerpt" title="<?=$data5['campaignsfour']?>"><?php echo substr($data5['campaignsfive'], 0, 70) . "..."; ?></p>
+                        <p itemprop="description" class="eltdf-post-excerpt" title="<?=$data5['campaignsfour']?>"><?php echo substr($data5['campaignsfour'], 0, 70) . "..."; ?></p>
                       </div>
                       <?php
                             }
@@ -1498,11 +1498,11 @@ ceremonies </h6>
                         while($data5=mysqli_fetch_array($queryrun5)){
                     ?>
                     <h3 itemprop="name" class="entry-title eltdf-post-title">
-                      <a itemprop="url" href="#"><?=$data5['campaignsfours'];?></a>
+                      <a itemprop="url" href="#"><?=$data5['campaignsfives'];?></a>
                     </h3>
                     <div class="eltdf-bli-excerpt">
                       <div class="eltdf-post-excerpt-holder">
-                        <p itemprop="description" class="eltdf-post-excerpt" title="<?=$data5['campaignsfour']?>"><?php echo substr($data5['campaignsfour'], 0, 70) . "..."; ?></p>
+                        <p itemprop="description" class="eltdf-post-excerpt" title="<?=$data5['campaignsfive']?>"><?php echo substr($data5['campaignsfive'], 0, 70) . "..."; ?></p>
                       </div>
                       <?php
                             }
