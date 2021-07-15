@@ -169,7 +169,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 							                    <div class="inner">
 							                        <ul>
 							                            <li id="nav-menu-item-974" class="menu-item menu-item-type-post_type menu-item-object-proofing-gallery ">
-							                                <a href="portrait.php" class="">
+							                                <a href="portraits.php" class="">
 							                                    <span class="item_outer"><span class="item_text">Portraits</span></span>
 							                                </a>
 							                            </li>

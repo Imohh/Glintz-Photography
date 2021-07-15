@@ -1095,8 +1095,10 @@ ceremonies </h6>
                             <div class="eltdf-team-inner">
                                 <div class="eltdf-team-image">
                                     <img width="800" height="1142" src="./images/tpj4.jpg" class="main-image" alt="d" sizes="(max-width: 800px) 100vw, 800px">
-                                    <a class="eltdf-team-link" href="" target="_self"></a>
-                                </div>
+                                    <div class="eltdf-team-hover-image">
+                                        <img width="150" height="133" src="./images/temitope.png" class="attachment-full size-full" alt="m"> </div>
+                                        <a class="eltdf-team-link" href="" target="_self"></a>
+                                    </div>
                                 <div class="eltdf-team-info">
                                     <span class="eltdf-team-position" style="color: #84847c">Creative Director</span>
                                     <h3 class="eltdf-team-name" style="font-size: 17px">Temitope Jalekun</h3>
@@ -1120,8 +1122,10 @@ ceremonies </h6>
                             <div class="eltdf-team-inner">
                                 <div class="eltdf-team-image" style="margin-top: 40px">
                                     <img width="800" height="1142" src="./images/IMG_20210711_101013.jpg" class="main-image" alt="d" sizes="(max-width: 800px) 100vw, 800px" style="filter: blur(0px);">
-                                    <a class="eltdf-team-link" href="#" target="_self"></a>
-                                </div>
+                                    <div class="eltdf-team-hover-image">
+                                        <img width="150" height="133" src="./images/leonard.png" class="attachment-full size-full" alt="m"> </div>
+                                        <a class="eltdf-team-link" href="" target="_self"></a>
+                                    </div>
                                 <div class="eltdf-team-info">
                                     <span class="eltdf-team-position" style="color: #84847c">Photographer</span>
                                     <h3 class="eltdf-team-name" style="font-size: 17px">Leonard Ikediuba</h3>
@@ -1150,8 +1154,10 @@ ceremonies </h6>
                                             <div class="eltdf-team-inner">
                                                 <div class="eltdf-team-image">
                                                     <img width="800" height="1142" src="./images/GLI_0736e.jpg" class="main-image" alt="d" sizes="(max-width: 800px) 100vw, 800px">
-                                                    <a class="eltdf-team-link" href="#" target="_self"></a>
-                                                </div>
+                                                    <div class="eltdf-team-hover-image">
+                                                        <img width="150" height="133" src="./images/funmi.png" class="attachment-full size-full" alt="m"> </div>
+                                                        <a class="eltdf-team-link" href="" target="_self"></a>
+                                                    </div>
                                                 <div class="eltdf-team-info">
                                                     <span class="eltdf-team-position" style="color: #84847c">Retoucher</span>
                                                     <h3 class="eltdf-team-name" style="font-size: 17px">Funmi Awopetu</h3>
@@ -1289,6 +1295,11 @@ ceremonies </h6>
 
 
 
+
+
+
+
+
 <!-- BLOG -->
 <div class="eltdf-row-grid-section-wrapper ">
   <div class="eltdf-row-grid-section">
@@ -1310,7 +1321,7 @@ ceremonies </h6>
             <div class="vc_empty_space" style="height: 57px">
               <span class="vc_empty_space_inner"></span>
             </div>
-            <div class="eltdf-blog-list-holder eltdf-grid-list eltdf-bl-standard eltdf-three-columns eltdf-disable-bottom-space eltdf-large-space eltdf-bl-pag-no-pagination" data-type="standard" data-number-of-posts="3" data-number-of-columns="three" data-space-between-items="large" data-category="photography" data-orderby="date" data-order="ASC" data-image-size="full" data-title-tag="h3" data-excerpt-length="15" data-post-info-section="yes" data-post-info-image="yes" data-post-info-author="yes" data-post-info-date="no" data-post-info-category="yes" data-post-info-comments="no" data-post-info-like="no" data-post-info-share="no" data-pagination-type="no-pagination" data-max-num-pages="1" data-next-page="2">
+            <div class="eltdf-blog-list-holder eltdf-grid-list eltdf-bl-standard eltdf-four-columns eltdf-disable-bottom-space eltdf-large-space eltdf-bl-pag-no-pagination" data-type="standard" data-number-of-posts="3" data-number-of-columns="three" data-space-between-items="large" data-category="photography" data-orderby="date" data-order="ASC" data-image-size="full" data-title-tag="h3" data-excerpt-length="15" data-post-info-section="yes" data-post-info-image="yes" data-post-info-author="yes" data-post-info-date="no" data-post-info-category="yes" data-post-info-comments="no" data-post-info-like="no" data-post-info-share="no" data-pagination-type="no-pagination" data-max-num-pages="1" data-next-page="2">
               <div class="eltdf-bl-wrapper eltdf-outer-space">
                 <ul class="eltdf-blog-list">
                   <li class="eltdf-bl-item eltdf-item-space">
@@ -1411,6 +1422,53 @@ ceremonies </h6>
                   </div>
                 </li>
                 <li class="eltdf-bl-item eltdf-item-space">
+                  <div class="eltdf-bli-inner">
+                    <div class="eltdf-post-image">
+                        <?php
+                            $query5 = "SELECT * FROM works limit 1";
+                            $runquery5= mysqli_query($db,$query5);
+                            while($data5=mysqli_fetch_array($runquery5)){
+                        ?>
+                      <a itemprop="url" href="#">
+                        <img width="1100" height="1294" src="assets/img/<?=$data5['projectpic']?>" class="attachment-full size-full" alt="d" sizes="(max-width: 1100px) 100vw, 1100px">
+                      </a>
+                      <?php
+                        }
+                      ?>
+                    </div>
+                    <div class="eltdf-bli-content">
+                      <!-- <div class="eltdf-bli-info">
+                        <div class="eltdf-post-info-category">
+                          <a href="#" rel="category tag">Photography</a>
+                        </div>
+                        <div class="eltdf-post-info-author">
+                          <a itemprop="author" class="eltdf-post-info-author-link" href="#">Anna Smith</a>
+                      </div>
+                    </div> -->
+                    <?php
+                        $query5 = "SELECT * FROM headers";
+                        $queryrun5= mysqli_query($db,$query5);
+                        while($data5=mysqli_fetch_array($queryrun5)){
+                    ?>
+                    <h3 itemprop="name" class="entry-title eltdf-post-title">
+                      <a itemprop="url" href="#"><?=$data5['campaignsfours'];?></a>
+                    </h3>
+                    <div class="eltdf-bli-excerpt">
+                      <div class="eltdf-post-excerpt-holder">
+                        <p itemprop="description" class="eltdf-post-excerpt" title="<?=$data5['campaignsfour']?>"><?php echo substr($data5['campaignsfour'], 0, 70) . "..."; ?></p>
+                      </div>
+                      <?php
+                            }
+                          ?>
+                      <div class="eltdf-post-read-more-button">
+                        <a itemprop="url" href="third-blog.php" target="_self" class="eltdf-btn eltdf-btn-medium eltdf-btn-simple eltdf-blog-list-button">
+                            <span class="eltdf-btn-text">Read More</span></a>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </li>
+              <li class="eltdf-bl-item eltdf-item-space">
                   <div class="eltdf-bli-inner">
                     <div class="eltdf-post-image">
                         <?php
