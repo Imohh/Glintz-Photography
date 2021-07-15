@@ -674,6 +674,9 @@
 							<div class="eltdf-team-inner">
 								<div class="eltdf-team-image">
                                     <img width="800" height="1142" src="./images/tpj4.jpg" class="main-image" alt="d" sizes="(max-width: 800px) 100vw, 800px">
+                                    <div class="eltdf-team-hover-image">
+                                        <img width="150" height="133" src="./images/temitope.png" class="attachment-full size-full" alt="m">
+                                    </div>
                                     <a class="eltdf-team-link" href="" target="_self"></a>
                                 </div>
                                 <div class="eltdf-team-info">
@@ -699,6 +702,9 @@
 							<div class="eltdf-team-inner">
 								<div class="eltdf-team-image" style="margin-top: 40px">
 									<img width="800" height="1142" src="./images/IMG_20210711_101013.jpg" class="main-image" alt="d" srcset="./images/IMG_20210711_101013.jpg 800w, ./images/IMG_20210711_101013.jpg 210w,images/IMG_20210711_101013.jpg 717w, images/IMG_20210711_101013.jpg 768w, images/IMG_20210711_101013.jpg 600w" sizes="(max-width: 800px) 100vw, 800px">
+									<div class="eltdf-team-hover-image">
+                                        <img width="150" height="133" src="./images/leonard.png" class="attachment-full size-full" alt="m">
+                                    </div>
 									
 								</div>
 								<div class="eltdf-team-info">
@@ -729,6 +735,9 @@
 											<div class="eltdf-team-inner">
 												<div class="eltdf-team-image">
 													<img width="800" height="1142" src="./images/GLI_0736e.jpg" class="main-image" alt="d" srcset="images/GLI_0736e.jpg 800w, images/GLI_0736e.jpg 210w, images/GLI_0736e.jpg 717w, images/GLI_0736e.jpg 768w, images/GLI_0736e.jpg 600w" sizes="(max-width: 800px) 100vw, 800px" style="filter: blur(0px);">
+													<div class="eltdf-team-hover-image">
+				                                        <img width="150" height="133" src="./images/funmi.png" class="attachment-full size-full" alt="m">
+				                                    </div>
 												</div>
 												<div class="eltdf-team-info">
 													<span class="eltdf-team-position" style="color: #84847c">Retoucher</span>
@@ -818,28 +827,19 @@
 												<div class="eltdf-clients-grid-holder eltdf-grid-list eltdf-disable-bottom-space eltdf-five-columns eltdf-tiny-space  eltdf-cc-hover-switch-images">
 													<div class="eltdf-cg-inner eltdf-outer-space" style="margin-top: 10%;">
 														<div class="eltdf-cc-item eltdf-item-space eltdf-cci-has-link">
-							                              <a itemprop="url" class="eltdf-cc-link eltdf-block-drag-link" href="#" target="_self">
 							                              <img itemprop="image" class="eltdf-cc-image" src="./images/total-logo.png" alt="d" style="width: 50%;">
-							                              <img itemprop="image" class="eltdf-cc-hover-image" src="./images/total-logo.png" alt="d" style="width: 50%;">
-							                              </a>
 							                            </div>
 							                            <div class="eltdf-cc-item eltdf-item-space eltdf-cci-has-link" width="10px">
-							                              <a itemprop="url" class="eltdf-cc-link eltdf-block-drag-link" href="#" target="_self">
 							                              <img itemprop="image" class="eltdf-cc-image" src="./images/gordons.png" alt="d" style="width: 50%;">
-							                              <img itemprop="image" class="eltdf-cc-hover-image" src="./images/gordons.png" alt="d" style="width: 50%;">
-							                              </a>
 							                            </div>
 							                            <div class="eltdf-cc-item eltdf-item-space eltdf-cci-has-link">
-							                              <a itemprop="url" class="eltdf-cc-link eltdf-block-drag-link" href="#" target="_self">
 							                              <img itemprop="image" class="eltdf-cc-image" src="./images/so-fresh.png" alt="d" style="width: 50%;">
-							                              <img itemprop="image" class="eltdf-cc-hover-image" src="./images/so-fresh.png" alt="d" style="width: 50%;">
-							                              </a>
 							                            </div>
 							                            <div class="eltdf-cc-item eltdf-item-space eltdf-cci-has-link">
-							                              <a itemprop="url" class="eltdf-cc-link eltdf-block-drag-link" href="#" target="_self">
 							                              <img itemprop="image" class="eltdf-cc-image" src="./images/ekiti-logo.png" alt="d" style="width: 50%;">
-							                              <img itemprop="image" class="eltdf-cc-hover-image" src="./images/ekiti-logo.png" alt="d" style="width: 50%;">
-							                              </a>
+							                            </div>
+							                            <div class="eltdf-cc-item eltdf-item-space eltdf-cci-has-link">
+							                              <img itemprop="image" class="eltdf-cc-image" src="./images/OLD LAGOS BLACK.png" alt="d">
 							                            </div>
 													</div>
 												</div>
