@@ -1509,7 +1509,7 @@ ceremonies </h6>
                             }
                           ?>
                       <div class="eltdf-post-read-more-button">
-                        <a itemprop="url" href="third-blog.php" target="_self" class="eltdf-btn eltdf-btn-medium eltdf-btn-simple eltdf-blog-list-button">
+                        <a itemprop="url" href="forth-blog.php" target="_self" class="eltdf-btn eltdf-btn-medium eltdf-btn-simple eltdf-blog-list-button">
                             <span class="eltdf-btn-text">Read More</span></a>
                       </div>
                     </div>

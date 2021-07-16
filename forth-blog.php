@@ -428,7 +428,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <h3 class="eltdf-page-title entry-title" style="color: #ffffff">Blog Section</h3>
 </div>
 <div class="eltdf-breadcrumbs-info">
-<div itemprop="breadcrumb" class="eltdf-breadcrumbs eltdf-has-inline-style" style="color: #ffffff"><a itemprop="url" href="https://glintzphotography.org/">Home</a><span class="eltdf-delimiter">&nbsp; / &nbsp;</span><a itemprop="url" href="second-blog.php">Blog</a></div> </div>
+<div itemprop="breadcrumb" class="eltdf-breadcrumbs eltdf-has-inline-style" style="color: #ffffff"><a itemprop="url" href="https://glintzphotography.org/">Home</a><span class="eltdf-delimiter">&nbsp; / &nbsp;</span><a itemprop="url" href="forth-blog.php">Blog</a></div> </div>
 </div>
 </div>
 </div>
@@ -441,7 +441,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <div class="eltdf-ps-image-holder eltdf-ps-gallery-images eltdf-grid-list eltdf-disable-bottom-space  eltdf-three-columns eltdf-tiny-space">
 <div class="eltdf-ps-image-inner eltdf-outer-space">
     <?php
-        $query5 = "SELECT * FROM ui_design";
+        $query5 = "SELECT * FROM forthblog";
         $runquery5= mysqli_query($db,$query5);
         while($data5=mysqli_fetch_array($runquery5)){
     ?>
@@ -477,7 +477,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                                       while($data5=mysqli_fetch_array($queryrun5)){
                                     ?>
                                     <h2 class="eltdf-st-title" style="color: #4d504a">
-                                        <?=$data5['campaignsthrees'];?>
+                                        <?=$data5['campaignsfives'];?>
                                     </h2>
                                     <!-- <h3 class="eltdf-st-subtitle" style="text-transform: none;font-style: italic;color: #84847c">
                                         <span>Michelle &amp; Marce, July 8, 2018 </span>
@@ -497,7 +497,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                         <div class="wpb_wrapper">
                             <div class="wpb_text_column wpb_content_element ">
                                 <div class="wpb_wrapper">
-                                    <p style="text-align: center;"><?=$data5['campaignsthree'];?></p>
+                                    <p style="text-align: center;"><?=$data5['campaignsfive'];?></p>
                                 </div>
                                 <?php
                                     }
