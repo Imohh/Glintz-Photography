@@ -552,7 +552,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
 
 <!-- TESTIMONIAL SECTION -->
-<div class="eltdf-row-grid-section-wrapper ">
+<div class="eltdf-row-grid-section-wrapper " style="margin-top: 5%;">
 	<div class="eltdf-row-grid-section">
 		<div class="vc_row wpb_row vc_row-fluid">
 			<div class="wpb_column vc_column_container vc_col-sm-12">
@@ -565,10 +565,10 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 										<div class="owl-item cloned" style="width: 1100px;">
 											<div class="eltdf-testimonial-content" id="eltdf-testimonials-91">
 												<div class="eltdf-testimonial-image">
-													<img width="638" height="434" src="./Solene – Wedding Photography Theme_files/h1-testimonials-img-3-768x522.jpg" class="attachment-638x434 size-638x434 wp-post-image" alt="d" sizes="(max-width: 638px) 100vw, 638px">
+													<img width="638" height="434" src="./images/testimonials/Academy Gbenga Susijane Dada.jpg" class="attachment-638x434 size-638x434 wp-post-image" alt="d" sizes="(max-width: 638px) 100vw, 638px">
 												</div>
 												<div class="eltdf-testimonial-text-holder">
-													<span class="eltdf-testimonial-date">December 01,2019</span>
+													<!-- <span class="eltdf-testimonial-date">December 01,2019</span> -->
 													<p class="eltdf-testimonial-text">Glintz Media trained me exclusively on all aspects of photography including interactions with different clients, negotiation and delivering a perfect job. I was privileged to travel with the Glintz Media team wherever there was a job. The training I had in Glintz Media changed my life completely and made me a responsible and better person. The environment and team made it a fantastic learning process.</p>
 													<h6 class="eltdf-testimonial-author">
 														<span class="eltdf-testimonials-author-name">Susijane </span>
@@ -579,10 +579,10 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 										<div class="owl-item cloned" style="width: 1100px;">
 											<div class="eltdf-testimonial-content" id="eltdf-testimonials-86">
 												<div class="eltdf-testimonial-image">
-													<img width="638" height="434" src="./Solene – Wedding Photography Theme_files/h1-testimonials-img-2-768x522.jpg" class="attachment-638x434 size-638x434 wp-post-image" alt="d" sizes="(max-width: 638px) 100vw, 638px">
+													<img width="338" height="134" src="./images/testimonials/Academy Gbenga  Temitayo Abidakun.png" class="attachment-638x434 size-638x434 wp-post-image" alt="d" sizes="(max-width: 638px) 100vw, 638px">
 												</div>
 											<div class="eltdf-testimonial-text-holder">
-												<span class="eltdf-testimonial-date">November 19, 2019</span>
+												<!-- <span class="eltdf-testimonial-date">November 19, 2019</span> -->
 												<p class="eltdf-testimonial-text">Glintz is one of the best media houses that I can recommend to anyone who is ready to learn photography, branding, cinematography. Glintz thought me what am suppose to know about photography and about life generally.</p>
 												<h6 class="eltdf-testimonial-author">
 													<span class="eltdf-testimonials-author-name">Temitayo Abidakun</span>
@@ -591,44 +591,53 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 										</div>
 									</div>
 									<div class="owl-item" style="width: 1100px;">
-										<div class="eltdf-testimonial-content" id="eltdf-testimonials-92">
+										<div class="eltdf-testimonial-content" id="eltdf-testimonials-87">
 											<div class="eltdf-testimonial-image">
-												<img width="638" height="434" src="./Solene – Wedding Photography Theme_files/h1-testimonials-img-1-768x522.jpg" class="attachment-638x434 size-638x434 wp-post-image" alt="d" sizes="(max-width: 638px) 100vw, 638px">
+												<img width="638" height="434" src="./images/testimonials/Academy Gbenga Ikumapayi.png" class="attachment-638x434 size-638x434 wp-post-image" alt="d" sizes="(max-width: 638px) 100vw, 638px">
 											</div>
 
 										<div class="eltdf-testimonial-text-holder">
-											<span class="eltdf-testimonial-date">October 12,2019</span>
-											<p class="eltdf-testimonial-text">Accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi at vero eos et vitae feugiat magna, ut ligula</p>
+											<!-- <span class="eltdf-testimonial-date">October 12,2019</span> -->
+											<p class="">
+											Glintz Media, an organization dedicated to creating memories that last a lifetime and aso raising a breed of persons who sees art as a tool for revolution. I was effectively groomed to manage all sessions including; scheduling, set design, financial management, branding, collaborating with colleagues and closing sales. The substantial impact of Glintz media in my craft has earned me a place of pride as one of the Go-to photographer in the southern Western Nigerian and its environs.
+											</p>
 											<h6 class="eltdf-testimonial-author">
-												<span class="eltdf-testimonials-author-name">Gloria+Nate</span>
+												<span class="eltdf-testimonials-author-name">Gbenga Ikumapayi</span>
 											</h6>
 										</div>
 									</div>
 								</div>
 								<div class="owl-item active" style="width: 1100px;">
-									<div class="eltdf-testimonial-content" id="eltdf-testimonials-91">
+									<div class="eltdf-testimonial-content" id="eltdf-testimonials-88">
 										<div class="eltdf-testimonial-image">
-											<img width="638" height="434" src="./Solene – Wedding Photography Theme_files/h1-testimonials-img-3-768x522.jpg" class="attachment-638x434 size-638x434 wp-post-image" alt="d" sizes="(max-width: 638px) 100vw, 638px">
+											<img width="638" height="434" src="./images/testimonials/Academy  Leonard Ikediuba.jpg" class="attachment-638x434 size-638x434 wp-post-image" alt="d" sizes="(max-width: 638px) 100vw, 638px">
 										</div>
 										<div class="eltdf-testimonial-text-holder">
-											<span class="eltdf-testimonial-date">December 01,2019</span>
-											<p class="eltdf-testimonial-text">At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis vitae feugiat magna, ut mattis ligula praesentium voluptatum deleniti atque corrupti quos et quas molestias excepturi</p>
+											<!-- <span class="eltdf-testimonial-date">December 01,2019</span> -->
+											<p class="eltdf-testimonial-text">Everything I know today in photography from lighting, posture, styling, approaching and managing clients, retouching, everything I learnt it at Glintz  because I met him when I literarily knew nothing. <br>
+											ACHIEVEMENTS:<br>
+											I am a practicing Wedding, Street and Documentary photographer with a breathtaking and amazing portfolio. I can confidently shoot anything and anybody. With an amazing knowledge in lighting
+											</p>
 											<h6 class="eltdf-testimonial-author">
-												<span class="eltdf-testimonials-author-name">Emma+Mike</span>
+												<span class="eltdf-testimonials-author-name">Leonard Ojornubi Ikediuba</span>
 											</h6>
 										</div>
 									</div>
 								</div>
 								<div class="owl-item" style="width: 1100px;">
-									<div class="eltdf-testimonial-content" id="eltdf-testimonials-86">
+									<div class="eltdf-testimonial-content" id="eltdf-testimonials-89">
 										<div class="eltdf-testimonial-image">
-											<img width="638" height="434" src="./Solene – Wedding Photography Theme_files/h1-testimonials-img-2-768x522.jpg" class="attachment-638x434 size-638x434 wp-post-image" alt="d" sizes="(max-width: 638px) 100vw, 638px">
+											<img width="638" height="434" src="./images/testimonials/Academy Gbenga Obasola Bamigbola.jpeg" class="attachment-638x434 size-638x434 wp-post-image" alt="d" sizes="(max-width: 638px) 100vw, 638px">
 										</div>
 										<div class="eltdf-testimonial-text-holder">
-											<span class="eltdf-testimonial-date">November 19, 2019</span>
-											<p class="eltdf-testimonial-text">Accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi at vero eos et vitae feugiat magna, ut ligula</p>
+											<!-- <span class="eltdf-testimonial-date">November 19, 2019</span> -->
+											<p class="eltdf-testimonial-text">
+											Mr. Temitope Jalekun’s attention to detail is impeccable; he went out of his ways to give me an amazing experience; with other opportunities beyond what I signed up for officially.   He was more than a photography trainer to me; he gave me access to build great relationship with him.  Even after my official training duration, he remained kind and open to subsequent mentoring, advice and support for my personal projects and assignments.
+
+
+											</p>
 											<h6 class="eltdf-testimonial-author">
-												<span class="eltdf-testimonials-author-name">Diana+Georg</span>
+												<span class="eltdf-testimonials-author-name">Obasola Bamigbola</span>
 											</h6>
 										</div>
 									</div>
@@ -636,27 +645,15 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 								<div class="owl-item cloned" style="width: 1100px;">
 									<div class="eltdf-testimonial-content" id="eltdf-testimonials-92">
 										<div class="eltdf-testimonial-image">
-											<img width="638" height="434" src="./Solene – Wedding Photography Theme_files/h1-testimonials-img-1-768x522.jpg" class="attachment-638x434 size-638x434 wp-post-image" alt="d" sizes="(max-width: 638px) 100vw, 638px">
+											<img width="638" height="434" src="./images/testimonials/Academy Gbenga Harmony Rufus.png" class="attachment-638x434 size-638x434 wp-post-image" alt="d" sizes="(max-width: 638px) 100vw, 638px">
 										</div>
 										<div class="eltdf-testimonial-text-holder">
-											<span class="eltdf-testimonial-date">October 12,2019</span>
-											<p class="eltdf-testimonial-text">Accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi at vero eos et vitae feugiat magna, ut ligula</p>
+											<!-- <span class="eltdf-testimonial-date">October 12,2019</span> -->
+											<p class="eltdf-testimonial-text">I will like to give my sincere appreciation to Mr Jalekun Temitope for his tutorship and for giving me a memorable Industrial Training experience. His passion towards photography has totally motivated me and changed my perspective in many areas of life. 
+											The industrial training I did at Glintz Media, Ojodu, Lagos State exposed me to a lot of practical aspects of my course that I wouldn’t have been able to achieve in the walls of my classroom. It broadened my horizon to different technical and professional Skills in the scope of my field. I was able to put into practice some of the knowledge I gained in the classroom on the training site.
+											</p>
 											<h6 class="eltdf-testimonial-author">
-												<span class="eltdf-testimonials-author-name">Gloria+Nate</span>
-											</h6>
-										</div>
-									</div>
-								</div>
-								<div class="owl-item cloned" style="width: 1100px;">
-									<div class="eltdf-testimonial-content" id="eltdf-testimonials-91">
-										<div class="eltdf-testimonial-image">
-											<img width="638" height="434" src="./Solene – Wedding Photography Theme_files/h1-testimonials-img-3-768x522.jpg" class="attachment-638x434 size-638x434 wp-post-image" alt="d" sizes="(max-width: 638px) 100vw, 638px">
-										</div>
-										<div class="eltdf-testimonial-text-holder">
-											<span class="eltdf-testimonial-date">December 01,2019</span>
-												<p class="eltdf-testimonial-text">At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis vitae feugiat magna, ut mattis ligula praesentium voluptatum deleniti atque corrupti quos et quas molestias excepturi</p>
-											<h6 class="eltdf-testimonial-author">
-												<span class="eltdf-testimonials-author-name">Emma+Mike</span>
+												<span class="eltdf-testimonials-author-name">Harmony Rufus</span>
 											</h6>
 										</div>
 									</div>
@@ -713,7 +710,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
 
 
-<div class="eltdf-row-grid-section-wrapper eltdf-content-aligment-center">
+<!-- <div class="eltdf-row-grid-section-wrapper eltdf-content-aligment-center">
 	<div class="eltdf-row-grid-section">
 		<div class="vc_row wpb_row vc_row-fluid vc_custom_1575459956573 vc_row-has-fill">
 			<div class="wpb_column vc_column_container vc_col-sm-12">
@@ -733,8 +730,8 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 			</div>
 		</div>
 	</div>
-</div>
-<div class="vc_row wpb_row vc_row-fluid vc_custom_1575459808277 vc_row-has-fill">
+</div> -->
+<!-- <div class="vc_row wpb_row vc_row-fluid vc_custom_1575459808277 vc_row-has-fill">
 	<div class="wpb_column vc_column_container vc_col-sm-12">
 		<div class="vc_column-inner">
 			<div class="wpb_wrapper">
@@ -777,14 +774,14 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 			</div>
 		</div>
 	</div>
-</div>
+</div> -->
 </div>
 </div>
 </div>
 </div>
 </div> 
 </div> 
-<div class="eltdf-content-bottom" style="background-color: #f4f0ed;">
+<div class="eltdf-content-bottom" style="background-color: #f4f0ed;padding-top: 5%;">
 	<div class="eltdf-content-bottom-inner eltdf-full-width">
 	<div class="widget_text widget widget_custom_html">
 		<div class="textwidget custom-html-widget">

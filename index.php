@@ -1528,7 +1528,6 @@ ceremonies </h6>
 
 
 
-
 <script src="https://apps.elfsight.com/p/platform.js" defer></script>
 <div class="elfsight-app-c39dde32-9eb4-40d0-a62b-41c830b90953"></div>
 
@@ -1604,8 +1603,8 @@ ceremonies </h6>
                                                     <img width="638" height="434" src="./Solene – Wedding Photography Theme_files/h1-testimonials-img-3-768x522.jpg" class="attachment-638x434 size-638x434 wp-post-image" alt="d" sizes="(max-width: 638px) 100vw, 638px">
                                                 </div>
                                                 <div class="eltdf-testimonial-text-holder">
-                                                    <span class="eltdf-testimonial-date">December 01,2019</span>
-                                                     <p class="eltdf-testimonial-text">At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis vitae feugiat magna, ut mattis ligula praesentium voluptatum deleniti atque corrupti quos et quas molestias excepturi</p>
+                                                    <!-- <span class="eltdf-testimonial-date">December 01,2019</span> -->
+                                                     <p class="eltdf-testimonial-text">Choosing Glintz Photography was one of the</p>
                                                     <h6 class="eltdf-testimonial-author">
                                                     <span class="eltdf-testimonials-author-name">Emma+Mike</span>
                                                     </h6>
@@ -1663,34 +1662,6 @@ ceremonies </h6>
                                                             <p class="eltdf-testimonial-text">Accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi at vero eos et vitae feugiat magna, ut ligula</p>
                                                             <h6 class="eltdf-testimonial-author">
                                                             <span class="eltdf-testimonials-author-name">Diana+Georg</span>
-                                                            </h6>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                                <div class="owl-item cloned" style="width: 1100px;">
-                                                    <div class="eltdf-testimonial-content" id="eltdf-testimonials-92">
-                                                        <div class="eltdf-testimonial-image">
-                                                            <img width="638" height="434" src="./Solene – Wedding Photography Theme_files/h1-testimonials-img-1-768x522.jpg" class="attachment-638x434 size-638x434 wp-post-image" alt="d" sizes="(max-width: 638px) 100vw, 638px">
-                                                        </div>
-                                                        <div class="eltdf-testimonial-text-holder">
-                                                            <span class="eltdf-testimonial-date">October 12,2019</span>
-                                                            <p class="eltdf-testimonial-text">Accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi at vero eos et vitae feugiat magna, ut ligula</p>
-                                                            <h6 class="eltdf-testimonial-author">
-                                                            <span class="eltdf-testimonials-author-name">Gloria+Nate</span>
-                                                            </h6>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                                <div class="owl-item cloned" style="width: 1100px;">
-                                                    <div class="eltdf-testimonial-content" id="eltdf-testimonials-91">
-                                                        <div class="eltdf-testimonial-image">
-                                                            <img width="638" height="434" src="./Solene – Wedding Photography Theme_files/h1-testimonials-img-3-768x522.jpg" class="attachment-638x434 size-638x434 wp-post-image" alt="d" sizes="(max-width: 638px) 100vw, 638px">
-                                                        </div>
-                                                        <div class="eltdf-testimonial-text-holder">
-                                                            <span class="eltdf-testimonial-date">December 01,2019</span>
-                                                             <p class="eltdf-testimonial-text">At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis vitae feugiat magna, ut mattis ligula praesentium voluptatum deleniti atque corrupti quos et quas molestias excepturi</p>
-                                                            <h6 class="eltdf-testimonial-author">
-                                                            <span class="eltdf-testimonials-author-name">Emma+Mike</span>
                                                             </h6>
                                                         </div>
                                                     </div>
