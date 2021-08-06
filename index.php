@@ -1652,20 +1652,6 @@ ceremonies </h6>
                                                     </div>
                                                     </div>
                                                 </div>
-                                                <div class="owl-item" style="width: 1100px;">
-                                                    <div class="eltdf-testimonial-content" id="eltdf-testimonials-86">
-                                                        <div class="eltdf-testimonial-image">
-                                                            <img width="638" height="434" src="./Solene – Wedding Photography Theme_files/h1-testimonials-img-2-768x522.jpg" class="attachment-638x434 size-638x434 wp-post-image" alt="d" sizes="(max-width: 638px) 100vw, 638px">
-                                                        </div>
-                                                        <div class="eltdf-testimonial-text-holder">
-                                                            <span class="eltdf-testimonial-date">November 19, 2019</span>
-                                                            <p class="eltdf-testimonial-text">Accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi at vero eos et vitae feugiat magna, ut ligula</p>
-                                                            <h6 class="eltdf-testimonial-author">
-                                                            <span class="eltdf-testimonials-author-name">Diana+Georg</span>
-                                                            </h6>
-                                                        </div>
-                                                    </div>
-                                                </div>
                                             </div>
                                         </div>
                                         <div class="owl-nav">
