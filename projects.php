@@ -14,7 +14,7 @@
     <meta property="og:url" content="https://solene.qodeinteractive.com/portfolio-item/bridal-bouquet/">
     <meta property="og:type" content="article">
     <meta property="og:title" content="Bridal Bouquet">
-    <meta property="og:description" content="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut vitae  feugiat magna, ut mattis ligula.
+    <meta property="og:description" content="Photography WebPage
     ">
 
     <link rel="profile" href="https://gmpg.org/xfn/11">
@@ -566,7 +566,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     </div>
     <div id="text-10" class="widget eltdf-sidearea widget_text">
         <div class="textwidget">
-            <p><span style="font-weight: 400;">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce neque purus, eleifend vel sollicitudin ut.</span></p>
+            <p><span style="font-weight: 400;">We are a multimedia Brand, set up to document, tell African stories of love, places, people and their culture through creative visuals(still and motion pictures).</span></p>
         </div>
     </div>
     <div class="widget eltdf-separator-widget">

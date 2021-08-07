@@ -1600,18 +1600,24 @@ ceremonies </h6>
                                         <div class="owl-item cloned" style="width: 1100px;">
                                             <div class="eltdf-testimonial-content" id="eltdf-testimonials-91">
                                                 <div class="eltdf-testimonial-image">
-                                                    <img width="638" height="434" src="./Solene – Wedding Photography Theme_files/h1-testimonials-img-3-768x522.jpg" class="attachment-638x434 size-638x434 wp-post-image" alt="d" sizes="(max-width: 638px) 100vw, 638px">
+                                                    <img width="638" height="434" src="./images/testimonials/Client feedback Mrs Toimlola Ojo.png" class="attachment-638x434 size-638x434 wp-post-image" alt="d" sizes="(max-width: 638px) 100vw, 638px">
                                                 </div>
                                                 <div class="eltdf-testimonial-text-holder">
                                                     <!-- <span class="eltdf-testimonial-date">December 01,2019</span> -->
-                                                     <p class="eltdf-testimonial-text">Choosing Glintz Photography was one of the</p>
+                                                     <p class="eltdf-testimonial-text">Choosing Glintz Photography was one of the best decisions we made when choosing Vendors for our wedding. 
+                                                    The service, temperament of the photographer and support, customer service and delivery were all top notch. 
+                                                    The pictures and videos were beautifully captured. 
+                                                    I must specifically commend the ability of Glintz to keep the bride & groom happy, calm and engaged.
+                                                    It is very clear; he is very passionate about photography. 
+                                                    I would recommend and use again!!”
+                                                    </p>
                                                     <h6 class="eltdf-testimonial-author">
-                                                    <span class="eltdf-testimonials-author-name">Emma+Mike</span>
+                                                    <span class="eltdf-testimonials-author-name">Mrs Tomilola Ojo</span>
                                                     </h6>
                                                 </div>
                                             </div>
                                         </div>
-                                        <div class="owl-item cloned" style="width: 1100px;">
+                                        <!-- <div class="owl-item cloned" style="width: 1100px;">
                                             <div class="eltdf-testimonial-content" id="eltdf-testimonials-86">
                                                 <div class="eltdf-testimonial-image">
                                                     <img width="638" height="434" src="./Solene – Wedding Photography Theme_files/h1-testimonials-img-2-768x522.jpg" class="attachment-638x434 size-638x434 wp-post-image" alt="d" sizes="(max-width: 638px) 100vw, 638px">
@@ -1624,59 +1630,60 @@ ceremonies </h6>
                                                     </h6>
                                                 </div>
                                             </div>
-                                        </div>
-                                        <div class="owl-item" style="width: 1100px;">
+                                        </div> -->
+                                        <!-- <div class="owl-item" style="width: 1100px;">
                                             <div class="eltdf-testimonial-content" id="eltdf-testimonials-92">
                                                 <div class="eltdf-testimonial-image">
-                                                    <img width="638" height="434" src="./Solene – Wedding Photography Theme_files/h1-testimonials-img-1-768x522.jpg" class="attachment-638x434 size-638x434 wp-post-image" alt="d" sizes="(max-width: 638px) 100vw, 638px"> </div>
-                                                    <div class="eltdf-testimonial-text-holder">
+                                                    <img width="638" height="434" src="./Solene – Wedding Photography Theme_files/h1-testimonials-img-1-768x522.jpg" class="attachment-638x434 size-638x434 wp-post-image" alt="d" sizes="(max-width: 638px) 100vw, 638px">
+                                                </div>
+                                                <div class="eltdf-testimonial-text-holder">
                                                     <span class="eltdf-testimonial-date">October 12,2019</span>
                                                     <p class="eltdf-testimonial-text">Accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi at vero eos et vitae feugiat magna, ut ligula</p>
                                                     <h6 class="eltdf-testimonial-author">
                                                     <span class="eltdf-testimonials-author-name">Gloria+Nate</span>
                                                     </h6>
                                                 </div>
-                                                </div>
-                                            </div>
-                                            <div class="owl-item active" style="width: 1100px;">
-                                                <div class="eltdf-testimonial-content" id="eltdf-testimonials-91">
-                                                    <div class="eltdf-testimonial-image">
-                                                        <img width="638" height="434" src="./Solene – Wedding Photography Theme_files/h1-testimonials-img-3-768x522.jpg" class="attachment-638x434 size-638x434 wp-post-image" alt="d" sizes="(max-width: 638px) 100vw, 638px">
-                                                    </div>
-                                                    <div class="eltdf-testimonial-text-holder">
-                                                        <span class="eltdf-testimonial-date">December 01,2019</span>
-                                                         <p class="eltdf-testimonial-text">At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis vitae feugiat magna, ut mattis ligula praesentium voluptatum deleniti atque corrupti quos et quas molestias excepturi</p>
-                                                        <h6 class="eltdf-testimonial-author">
-                                                        <span class="eltdf-testimonials-author-name">Emma+Mike</span>
-                                                        </h6>
-                                                    </div>
-                                                    </div>
-                                                </div>
                                             </div>
                                         </div>
-                                        <div class="owl-nav">
-                                            <button type="button" role="presentation" class="owl-prev">
-                                                <span class="eltdf-prev-icon"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="45.479px" height="15.292px" viewBox="0 4.375 45.479 15.292" enable-background="new 0 4.375 45.479 15.292" xml:space="preserve">
-                                				<line fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" x1="44.639" y1="12" x2="0.639" y2="12"></line>
-                                				<line fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" x1="0.639" y1="12" x2="44.639" y2="12"></line>
-                                				<polyline fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" points="7.639,19 0.639,12 7.639,5 "></polyline>
-                                				</svg></span></button><button type="button" role="presentation" class="owl-next"><span class="eltdf-next-icon"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="45.479px" height="15.292px" viewBox="0 4.375 45.479 15.292" enable-background="new 0 4.375 45.479 15.292" xml:space="preserve">
-                                				<line fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" x1="0.639" y1="12" x2="44.639" y2="12"></line>
-                                				<line fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" x1="0.639" y1="12" x2="44.639" y2="12"></line>
-                                				<polyline fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" points="37.639,5 44.639,12 37.639,19 "></polyline>
-                                				</svg></span></button>
+                                        <div class="owl-item active" style="width: 1100px;">
+                                            <div class="eltdf-testimonial-content" id="eltdf-testimonials-93">
+                                                <div class="eltdf-testimonial-image">
+                                                    <img width="638" height="434" src="./Solene – Wedding Photography Theme_files/h1-testimonials-img-3-768x522.jpg" class="attachment-638x434 size-638x434 wp-post-image" alt="d" sizes="(max-width: 638px) 100vw, 638px">
+                                                </div>
+                                                <div class="eltdf-testimonial-text-holder">
+                                                    <span class="eltdf-testimonial-date">December 01,2019</span>
+                                                    <p class="eltdf-testimonial-text">At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis vitae feugiat magna, ut mattis ligula praesentium voluptatum deleniti atque corrupti quos et quas molestias excepturi</p>
+                                                    <h6 class="eltdf-testimonial-author">
+                                                    <span class="eltdf-testimonials-author-name">Emma+Mike</span>
+                                                    </h6>
+                                                </div>
                                             </div>
-                                            <div class="owl-dots">
-                                                <button role="button" class="owl-dot"><span></span><svg class="eltdf-svg-circle"><circle cx="50%" cy="50%" r="45%"></circle></svg></button><button role="button" class="owl-dot active"><span></span><svg class="eltdf-svg-circle"><circle cx="50%" cy="50%" r="45%"></circle></svg></button><button role="button" class="owl-dot"><span></span><svg class="eltdf-svg-circle"><circle cx="50%" cy="50%" r="45%"></circle></svg></button>
-                                            </div>
-                                        </div>
+                                        </div> -->
                                     </div>
+                                </div>
+                                <div class="owl-nav">
+                                    <button type="button" role="presentation" class="owl-prev">
+                                        <span class="eltdf-prev-icon"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="45.479px" height="15.292px" viewBox="0 4.375 45.479 15.292" enable-background="new 0 4.375 45.479 15.292" xml:space="preserve">
+                                		<line fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" x1="44.639" y1="12" x2="0.639" y2="12"></line>
+                                		<line fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" x1="0.639" y1="12" x2="44.639" y2="12"></line>
+                        				<polyline fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" points="7.639,19 0.639,12 7.639,5 "></polyline>
+                        				</svg></span></button><button type="button" role="presentation" class="owl-next"><span class="eltdf-next-icon"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="45.479px" height="15.292px" viewBox="0 4.375 45.479 15.292" enable-background="new 0 4.375 45.479 15.292" xml:space="preserve">
+                        				<line fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" x1="0.639" y1="12" x2="44.639" y2="12"></line>
+                        				<line fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" x1="0.639" y1="12" x2="44.639" y2="12"></line>
+                                		<polyline fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" points="37.639,5 44.639,12 37.639,19 "></polyline>
+                                		</svg></span></button>
+                                    </div>
+                                    <div class="owl-dots">
+                                    <button role="button" class="owl-dot"><span></span><svg class="eltdf-svg-circle"><circle cx="50%" cy="50%" r="45%"></circle></svg></button><button role="button" class="owl-dot active"><span></span><svg class="eltdf-svg-circle"><circle cx="50%" cy="50%" r="45%"></circle></svg></button><button role="button" class="owl-dot"><span></span><svg class="eltdf-svg-circle"><circle cx="50%" cy="50%" r="45%"></circle></svg></button>
                                 </div>
                             </div>
                         </div>
                     </div>
                 </div>
             </div>
+        </div>
+    </div>
+</div>
 <!-- END OF TESTIMONIAL -->
 
 
@@ -2273,7 +2280,7 @@ Alienum phaedrum torquatos </span>
     </div>
     <div id="text-10" class="widget eltdf-sidearea widget_text">
         <div class="textwidget">
-            <p><span style="font-weight: 400;">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce neque purus, eleifend vel sollicitudin ut.</span></p>
+            <p><span style="font-weight: 400;">We are a multimedia Brand, set up to document, tell African stories of love, places, people and their culture through creative visuals(still and motion pictures).</span></p>
         </div>
     </div>
     <div class="widget eltdf-separator-widget">

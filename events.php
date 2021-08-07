@@ -15,7 +15,7 @@ $data = mysqli_fetch_array($runquery);
     <meta property="og:url" content="https://solene.qodeinteractive.com/portfolio-item/bridal-bouquet/">
     <meta property="og:type" content="article">
     <meta property="og:title" content="Bridal Bouquet">
-    <meta property="og:description" content="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut vitae  feugiat magna, ut mattis ligula.
+    <meta property="og:description" content="Photography WebPage
     ">
 
     <link rel="profile" href="https://gmpg.org/xfn/11">
