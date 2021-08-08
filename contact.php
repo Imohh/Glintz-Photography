@@ -575,7 +575,7 @@ $data = mysqli_fetch_array($runquery);
 		</div>
 	</div>
 	<div id="eltdf_instagram_widget-5" class="widget eltdf-sidearea widget_eltdf_instagram_widget">
-		<ul class="eltdf-instagram-feed clearfix eltdf-col-3 eltdf-instagram-gallery eltdf-tiny-space">
+		<!-- <ul class="eltdf-instagram-feed clearfix eltdf-col-3 eltdf-instagram-gallery eltdf-tiny-space">
 			<li>
 				<a href="https://www.instagram.com/glintzphotography/" target="_blank">
 				<img src="./Cimages/slider2.jpg" alt=""> </a>
@@ -600,7 +600,9 @@ $data = mysqli_fetch_array($runquery);
 				<a href="https://www.instagram.com/glintzphotography/" target="_blank">
 				<img src="./images/slider7.jpg" alt=""> </a>
 			</li>
-		</ul>
+		</ul> -->
+		<script src="https://apps.elfsight.com/p/platform.js" defer></script>
+<div class="elfsight-app-2cfe4e2b-64d0-431b-a343-973fae233446"></div>
 	</div>
 	<div class="widget eltdf-separator-widget">
 		<div class="eltdf-separator-holder clearfix  eltdf-separator-center eltdf-separator-normal">
