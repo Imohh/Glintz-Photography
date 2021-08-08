@@ -602,25 +602,25 @@ rs-fullwidth-wrap .eltdf-social-icon-widget-holder:after {
         <nav class="eltdf-mobile-nav" role="navigation" aria-label="Mobile Menu" style="">
             <div class="eltdf-grid">
                 <ul id="menu-main-menu-2" class="">
-                  <li id="mobile-menu-item-28" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-ancestor current-menu-parent menu-item-has-children eltdf-active-item has_sub"><h6><a href="index.php"><span>Home</span></a></h6><span class="mobile_arrow"><i class="eltdf-sub-arrow ion-ios-arrow-forward"></i></span></li>
+                  <li id="mobile-menu-item-28" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-ancestor current-menu-parent menu-item-has-children eltdf-active-item has_sub"><h6><a href="index.php"><span>Home</span></a></h6><span class="mobile_arrow"></span></li>
 
                   <li id="mobile-menu-item-29" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children  has_sub"><a href="about-us.php"><h6><span>About Us</span></h6></a></li>
 
-                  <li id="mobile-menu-item-30" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children  has_sub"><h6><span>Portfolio</span></h6><span class="mobile_arrow"><i class="eltdf-sub-arrow ion-ios-arrow-forward"></i></span>
-                    <ul class="sub_menu">
-                        <li id="mobile-menu-item-974" class="menu-item menu-item-type-post_type menu-item-object-proofing-gallery ">
+                  <li id="mobile-menu-item-30" class=" dropdown"><h6><span>Portfolio</span></h6><span class="mobile_arrow"><i class="eltdf-sub-arrow ion-ios-arrow-forward"></i></span>
+                    <ul class="sub_menu dropdown-toggle">
+                        <li id="mobile-menu-item-974" class="dropdown-item ">
                             <a href="portraits.php" class=""><span>Portrait</span></a>
                         </li>
-                        <li id="mobile-menu-item-973" class="menu-item menu-item-type-post_type menu-item-object-proofing-gallery ">
+                        <li id="mobile-menu-item-973" class=" dropdown-itemm">
                             <a href="wedding.php" class=""><span>Weddings</span></a>
                         </li>
-                        <li id="mobile-menu-item-973" class="menu-item menu-item-type-post_type menu-item-object-proofing-gallery ">
+                        <li id="mobile-menu-item-973" class="dropdown-item ">
                             <a href="events.php" class=""><span>Events</span></a>
                         </li>
-                        <li id="mobile-menu-item-973" class="menu-item menu-item-type-post_type menu-item-object-proofing-gallery ">
+                        <li id="mobile-menu-item-973" class="dropdown-item">
                             <a href="documentary.php" class=""><span>Documentary</span></a>
                         </li>
-                        <li id="mobile-menu-item-973" class="menu-item menu-item-type-post_type menu-item-object-proofing-gallery ">
+                        <li id="mobile-menu-item-973" class="dropdown-item ">
                             <a href="projects.php" class=""><span>Projects</span></a>
                         </li>
                     </ul>
@@ -628,7 +628,7 @@ rs-fullwidth-wrap .eltdf-social-icon-widget-holder:after {
 
                   <li id="mobile-menu-item-33" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children  has_sub"><a href="academy.php>"><h6><span>Academy</span></h6></a></li>
 
-                  <li id="mobile-menu-item-33" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children  has_sub"><a href="contact.php"><h6><span>Contact</span></h6></a></li>
+                  <li id="mobile-menu-item-34" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children  has_sub"><a href="contact.php"><h6><span>Contact</span></h6></a></li>
                 </ul>
             </li>
         </ul> 
@@ -2069,7 +2069,7 @@ Alienum phaedrum torquatos </span>
             <h3 class="eltdf-custom-font-holder  eltdf-cf-8315   " style="font-style: italic;letter-spacing: 0px;text-transform: lowercase;text-align: center;color: #84847c;margin: 0 0 56px 0" data-item-class="eltdf-cf-8315">@ glintz_photography </h3>
         </div>
         <div class="widget widget_eltdf_instagram_widget">
-            <ul class="eltdf-instagram-feed clearfix eltdf-col-6 eltdf-instagram-gallery eltdf-large-space">
+            <!-- <ul class="eltdf-instagram-feed clearfix eltdf-col-6 eltdf-instagram-gallery eltdf-large-space">
                 <li>
                     <a href="https://www.instagram.com/p/CHIJQzPFVeA/" target="_blank">
                     <img src="./images/slider2.jpg" alt=""> </a>
@@ -2094,7 +2094,9 @@ Alienum phaedrum torquatos </span>
                     <a href="https://www.instagram.com/p/CHIJApyF1Tb/" target="_blank">
                     <img src="./images/slider7.jpg" alt=""> </a>
                 </li>
-            </ul>
+            </ul> -->
+            <script src="https://apps.elfsight.com/p/platform.js" defer></script>
+<div class="elfsight-app-2cfe4e2b-64d0-431b-a343-973fae233446"></div>
         </div>
     </div>
 </div>
@@ -2248,7 +2250,7 @@ Alienum phaedrum torquatos </span>
       <div class="eltdf-grid-col-4">
         <div id="text-6" class="widget eltdf-footer-bottom-column-2 widget_text">
           <div class="textwidget">
-            <p><span style="font-size: 18px; font-family: Cormorant Garamond; color: #4d504a; font-style: italic; font-weight: 400;">© 2021 Copyright Glintz Photography – Developed by <a href="https://instagram.com/oprimeng" target="_blank" >Oprime Technologies</a></span></p>
+            <p><span style="font-size: 18px; font-family: Cormorant Garamond; color: #4d504a; font-style: italic; font-weight: 400;">© 2021 Copyright Glintz Photography – Developed by <a href="https://instagram.com/oprime.ng" target="_blank" >Oprime Technologies</a></span></p>
           </div>
         </div>
       </div>
@@ -2300,7 +2302,7 @@ Alienum phaedrum torquatos </span>
         </div>
     </div>
     <div id="eltdf_instagram_widget-5" class="widget eltdf-sidearea widget_eltdf_instagram_widget">
-        <ul class="eltdf-instagram-feed clearfix eltdf-col-3 eltdf-instagram-gallery eltdf-tiny-space">
+        <!-- <ul class="eltdf-instagram-feed clearfix eltdf-col-3 eltdf-instagram-gallery eltdf-tiny-space">
             <li>
                 <a href="https://www.instagram.com/p/CHIJQzPFVeA/" target="_blank">
                 <img src="./images/slider2.jpg" alt=""> </a>
@@ -2325,7 +2327,9 @@ Alienum phaedrum torquatos </span>
                 <a href="https://www.instagram.com/p/CHIJApyF1Tb/" target="_blank">
                 <img src="./images/slider7.jpg" alt=""> </a>
             </li>
-        </ul>
+        </ul> -->
+        <script src="https://apps.elfsight.com/p/platform.js" defer></script>
+<div class="elfsight-app-2cfe4e2b-64d0-431b-a343-973fae233446"></div>
     </div>
     <div class="widget eltdf-separator-widget">
         <div class="eltdf-separator-holder clearfix  eltdf-separator-center eltdf-separator-normal">

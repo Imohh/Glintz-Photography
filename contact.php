@@ -327,7 +327,7 @@ $data = mysqli_fetch_array($runquery);
 																		<div class="wpb_wrapper">
 																			<div role="form" class="wpcf7" id="wpcf7-f13-p1792-o1" lang="en-US" dir="ltr">
 																				<div class="screen-reader-response"></div>
-																				<form action="include/messages.php" method="post" role="form" class="wpcf7-form" novalidate="novalidate">
+																		<form action="include/messages.php" method="post" role="form" class="wpcf7-form" novalidate="novalidate">
                                                                             <div style="display: none;">
                                                                                 <input type="hidden" name="_wpcf7" value="13">
                                                                                 <input type="hidden" name="_wpcf7_version" value="5.1.6">
@@ -361,7 +361,7 @@ $data = mysqli_fetch_array($runquery);
                                                                                 <p>
                                                                                     <button type="submit" class="wpcf7-form-control wpcf7-submit eltdf-btn eltdf-btn-large eltdf-btn-solid"><span class="eltdf-btn-text">Send</span></button><span class="ajax-loader"></span><br>
 
-                                                                                    <p><a href="">view our Price List</a></p>
+                                                                                    <p align="center"><a href="">view our Price List</a></p>
                                                                                 </p>
                                                                             </div>
                                                                             <div class="wpcf7-response-output wpcf7-display-none"></div>
@@ -486,7 +486,7 @@ $data = mysqli_fetch_array($runquery);
 															<div class="vc_column-inner">
 																<div class="wpb_wrapper">
 																	<h2 class="eltdf-custom-font-holder  eltdf-cf-9000  " style="font-family: Cormorant Garamond,serif;font-size: 20px;line-height: 25px;font-weight: 400;font-style: italic;letter-spacing: 0px;text-transform: capitalize;text-align: left;color: #4d504a" data-item-class="eltdf-cf-9000">
-																	<a class="eltdf-cf-title-link" href="mailto:info@glintzphotography.org" target="_self" rel="noopener noreferrer">© 2021 Copyright Glintz Photography</a>
+																	© 2021 Copyright Glintz Photography
 																	</h2>
 																</div>
 															</div>
@@ -509,7 +509,7 @@ $data = mysqli_fetch_array($runquery);
 															<div class="vc_column-inner">
 																<div class="wpb_wrapper">
 																	<h2 class="eltdf-custom-font-holder  eltdf-cf-1075  " style="font-family: Cormorant Garamond,serif;font-size: 20px;line-height: 25px;font-weight: 400;font-style: italic;letter-spacing: 0px;text-transform: capitalize;text-align: right;color: #4d504a" data-item-class="eltdf-cf-1075">
-																	Developed by <a class="eltdf-cf-title-link" href="https://instagram.com/oprimeng" target="_blank">Oprime Technology </a>
+																	Developed by <a class="eltdf-cf-title-link" href="https://instagram.com/oprime.ng" target="_blank">Oprime Technology </a>
 																	</h2>
 																</div>
 															</div>

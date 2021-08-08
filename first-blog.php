@@ -599,7 +599,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
       <div class="eltdf-grid-col-4">
         <div id="text-6" class="widget eltdf-footer-bottom-column-2 widget_text">
           <div class="textwidget">
-            <p><span style="font-size: 18px; font-family: Cormorant Garamond; color: #4d504a; font-style: italic; font-weight: 400;">© 2021 Copyright Glintz Photography – Developed by <a href="https://instagram.com/oprimeng" target="_blank" >Oprime Technologies</a></span></p>
+            <p><span style="font-size: 18px; font-family: Cormorant Garamond; color: #4d504a; font-style: italic; font-weight: 400;">© 2021 Copyright Glintz Photography – Developed by <a href="https://instagram.com/oprime.ng" target="_blank" >Oprime Technologies</a></span></p>
           </div>
         </div>
       </div>

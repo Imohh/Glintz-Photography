@@ -832,7 +832,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 								<div class="vc_column-inner">
 									<div class="wpb_wrapper">
 										<h2 class="eltdf-custom-font-holder  eltdf-cf-1075  " style="font-family: Cormorant Garamond,serif;font-size: 20px;line-height: 25px;font-weight: 400;font-style: italic;letter-spacing: 0px;text-transform: capitalize;text-align: right;color: #4d504a" data-item-class="eltdf-cf-1075">
-											Developed by <a class="eltdf-cf-title-link" href="https://instagram.com/oprimeng" target="_blank" rel="noopener noreferrer">Oprime Technologies</a>
+											Developed by <a class="eltdf-cf-title-link" href="https://instagram.com/oprime.ng" target="_blank" rel="noopener noreferrer">Oprime Technologies</a>
 										</h2>
 									</div>
 								</div>
