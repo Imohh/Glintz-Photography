@@ -918,7 +918,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 			<a href="https://www.instagram.com/p/CHIJApyF1Tb/" target="_blank">
 			<img src="./images/slider7.jpg" alt=""> </a>
 			</li>
-		</ul>
+		</ul>s
 	</div>
 	<div class="widget eltdf-separator-widget">
 		<div class="eltdf-separator-holder clearfix  eltdf-separator-center eltdf-separator-normal">
