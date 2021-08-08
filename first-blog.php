@@ -551,7 +551,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
             <h3 class="eltdf-custom-font-holder  eltdf-cf-8315   " style="font-style: italic;letter-spacing: 0px;text-transform: lowercase;text-align: center;color: #84847c;margin: 0 0 56px 0" data-item-class="eltdf-cf-8315">@ glintz_photography </h3>
         </div>
         <div class="widget widget_eltdf_instagram_widget">
-            <ul class="eltdf-instagram-feed clearfix eltdf-col-6 eltdf-instagram-gallery eltdf-large-space">
+            <!-- <ul class="eltdf-instagram-feed clearfix eltdf-col-6 eltdf-instagram-gallery eltdf-large-space">
                 <li>
                     <a href="https://www.instagram.com/p/CHIJQzPFVeA/" target="_blank">
                     <img src="./images/slider2.jpg" alt=""> </a>
@@ -576,7 +576,9 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                     <a href="https://www.instagram.com/p/CHIJApyF1Tb/" target="_blank">
                     <img src="./images/slider7.jpg" alt=""> </a>
                 </li>
-            </ul>
+            </ul> -->
+            <script src="https://apps.elfsight.com/p/platform.js" defer></script>
+<div class="elfsight-app-2cfe4e2b-64d0-431b-a343-973fae233446"></div>
         </div>
     </div>
 </div>
@@ -651,7 +653,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
         </div>
     </div>
     <div id="eltdf_instagram_widget-5" class="widget eltdf-sidearea widget_eltdf_instagram_widget">
-        <ul class="eltdf-instagram-feed clearfix eltdf-col-3 eltdf-instagram-gallery eltdf-tiny-space">
+        <!-- <ul class="eltdf-instagram-feed clearfix eltdf-col-3 eltdf-instagram-gallery eltdf-tiny-space">
             <li>
                 <a href="https://www.instagram.com/p/CHIJQzPFVeA/" target="_blank">
                 <img src="./images/slider2.jpg" alt=""> </a>
@@ -676,7 +678,9 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                 <a href="https://www.instagram.com/p/CHIJApyF1Tb/" target="_blank">
                 <img src="./images/slider7.jpg" alt=""> </a>
             </li>
-        </ul>
+        </ul> -->
+        <script src="https://apps.elfsight.com/p/platform.js" defer></script>
+<div class="elfsight-app-2cfe4e2b-64d0-431b-a343-973fae233446"></div>
     </div>
     <div class="widget eltdf-separator-widget">
         <div class="eltdf-separator-holder clearfix  eltdf-separator-center eltdf-separator-normal">
