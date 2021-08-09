@@ -486,7 +486,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 									<div class="eltdf-pi-content">
 										<div class="eltdf-pi-image-holder">
 											<div class="eltdf-pi-image-background" style="background-color: #aba699"></div>
-											<img width="572" height="369" src="./assets/our-process-img-3a.jpg" class="attachment-full size-full" alt="m" srcset="./assets/our-process-img-3a.jpg 572w, ./assets/our-process-img-3a.jpg 300w" sizes="(max-width: 572px) 100vw, 572px">
+											<img width="572" height="369" src="./images/TOMI& OLUMIDE WHITE (1).jpg" class="attachment-full size-full" alt="m" srcset="./images/TOMI& OLUMIDE WHITE (1).jpg 572w, ./images/TOMI& OLUMIDE WHITE (1).jpg 300w" sizes="(max-width: 572px) 100vw, 572px">
 										</div>
 										<div class="eltdf-pi-desc-holder">
 											<div class="eltdf-pi-desc-inner">
