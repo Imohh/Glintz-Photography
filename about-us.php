@@ -870,7 +870,7 @@
 					<div class="eltdf-st-inner">
 						<h2 class="eltdf-st-title">Follow Us on Instagram </h2>
 						<h3 class="eltdf-st-subtitle" style="text-transform: none;font-style: italic;color: #84847c">
-						<span>@ glintz_photography </span>
+						<span>@ glintz_photography <br>@glintz_studios</span>
 						</h3>
 					</div>
 				</div>
@@ -888,7 +888,7 @@
 						<div class="eltdf-eh-item-inner">
 							<div class="eltdf-eh-item-content eltdf-eh-custom-7333" style="padding: 0 9.5%">
 								<div class="eltdf-instagram-list-holder eltdf-grid-list eltdf-six-columns eltdf-large-space">
-									<ul class="eltdf-instagram-feed eltdf-outer-space eltdf-instagram-gallery clearfix">
+									<!-- <ul class="eltdf-instagram-feed eltdf-outer-space eltdf-instagram-gallery clearfix">
 										<li class="eltdf-il-item eltdf-item-space">
 											<a href="https://www.instagram.com/glintzphotography/" target="_blank">
 											<img src="./images/slider2.jpg" alt=""> </a>
@@ -913,7 +913,9 @@
 											<a href="https://www.instagram.com/p/CHIJApyF1Tb/" target="_blank">
 											<img src="./images/slider7.jpg" alt=""> </a>
 										</li>
-									</ul>
+									</ul> -->
+									<script src="https://apps.elfsight.com/p/platform.js" defer></script>
+									<div class="elfsight-app-2cfe4e2b-64d0-431b-a343-973fae233446"></div>
 								</div>
 							</div>
 						</div>
@@ -1031,7 +1033,7 @@
 	<div class="widget eltdf-custom-font-widget">
 		<h2 class="eltdf-custom-font-holder  eltdf-cf-5313   " style="font-family: Cormorant Garamond;font-size: 22px;line-height: 24px;font-weight: 300;letter-spacing: .15em;text-transform: uppercase;text-align: center;color: #ffffff;margin: 0 0 0 0" data-item-class="eltdf-cf-5313">Instagram </h2>
 	</div>
-	<div class="widget eltdf-custom-font-widget"><h2 class="eltdf-custom-font-holder  eltdf-cf-1934   " style="font-family: Cormorant Garamond,serif;font-size: 21px;line-height: 1.772727272727273em;font-weight: 400;font-style: italic;letter-spacing: 0px;text-transform: lowercase;text-align: center;color: #afafa5;margin: 0 0 0px 0" data-item-class="eltdf-cf-1934">@ glintz_photography </h2>
+	<div class="widget eltdf-custom-font-widget"><h2 class="eltdf-custom-font-holder  eltdf-cf-1934   " style="font-family: Cormorant Garamond,serif;font-size: 21px;line-height: 1.772727272727273em;font-weight: 400;font-style: italic;letter-spacing: 0px;text-transform: lowercase;text-align: center;color: #afafa5;margin: 0 0 0px 0" data-item-class="eltdf-cf-1934">@ glintz_photography <br>@ glintz_studios</h2>
 	</div>
 	<div class="widget eltdf-separator-widget">
 		<div class="eltdf-separator-holder clearfix  eltdf-separator-center eltdf-separator-normal">

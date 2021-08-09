@@ -885,7 +885,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 	<div class="widget eltdf-custom-font-widget">
 		<h2 class="eltdf-custom-font-holder  eltdf-cf-5313   " style="font-family: Cormorant Garamond;font-size: 22px;line-height: 24px;font-weight: 300;letter-spacing: .15em;text-transform: uppercase;text-align: center;color: #ffffff;margin: 0 0 0 0" data-item-class="eltdf-cf-5313">Instagram </h2>
 	</div>
-	<div class="widget eltdf-custom-font-widget"><h2 class="eltdf-custom-font-holder  eltdf-cf-1934   " style="font-family: Cormorant Garamond,serif;font-size: 21px;line-height: 1.772727272727273em;font-weight: 400;font-style: italic;letter-spacing: 0px;text-transform: lowercase;text-align: center;color: #afafa5;margin: 0 0 0px 0" data-item-class="eltdf-cf-1934">@ glintz_photography </h2>
+	<div class="widget eltdf-custom-font-widget"><h2 class="eltdf-custom-font-holder  eltdf-cf-1934   " style="font-family: Cormorant Garamond,serif;font-size: 21px;line-height: 1.772727272727273em;font-weight: 400;font-style: italic;letter-spacing: 0px;text-transform: lowercase;text-align: center;color: #afafa5;margin: 0 0 0px 0" data-item-class="eltdf-cf-1934">@ glintz_photography <br>@glintz_studios</h2>
 	</div>
 	<div class="widget eltdf-separator-widget">
 		<div class="eltdf-separator-holder clearfix  eltdf-separator-center eltdf-separator-normal">
