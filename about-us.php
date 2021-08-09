@@ -1093,7 +1093,7 @@
 		<a class="eltdf-social-icon-widget-holder eltdf-icon-has-hover" data-hover-color="#ffffff" style="font-size: 15px" href="https://twitter.com/glintzmedia " target="_blank">
 			<img src="https://img.icons8.com/ios-glyphs/30/000000/twitter.png" height="20px" width="20px"/>
 		</a>
-		<a class="eltdf-social-icon-widget-holder eltdf-icon-has-hover" data-hover-color="#ffffff" style="font-size: 15px" href="https://www.youtube.com/glintzphotography" target="_blank">
+		<a class="eltdf-social-icon-widget-holder eltdf-icon-has-hover" data-hover-color="#ffffff" style="font-size: 15px" href="https://www.youtube.com/channel/UCMdqsviB8dCvgYGTLPBgVaQ" target="_blank">
 			<img src="https://img.icons8.com/material-outlined/24/000000/youtube--v2.png" height="20px" width="20px"/>
 		</a>
 	</div>
