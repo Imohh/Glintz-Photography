@@ -11,7 +11,7 @@
 <html lang="en-US" class=" js flexbox flexboxlegacy canvas canvastext no-touch hashchange history draganddrop rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio svg inlinesvg svgclippaths js_active  vc_desktop  vc_transform  vc_transform ">
 <head>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-    <meta property="og:url" content="https://solene.qodeinteractive.com/portfolio-item/bridal-bouquet/">
+    <meta property="og:url" content="https://glintzphotography.org">
     <meta property="og:type" content="article">
     <meta property="og:title" content="Bridal Bouquet">
     <meta property="og:description" content="Photography WebPage
