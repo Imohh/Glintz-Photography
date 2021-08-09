@@ -12,7 +12,7 @@ $data = mysqli_fetch_array($runquery);
 <html lang="en-US" class=" js flexbox flexboxlegacy canvas canvastext no-touch hashchange history draganddrop rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio svg inlinesvg svgclippaths js_active  vc_desktop  vc_transform  vc_transform ">
 <head>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-    <meta property="og:url" content="https://solene.qodeinteractive.com/portfolio-item/bridal-bouquet/">
+    <meta property="og:url" content="https://glintzphotography.org">
     <meta property="og:type" content="article">
     <meta property="og:title" content="Bridal Bouquet">
     <meta property="og:description" content="Photography WebPage
@@ -634,7 +634,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
         </div>
     </div>
     <div class="widget eltdf-social-icons-group-widget text-align-center">
-        <a class="eltdf-social-icon-widget-holder eltdf-icon-has-hover" data-hover-color="#ffffff" style="font-size: 15px" href="#" target="_blank">
+        <a class="eltdf-social-icon-widget-holder eltdf-icon-has-hover" data-hover-color="#ffffff" style="font-size: 15px" href="https://web.facebook.com/glintzmedia" target="_blank">
             <img src="https://img.icons8.com/ios-glyphs/24/000000/facebook-new.png" height="20px" width="20px"/>
         </a>
         <a class="eltdf-social-icon-widget-holder eltdf-icon-has-hover" data-hover-color="#ffffff" style="font-size: 15px" href="https://www.instagram.com/glintz_photography/" target="_blank">

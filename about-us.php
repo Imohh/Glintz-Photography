@@ -962,7 +962,7 @@
 									<div class="wpb_wrapper">
 										<div class="wpb_widgetised_column wpb_content_element">
 											<div class="wpb_wrapper">
-												<a class="eltdf-social-icon-widget-holder eltdf-icon-has-hover" style="color: #84847c;;margin: 27px 0 0 0;" href="https://www.facebook.com/glintzphotography/" target="_blank" rel="noopener noreferrer">
+												<a class="eltdf-social-icon-widget-holder eltdf-icon-has-hover" style="color: #84847c;;margin: 27px 0 0 0;" href="https://web.facebook.com/glintzmedia" target="_blank" rel="noopener noreferrer">
 													<span>FB</span>
 												</a>
 												<a class="eltdf-social-icon-widget-holder eltdf-icon-has-hover" style="color: #84847c;;margin: 27px 0 0 0;" href="https://www.instagram.com/glintz_photography/" target="_blank" rel="noopener noreferrer">
@@ -1084,7 +1084,7 @@
 		</div>
 	</div>
 	<div class="widget eltdf-social-icons-group-widget text-align-center">
-		<a class="eltdf-social-icon-widget-holder eltdf-icon-has-hover" data-hover-color="#ffffff" style="font-size: 15px" href="https://www.facebook.com/glintzphotography/" target="_blank">
+		<a class="eltdf-social-icon-widget-holder eltdf-icon-has-hover" data-hover-color="#ffffff" style="font-size: 15px" href="https://web.facebook.com/glintzmedia" target="_blank">
 			<img src="https://img.icons8.com/ios-glyphs/24/000000/facebook-new.png" height="20px" width="20px"/>
 		</a>
 		<a class="eltdf-social-icon-widget-holder eltdf-icon-has-hover" data-hover-color="#ffffff" style="font-size: 15px" href="https://www.instagram.com/glintz_photography/" target="_blank">
