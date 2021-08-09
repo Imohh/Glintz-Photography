@@ -804,7 +804,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 								<div class="vc_column-inner">
 									<div class="wpb_wrapper">
 										<h2 class="eltdf-custom-font-holder  eltdf-cf-9000  " style="font-family: Cormorant Garamond,serif;font-size: 20px;line-height: 25px;font-weight: 400;font-style: italic;letter-spacing: 0px;text-transform: capitalize;text-align: left;color: #4d504a" data-item-class="eltdf-cf-9000">
-											<a class="eltdf-cf-title-link" href="mailto:info@glintzphotography.org" target="_self" rel="noopener noreferrer">© 2021 Copyright Glintz Photography</a>
+											© 2021 Copyright Glintz Photography
 										</h2>
 									</div>
 								</div>
