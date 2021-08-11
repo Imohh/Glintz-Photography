@@ -606,27 +606,22 @@ rs-fullwidth-wrap .eltdf-social-icon-widget-holder:after {
 
                   <li id="mobile-menu-item-29" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children  has_sub"><a href="about-us.php"><h6><span>About Us</span></h6></a></li>
 
-                  <li id="mobile-menu-item-30" class=" dropdown"><h6><span>Portfolio</span></h6><span class="mobile_arrow"><i class="eltdf-sub-arrow ion-ios-arrow-forward"></i></span>
+                  <li id="mobile-menu-item-90" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children  has_sub"><h6><span>Portfolio</span></h6><span class="mobile_arrow"><i class="eltdf-sub-arrow ion-ios-arrow-forward"></i></span>
+                    <ul class="sub_menu">
+                        <li id="mobile-menu-item-1405" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="portraits.php" class=""><span>Portraits</span></a></li>
+                        <li id="mobile-menu-item-1257" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="wedding.php" class=""><span>Weddings</span></a></li>
+                        <li id="mobile-menu-item-1232" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="events.php" class=""><span>Events</span></a></li>
+                        <li id="mobile-menu-item-1805" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="documentary.php" class=""><span>Documentary</span></a></li>
+                    </ul>
+                </li>
+
+                  <li id="mobile-menu-item-30" style="display:none" class=" dropdown"><h6><span>Academy</span></h6>
                     <ul class="sub_menu dropdown-toggle">
-                        <li id="mobile-menu-item-974" class="dropdown-item ">
-                            <a href="portraits.php" class=""><span>Portrait</span></a>
-                        </li>
-                        <li id="mobile-menu-item-973" class=" dropdown-itemm">
-                            <a href="wedding.php" class=""><span>Weddings</span></a>
-                        </li>
-                        <li id="mobile-menu-item-973" class="dropdown-item ">
-                            <a href="events.php" class=""><span>Events</span></a>
-                        </li>
-                        <li id="mobile-menu-item-973" class="dropdown-item">
-                            <a href="documentary.php" class=""><span>Documentary</span></a>
-                        </li>
-                        <li id="mobile-menu-item-973" class="dropdown-item ">
-                            <a href="projects.php" class=""><span>Projects</span></a>
-                        </li>
+                        
                     </ul>
                   </li>
 
-                  <li id="mobile-menu-item-33" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children  has_sub"><a href="academy.php>"><h6><span>Academy</span></h6></a></li>
+                  <li id="mobile-menu-item-33" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children  has_sub"><a href="academy.php"><h6><span>Academy</span></h6></a></li>
 
                   <li id="mobile-menu-item-34" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children  has_sub"><a href="contact.php"><h6><span>Contact</span></h6></a></li>
                 </ul>
@@ -1216,10 +1211,10 @@ ceremonies </h6>
                     </a>
                   </div>
                   <div class="eltdf-ils-item-images-holder">
-                    <div class="eltdf-ils-item-image eltdf-prev">
+                    <div class="eltdf-ils-item-image eltdf-active">
                       <img width="1300" height="718" src="./images/portrait1.jpg" class="attachment-full size-full" alt="d" sizes="(max-width: 1300px) 100vw, 1300px">
                     </div>
-                    <div class="eltdf-ils-item-image eltdf-active">
+                    <div class="eltdf-ils-item-image">
                       <img width="1300" height="718" src="./images/wedding4.jpg" class="attachment-full size-full" alt="d" sizes="(max-width: 1300px) 100vw, 1300px">
                     </div>
                     <div class="eltdf-ils-item-image">
@@ -1600,7 +1595,7 @@ ceremonies </h6>
                                         <div class="owl-item cloned" style="width: 1100px;">
                                             <div class="eltdf-testimonial-content" id="eltdf-testimonials-91">
                                                 <div class="eltdf-testimonial-image">
-                                                    <img width="638" height="434" src="./images/testimonials/Client feedback Mrs Toimlola Ojo.png" class="attachment-638x434 size-638x434 wp-post-image" alt="d" sizes="(max-width: 638px) 100vw, 638px">
+                                                    <img width="638" height="434" src="./images/Client feedback Mrs Toimlola Ojo.png" class="attachment-638x434 size-638x434 wp-post-image" alt="d" sizes="(max-width: 638px) 100vw, 638px">
                                                 </div>
                                                 <div class="eltdf-testimonial-text-holder">
                                                     <!-- <span class="eltdf-testimonial-date">December 01,2019</span> -->
@@ -1970,7 +1965,8 @@ Alienum phaedrum torquatos </span>
                                             <div class="eltdf-st-inner">
                                                 <h2 class="eltdf-st-title">Get in Touch </h2>
                                                 <h3 class="eltdf-st-subtitle" style="text-transform: none;font-style: italic;color: #84847c">
-                                                    <span>Follow our latest stories. </span>
+                                                    <!-- <span>Follow our latest stories. </span> -->
+                                                    <span>To hire us</span>
                                                 </h3>
                                             </div>
                                         </div>
@@ -2027,7 +2023,7 @@ Alienum phaedrum torquatos </span>
                                                                                 <p>
                                                                                     <button type="submit" class="wpcf7-form-control wpcf7-submit eltdf-btn eltdf-btn-large eltdf-btn-solid"><span class="eltdf-btn-text">Send</span></button><span class="ajax-loader"></span><br>
 
-                                                                                    <p><a href="">view our Price List</a></p>
+                                                                                    <!-- <p><a href="">view our Price List</a></p> -->
                                                                                 </p>
                                                                             </div>
                                                                             <div class="wpcf7-response-output wpcf7-display-none"></div>

@@ -369,7 +369,21 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
 					<li id="mobile-menu-item-29" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children  has_sub"><a href="about-us.php"><h6><span>About Us</span></h6></a></li>
 
-					<li id="mobile-menu-item-31" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children  has_sub"><a href="#"><h6><span>Portfolio</span></h6></a></li>
+					<li id="mobile-menu-item-90" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children  has_sub"><h6><span>Portfolio</span></h6><span class="mobile_arrow"><i class="eltdf-sub-arrow ion-ios-arrow-forward"></i></span>
+	                    <ul class="sub_menu">
+	                        <li id="mobile-menu-item-1405" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="portraits.php" class=""><span>Portraits</span></a></li>
+	                        <li id="mobile-menu-item-1257" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="wedding.php" class=""><span>Weddings</span></a></li>
+	                        <li id="mobile-menu-item-1232" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="events.php" class=""><span>Events</span></a></li>
+	                        <li id="mobile-menu-item-1805" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="documentary.php" class=""><span>Documentary</span></a></li>
+	                        <li id="mobile-menu-item-1232" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="projects.php" class=""><span>Projects</span></a></li>
+	                    </ul>
+	                </li>
+
+	                <li id="mobile-menu-item-30" style="display:none" class=" dropdown"><h6><span>Academy</span></h6>
+    	                <ul class="sub_menu dropdown-toggle">
+                        
+ 	                   </ul>
+                	</li>
 
 					<li id="mobile-menu-item-28" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children  has_sub"><h6><a href="academy.php">Academy</a></h6></li>
 

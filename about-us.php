@@ -396,14 +396,21 @@
 
 			<li id="mobile-menu-item-29" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-ancestor current-menu-parent menu-item-has-children eltdf-active-item has_sub"><h6><span>About Us</span></h6></li>
 
-			<li id="mobile-menu-item-30" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children  has_sub"><h6><span>Portfolio</span></h6><span class="mobile_arrow"><i class="eltdf-sub-arrow ion-ios-arrow-forward"></i></span>
-				<ul class="sub_menu">
-					<li id="mobile-menu-item-1405" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="#" class=""><span>Portraits</span></a></li>
-					<li id="mobile-menu-item-1257" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="#" class=""><span>Weddings</span></a></li>
-					<li id="mobile-menu-item-1232" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="#" class=""><span>Events</span></a></li>
-					<li id="mobile-menu-item-1805" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="#" class=""><span>Documentary</span></a></li>
-				</ul>
-			</li>
+			<li id="mobile-menu-item-90" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children  has_sub"><h6><span>Portfolio</span></h6><span class="mobile_arrow"><i class="eltdf-sub-arrow ion-ios-arrow-forward"></i></span>
+                <ul class="sub_menu">
+                   <li id="mobile-menu-item-1405" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="portraits.php" class=""><span>Portraits</span></a></li>
+                   <li id="mobile-menu-item-1257" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="wedding.php" class=""><span>Weddings</span></a></li>
+                   <li id="mobile-menu-item-1232" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="events.php" class=""><span>Events</span></a></li>
+                   <li id="mobile-menu-item-1805" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="documentary.php" class=""><span>Documentary</span></a></li>
+                   <li id="mobile-menu-item-1232" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="projects.php" class=""><span>Projects</span></a></li>
+                </ul>
+         	</li>
+
+         	<li id="mobile-menu-item-30" style="display:none" class=" dropdown"><h6><span>Academy</span></h6>
+                <ul class="sub_menu dropdown-toggle">
+                        
+                </ul>
+            </li>
 
 			<li id="mobile-menu-item-31" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children  has_sub"><a href="academy.php"><h6><span>Academy</span></h6></a></li>
 
@@ -459,7 +466,7 @@
 		<div class="vc_column-inner">
 			<div class="wpb_wrapper">
 				<div class="eltdf-elements-holder   eltdf-one-column  eltdf-responsive-mode-768 ">
-					<div class="eltdf-eh-item   eltdf-horizontal-alignment-center " style="background-image: url(./images/header.jpg)" data-item-class="eltdf-eh-custom-2785" data-680="25% 0 25% 0">
+					<div class="eltdf-eh-item   eltdf-horizontal-alignment-center " style="background-image: url(./images/head-section.jpg)" data-item-class="eltdf-eh-custom-2785" data-680="25% 0 25% 0">
 						<div class="eltdf-eh-item-inner">
 							<div class="eltdf-eh-item-content eltdf-eh-custom-2785" style="padding: 15% 0 15% 0">
 								<div class="eltdf-section-title-holder  ">

@@ -383,11 +383,25 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
         <nav class="eltdf-mobile-nav" role="navigation" aria-label="Mobile Menu" style="">
             <div class="eltdf-grid">
                 <ul id="menu-main-menu-2" class="">
-                  <li id="mobile-menu-item-28" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-ancestor current-menu-parent menu-item-has-children eltdf-active-item has_sub"><h6><a href="index.php"><span>Home</span></a></h6><span class="mobile_arrow"><i class="eltdf-sub-arrow ion-ios-arrow-forward"></i></span></li>
+                  <li id="mobile-menu-item-28" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children  has_sub"><a href="index.php"><h6><span>Home</span></h6></a></li>
 
                   <li id="mobile-menu-item-29" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children  has_sub"><a href="about-us.php"><h6><span>About Us</span></h6></a></li>
 
-                  <li id="mobile-menu-item-31" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children  has_sub"><h6><span>Portfolio</span></h6></li>
+                  <li id="mobile-menu-item-90" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children  has_sub"><h6><span>Portfolio</span></h6><span class="mobile_arrow"><i class="eltdf-sub-arrow ion-ios-arrow-forward"></i></span>
+                    <ul class="sub_menu">
+                        <li id="mobile-menu-item-1405" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-ancestor current-menu-parent eltdf-active-item"><a href="portraits.php" class=""><span>Portraits</span></a></li>
+                        <li id="mobile-menu-item-1257" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="wedding.php" class=""><span>Weddings</span></a></li>
+                        <li id="mobile-menu-item-1232" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="events.php" class=""><span>Events</span></a></li>
+                        <li id="mobile-menu-item-1805" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="documentary.php" class=""><span>Documentary</span></a></li>
+                        <li id="mobile-menu-item-1232" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="projects.php" class=""><span>Projects</span></a></li>
+                    </ul>
+                  </li>
+
+                  <li id="mobile-menu-item-30" style="display:none" class=" dropdown"><h6><span>Academy</span></h6>
+                    <ul class="sub_menu dropdown-toggle">
+                        
+                    </ul>
+                  </li>
 
                   <li id="mobile-menu-item-33" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children  has_sub"><a href="academy.php>"><h6><span>Academy</span></h6></a></li>
 
@@ -406,7 +420,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
 
 
-<a id="eltdf-back-to-top" href="https://solene.qodeinteractive.com/portfolio-item/bridal-bouquet/#" class="off">
+<a id="eltdf-back-to-top" href="#" class="off">
 <span>
 <svg class="eltdf-svg-circle"><circle cx="50%" cy="50%" r="45%"></circle></svg> <svg class="eltdf-svg-circle"><circle cx="50%" cy="50%" r="45%"></circle></svg> <svg class="eltdf-back-to-top-arrow" x="0px" y="0px" width="12.771px" height="19.503px" viewBox="8.563 4.497 12.771 19.503" enable-background="new 8.563 4.497 12.771 19.503" xml:space="preserve">
 <line fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" x1="14.962" y1="23.433" x2="14.962" y2="5.058"></line>
@@ -419,7 +433,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <div class="eltdf-content-inner">
 <div class="eltdf-title-holder eltdf-standard-with-breadcrumbs-type eltdf-title-va-header-bottom eltdf-has-bg-image eltdf-bg-parallax" style="height: 107px; background-image: url(&quot;images/photography.jpg&quot;); background-position: center 0px;" data-height="107">
 <div class="eltdf-title-image">
-<img itemprop="image" src="./images/slider6.jpg" alt="m">
+<img itemprop="image" src="./images/photography.jpg" alt="m">
 </div>
 <div class="eltdf-title-wrapper" style="height: 107px">
 <div class="eltdf-title-inner">
@@ -489,7 +503,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
             <h3 class="eltdf-custom-font-holder  eltdf-cf-8315   " style="font-style: italic;letter-spacing: 0px;text-transform: lowercase;text-align: center;color: #84847c;margin: 0 0 56px 0" data-item-class="eltdf-cf-8315">@ glintz_photography <br>@glintz_studios</h3>
         </div>
         <div class="widget widget_eltdf_instagram_widget">
-            <ul class="eltdf-instagram-feed clearfix eltdf-col-6 eltdf-instagram-gallery eltdf-large-space">
+            <!-- <ul class="eltdf-instagram-feed clearfix eltdf-col-6 eltdf-instagram-gallery eltdf-large-space">
                 <li>
                     <a href="https://www.instagram.com/p/CHIJQzPFVeA/" target="_blank">
                     <img src="./images/slider2.jpg" alt=""> </a>
@@ -514,7 +528,9 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                     <a href="https://www.instagram.com/p/CHIJApyF1Tb/" target="_blank">
                     <img src="./images/slider7.jpg" alt=""> </a>
                 </li>
-            </ul>
+            </ul> -->
+            <script src="https://apps.elfsight.com/p/platform.js" defer></script>
+<div class="elfsight-app-2cfe4e2b-64d0-431b-a343-973fae233446"></div>
         </div>
     </div>
 </div>
