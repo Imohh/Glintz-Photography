@@ -916,7 +916,7 @@ Royal Prince</h3>
                               <div class="eltdf-st-inner">
                                 <span class="eltdf-st-separator" style="color: #e1d9cf;height: 136px"></span>
                                 <h3 class="eltdf-st-title" style="color: #72726c">
-                                to hire is to trust us and we promise to deploy our best to make your project an unforgettable experience</h3>
+                                hiring us means you trust us to keep to our promise of delivering a remarkable and unforgettable memory of your project</h3>
                               </div>
                             </div>
                           </div>
