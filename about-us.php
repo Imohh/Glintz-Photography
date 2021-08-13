@@ -782,16 +782,16 @@
 							<div class="eltdf-eh-item-content eltdf-eh-custom-1987" style="padding: 315px 0 125px 15.8%">
 								<div class="eltdf-ils-holder eltdf-ils-split ">
 									<div class="eltdf-ils-content-holder">
-										<a itemprop="url" class="eltdf-ils-item-link eltdf-active" data-index="0" href="#four-columns-wide/" target="_self">
+										<a itemprop="url" class="eltdf-ils-item-link eltdf-active" data-index="0" href="portraits.php" target="_self">
 										<span class="eltdf-ils-item-title" style="font-size: 30px">Portraits</span>
 										</a>
-										<a itemprop="url" class="eltdf-ils-item-link" data-index="1" href="#" target="_self">
+										<a itemprop="url" class="eltdf-ils-item-link" data-index="1" href="wedding.php" target="_self">
 										<span class="eltdf-ils-item-title" style="font-size: 30px">Wedding</span>
 										</a>
-										<a itemprop="url" class="eltdf-ils-item-link" data-index="2" href="#" target="_self">
+										<a itemprop="url" class="eltdf-ils-item-link" data-index="2" href="events.php" target="_self">
 										<span class="eltdf-ils-item-title" style="font-size: 30px">Events</span>
 										</a>
-										<a itemprop="url" class="eltdf-ils-item-link" data-index="3" href="#" target="_self">
+										<a itemprop="url" class="eltdf-ils-item-link" data-index="3" href="documentary.php" target="_self">
 										<span class="eltdf-ils-item-title" style="font-size: 30px">Documentary</span>
 										</a>
 									</div>

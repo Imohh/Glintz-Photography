@@ -1091,7 +1091,7 @@ ceremonies </h6>
                                 <div class="eltdf-team-image">
                                     <img width="800" height="1142" src="./images/tpj4.jpg" class="main-image" alt="d" sizes="(max-width: 800px) 100vw, 800px">
                                     <div class="eltdf-team-hover-image">
-                                        <img width="150" height="133" src="./images/temitope.png" class="attachment-full size-full" alt="m">
+                                        <img width="150" height="133" src="./images/temitope.png" class="attachment-full size-full" alt="m" sizes="(max-width: 800px) 100vw, 800px">
                                     </div>
                                         <a class="eltdf-team-link" href="" target="_self"></a>
                                     </div>
@@ -1587,8 +1587,6 @@ ceremonies </h6>
                     <div class="wpb_wrapper">
                         <div class="eltdf-testimonials-holder clearfix eltdf-testimonials-standard ">
                             <div class="eltdf-testimonials eltdf-owl-slider eltdf-slider-has-both-nav owl-loaded owl-drag" data-enable-loop="yes" data-enable-autoplay="yes" data-slider-speed="5000" data-slider-speed-animation="600" data-enable-navigation="yes" data-enable-pagination="yes" style="visibility: visible;">
-
-
 
                                 <div class="owl-stage-outer">
                                     <div class="owl-stage" style="transform: translate3d(-3300px, 0px, 0px); transition: all 0.6s ease 0s; width: 7700px;">

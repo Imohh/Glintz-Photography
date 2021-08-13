@@ -657,7 +657,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 									</div>
 								</div>
 								<div class="owl-item cloned" style="width: 1100px;">
-									<div class="eltdf-testimonial-content" id="eltdf-testimonials-92">
+									<div class="eltdf-testimonial-content" id="eltdf-testimonials-90">
 										<div class="eltdf-testimonial-image">
 											<img width="638" height="434" src="./images/testimonials/Academy Gbenga Harmony Rufus.png" class="attachment-638x434 size-638x434 wp-post-image" alt="d" sizes="(max-width: 638px) 100vw, 638px">
 										</div>
