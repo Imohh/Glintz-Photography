@@ -1089,7 +1089,7 @@ ceremonies </h6>
                         <div class="eltdf-team-holder eltdf-team-info-below-image">
                             <div class="eltdf-team-inner">
                                 <div class="eltdf-team-image">
-                                    <img width="800" height="1142" src="./images/tpj4s.jpg" class="main-image" alt="d" sizes="(max-width: 800px) 100vw, 800px">
+                                    <img width="800" height="1142" src="./images/tpj4s.jpg" class="" alt="d" sizes="(max-width: 800px) 100vw, 800px">
                                     <!-- <div class="eltdf-team-hover-image">
                                         <img width="150" height="133" src="./images/temitope.png" class="attachment-full size-full" alt="m" sizes="(max-width: 800px) 100vw, 800px">
                                     </div> -->
@@ -1117,7 +1117,7 @@ ceremonies </h6>
                         <div class="eltdf-team-holder eltdf-team-info-below-image">
                             <div class="eltdf-team-inner">
                                 <div class="eltdf-team-image" style="margin-top: 40px">
-                                    <img width="800" height="1142" src="./images/IMG_20210711_101013s.jpg" class="main-image" alt="d" sizes="(max-width: 800px) 100vw, 800px">
+                                    <img width="800" height="1142" src="./images/IMG_20210711_101013s.jpg" class="" alt="d" sizes="(max-width: 800px) 100vw, 800px">
                                     <!-- <div class="eltdf-team-hover-image">
                                         <img width="150" height="133" src="./images/leonard.png" class="attachment-full size-full" alt="m"> </div> -->
                                         <a class="eltdf-team-link" href="" target="_self"></a>
@@ -1149,7 +1149,7 @@ ceremonies </h6>
                                         <div class="eltdf-team-holder eltdf-team-info-below-image">
                                             <div class="eltdf-team-inner">
                                                 <div class="eltdf-team-image">
-                                                    <img width="800" height="1142" src="./images/GLI_0736es.jpg" class="main-image" alt="d" sizes="(max-width: 800px) 100vw, 800px">
+                                                    <img width="800" height="1142" src="./images/GLI_0736es.jpg" class="" alt="d" sizes="(max-width: 800px) 100vw, 800px">
                                                     <!-- <div class="eltdf-team-hover-image">
                                                         <img width="150" height="133" src="./images/funmi.png" class="attachment-full size-full" alt="m"> </div> -->
                                                         <a class="eltdf-team-link" href="" target="_self"></a>
