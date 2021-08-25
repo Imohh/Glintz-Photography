@@ -952,10 +952,12 @@ Royal Prince</h3>
                                 <div class="eltdf-video-button-holder  eltdf-vb-has-img">
                                   <div class="eltdf-video-button-image">
                                     <!-- <img width="1302" height="696" src="./images/videopic.jpg" class="attachment-full size-full" alt="d" sizes="(max-width: 1302px) 100vw, 1302px"> -->
-                                    <iframe width="853" height="480" src="https://www.youtube.com/embed/XeBd5ANLuvo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                                    <iframe width="420" height="315"
+                                    src="https://www.youtube.com/embed/tgbNymZ7vqY">
+                                    </iframe>
                                   </div>
                                   <a class="eltdf-video-button-play" style="color: #ffffff" href="https://www.youtube.com/watch?v=XeBd5ANLuvo&t=16s" data-rel="prettyPhoto[video_button_pretty_photo_412]">
-                                    <!-- <span class="eltdf-video-button-play-inner">
+                                    <span class="eltdf-video-button-play-inner">
                                       <img src="https://img.icons8.com/android/64/000000/play.png" height="30px" width="30px" />
                                       <span class="eltdf-vb-label">
                                         <span>play</span>
@@ -967,7 +969,7 @@ Royal Prince</h3>
                                       <svg class="eltdf-svg-circle">
                                         <circle cx="50%" cy="50%" r="45%"></circle>
                                       </svg>
-                                    </span> -->
+                                    </span>
                                   </a>
                                 </div>
                               </div>
