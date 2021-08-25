@@ -1094,7 +1094,7 @@ ceremonies </h6>
                                     <!-- <div class="eltdf-team-hover-image">
                                         <img width="150" height="133" src="./images/temitope.png" class="attachment-full size-full" alt="m" sizes="(max-width: 800px) 100vw, 800px">
                                     </div> -->
-                                        <a class="eltdf-team-link" href="" target="_self"></a>
+                                        <!-- <a class="eltdf-team-link" href="" target="_self"></a> -->
                                     </div>
                                 <div class="eltdf-team-info">
                                     <span class="eltdf-team-position" style="color: #84847c">Creative Director</span>
