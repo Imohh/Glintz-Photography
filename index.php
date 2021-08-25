@@ -1328,7 +1328,7 @@ ceremonies </h6>
                             $runquery5= mysqli_query($db,$query5);
                             while($data5=mysqli_fetch_array($runquery5)){
                         ?>
-                      <a itemprop="url" href="">
+                      <a itemprop="url" href="first-blog.php">
                         <img width="1100" height="1294" src="assets/img/<?=$data5['projectpic']?>" class="attachment-full size-full" alt="d" sizes="(max-width: 1100px) 100vw, 1100px">
                       </a>
                       <?php
@@ -1377,7 +1377,7 @@ ceremonies </h6>
                             $runquery5= mysqli_query($db,$query5);
                             while($data5=mysqli_fetch_array($runquery5)){
                         ?>
-                      <a itemprop="url" href="#">
+                      <a itemprop="url" href="second-blog.php">
                         <img width="1100" height="1294" src="assets/img/<?=$data5['projectpic']?>" class="attachment-full size-full" alt="d" sizes="(max-width: 1100px) 100vw, 1100px">
                       </a>
                       <?php
@@ -1425,7 +1425,7 @@ ceremonies </h6>
                             $runquery5= mysqli_query($db,$query5);
                             while($data5=mysqli_fetch_array($runquery5)){
                         ?>
-                      <a itemprop="url" href="#">
+                      <a itemprop="url" href="third-blog.php">
                         <img width="1100" height="1294" src="assets/img/<?=$data5['projectpic']?>" class="attachment-full size-full" alt="d" sizes="(max-width: 1100px) 100vw, 1100px">
                       </a>
                       <?php
@@ -1472,7 +1472,7 @@ ceremonies </h6>
                             $runquery5= mysqli_query($db,$query5);
                             while($data5=mysqli_fetch_array($runquery5)){
                         ?>
-                      <a itemprop="url" href="#">
+                      <a itemprop="url" href="forth-blog.php">
                         <img width="1100" height="1294" src="assets/img/<?=$data5['projectpic']?>" class="attachment-full size-full" alt="d" sizes="(max-width: 1100px) 100vw, 1100px">
                       </a>
                       <?php
