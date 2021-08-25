@@ -1091,9 +1091,9 @@ ceremonies </h6>
                             <div class="eltdf-team-inner">
                                 <div class="eltdf-team-image">
                                     <img width="800" height="1142" src="./images/tpj4s.jpg" class="" alt="d" sizes="(max-width: 800px) 100vw, 800px">
-                                    <!-- <div class="eltdf-team-hover-image">
-                                        <img width="150" height="133" src="./images/temitope.png" class="attachment-full size-full" alt="m" sizes="(max-width: 800px) 100vw, 800px">
-                                    </div> -->
+                                    <div class="eltdf-team-hover-image">
+                                        <img width="800" height="1142" src="./images/tpj4.jpg" class="attachment-full size-full" alt="m" sizes="(max-width: 800px) 100vw, 800px">
+                                    </div>
                                         <!-- <a class="eltdf-team-link" href="" target="_self"></a> -->
                                     </div>
                                 <div class="eltdf-team-info">
@@ -1119,15 +1119,10 @@ ceremonies </h6>
                             <div class="eltdf-team-inner">
                                 <div class="eltdf-team-image " style="margin-top: 40px">
                                     <img width="800" height="1142" src="./images/IMG_20210711_101013s.jpg" class="first-team-photo" alt="d" sizes="(max-width: 800px) 100vw, 800px">
-                                    <!-- <div class="eltdf-team-hover-image">
-                                        <img width="150" height="133" src="./images/leonard.png" class="attachment-full size-full" alt="m"> </div> -->
-                                        <a class="eltdf-team-link" href="" target="_self"></a>
+                                    <div class="eltdf-team-hover-image">
+                                        <img width="800" height="1142" src="./images/IMG_20210711_101013.jpg" class="attachment-full size-full" alt="m"> </div>
+                                        <!-- <a class="eltdf-team-link" href="" target="_self"></a> -->
                                     </div>
-                                    <style>
-                                        .first-team-photo:hover {
-                                            background: red
-                                        }
-                                    </style>
                                 <div class="eltdf-team-info">
                                     <span class="eltdf-team-position" style="color: #84847c">Photographer</span>
                                     <h3 class="eltdf-team-name" style="font-size: 17px">Leonard Ikediuba</h3>
@@ -1156,9 +1151,9 @@ ceremonies </h6>
                                             <div class="eltdf-team-inner">
                                                 <div class="eltdf-team-image">
                                                     <img width="800" height="1142" src="./images/GLI_0736es.jpg" class="" alt="d" sizes="(max-width: 800px) 100vw, 800px">
-                                                    <!-- <div class="eltdf-team-hover-image">
-                                                        <img width="150" height="133" src="./images/funmi.png" class="attachment-full size-full" alt="m"> </div> -->
-                                                        <a class="eltdf-team-link" href="" target="_self"></a>
+                                                    <div class="eltdf-team-hover-image">
+                                                        <img width="900" height="1242" src="./images/GLI_0736e.jpg" class="l" alt="m"> </div>
+                                                        <!-- <a class="eltdf-team-link" href="" target="_self"></a> -->
                                                     </div>
                                                 <div class="eltdf-team-info">
                                                     <span class="eltdf-team-position" style="color: #84847c">Retoucher</span>
