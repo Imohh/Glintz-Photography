@@ -725,6 +725,152 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
 
 
+
+
+			<div class="eltdf-content">
+				<div class="eltdf-content-inner">
+					<div class="eltdf-full-width">
+						<div class="eltdf-full-width-inner">
+							<div class="eltdf-grid-row">
+								<div class="eltdf-page-content-holder eltdf-grid-col-12">
+									<div class="eltdf-row-grid-section-wrapper " style="background-image: url(https://solene.qodeinteractive.com/wp-content/uploads/2019/12/contact-2-bckgr-img.png)">
+										<div class="eltdf-row-grid-section">
+											<div class="vc_row wpb_row vc_row-fluid vc_custom_1576251416906 vc_row-has-fill">
+												<div class="wpb_column vc_column_container vc_col-sm-12">
+													<div class="vc_column-inner">
+														<div class="wpb_wrapper">
+															<div class="vc_row wpb_row vc_inner vc_row-fluid vc_custom_1576251266910" style="background-color:#ffffff">
+																<div class="wpb_column vc_column_container vc_col-sm-12">
+																	<div class="vc_column-inner">
+																		<div class="wpb_wrapper">
+																			<div class="eltdf-section-title-holder   eltdf-section-title-appeared" style="text-align: center">
+																				<div class="eltdf-st-inner">
+																					<h1 class="eltdf-st-title" style="color: #4d504a">Our training form</h1>
+																					<h3>Kindly fill in with correct information</h3>
+																					<h3 class="eltdf-st-subtitle" style="text-transform: none;font-style: italic;color: #84847c">
+																						<!-- <span>Alienum phaedrum torquatos neceu </span> -->
+																					</h3>
+																				</div>
+																			</div>
+																		</div>
+																	</div>
+																</div>
+															</div>
+
+
+
+															<div class="vc_row wpb_row vc_inner vc_row-fluid vc_custom_1576250714007" style="background-color:#ffffff">
+																<div class="wpb_column vc_column_container vc_col-sm-2">
+																	<div class="vc_column-inner">
+																		<div class="wpb_wrapper"></div>
+																	</div>
+																</div>
+																<div class="wpb_column vc_column_container vc_col-sm-8">
+																	<div class="vc_column-inner">
+																		<div class="wpb_wrapper">
+																			<div role="form" class="wpcf7" id="wpcf7-f13-p1792-o1" lang="en-US" dir="ltr">
+																				<div class="screen-reader-response"></div>
+																		<form action="include/messages.php" method="post" role="form" class="wpcf7-form" novalidate="novalidate">
+                                                                            <div style="display: none;">
+                                                                                <input type="hidden" name="_wpcf7" value="13">
+                                                                                <input type="hidden" name="_wpcf7_version" value="5.1.6">
+                                                                                <input type="hidden" name="_wpcf7_locale" value="en_US">
+                                                                                <input type="hidden" name="_wpcf7_unit_tag" value="wpcf7-f13-p17-o1">
+                                                                                <input type="hidden" name="_wpcf7_container_post" value="17">
+                                                                            </div>
+                                                                            <div class="eltdf-custom-cf">
+                                                                                <div class="eltdf-grid-list eltdf-two-columns eltdf-normal-space clearfix">
+                                                                                    <div class="eltdf-outer-space">
+                                                                                        <div class="eltdf-item-space">
+                                                                                            <span class="wpcf7-form-control-wrap your-name">
+                                                                                                <input type="text" name="name" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" aria-required="true" aria-invalid="false" placeholder="full name">
+                                                                                            </span>
+                                                                                        </div>
+                                                                                        <div class="eltdf-item-space">
+                                                                                            <span class="wpcf7-form-control-wrap your-email">
+                                                                                                <input type="email" name="email" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email" aria-required="true" aria-invalid="false" placeholder="e-mail">
+                                                                                            </span>
+                                                                                        </div>
+                                                                                        <div class="eltdf-item-space">
+                                                                                            <span class="wpcf7-form-control-wrap your-date">
+                                                                                                <input type="text" name="number" value="" size="40" class="wpcf7-form-control wpcf7-text" aria-invalid="false" placeholder="Phone Number">
+                                                                                            </span>
+                                                                                         </div>
+                                                                                        <div class="eltdf-item-space">
+                                                                                            <span class="wpcf7-form-control-wrap your-date">
+                                                                                                <input type="text" name="location" value="" size="40" class="wpcf7-form-control wpcf7-text" aria-invalid="false" placeholder="Where are you located">
+                                                                                            </span>
+                                                                                         </div>
+
+
+
+                                                                                        <!--Sex-->
+                                                                                        <div class="eltdf-item-space">
+                                                                                        	sex
+                                                                                        	<span class="wpcf7-form-control-wrap your-date">
+																			                    <input type="radio" name="usergender" value="M" id="malegender" class="usergender">
+																			                    <label>Male</label>
+																			                    <input type="radio" name="usergender" value="F" id="femalegender" class="usergender">
+																			                    <label>Female</label>
+																			                    <div class="required"></div>
+																			                </span>
+																		                </div>
+
+
+
+                                                                                    </div>
+                                                                                </div>
+                                                                                <p><span class="wpcf7-form-control-wrap your-message">
+                                                                                    <textarea name="message" cols="40" rows="6" class="wpcf7-form-control wpcf7-textarea" aria-invalid="false" placeholder="Do you have any question for us"></textarea></span>
+                                                                                </p>
+                                                                                <p>
+                                                                                    <button type="submit" class="wpcf7-form-control wpcf7-submit eltdf-btn eltdf-btn-large eltdf-btn-solid"><span class="eltdf-btn-text">Send</span></button><span class="ajax-loader"></span><br>
+
+                                                                                    <!-- <p align="center"><a href="">view our Price List</a></p> -->
+                                                                                </p>
+                                                                            </div>
+                                                                            <div class="wpcf7-response-output wpcf7-display-none"></div>
+                                                                        </form>
+																		</div>
+																	</div>
+																</div>
+															</div>
+															<div class="wpb_column vc_column_container vc_col-sm-2">
+																<div class="vc_column-inner">
+																	<div class="wpb_wrapper"></div>
+																</div>
+															</div>
+														</div>
+													</div>
+												</div>
+											</div>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <!-- <div class="eltdf-row-grid-section-wrapper eltdf-content-aligment-center">
 	<div class="eltdf-row-grid-section">
 		<div class="vc_row wpb_row vc_row-fluid vc_custom_1575459956573 vc_row-has-fill">
