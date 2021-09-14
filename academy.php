@@ -904,8 +904,9 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
 
 <style>
-	label {
-		background: red;
+	.label-title {
+		color: #000
+		font-weight: 700;
 	}
 </style>
 
