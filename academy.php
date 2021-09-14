@@ -806,7 +806,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
                                                                                         <!--Sex-->
                                                                                         <div class="eltdf-item-space">
-                                                                                        	<label>sex</label><br>
+                                                                                        	<label class="label-title">sex</label><br>
                                                                                         	<span class="wpcf7-form-control-wrap your-date">
 																			                    <input type="radio" name="usergender" value="M" id="malegender" class="usergender">
 																			                    <label>Male</label>
@@ -816,7 +816,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 																			                </span>
 																		                </div>
 																		                <div class="eltdf-item-space">
-                                                                                        	<label>Any prior photography training?</label><br>
+                                                                                        	<label class="label-title">Any prior photography training?</label><br>
                                                                                         	<span class="wpcf7-form-control-wrap your-date">
 																			                    <input type="radio" name="usergender" value="Y" id="malegender" class="usergender">
 																			                    <label>Yes</label>
@@ -826,7 +826,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 																			                </span>
 																		                </div>
 																		                <div class="eltdf-item-space">
-                                                                                        	<label>What area of photography will you love to focus on?</label><br>
+                                                                                        	<label class="label-title">What area of photography will you love to focus on?</label><br>
                                                                                         	<span class="wpcf7-form-control-wrap your-date">
 																			                    <input type="radio" name="usergender" value="portrait" id="malegender" class="usergender">
 																			                    <label>Portrait/Studio Photography</label>
@@ -842,7 +842,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 																			                </span>
 																		                </div>
 																		                <div class="eltdf-item-space">
-                                                                                        	<label>New Session is starting on October 4th, are you ready to make payment for the class?</label><br>
+                                                                                        	<label class="label-title">New Session is starting on October 4th, are you ready to make payment for the class?</label><br>
                                                                                         	<span class="wpcf7-form-control-wrap your-date">
 																			                    <input type="radio" name="usergender" value="Y" id="malegender" class="usergender">
 																			                    <label>Yes</label>
@@ -852,7 +852,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 																			                </span>
 																		                </div>
 																		                <div class="eltdf-item-space">
-                                                                                        	<label>Do you have any health condition we need to know about?</label><br>
+                                                                                        	<label class="label-title">Do you have any health condition we need to know about?</label><br>
                                                                                         	<span class="wpcf7-form-control-wrap your-date">
 																			                    <input type="radio" name="usergender" value="Y" id="malegender" class="usergender">
 																			                    <label>Yes</label>
@@ -902,6 +902,12 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
 
 
+
+<style>
+	label {
+		background: red;
+	}
+</style>
 
 
 
