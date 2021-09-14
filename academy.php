@@ -829,13 +829,13 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                                                                                         	<label class="label-title">What area of photography will you love to focus on?</label><br>
                                                                                         	<span class="wpcf7-form-control-wrap your-date">
 																			                    <input type="radio" name="usergender" value="portrait" id="malegender" class="usergender">
-																			                    <label>Portrait/Studio Photography</label>
+																			                    <label>Portrait/Studio Photography</label><br>
 																			                    <input type="radio" name="usergender" value="wedding" id="femalegender" class="usergender">
-																			                    <label>Wedding Photography</label>
+																			                    <label>Wedding Photography</label><br>
 																			                    <input type="radio" name="usergender" value="documentary" id="malegender" class="usergender">
-																			                    <label>Documentary Photography</label>
+																			                    <label>Documentary Photography</label><br>
 																			                    <input type="radio" name="usergender" value="babyphotography" id="femalegender" class="usergender">
-																			                    <label>Baby Photography</label>
+																			                    <label>Baby Photography</label><br>
 																			                    <input type="radio" name="usergender" value="All" id="femalegender" class="usergender">
 																			                    <label>All of the above</label>
 																			                    <div class="required"></div>
@@ -905,7 +905,8 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
 <style>
 	.label-title {
-		color: #000
+		color: #000;
+		font-size: 18px;
 		font-weight: 700;
 	}
 </style>
