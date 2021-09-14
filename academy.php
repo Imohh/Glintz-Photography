@@ -806,12 +806,58 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
                                                                                         <!--Sex-->
                                                                                         <div class="eltdf-item-space">
-                                                                                        	sex
+                                                                                        	<label>sex</label><br>
                                                                                         	<span class="wpcf7-form-control-wrap your-date">
 																			                    <input type="radio" name="usergender" value="M" id="malegender" class="usergender">
 																			                    <label>Male</label>
 																			                    <input type="radio" name="usergender" value="F" id="femalegender" class="usergender">
 																			                    <label>Female</label>
+																			                    <div class="required"></div>
+																			                </span>
+																		                </div>
+																		                <div class="eltdf-item-space">
+                                                                                        	<label>Any prior photography training?</label><br>
+                                                                                        	<span class="wpcf7-form-control-wrap your-date">
+																			                    <input type="radio" name="usergender" value="Y" id="malegender" class="usergender">
+																			                    <label>Yes</label>
+																			                    <input type="radio" name="usergender" value="N" id="femalegender" class="usergender">
+																			                    <label>No</label>
+																			                    <div class="required"></div>
+																			                </span>
+																		                </div>
+																		                <div class="eltdf-item-space">
+                                                                                        	<label>What area of photography will you love to focus on?</label><br>
+                                                                                        	<span class="wpcf7-form-control-wrap your-date">
+																			                    <input type="radio" name="usergender" value="portrait" id="malegender" class="usergender">
+																			                    <label>Portrait/Studio Photography</label>
+																			                    <input type="radio" name="usergender" value="wedding" id="femalegender" class="usergender">
+																			                    <label>Wedding Photography</label>
+																			                    <input type="radio" name="usergender" value="documentary" id="malegender" class="usergender">
+																			                    <label>Documentary Photography</label>
+																			                    <input type="radio" name="usergender" value="babyphotography" id="femalegender" class="usergender">
+																			                    <label>Baby Photography</label>
+																			                    <input type="radio" name="usergender" value="All" id="femalegender" class="usergender">
+																			                    <label>All of the above</label>
+																			                    <div class="required"></div>
+																			                </span>
+																		                </div>
+																		                <div class="eltdf-item-space">
+                                                                                        	<label>New Session is starting on October 4th, are you ready to make payment for the class?</label><br>
+                                                                                        	<span class="wpcf7-form-control-wrap your-date">
+																			                    <input type="radio" name="usergender" value="Y" id="malegender" class="usergender">
+																			                    <label>Yes</label>
+																			                    <input type="radio" name="usergender" value="N" id="femalegender" class="usergender">
+																			                    <label>No</label>
+																			                    <div class="required"></div>
+																			                </span>
+																		                </div>
+																		                <div class="eltdf-item-space">
+                                                                                        	<label>Do you have any health condition we need to know about?</label><br>
+                                                                                        	<span class="wpcf7-form-control-wrap your-date">
+																			                    <input type="radio" name="usergender" value="Y" id="malegender" class="usergender">
+																			                    <label>Yes</label>
+																			                    <input type="radio" name="usergender" value="N" id="femalegender" class="usergender">
+																			                    <label>No</label>
 																			                    <div class="required"></div>
 																			                </span>
 																		                </div>
