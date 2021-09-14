@@ -48,6 +48,7 @@
 <link rel="stylesheet" href="./assets/58f2c.css" media="all">
 <link rel="stylesheet" id="rabbit_css-css" href="./assets/rbt-modules.css" type="text/css" media="all">
 <link rel="stylesheet" href="./assets/edd85.css" media="all">
+<link rel="stylesheet" type="text/css" href="css/academy.css">
 <style id="rs-plugin-settings-inline-css" type="text/css">
 #rs-demo-id {}
 </style>
