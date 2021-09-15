@@ -818,9 +818,9 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 																		                <div class="eltdf-item-space">
                                                                                         	<label class="label-title">Any prior photography training?</label><br>
                                                                                         	<span class="wpcf7-form-control-wrap your-date">
-																			                    <input type="radio" name="usergender" value="Y" id="malegender" class="usergender">
+																			                    <input type="radio" name="phototraining" value="Y" id="yes" class="phototraining">
 																			                    <label>Yes</label>
-																			                    <input type="radio" name="usergender" value="N" id="femalegender" class="usergender">
+																			                    <input type="radio" name="phototraining" value="N" id="no" class="phototraining">
 																			                    <label>No</label>
 																			                    <div class="required"></div>
 																			                </span>
