@@ -828,15 +828,15 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 																		                <div class="eltdf-item-space">
                                                                                         	<label class="label-title">What area of photography will you love to focus on?</label><br>
                                                                                         	<span class="wpcf7-form-control-wrap your-date">
-																			                    <input type="radio" name="usergender" value="portrait" id="malegender" class="usergender">
+																			                    <input type="radio" name="photocategory" value="portrait" id="malegender" class="photocategory">
 																			                    <label>Portrait/Studio Photography</label><br>
-																			                    <input type="radio" name="usergender" value="wedding" id="femalegender" class="usergender">
+																			                    <input type="radio" name="photocategory" value="wedding" id="femalegender" class="photocategory">
 																			                    <label>Wedding Photography</label><br>
-																			                    <input type="radio" name="usergender" value="documentary" id="malegender" class="usergender">
+																			                    <input type="radio" name="photocategory" value="documentary" id="malegender" class="photocategory">
 																			                    <label>Documentary Photography</label><br>
-																			                    <input type="radio" name="usergender" value="babyphotography" id="femalegender" class="usergender">
+																			                    <input type="radio" name="photocategory" value="babyphotography" id="femalegender" class="photocategory">
 																			                    <label>Baby Photography</label><br>
-																			                    <input type="radio" name="usergender" value="All" id="femalegender" class="usergender">
+																			                    <input type="radio" name="photocategory" value="All" id="femalegender" class="photocategory">
 																			                    <label>All of the above</label>
 																			                    <div class="required"></div>
 																			                </span>
