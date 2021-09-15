@@ -27,15 +27,15 @@
           <tr>
           <td>#<?=$count+1?></td>
               <td><?=$data['cname']?></td>
+              <td><?=$data['cnumber']?></td>
               <td><?=$data['cemail']?></td>
               <td><?=$data['cmessage']?></td>
-              <td><?=$data['cnumber']?></td>
-              <td><?=$data['cphoto_training']?></td>
               <td><?=$data['clocation']?></td>
               <td><?=$data['csex']?></td>
-              <td><?=$data['cphotocategory']?></td>
-              <td><?=$data['cmhealth']?></td>
+              <td><?=$data['cphoto_training']?></td>
+              <td><?=$data['cphoto_category']?></td>
               <td><?=$data['cnew_session']?></td>
+              <td><?=$data['chealth']?></td>
             </tr>
           <?php
               $count++;
