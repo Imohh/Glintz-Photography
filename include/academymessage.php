@@ -12,7 +12,7 @@ $health = $_POST['health'];
 $message = $_POST['message'];
 
 $query="INSERT INTO contact (cname,cemail,cphoto_training,cmessage,cnumber,clocation,csex,cphoto_category,cnew_session,chealth) "; 
-$query.="VALUES('$name','$email','$subject','$message')";
+$query.="VALUES('$name','$email','$number','$message','$sex','$phototraining','$location','$photocategory','$newsession','$health')";
 $run = mysqli_query($db,$query);
 if($run){
     echo 'Your message has been sent. Thank you!';
