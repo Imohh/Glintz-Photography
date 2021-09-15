@@ -132,6 +132,12 @@ $data=mysqli_fetch_array($queryrun);
               Projects
             </a>
           </li>
+          <li class="nav-item">
+            <a class="nav-link" href="?editacademyform=true">
+              <span data-feather="archive"></span>
+              Academy Form
+            </a>
+          </li>
           <!-- <li class="nav-item">
             <a class="nav-link" href="?editcampaign4=true">
               <span data-feather="archive"></span>
