@@ -770,7 +770,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 																		<div class="wpb_wrapper">
 																			<div role="form" class="wpcf7" id="wpcf7-f13-p1792-o1" lang="en-US" dir="ltr">
 																				<div class="screen-reader-response"></div>
-																		<form action="include/messages.php" method="post" role="form" class="wpcf7-form" novalidate="novalidate">
+																		<form action="include/academymessage.php" method="post" role="form" class="wpcf7-form" novalidate="novalidate">
                                                                             <div style="display: none;">
                                                                                 <input type="hidden" name="_wpcf7" value="13">
                                                                                 <input type="hidden" name="_wpcf7_version" value="5.1.6">
