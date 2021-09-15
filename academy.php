@@ -743,7 +743,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 																<div class="wpb_column vc_column_container vc_col-sm-12">
 																	<div class="vc_column-inner">
 																		<div class="wpb_wrapper">
-																			<div class="eltdf-section-title-holder   eltdf-section-title-appeared" style="text-align: center">
+																			<div class="eltdf-section-title-holder   eltdf-section-title-appeared" style="text-align: center; margin-top: 10%;">
 																				<div class="eltdf-st-inner">
 																					<h1 class="eltdf-st-title" style="color: #4d504a">Our training form</h1>
 																					<h3>Kindly fill in with correct information</h3>
@@ -808,9 +808,9 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                                                                                         <div class="eltdf-item-space">
                                                                                         	<label class="label-title">sex</label><br>
                                                                                         	<span class="wpcf7-form-control-wrap your-date">
-																			                    <input type="radio" name="usergender" value="M" id="malegender" class="usergender">
+																			                    <input type="radio" name="sex" value="M" id="malegender" class="sex">
 																			                    <label>Male</label>
-																			                    <input type="radio" name="usergender" value="F" id="femalegender" class="usergender">
+																			                    <input type="radio" name="sex" value="F" id="femalegender" class="sex">
 																			                    <label>Female</label>
 																			                    <div class="required"></div>
 																			                </span>
