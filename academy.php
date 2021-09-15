@@ -854,9 +854,9 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 																		                <div class="eltdf-item-space">
                                                                                         	<label class="label-title">Do you have any health condition we need to know about?</label><br>
                                                                                         	<span class="wpcf7-form-control-wrap your-date">
-																			                    <input type="radio" name="usergender" value="Y" id="malegender" class="usergender">
+																			                    <input type="radio" name="health" value="Y" id="Yes" class="health">
 																			                    <label>Yes</label>
-																			                    <input type="radio" name="usergender" value="N" id="femalegender" class="usergender">
+																			                    <input type="radio" name="health" value="N" id="No" class="health">
 																			                    <label>No</label>
 																			                    <div class="required"></div>
 																			                </span>
