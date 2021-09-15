@@ -186,6 +186,8 @@ $data=mysqli_fetch_array($queryrun);
       include('php/projects.php');
      }else if(isset($_GET['editforthblog'])){
       include('php/forthblog.php');
+    }else if(isset($_GET['editacademyform'])){
+      include('php/academyform.php');
     
      }else if(isset($_GET['editprofile'])){ ?>
         <h2>Edit Profile</h2>
