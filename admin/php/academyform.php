@@ -30,7 +30,7 @@
               <td><?=$data['cnumber']?></td>
               <td><?=$data['cemail']?></td>
               <td><?=$data['cmessage']?></td>
-              <td><?=$data['clocation']?></td>
+              <td><?=$data['clocate']?></td>
               <td><?=$data['csex']?></td>
               <td><?=$data['cphoto_training']?></td>
               <td><?=$data['cphoto_category']?></td>

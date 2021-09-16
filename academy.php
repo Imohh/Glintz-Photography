@@ -783,22 +783,22 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                                                                                     <div class="eltdf-outer-space">
                                                                                         <div class="eltdf-item-space">
                                                                                             <span class="wpcf7-form-control-wrap your-name">
-                                                                                                <input type="text" name="name" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" aria-required="true" aria-invalid="false" placeholder="full name">
+                                                                                                <input type="text" name="name" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" aria-required="true" aria-invalid="false" required placeholder="full name">
                                                                                             </span>
                                                                                         </div>
                                                                                         <div class="eltdf-item-space">
                                                                                             <span class="wpcf7-form-control-wrap your-email">
-                                                                                                <input type="email" name="email" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email" aria-required="true" aria-invalid="false" placeholder="e-mail">
+                                                                                                <input type="email" name="email" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email" aria-required="true" aria-invalid="false" required placeholder="e-mail">
                                                                                             </span>
                                                                                         </div>
                                                                                         <div class="eltdf-item-space">
                                                                                             <span class="wpcf7-form-control-wrap your-date">
-                                                                                                <input type="text" name="number" value="" size="40" class="wpcf7-form-control wpcf7-text" aria-invalid="false" placeholder="Phone Number">
+                                                                                                <input type="text" name="number" value="" size="40" class="wpcf7-form-control wpcf7-text" aria-invalid="false" required placeholder="Phone Number">
                                                                                             </span>
                                                                                          </div>
                                                                                         <div class="eltdf-item-space">
                                                                                             <span class="wpcf7-form-control-wrap your-date">
-                                                                                                <input type="text" name="location" value="" size="40" class="wpcf7-form-control wpcf7-text" aria-invalid="false" placeholder="Where are you located">
+                                                                                                <input type="text" name="locate" value="" size="40" class="wpcf7-form-control wpcf7-text" aria-invalid="false" required placeholder="Where are you located">
                                                                                             </span>
                                                                                          </div>
 
@@ -808,9 +808,9 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                                                                                         <div class="eltdf-item-space">
                                                                                         	<label class="label-title">sex</label><br>
                                                                                         	<span class="wpcf7-form-control-wrap your-date">
-																			                    <input type="radio" name="sex" value="M" id="malegender" class="sex">
+																			                    <input type="radio" name="sex" value="M" id="sex" class="sex">
 																			                    <label>Male</label>
-																			                    <input type="radio" name="sex" value="F" id="femalegender" class="sex">
+																			                    <input type="radio" name="sex" value="F" id="sex" class="sex">
 																			                    <label>Female</label>
 																			                    <div class="required"></div>
 																			                </span>
