@@ -371,7 +371,7 @@ $data = mysqli_fetch_array($runquery);
                                                                                     </div>
                                                                                 </div>
                                                                                 <p><span class="wpcf7-form-control-wrap your-message">
-                                                                                    <textarea name="message" cols="40" rows="6" class="wpcf7-form-control wpcf7-textarea" aria-invalid="false" placeholder="tell us more"></textarea></span>
+                                                                                    <textarea required name="message" cols="40" rows="6" class="wpcf7-form-control wpcf7-textarea" aria-invalid="false" placeholder="tell us more"></textarea></span>
                                                                                 </p>
                                                                                 <p>
                                                                                     <button type="submit" class="wpcf7-form-control wpcf7-submit eltdf-btn eltdf-btn-large eltdf-btn-solid"><span class="eltdf-btn-text">Send</span></button><span class="ajax-loader"></span><br>
