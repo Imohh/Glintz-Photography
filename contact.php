@@ -355,17 +355,17 @@ $data = mysqli_fetch_array($runquery);
                                                                                     <div class="eltdf-outer-space">
                                                                                         <div class="eltdf-item-space">
                                                                                             <span class="wpcf7-form-control-wrap your-name">
-                                                                                                <input type="text" name="name" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" aria-required="true" aria-invalid="false" placeholder="full name">
+                                                                                                <input required type="text" name="name" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" aria-required="true" aria-invalid="false" placeholder="full name">
                                                                                             </span>
                                                                                         </div>
                                                                                         <div class="eltdf-item-space">
                                                                                             <span class="wpcf7-form-control-wrap your-email">
-                                                                                                <input type="email" name="email" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email" aria-required="true" aria-invalid="false" placeholder="e-mail">
+                                                                                                <input required type="email" name="email" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email" aria-required="true" aria-invalid="false" placeholder="e-mail">
                                                                                             </span>
                                                                                         </div>
                                                                                          <div class="eltdf-item-space">
                                                                                             <span class="wpcf7-form-control-wrap your-date">
-                                                                                                <input type="text" name="subject" value="" size="40" class="wpcf7-form-control wpcf7-text" aria-invalid="false" placeholder="Subject">
+                                                                                                <input required type="text" name="subject" value="" size="40" class="wpcf7-form-control wpcf7-text" aria-invalid="false" placeholder="Subject">
                                                                                             </span>
                                                                                          </div>
                                                                                     </div>
