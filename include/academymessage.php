@@ -18,5 +18,5 @@ if($run){
     echo 'Your message has been sent. Thank you!';
 }
 
-header("Location: ../academy.php");s
+header("Location: ../academy.php");
 exit();
