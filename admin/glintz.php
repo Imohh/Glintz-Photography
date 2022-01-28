@@ -79,73 +79,66 @@ $data=mysqli_fetch_array($queryrun);
             </a>
           </li> -->
           <li class="nav-item">
-            <a class="nav-link" href="?editabout=true">
-              <span data-feather="info"></span>
-              Edit Home Page
-            </a>
-          </li>
-          <li class="nav-item">
             <a class="nav-link" href="?editportfolio=true">
               <span data-feather="archive"></span>
-              Edit Scrapbook
-            </a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link" href="?editnotification=true">
-              <span data-feather="archive"></span>
-              Add New Section Scrapbook
+              Edit First Blog
             </a>
           </li>
           <li class="nav-item">
             <a class="nav-link" href="?edituidesign=true">
               <span data-feather="archive"></span>
-              Edit ui design
+              Edit Second Blog
             </a>
           </li>
           <li class="nav-item">
             <a class="nav-link" href="?editwork=true">
               <span data-feather="archive"></span>
-              Edit Works
-            </a>
-          </li>
-          
-          <li class="nav-item">
-            <a class="nav-link" href="?editheaders=true">
-              <span data-feather="archive"></span>
-              Edit Headers
+              Edit Third Blog
             </a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="?edittestimonials=true">
+            <a class="nav-link" href="?editforthblog=true">
               <span data-feather="archive"></span>
-              Edit Testimonials
+              Edit Forth Blog
             </a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="?editcampaign=true">
+            <a class="nav-link" href="?editevents=true">
               <span data-feather="archive"></span>
-              campaigns Page
+              Events
             </a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="?editvideo=true">
+            <a class="nav-link" href="?editnotification=true">
               <span data-feather="archive"></span>
-              Video Page
+              Portraits
+            </a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="?editdocumentary=true">
+              <span data-feather="archive"></span>
+              Documentary
+            </a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="?editwedding=true">
+              <span data-feather="archive"></span>
+              Weddings
+            </a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="?editprojects=true">
+              <span data-feather="archive"></span>
+              Projects
+            </a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="?editacademyform=true">
+              <span data-feather="archive"></span>
+              Academy Form
             </a>
           </li>
           <!-- <li class="nav-item">
-            <a class="nav-link" href="?editcampaign2=true">
-              <span data-feather="archive"></span>
-              Add new section campaigns 2
-            </a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link" href="?editcampaign3=true">
-              <span data-feather="archive"></span>
-              Add new section campaigns 3
-            </a>
-          </li>
-          <li class="nav-item">
             <a class="nav-link" href="?editcampaign4=true">
               <span data-feather="archive"></span>
               Add new section campaigns 4
@@ -181,20 +174,20 @@ $data=mysqli_fetch_array($queryrun);
       include('php/uidesign.php');
      }else if(isset($_GET['editwork'])){
       include('php/work.php');
+     }else if(isset($_GET['editevents'])){
+      include('php/events.php');
      }else if(isset($_GET['editnotification'])){
       include('php/notification.php');
-     }else if(isset($_GET['editheaders'])){
-      include('php/headers.php');
-     }else if(isset($_GET['edittestimonials'])){
-      include('php/testimonials.php');
-     }else if(isset($_GET['editcampaign'])){
-      include('php/campaign.php');
-     }else if(isset($_GET['editcampaignheaders'])){
-      include('php/campaignheaders.php');
-    }else if(isset($_GET['editvideo'])){
-      include('php/video.php');
-     }else if(isset($_GET['editseo'])){
-         include('php/seo.php');
+     }else if(isset($_GET['editdocumentary'])){
+      include('php/documentary.php');
+     }else if(isset($_GET['editwedding'])){
+      include('php/wedding.php');
+     }else if(isset($_GET['editprojects'])){
+      include('php/projects.php');
+     }else if(isset($_GET['editforthblog'])){
+      include('php/forthblog.php');
+    }else if(isset($_GET['editacademyform'])){
+      include('php/academyform.php');
     
      }else if(isset($_GET['editprofile'])){ ?>
         <h2>Edit Profile</h2>

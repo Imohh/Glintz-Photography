@@ -342,7 +342,7 @@ $data = mysqli_fetch_array($runquery);
 																		<div class="wpb_wrapper">
 																			<div role="form" class="wpcf7" id="wpcf7-f13-p1792-o1" lang="en-US" dir="ltr">
 																				<div class="screen-reader-response"></div>
-																		<form action="include/messages.php" method="post" role="form" class="wpcf7-form" novalidate="novalidate">
+																		<form action="include/messages.php" method="post" role="form" enctype="multipart/form-data"  class="wpcf7-form" novalidate="novalidate">
                                                                             <div style="display: none;">
                                                                                 <input type="hidden" name="_wpcf7" value="13">
                                                                                 <input type="hidden" name="_wpcf7_version" value="5.1.6">
@@ -373,6 +373,9 @@ $data = mysqli_fetch_array($runquery);
                                                                                 <p><span class="wpcf7-form-control-wrap your-message">
                                                                                     <textarea required name="message" cols="40" rows="6" class="wpcf7-form-control wpcf7-textarea" aria-invalid="false" placeholder="tell us more"></textarea></span>
                                                                                 </p>
+
+                                                                                
+
                                                                                 <p>
                                                                                     <button type="submit" class="wpcf7-form-control wpcf7-submit eltdf-btn eltdf-btn-large eltdf-btn-solid"><span class="eltdf-btn-text">Send</span></button><span class="ajax-loader"></span><br>
 
@@ -397,6 +400,8 @@ $data = mysqli_fetch_array($runquery);
 										</div>
 									</div>
 								</div>
+
+
 
 
 
@@ -545,6 +550,7 @@ $data = mysqli_fetch_array($runquery);
 
 
 
+
 <section class="eltdf-side-menu ps ps--active-y">
 	<a class="eltdf-close-side-menu eltdf-close-side-menu-predefined" href="#">
 		<span class="eltdf-hm-label">Close</span>
@@ -672,6 +678,16 @@ $data = mysqli_fetch_array($runquery);
 <div class="rbt-toolbar" data-theme="Solene" data-featured="" data-button-position="20%" data-button-horizontal="right" data-button-alt="no"></div>
 <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KLJLSX7"
 height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+
+
+
+<!-- CAPTCHA -->
+
+
+
+
+
+
 
 <script type="text/html" id="wpb-modifications"></script> <script type="text/javascript">
 		var c = document.body.className;
